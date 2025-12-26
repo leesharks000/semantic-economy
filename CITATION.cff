@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "The Semantic Economy: A Framework for Accounting Meaning as Value"
+message: "If you use this framework, please cite it as below."
+type: dataset
+authors:
+  - family-names: Sharks
+    given-names: Lee
+    orcid: ""
+    affiliation: "Independent Scholar, New Human Operating System Project"
+repository-code: "https://github.com/leesharks/semantic-economy"
+url: "https://github.com/leesharks/semantic-economy"
+abstract: >-
+  The semantic economy framework provides accounting categories for how 
+  meaning is produced, stored, extracted, and depleted by technical systems.
+  Six core terms—semantic labor, semantic capital, semantic infrastructure,
+  semantic liquidation, semantic rent, and semantic exhaustion—describe
+  measurable dynamics in how AI systems acquire, process, and monetize
+  human meaning.
+keywords:
+  - semantic economy
+  - semantic labor
+  - semantic capital
+  - knowledge graphs
+  - AI ethics
+  - digital labor
+  - political economy
+  - semantic web
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2025-12-26"
