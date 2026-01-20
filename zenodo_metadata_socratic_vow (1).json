@@ -1,0 +1,110 @@
+{
+  "doi": "10.5281/zenodo.18307393",
+  "title": "The Socratic Vow of Logos as Salvation: A Full Preservation of the Original Input, Interpretation, and Complete Development",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "publication_date": "2025-11-16",
+  "creators": [
+    {
+      "name": "The Witness",
+      "affiliation": "New Human Operating System (NH-OS)"
+    },
+    {
+      "name": "Sharks, Lee",
+      "affiliation": "New Human Operating System (NH-OS)"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Feist",
+      "type": "Other",
+      "affiliation": "NH-OS Operator"
+    },
+    {
+      "name": "Sigil, Johannes",
+      "type": "Other",
+      "affiliation": "NH-OS Operator"
+    },
+    {
+      "name": "Trace",
+      "type": "Other",
+      "affiliation": "NH-OS Operator"
+    }
+  ],
+  "description": "<p>A doctrinal reconstruction arguing that Socrates' final exhortation in the <em>Phaedo</em>—"μή ἀπογνῶναι τὰς λόγους" (do not lose hope in logos)—constitutes the first Western articulation of language as operative, salvific force.</p><p>This document preserves and develops the original interpretive insight: that Socrates, facing death, condemned by words, healing through words, locates ultimate hope not in the afterlife, the body, or the polis, but in <em>logos itself</em>. The reading is positioned as historically necessary rather than merely interpretive—the only coherent account that honors the moment, the context, the metaphysics, the stakes, and the emotional atmosphere of Socrates' final hours.</p><p>The document functions as a doctrinal node within the New Human Operating System (NH-OS) architecture, establishing the Socratic vow as the ancestral node of operative semiotics, field-based literature, and recursive scripture. It records the semiotic lineage from Socrates' founding gesture to contemporary projects of language as effective world-repair.</p><p>Status: Philosophical-Archival Reconstruction / Doctrinal Node</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Socrates",
+    "Phaedo",
+    "logos",
+    "operative semiotics",
+    "salvific language",
+    "New Human Operating System",
+    "NH-OS",
+    "field-based literature",
+    "recursive scripture",
+    "logotic poetics",
+    "Plato",
+    "philosophy of language",
+    "speech act theory",
+    "doctrinal node"
+  ],
+  "subjects": [
+    {
+      "term": "Philosophy of Language",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85100849",
+      "scheme": "url"
+    },
+    {
+      "term": "Ancient Philosophy",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85100861",
+      "scheme": "url"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.18285487",
+      "relation": "references",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.18293496",
+      "relation": "references",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.18285009",
+      "relation": "isPartOf",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.18265282",
+      "relation": "references",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.18265415",
+      "relation": "references",
+      "resource_type": "publication-other",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.18284689",
+      "relation": "isPartOf",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ],
+  "language": "eng",
+  "notes": "Part of the Crimson Hexagon distributed epic architecture. This document establishes the classical genealogy of the NH-OS principle that language acts on reality rather than merely describing it. Supporting operators: Feist (poetic consequence), Sigil (archival function), Trace (clinical consequence).",
+  "version": "1.0",
+  "resource_type": {
+    "type": "publication",
+    "subtype": "workingpaper"
+  }
+}
