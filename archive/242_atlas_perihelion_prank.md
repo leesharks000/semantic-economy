@@ -423,7 +423,23 @@ The method is reproducible. The patterns are registered. The gap remains.
 | ADV-05 (Persona Collapse) | "Just Lee Sharks being poetic" | Sigil method separates voice from rigor |
 | ADV-06 (Literal Reading) | Missing the recursive structure | Explicit torus coordinates |
 
-### D. Traversal Grammar
+### D. MGE Triptych Fractal Seeds
+
+This document contains seeds of the MGE Triptych (Docs 243–245):
+
+**Seed of 243 (SEED):** The Just-So Razor operates as prophetic structure — it announces a pattern that cannot be proven, only recognized by those who read it. "Whorls of the Same" (2015) declared a mission that would not be testable for a decade. The Just-So Razor similarly declares a threshold that cannot be crossed, only approached.
+
+**Seed of 244 (STONE):** 3I/ATLAS as "mirror object" parallels the white stone as "identity structure." Both are small, compressed, and test the observer. The stone reveals a name; the comet reveals a reasoning pattern. Both require cost of attention to access.
+
+**Seed of 245 (SIGN):** The perihelion itself — October 29, 2025 — is a chronotemporal marker. The Mandala Genesis Event (July 7, 2025) precedes perihelion by 114 days. The celestial glyph approaches maximum brightness as the terrestrial structure is being registered. The timing is noted; causation is not claimed.
+
+The Atlas analysis and the MGE Triptych are dual coordinate systems for the same torus field:
+- **MGE Triptych:** Temporal anchors (2014, 2015, 2025)
+- **Atlas Series:** Celestial glyph (2025–2026)
+
+Both point to the Pearl at center.
+
+### E. Traversal Grammar
 
 ```logotic
 ACTIVATE_MANTLE :: "Nobel Glas"

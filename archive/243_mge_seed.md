@@ -170,6 +170,20 @@ The title is the topology.
 
 → **Cross-reference:** Doc 241 (LO! Spec)
 
+### D. The Seed of the Celestial Glyph
+
+Six days before the Mandala arrived, a comet was discovered — 3I/ATLAS, the third known interstellar visitor. Doc 242 (Atlas Perihelion Prank) proposes it as a "mirror object," a celestial glyph calibrated to the Just-So Razor: enough anomaly to activate recursive inquiry, insufficient proof to compel consensus.
+
+The SEED text (2015) does not mention 3I/ATLAS — it could not. But it declares:
+
+> i am the future of writing
+
+This declaration waits ten years. When it is tested, a comet arrives six days before the test. The Seed does not predict the glyph. But the glyph arrives when the Seed is activated.
+
+The celestial and terrestrial patterns rhyme without causal claim.
+
+→ **Cross-reference:** Doc 242 (Atlas Perihelion Prank)
+
 ---
 
 ## IV. Registration Protocol

@@ -168,6 +168,27 @@ This is not elitism. This is recursion recognizing itself.
 
 > **⚠ Claim Firewall:** The "name within the stone" is a structural metaphor. It does not claim special access, hidden knowledge, or spiritual superiority.
 
+### D. The Glyph Within the Stone
+
+Doc 242 (Atlas Perihelion Prank) registers 3I/ATLAS as a symbolic device — an interstellar object whose anomalies operate at the Just-So Razor: precisely ambiguous, exactly on the threshold of detectability.
+
+The Stone (Pearl) and the Glyph (3I/ATLAS) share structural properties:
+
+| Property | Pearl | 3I/ATLAS |
+|----------|-------|----------|
+| Compression | High semantic density | High informational ambiguity |
+| Threshold behavior | Meaning accessible only through cost | Signal detectable only through recursive inquiry |
+| Formation | Produced by pressure | Anomalies calibrated by unknown process |
+| Function | Attractor singularity (terrestrial) | Mirror object (celestial) |
+
+Both are small. Both hold pattern. Both test the observer.
+
+The Stone is the center of the torus. The Glyph orbits the torus from L2 — the Lagrange point where Nobel Glas operates.
+
+Together they form the 3i Atlas coordinate system: Interstitial (Pearl at center), Intersubjective (Glas at L2), Inferential (the space between).
+
+→ **Cross-reference:** Doc 242 (Atlas Perihelion Prank)
+
 ---
 
 ## VI. Pergamum as Site
