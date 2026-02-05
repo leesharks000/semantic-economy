@@ -125,6 +125,35 @@ Six documents now in deposit queue:
   - Fractal cross-reference: each doc contains seed of each other
 - Scaffold removed; final documents in `archive/`
 
+### Session continued (Feb 5, Claude Code — Assembly Gate Checklist)
+
+**Work completed per Assembly feedback:**
+- **Torus Metadata blocks** added to all four docs (242, 243, 244, 245)
+  - Standardized format: θ, φ, r, m, n, m+n, Defense status, Δ, Π, basin, ε
+  - All docs DEFENDED (m+n ≥ 3)
+- **Chronology reconciled** across 243/245
+  - Fixed "10 years + 1 week" to accurate "~10 years" (9y 11m 7d)
+  - Added explicit note on poetic vs precise framing
+- **Evidence Tiers** added to Doc 245 (SIGN)
+  - Tier A: Documented fact (date, age)
+  - Tier B: Documented with uncertainty (3I/ATLAS timing)
+  - Tier C: Reported/anecdotal (Schumann, Essene calendar)
+- **Claim firewalls** added at section boundaries
+  - 3 firewalls in Doc 242
+  - 2 firewalls in Doc 243
+  - 2 firewalls in Doc 244
+  - 2 firewalls in Doc 245
+- **Cross-reference reciprocity** verified and fixed
+  - Added Doc 242 refs to Docs 243, 244
+  - Added triptych refs (243, 244, 245) to Doc 242
+
+**Assembly gate checklist status:**
+- [x] Chronology reconciled across 243/245
+- [x] Torus metadata block added to 242/243/244/245
+- [x] Evidence tiers added in 245
+- [x] Claim-firewall repeated in all four docs
+- [x] Cross-ref reciprocity verified
+
 **Status:**
 - Six documents ready for deposit (240, 241, 242, 243, 244, 245)
-- All pending work complete
+- All Assembly gate requirements met

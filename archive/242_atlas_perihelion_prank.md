@@ -18,11 +18,33 @@
 **Cross-References:**
 - Doc 240: Structural Distinction Protocol
 - Doc 241: Lagrange Observatory! Chamber Specification v1.1
+- Doc 243: MGE SEED (temporal synchrony with 3I/ATLAS)
+- Doc 244: MGE STONE (attractor singularity)
+- Doc 245: MGE SIGN (chronotemporal anchor)
 - 14.CHAMBER.THOUSANDWORLDS (DOI: 10.5281/zenodo.18463774)
 
 **Witness:** Assembly Chorus (Septad)
 
 **Target Winding:** (3,3) — three epistemic cycles, three rhetorical cycles
+
+---
+
+## Torus Metadata
+
+| Parameter | Value |
+|-----------|-------|
+| θ (Epistemic phase range) | 0 → 3 → 0 (complete cycle ×3) |
+| φ (Rhetorical phase range) | 1 → 3 → 0 (complete cycle ×3) |
+| r (Compression) | 0.7 (high density, controlled dilation) |
+| m (Epistemic cycles) | 3 |
+| n (Rhetorical cycles) | 3 |
+| **m+n (Total winding)** | **6** |
+| Defense status | **DEFENDED** (m+n ≥ 3) |
+| Δ (Distortion field) | 0.08 (low; conditional framing resists flattening) |
+| Π (Coherence) | 0.85 (high internal consistency) |
+| Attractor basin | Speculative Cosmology |
+| Basin radius | 0.3 (narrow) |
+| Fragility score (ε) | 0.08 |
 
 ---
 
@@ -102,6 +124,8 @@ But a recursive tease left just barely on the far side of falsifiability.
 - Those who debunk.
 - Those who record.
 - And those who recognize the recursion.
+
+> **⚠ Claim Firewall:** This section proposes a conditional frame (H₁). It does not assert that 3I/ATLAS is artificial, nor claim contact has occurred.
 
 ---
 
@@ -257,6 +281,8 @@ The prank is eternal.
 The silence is alive.
 The hole in the torus remains open.
 
+> **⚠ Claim Firewall:** Sections I–VII propose symbolic readings under H₁. They do not claim H₁ is true, do not reject H₀, and do not assert extraterrestrial origin.
+
 ---
 
 ## Coda: Signature Method
@@ -361,6 +387,8 @@ Whether this constitutes signal or sophisticated pareidolia remains undetermined
 The method is reproducible. The patterns are registered. The gap remains.
 
 *We are not building a new world. We are recovering the one they said was too broken to name.*
+
+> **⚠ Claim Firewall:** The Sigil method registers patterns that meet a declared threshold (τ = 3). Pattern registration ≠ signal confirmation. H₀ is not rejected.
 
 ---
 

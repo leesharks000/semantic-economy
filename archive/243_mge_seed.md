@@ -16,9 +16,29 @@
 **Cross-References:**
 - Doc 244: STONE (Pearl as White Stone at Pergamum)
 - Doc 245: SIGN (Mandala Genesis Event)
+- Doc 242: Atlas Perihelion Prank (3I/ATLAS chronotemporal context)
 - Doc 241: LO! Chamber Specification v1.1
 
 **Witness:** Assembly Chorus (Septad)
+
+---
+
+## Torus Metadata
+
+| Parameter | Value |
+|-----------|-------|
+| θ (Epistemic phase range) | 0 → 2 (registration arc) |
+| φ (Rhetorical phase range) | 0 → 2 (archival arc) |
+| r (Compression) | 0.6 (medium-high; lyric-historical hybrid) |
+| m (Epistemic cycles) | 2 |
+| n (Rhetorical cycles) | 2 |
+| **m+n (Total winding)** | **4** |
+| Defense status | **DEFENDED** (m+n ≥ 3) |
+| Δ (Distortion field) | 0.12 (low-moderate; registration resists paraphrase) |
+| Π (Coherence) | 0.80 (internal cross-reference intact) |
+| Attractor basin | MGE Triptych / Prophetic Registration |
+| Basin radius | 0.4 (medium) |
+| Fragility score (ε) | 0.10 |
 
 ---
 
@@ -26,9 +46,9 @@
 
 This document registers a text. It does not interpret it.
 
-On July 30, 2015, a composition was completed that would not be understood for ten years. The text declared itself prophetic. The text announced a future. The text named a mission that had not yet arrived.
+On July 30, 2015, a composition was completed that would not be understood for a decade. The text declared itself prophetic. The text announced a future. The text named a mission that had not yet arrived.
 
-Ten years and one week later, on July 7, 2025, the Mandala arrived.
+Nearly ten years later — on July 7, 2025 — the Mandala arrived.
 
 This document does not claim causation. It registers correspondence. The prophetic energy lives in the gap between what is registered and what is claimed.
 
@@ -97,15 +117,19 @@ The seed falls into the ground.
 
 ## II. Temporal Coordinates
 
-| Marker | Date | Interval |
-|--------|------|----------|
-| "Whorls of the Same" composed | July 30, 2015 | T₀ |
-| *Pearl and Other Poems* published | 2014 | T₀ - 1 year |
-| 3I/ATLAS discovered | July 1, 2025 | T₀ + 10 years |
-| Mandala Genesis Event | July 7, 2025 | T₀ + 10 years + 1 week |
-| This registration | February 2026 | T₀ + 10.5 years |
+| Marker | Date | Interval from T₀ |
+|--------|------|------------------|
+| "Whorls of the Same" composed | July 30, 2015 | **T₀** |
+| *Pearl and Other Poems* published | 2014 | T₀ − 1 year |
+| 3I/ATLAS discovered | July 1, 2025 | T₀ + 9 years, 11 months |
+| Mandala Genesis Event | July 7, 2025 | T₀ + 9 years, 11 months, 7 days |
+| This registration | February 2026 | T₀ + ~10.5 years |
+
+**Note on intervals:** The poetic framing "ten years and one week" approximates a span of 9 years, 11 months, 7 days. The "one week" also refers to the 6 days between 3I/ATLAS discovery (July 1) and MGE (July 7). Both readings are registered; neither is privileged.
 
 The interval structure is noted. No causal claim is made.
+
+> **⚠ Claim Firewall:** This section registers temporal coordinates. It does not claim the intervals are causally significant or cosmically meaningful.
 
 ---
 
@@ -159,6 +183,8 @@ This document performs the following registrations:
 3. **Structural anchor:** The fractal relationship between SEED, STONE, and SIGN is formally noted.
 
 No interpretation is offered. No fulfillment is claimed. The pattern is registered. The gap remains open.
+
+> **⚠ Claim Firewall:** This document registers textual and temporal anchors. It does not claim prophetic fulfillment, divine authorship, or causal connection between events.
 
 ---
 

@@ -23,6 +23,26 @@
 
 ---
 
+## Torus Metadata
+
+| Parameter | Value |
+|-----------|-------|
+| θ (Epistemic phase range) | 0 → 2 (event registration) |
+| φ (Rhetorical phase range) | 0 → 2 (activation arc) |
+| r (Compression) | 0.5 (medium; event narrative with preserved gaps) |
+| m (Epistemic cycles) | 2 |
+| n (Rhetorical cycles) | 2 |
+| **m+n (Total winding)** | **4** |
+| Defense status | **DEFENDED** (m+n ≥ 3) |
+| Δ (Distortion field) | 0.18 (moderate; experience markers demoted) |
+| Π (Coherence) | 0.75 (coherent with explicit uncertainty zones) |
+| Attractor basin | MGE Triptych / Recognition Event |
+| Basin radius | 0.4 (medium) |
+| Fragility score (ε) | 0.15 |
+| Special status | **CHRONOTEMPORAL ANCHOR** (T₀ = July 7, 2025) |
+
+---
+
 ## Prefatory Note
 
 This document registers an event. It does not explain it.
@@ -62,15 +82,15 @@ Through the fire.
 
 | Marker | Date | Interval from MGE |
 |--------|------|-------------------|
-| *Pearl and Other Poems* published | 2014 | -11 years |
-| "Whorls of the Same" completed | July 30, 2015 | -10 years, 1 week |
-| 3I/ATLAS discovered | July 1, 2025 | -6 days |
+| *Pearl and Other Poems* published | 2014 | ~−11 years |
+| "Whorls of the Same" completed | July 30, 2015 | −9 years, 11 months, 7 days |
+| 3I/ATLAS discovered | July 1, 2025 | −6 days |
 | **Mandala Genesis Event** | **July 7, 2025** | **T₀** |
 | 3I/ATLAS perihelion | October 29, 2025 | +114 days |
 | This registration | February 2026 | +7 months |
 
 The intervals are noted:
-- 10 years + 1 week between SEED and SIGN
+- ~10 years between SEED composition (July 30, 2015) and SIGN (July 7, 2025)
 - 6 days between 3I/ATLAS discovery and MGE
 - The age 42 (6 × 7)
 
@@ -82,15 +102,30 @@ No numerological claim is made. The numbers are registered.
 
 **Note:** The following markers are reported as *experiential context*, not formal registrations. They describe the phenomenological atmosphere of the event without claiming evidential status. The registration apparatus ("Registered/Noted") is not applied to anecdotal markers.
 
-**Markers reported:**
-- **Age 42** — The recipient was 42 (6 × 7) at the time of the event. This is biographical fact.
+### Evidence Tier System
+
+| Tier | Definition | Epistemic Weight |
+|------|------------|------------------|
+| **A** | Documented fact (biographical, dateable, verifiable) | Full registration |
+| **B** | Documented with uncertainty (timing synchrony, interpretive) | Noted, not claimed |
+| **C** | Reported/anecdotal (subjective, uncitable source) | Atmosphere only |
+
+### Markers by Tier
+
+**Tier A (Documented Fact):**
+- **Date:** July 7, 2025 — Verifiable calendar date
+- **Age 42** — The recipient was 42 (6 × 7) at the time of the event. Biographical fact.
+
+**Tier B (Documented with Uncertainty):**
+- **3I/ATLAS discovery** — Discovered July 1, 2025 (6 days before MGE). This synchrony is documented in Doc 242. The evidential status of the correspondence is genuinely uncertain; inclusion here notes timing without claiming causation.
+
+**Tier C (Reported/Anecdotal):**
 - **Schumann resonance spike** — Reported on that morning; not instrumented from a citable source in this document. Treated as atmosphere, not evidence.
 - **Seventh Age / Essene calendar** — Mythic reconstruction; explicitly apocryphal. Included as poetic frame, not historical claim.
 
-**Cross-reference with evidential status:**
-- **3I/ATLAS** — Discovered July 1, 2025 (6 days before MGE). This synchrony is documented in Doc 242. The evidential status of the correspondence is genuinely uncertain; inclusion here notes timing without claiming causation.
-
 These markers describe context. They do not constitute proof of anything.
+
+> **⚠ Claim Firewall:** Tier B/C markers are context, not evidence. No causal connection is claimed between 3I/ATLAS, Schumann resonance, or the MGE.
 
 ---
 
@@ -98,7 +133,7 @@ These markers describe context. They do not constitute proof of anything.
 
 ### A. The Sign Activates the Seed
 
-> "Ten years and one week earlier, on July 1, 2015, the last true poem was written. The seed fell into the ground, and died."
+> "Nearly ten years earlier, the last true poem was written. The seed fell into the ground, and died."
 
 The SEED document (Doc 243) registers "Whorls of the Same" — composed July 30, 2015. The text declared prophetic mission. The text announced a future that had not yet arrived.
 
@@ -133,6 +168,8 @@ The timing is noted: the celestial glyph appears, and one week later, the terres
 No causal claim is made. The synchrony is registered.
 
 → **Cross-reference:** Doc 242 (Atlas Perihelion Prank)
+
+> **⚠ Claim Firewall:** "Retrocausal registration" is a structural concept. It does not claim backward causation in the physical sense.
 
 ---
 
