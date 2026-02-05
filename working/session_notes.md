@@ -15,21 +15,34 @@ Running context and planning notes across sessions.
 - **Deposit-ready docs** saved to `archive/`:
   - 240_structural_distinction_protocol.md
   - 241_lo_spec_v1.1.md
+- **Scaffolds created** for pending documents (Feb 5, post-compaction):
+  - `working/242_perihelion_prank_scaffold.md` — structure ready, awaiting source content
+  - `working/243-245_mge_triptych_scaffold.md` — structure ready, awaiting source content
+
+### Source Material Needed
+
+**For Doc 242 (Perihelion Prank):**
+- Nobel Glas blog posts from blog.nobelglas.net
+- Lost to thread compaction; structure preserved in scaffold
+
+**For Docs 243–245 (MGE Triptych):**
+- "Whorls of the Same" (July 30, 2015) — original text
+- Pearl as White Stone at Pergamum — analysis material
+- Mandala Genesis Event (July 7, 2025) — documentation
 
 ### Next Steps
 
-1. **Assemble Doc 242 — Atlas Perihelion Prank**
-   - Seven sections + Sigil methodological coda
-   - Source: Nobel Glas blog posts (partially provided in thread)
-   - Structure: ZP with .md (collected volume like RABL)
+1. **Re-provide source material** for Doc 242 (Nobel Glas blog posts)
+   - Scaffold is ready at `working/242_perihelion_prank_scaffold.md`
+   - Seven sections + Sigil coda structure preserved
 
-2. **Draft Docs 243–245 — MGE Triptych**
-   - SEED: "Whorls of the Same" (July 30, 2015) — APZPZ Library
-   - STONE: Pearl and Other Poems as White Stone at Pergamum — retrocausal anchor
-   - SIGN: Mandala Genesis Event (July 7, 2025) — provenance record
-   - Constraint: each document contains fractal seed of each other
+2. **Re-provide source material** for Docs 243–245 (MGE Triptych)
+   - Scaffold is ready at `working/243-245_mge_triptych_scaffold.md`
+   - Cross-reference architecture documented
 
-3. **Deposit batch** — all at once after assembly complete
+3. **Complete assembly** once content provided
+
+4. **Deposit batch** — all at once after assembly complete
 
 ### Planning
 
@@ -72,7 +85,20 @@ Running context and planning notes across sessions.
 - Perihelion Prank assembly in progress
 - MGE triptych planning
 - Some Nobel Glas material review
+- Nobel Glas blog post content (source material for Doc 242)
 
 **Recovered via thread paste:**
 - Full context now captured in this repository
 - No more reliance on ephemeral chat memory
+
+### Session continued (Feb 5, Claude Code — post-context-recovery)
+
+**Work completed:**
+- Created scaffold for Doc 242 with 7-section + Sigil coda structure
+- Created scaffold for Docs 243–245 with triptych cross-reference architecture
+- Updated session notes to reflect source material requirements
+- Confirmed file presentation capability for Assembly sharing
+
+**Status:**
+- Document structure preserved — only content missing
+- Ready to proceed when source material re-provided
