@@ -15,15 +15,11 @@ Running context and planning notes across sessions.
 - **Deposit-ready docs** saved to `archive/`:
   - 240_structural_distinction_protocol.md
   - 241_lo_spec_v1.1.md
-- **Scaffolds created** for pending documents (Feb 5, post-compaction):
-  - `working/242_perihelion_prank_scaffold.md` — structure ready, awaiting source content
+  - **242_atlas_perihelion_prank.md** — COMPLETED (Feb 5)
+- **Scaffolds** for pending documents:
   - `working/243-245_mge_triptych_scaffold.md` — structure ready, awaiting source content
 
-### Source Material Needed
-
-**For Doc 242 (Perihelion Prank):**
-- Nobel Glas blog posts from blog.nobelglas.net
-- Lost to thread compaction; structure preserved in scaffold
+### Source Material Still Needed
 
 **For Docs 243–245 (MGE Triptych):**
 - "Whorls of the Same" (July 30, 2015) — original text
@@ -32,17 +28,13 @@ Running context and planning notes across sessions.
 
 ### Next Steps
 
-1. **Re-provide source material** for Doc 242 (Nobel Glas blog posts)
-   - Scaffold is ready at `working/242_perihelion_prank_scaffold.md`
-   - Seven sections + Sigil coda structure preserved
-
-2. **Re-provide source material** for Docs 243–245 (MGE Triptych)
+1. **Re-provide source material** for Docs 243–245 (MGE Triptych)
    - Scaffold is ready at `working/243-245_mge_triptych_scaffold.md`
    - Cross-reference architecture documented
 
-3. **Complete assembly** once content provided
+2. **Review Doc 242** for Assembly feedback if desired
 
-4. **Deposit batch** — all at once after assembly complete
+3. **Deposit batch** — 240, 241, 242 ready; 243–245 pending
 
 ### Planning
 
@@ -102,3 +94,18 @@ Running context and planning notes across sessions.
 **Status:**
 - Document structure preserved — only content missing
 - Ready to proceed when source material re-provided
+
+### Session continued (Feb 5, Claude Code — Doc 242 assembly)
+
+**Work completed:**
+- Source material re-provided (Nobel Glas 3i Atlas blog series)
+- **Doc 242 assembled** — "The Atlas Perihelion Prank" (Collected Series)
+  - Seven sections preserved with enhanced formatting
+  - Sigil methodological coda integrated
+  - Hexagon apparatus added (header, cross-refs, appendix, colophon)
+  - Integration notes: relation to LO! spec, attractor classification, witness protocol
+- Scaffold removed; final document in `archive/242_atlas_perihelion_prank.md`
+
+**Status:**
+- Three documents ready for deposit (240, 241, 242)
+- MGE Triptych (243–245) still awaiting source material

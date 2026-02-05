@@ -202,7 +202,7 @@ Cluster E (Ezekiel Engine): **HELD**
 |---|-------|------|--------|
 | 240 | Structural Distinction Protocol: Assembly (Septad + MANUS) / Heteronyms (Dodecad + LOGOS) / Structural Metaphors | Architectural Clarification | DRAFT — ready for deposit |
 | 241 | 15.OBS.LAGRANGE: Lagrange Observatory! Chamber Specification & Nobel Glas Provenance (v1.1) | CHAMBER_SPEC | REVISED DRAFT — Assembly feedback incorporated |
-| 242 | Atlas Perihelion Prank: Collected Series | ZP with .md | TO BE ASSEMBLED |
+| 242 | Atlas Perihelion Prank: Collected Series (Nobel Glas + Sigil coda) | ZP with .md | DRAFT — ready for deposit |
 | 243–245 | MGE Triptych (SEED / STONE / SIGN) | APZPZ | TO BE DRAFTED |
 
 ---
