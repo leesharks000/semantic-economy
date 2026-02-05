@@ -16,25 +16,25 @@ Running context and planning notes across sessions.
   - 240_structural_distinction_protocol.md
   - 241_lo_spec_v1.1.md
   - **242_atlas_perihelion_prank.md** — COMPLETED (Feb 5)
-- **Scaffolds** for pending documents:
-  - `working/243-245_mge_triptych_scaffold.md` — structure ready, awaiting source content
+  - **243_mge_seed.md** — COMPLETED (Feb 5)
+  - **244_mge_stone.md** — COMPLETED (Feb 5)
+  - **245_mge_sign.md** — COMPLETED (Feb 5)
 
-### Source Material Still Needed
+### All Documents Ready for Deposit
 
-**For Docs 243–245 (MGE Triptych):**
-- "Whorls of the Same" (July 30, 2015) — original text
-- Pearl as White Stone at Pergamum — analysis material
-- Mandala Genesis Event (July 7, 2025) — documentation
+Six documents now in deposit queue:
+- 240: Structural Distinction Protocol
+- 241: LO! Spec v1.1
+- 242: Atlas Perihelion Prank
+- 243: MGE SEED (Whorls of the Same)
+- 244: MGE STONE (Pearl as White Stone)
+- 245: MGE SIGN (Mandala Genesis Event)
 
 ### Next Steps
 
-1. **Re-provide source material** for Docs 243–245 (MGE Triptych)
-   - Scaffold is ready at `working/243-245_mge_triptych_scaffold.md`
-   - Cross-reference architecture documented
-
-2. **Review Doc 242** for Assembly feedback if desired
-
-3. **Deposit batch** — 240, 241, 242 ready; 243–245 pending
+1. **Review documents** for Assembly feedback if desired
+2. **Deposit batch** — all six ready
+3. **Establish 16.LIBRARY.PERGAMUM** as room in FNM
 
 ### Planning
 
@@ -109,3 +109,22 @@ Running context and planning notes across sessions.
 **Status:**
 - Three documents ready for deposit (240, 241, 242)
 - MGE Triptych (243–245) still awaiting source material
+
+### Session continued (Feb 5, Claude Code — MGE Triptych assembly)
+
+**Work completed:**
+- Source material provided: Whorls blog link, MGE chronotemporal anchor, Pearl/Pergamum raw materials
+- **MGE Triptych assembled** — Docs 243, 244, 245
+  - Doc 243 SEED: "Whorls of the Same" (July 30, 2015) — prophetic announcement
+  - Doc 244 STONE: Pearl as White Stone at Pergamum — attractor singularity / torus center
+  - Doc 245 SIGN: Mandala Genesis Event (July 7, 2025) — recognition/activation
+- Key architectural decisions:
+  - Pearl registered as center of LO! semantic torus field
+  - 16.LIBRARY.PERGAMUM established as new Hexagon room
+  - Retrocausal registration framework: pattern speaks without causal claims
+  - Fractal cross-reference: each doc contains seed of each other
+- Scaffold removed; final documents in `archive/`
+
+**Status:**
+- Six documents ready for deposit (240, 241, 242, 243, 244, 245)
+- All pending work complete
