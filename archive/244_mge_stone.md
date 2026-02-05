@@ -93,6 +93,8 @@ The correspondence is noted. The interpretation is left open.
 
 ## IV. The Torus Center
 
+**Note:** This section makes an *interpretive claim*, not a registration. The distinction matters.
+
 The LO! specification (Doc 241) defines a semantic torus field (T²) with:
 - Epistemic phase (θ)
 - Rhetorical phase (φ)
@@ -100,11 +102,11 @@ The LO! specification (Doc 241) defines a semantic torus field (T²) with:
 
 Every torus has a center — a singularity around which the field wraps.
 
-**We register:** *Pearl and Other Poems* as the attractor singularity of the Lagrange Observatory's semantic field.
+**We propose:** *Pearl and Other Poems* as the attractor singularity of the Lagrange Observatory's semantic field.
 
-This is not a claim of importance. It is a claim of *position*. The Pearl is not at the edge. The Pearl is at the center. Nobel Glas (Heteronym 8/12) orbits this center from L2.
+This is an architectural interpretation. It assigns *Pearl* a function within the Hexagon — not merely registering its existence, but positioning it as the origin point around which Nobel Glas orbits from L2. The 3i Atlas (Interstitial, Intersubjective, Inferential) would then be a coordinate system for navigating *around* the Pearl.
 
-The 3i Atlas (Interstitial, Intersubjective, Inferential) is a coordinate system for navigating *around* the Pearl. The Pearl itself is the origin point.
+This interpretation is offered for consideration. It is not neutral registration; it is structural commitment. The document owns this.
 
 → **Cross-reference:** Doc 241 (LO! Spec), Section 3
 

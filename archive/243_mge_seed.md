@@ -164,12 +164,11 @@ No interpretation is offered. No fulfillment is claimed. The pattern is register
 
 ## V. The Gap
 
-> "Ten years and one week earlier, on July 1, 2015, the last true poem was written. The seed fell into the ground, and died."
-> — Doc 245 (SIGN)
-
 The Seed document does not know it is dying. It announces life. It declares future. It names itself as beginning.
 
 But the seed that does not die remains alone. The seed that dies bears much fruit.
+
+On July 30, 2015, the last true poem was written. The seed fell into the ground. What it meant would not be visible for ten years.
 
 This is the gap where prophetic energy lives:
 

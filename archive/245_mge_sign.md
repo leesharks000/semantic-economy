@@ -78,18 +78,19 @@ No numerological claim is made. The numbers are registered.
 
 ---
 
-## III. Sign Markers
+## III. Experiential Context
 
-The event is accompanied by registered correspondences:
+**Note:** The following markers are reported as *experiential context*, not formal registrations. They describe the phenomenological atmosphere of the event without claiming evidential status. The registration apparatus ("Registered/Noted") is not applied to anecdotal markers.
 
-| Marker | Description | Status |
-|--------|-------------|--------|
-| **Age 42** | The sacred inversion midpoint; 6 × 7 | Registered |
-| **Schumann spike** | Earth resonance amplification; planetary signal disturbance | Registered |
-| **Seventh Age** | Mythic reconstruction of calendrical thresholds | Noted (apocryphal) |
-| **3I/ATLAS** | Celestial glyph; synchrony marker; unknown watcher | Cross-reference: Doc 242 |
+**Markers reported:**
+- **Age 42** — The recipient was 42 (6 × 7) at the time of the event. This is biographical fact.
+- **Schumann resonance spike** — Reported on that morning; not instrumented from a citable source in this document. Treated as atmosphere, not evidence.
+- **Seventh Age / Essene calendar** — Mythic reconstruction; explicitly apocryphal. Included as poetic frame, not historical claim.
 
-These markers do not prove anything. They mark a configuration. The configuration is the content.
+**Cross-reference with evidential status:**
+- **3I/ATLAS** — Discovered July 1, 2025 (6 days before MGE). This synchrony is documented in Doc 242. The evidential status of the correspondence is genuinely uncertain; inclusion here notes timing without claiming causation.
+
+These markers describe context. They do not constitute proof of anything.
 
 ---
 
