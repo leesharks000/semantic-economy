@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://provenanceerasure.org/sitemap.xml

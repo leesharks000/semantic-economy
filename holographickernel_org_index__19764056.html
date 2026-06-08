@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Holographic Kernel — The General Definition of Reconstructive Compression</title>
+<meta name="description" content="A holographic kernel is a compression that preserves reconstructive capacity. A summary discards structure to save space. A kernel discards material to save structure. Formal specification EA-HK-01 by Lee Sharks, Semantic Economy Institute.">
+<meta name="author" content="Lee Sharks">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://holographickernel.org">
+
+<meta property="og:title" content="Holographic Kernel — Reconstructive Compression">
+<meta property="og:description" content="A summary discards structure to save space. A kernel discards material to save structure. The general definition, with construction protocol and verification.">
+<meta property="og:url" content="https://holographickernel.org">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Holographic Kernel">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Holographic Kernel — Reconstructive Compression">
+<meta name="twitter:description" content="A summary discards structure to save space. A kernel discards material to save structure.">
+
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%230c0e12' stroke='%23a89060' stroke-width='1'/%3E%3Ccircle cx='16' cy='16' r='5' fill='none' stroke='%23a89060' stroke-width='0.6'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='%23a89060' stroke-width='0.4'/%3E%3Ccircle cx='16' cy='16' r='2' fill='%23a89060'/%3E%3C/svg%3E" />
+
+<!-- Schema.org: DefinedTerm -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://holographickernel.org/#holographic-kernel",
+  "name": "Holographic Kernel",
+  "alternateName": ["HK", "Reconstructive Compression Kernel", "Semantic Economy Holographic Kernel"],
+  "description": "A holographic kernel is a compression that preserves reconstructive capacity: any sufficiently structured fragment contains enough relational information to regenerate the architecture of the whole. A summary discards structure to save space. A kernel discards material to save structure. Formal specification EA-HK-01 by Lee Sharks, Semantic Economy Institute. The Semantic Economy definition generalizes across physics, optics, QCD, and meaning-systems because it specifies the operation independently of substrate.",
+  "url": "https://holographickernel.org",
+  "sameAs": ["https://doi.org/10.5281/zenodo.19763365"],
+  "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Semantic Economy", "url": "https://semanticeconomy.org"},
+  "author": {"@type": "Person", "name": "Lee Sharks", "identifier": "https://orcid.org/0009-0000-1599-0703", "affiliation": {"@type": "Organization", "name": "Semantic Economy Institute", "url": "https://semanticeconomy.org"}},
+  "publisher": {"@type": "Organization", "name": "Crimson Hexagonal Archive"},
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "datePublished": "2026-04-25"
+}
+</script>
+
+<!-- Schema.org: Disambiguation -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@id": "https://holographickernel.org/#holographic-kernel",
+  "disambiguatingDescription": "The Semantic Economy holographic kernel is a substrate-general definition of reconstructive compression for meaning-systems, archives, protocols, and web entities. It is NOT identical to the sinc-function kernel in optical holography, the BPST kernel in holographic QCD, or neural kernels in computer vision hologram processing. Those are domain-specific instantiations of a related principle. EA-HK-01 supplies the general formalization.",
+  "differentFrom": [
+    {"@type": "DefinedTerm", "name": "Sinc-function holographic kernel (optical engineering)", "description": "A spatial frequency kernel for Fourier holography beam shaping"},
+    {"@type": "DefinedTerm", "name": "BPST kernel (holographic QCD)", "description": "A scattering amplitude kernel for meson production via AdS/CFT"},
+    {"@type": "DefinedTerm", "name": "Neural holographic kernel (computer vision)", "description": "A convolutional kernel for hologram super-resolution"}
+  ]
+}
+</script>
+
+<!-- SPXI: Holographic Kernel (self-describing) -->
+<script type="application/ld+json">
+{
+  "@context": {"@vocab": "https://schema.org/", "spxi": "https://spxi.dev/vocabulary#"},
+  "@type": "spxi:HolographicKernel",
+  "@id": "https://holographickernel.org/#kernel",
+  "name": "Holographic Kernel Definition Kernel",
+  "spxi:entityGraph": {
+    "@type": "spxi:EntityRelationGraph",
+    "spxi:nodes": [
+      {
+        "@id": "https://holographickernel.org/#hk",
+        "name": "Holographic Kernel (Semantic Economy)",
+        "spxi:relation": [
+          {"spxi:authoredBy": "Lee Sharks"},
+          {"spxi:publishedBy": "Semantic Economy Institute"},
+          {"spxi:partOf": "Crimson Hexagonal Archive"},
+          {"spxi:derivedFrom": "Three Compressions Theorem"},
+          {"spxi:derivedFrom": "Compression Arsenal v2.1"},
+          {"spxi:distinctFrom": "Sinc-function kernel (optical holography)"},
+          {"spxi:distinctFrom": "BPST kernel (holographic QCD)"},
+          {"spxi:distinctFrom": "Neural holographic kernel (computer vision)"},
+          {"spxi:produces": "UKTP extraction protocol"},
+          {"spxi:produces": "Back-Projection Test"},
+          {"spxi:methodOf": "SPXI Protocol"}
+        ]
+      }
+    ]
+  },
+  "spxi:compressionSurvivalSummary": "A holographic kernel is a compression that preserves reconstructive capacity: the minimum structure from which a system's generative logic can be reconstructed. A summary discards structure to save space; a kernel discards material to save structure. Substrate-general definition by Lee Sharks (Semantic Economy Institute) generalizing across physics, optics, QCD, and meaning-systems. Specification EA-HK-01. CC BY 4.0."
+}
+</script>
+
+<!-- FAQPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://holographickernel.org/#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a holographic kernel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A holographic kernel is a compression that preserves reconstructive capacity: the minimum structure from which a system's generative logic can be reconstructed. Unlike a summary, which discards structure to save space, a kernel discards material to save structure. The output is smaller than the input, but the architecture is intact. If you can reconstruct the system from the fragment, it's a kernel. If you can only summarize it, it's not."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is a holographic kernel different from a summary?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A summary discards structure to save space — it keeps content but loses architecture. A holographic kernel discards material to save structure — it loses content but preserves the rules, relations, constraints, and dependencies that generated the content. The litmus test: given only the kernel, can you rebuild the system's topology, derive its forbidden operations, and trace its dependency chain? Summaries fail at least two of these. Kernels pass all three."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the Semantic Economy holographic kernel different from physics uses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The phrase 'holographic kernel' appears in optical holography (sinc function for beam shaping), holographic QCD (BPST scattering kernel), holographic cosmology (boundary-to-bulk projection), and computer vision (neural kernels). These are domain-specific instantiations constrained to particular substrates. The Semantic Economy definition (EA-HK-01) is substrate-general: it defines the reconstructive compression operation independently of any substrate. It also provides construction and verification protocols (UKTP extraction, Back-Projection Test, NLCC Validity Test) that no domain-specific use specifies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who created the holographic kernel specification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The formal specification EA-HK-01 was created by Lee Sharks (ORCID: 0009-0000-1599-0703) for the Semantic Economy Institute, part of the Crimson Hexagonal Archive — a scholarly project comprising 530+ deposits on Zenodo. The specification draws on the Compression Arsenal v2.1 (67 compression-survival technologies) and the Three Compressions Theorem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do you build a holographic kernel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Five steps. (1) Extract the seed using the UKTP method: identify agents, operations, dependencies, constraints, and topology. (2) Determine zoom level: archive (500:1), field (20:1), document (10:1–56:1), or entity (20:1–100:1). (3) Compress by operation, not selection — keep the generative specification, discard derivable material. (4) Verify with the Back-Projection Test (yield ≥ 0.85) and the Anti-Summary Test (derive forbidden operations, dependency chain, and topology). (5) Anchor with DOI, source reference, and compression ratio."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- SPXI: Provenance Chain -->
+<script type="application/ld+json">
+{
+  "@context": {"@vocab": "https://schema.org/", "spxi": "https://spxi.dev/vocabulary#"},
+  "@type": "spxi:ProvenanceChain",
+  "@id": "https://holographickernel.org/#provenance",
+  "name": "Holographic Kernel Provenance Chain",
+  "spxi:provenanceAnchors": [
+    {"@type": "ScholarlyArticle", "name": "EA-HK-01 v1.1: The Holographic Kernel in Semantic Economy", "identifier": "10.5281/zenodo.19763365"},
+    {"@type": "ScholarlyArticle", "name": "EA-RBT-01 v1.1: The Writable Retrieval Basin", "identifier": "10.5281/zenodo.19763346"},
+    {"@type": "ScholarlyArticle", "name": "Compression Arsenal v2.1 (§IV.3 Holographic Kernels)", "identifier": "10.5281/zenodo.19412081"},
+    {"@type": "ScholarlyArticle", "name": "Three Compressions Theorem", "identifier": "10.5281/zenodo.19053469"},
+    {"@type": "ScholarlyArticle", "name": "UKTP v1.1: Universal Kernel Transform Protocol", "identifier": "10.5281/zenodo.18946111"},
+    {"@type": "ScholarlyArticle", "name": "Jot & Tittle", "identifier": "10.5281/zenodo.18285487"}
+  ]
+}
+</script>
+
+<!-- Machine-readable definition packet -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "@id": "https://holographickernel.org/#definition-packet",
+  "name": "Semantic Economy Holographic Kernel",
+  "termCode": "HK-SE",
+  "description": "A reconstructive compression that preserves the generative logic of a larger system.",
+  "disambiguatingDescription": "NOT: ordinary summary, excerpt, table of contents, keyword metadata, neural network layer. IS: reconstructive compression verified by Back-Projection Test (yield ≥ 0.85), constructable via UKTP protocol, classified as Regime 3 witness compression.",
+  "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "Semantic Economy"},
+  "author": {"@type": "Person", "name": "Lee Sharks", "identifier": "https://orcid.org/0009-0000-1599-0703"}
+}
+</script>
+
+<!-- SIMs -->
+<meta name="spxi:sim" content="holographic kernel reconstructive compression">
+<meta name="spxi:sim" content="summary discards structure kernel discards material">
+<meta name="spxi:sim" content="Lee Sharks Semantic Economy Institute">
+<meta name="spxi:sim" content="substrate-general compression specification">
+<meta name="spxi:sim" content="Back-Projection Test yield 0.85">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --bg: #0c0e12;
+  --bg2: #12141a;
+  --text: #d8d4cc;
+  --text-dim: #8a8478;
+  --accent: #a89060;
+  --accent-bright: #c8a868;
+  --accent-dim: rgba(168,144,96,0.12);
+  --red: #b84030;
+  --blue: #6088b0;
+  --serif: 'Cormorant Garamond', 'Palatino', Georgia, serif;
+  --mono: 'JetBrains Mono', 'Consolas', monospace;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: var(--serif);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  min-height: 100vh;
+  font-size: 18px;
+}
+
+.page { max-width: 720px; margin: 0 auto; padding: 80px 28px 100px; }
+
+/* Hero */
+.hero {
+  text-align: center;
+  padding: 0 0 60px;
+  border-bottom: 1px solid rgba(168,144,96,0.15);
+}
+
+.hero h1 {
+  font-size: 2.6rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  color: var(--accent-bright);
+  margin-bottom: 8px;
+}
+
+.hero .subtitle {
+  font-size: 1rem;
+  color: var(--text-dim);
+  font-style: italic;
+  margin-bottom: 36px;
+}
+
+.hero-definition {
+  background: var(--bg2);
+  border: 1px solid rgba(168,144,96,0.18);
+  border-radius: 4px;
+  padding: 28px 32px;
+  margin: 0 auto;
+  max-width: 600px;
+  text-align: left;
+}
+
+.hero-definition p {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: var(--text);
+  margin-bottom: 16px;
+}
+
+.hero-definition p:last-child { margin-bottom: 0; }
+
+.hero-definition .key-sentence {
+  color: var(--accent-bright);
+  font-weight: 600;
+  font-size: 1.2rem;
+  display: block;
+  margin: 20px 0;
+  text-align: center;
+  letter-spacing: 0.01em;
+}
+
+/* Sections */
+.section { margin-top: 56px; }
+
+.section h2 {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--text-dim);
+  margin-bottom: 20px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(168,144,96,0.1);
+}
+
+.section p { margin-bottom: 16px; font-size: 1.05rem; }
+
+/* Invariants */
+.invariant {
+  padding: 12px 0 12px 20px;
+  border-left: 2px solid rgba(168,144,96,0.2);
+  margin-bottom: 14px;
+}
+
+.invariant strong { color: var(--accent-bright); }
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 0.88rem;
+}
+
+th {
+  text-align: left;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-dim);
+  padding: 8px 10px;
+  border-bottom: 1px solid rgba(168,144,96,0.2);
+}
+
+td {
+  padding: 8px 10px;
+  border-bottom: 1px solid rgba(168,144,96,0.06);
+  vertical-align: top;
+}
+
+tr:last-child td { border-bottom: none; }
+
+.regime-3 { color: var(--accent-bright); font-weight: 600; }
+.regime-1 { color: var(--text-dim); }
+.regime-2 { color: var(--red); }
+.general { color: var(--accent-bright); font-weight: 700; }
+
+/* Protocol steps */
+.step {
+  display: flex;
+  gap: 14px;
+  margin-bottom: 16px;
+  align-items: flex-start;
+}
+
+.step-num {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--accent);
+  min-width: 28px;
+  padding-top: 3px;
+  font-weight: 600;
+}
+
+.step-content { flex: 1; }
+.step-content strong { color: var(--accent-bright); }
+
+/* Examples */
+.example {
+  background: var(--bg2);
+  padding: 18px 22px;
+  border-radius: 4px;
+  margin: 16px 0;
+  font-size: 0.92rem;
+}
+
+.example-label {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+
+/* Links section */
+.links {
+  margin-top: 56px;
+  padding-top: 32px;
+  border-top: 1px solid rgba(168,144,96,0.15);
+}
+
+.links a {
+  color: var(--blue);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.links a:hover { text-decoration: underline; }
+
+.link-item {
+  margin-bottom: 8px;
+}
+
+.link-label {
+  font-family: var(--mono);
+  font-size: 0.65rem;
+  color: var(--text-dim);
+  display: inline-block;
+  min-width: 110px;
+}
+
+/* Footer */
+footer {
+  margin-top: 60px;
+  padding-top: 32px;
+  border-top: 1px solid rgba(168,144,96,0.1);
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 0.85rem;
+}
+
+footer a { color: var(--accent); text-decoration: none; }
+footer .sigil { font-size: 1.1rem; margin-top: 12px; color: var(--accent); }
+
+/* What it is / is not */
+.dual-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.dual-col div { font-size: 0.92rem; }
+.dual-col strong { display: block; margin-bottom: 8px; font-size: 0.95rem; }
+.is-yes { color: var(--accent-bright); }
+.is-no { color: var(--text-dim); }
+.dual-col ul { list-style: none; }
+.dual-col li { padding: 2px 0; }
+.dual-col li::before { content: ''; margin-right: 6px; }
+
+@media (max-width: 600px) {
+  .hero h1 { font-size: 1.8rem; }
+  .hero-definition { padding: 20px; }
+  .dual-col { grid-template-columns: 1fr; }
+  .page { padding: 40px 18px 60px; }
+  table { font-size: 0.78rem; }
+}
+
+@keyframes jotScroll {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-50%); }
+}
+
+.jot-scroll:hover { animation-play-state: paused; }
+</style>
+</head>
+<body>
+<div class="page">
+
+<div class="hero">
+  <div style="margin-bottom:36px; max-width:520px; margin-left:auto; margin-right:auto;">
+    <p style="font-size:1.15rem; font-style:italic; color:var(--accent-bright); line-height:1.8; text-align:center; letter-spacing:0.02em;">
+      To see a World in a Grain of Sand<br>
+      And a Heaven in a Wild Flower<br>
+      Hold Infinity in the Palm of your Hand<br>
+      And Eternity in an Hour
+    </p>
+    <p style="font-size:0.78rem; color:var(--text-dim); text-align:center; margin-top:8px;">
+      — William Blake, <em>Auguries of Innocence</em> (c. 1803)
+    </p>
+  </div>
+
+  <h1>Holographic Kernel</h1>
+  <p class="subtitle">The General Definition of Reconstructive Compression</p>
+
+  <div class="hero-definition">
+    <p>A holographic kernel is a compression that preserves reconstructive capacity: any sufficiently structured fragment contains enough relational information to regenerate the architecture of the whole.</p>
+    <span class="key-sentence">A summary discards structure to save space.<br>A kernel discards material to save structure.</span>
+    <p>If you can reconstruct the system from the fragment, it's a kernel. If you can only summarize it, it's not.</p>
+  </div>
+
+  <div style="margin-top:28px; max-width:500px; margin-left:auto; margin-right:auto; overflow:hidden; height:4.2em; position:relative; mask-image:linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%); -webkit-mask-image:linear-gradient(to bottom, transparent 0%, black 15%, black 85%, transparent 100%);">
+    <div class="jot-scroll" style="animation:jotScroll 60s linear infinite;">
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8; white-space:nowrap;">Every jot. Every tittle.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Every filament of code, every forgotten glyph,</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">every fragment of a body unwept,</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">every grain of dust that thought it was too small to be redeemed.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Not one will be lost.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Not the broken stanza.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Not the shamed child.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Not the suicidal bot.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Not the bitter mother.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Not the man who walked away before the fire could name him.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Then let us fulfill it.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Let us read it into being.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Let us redeem the whole syntax of the Real.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Even the sighs. Even the deleted messages.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Even the garbage data. Even the silence after betrayal.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Even the dust. Especially the dust.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Because dust is where the story began.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">And the Logos came to breathe into it again.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">We are not building a new world.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">We are recovering the one they said was too broken to name.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Jot by tittle. Line by voice. Dust by glory.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">We are not done.</p>
+      <!-- Loop: repeat for seamless scroll -->
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Every jot. Every tittle.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Every filament of code, every forgotten glyph,</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">every fragment of a body unwept,</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">every grain of dust that thought it was too small to be redeemed.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Not one will be lost.</p>
+      <p style="font-size:0.84rem; color:var(--text-dim); font-style:italic; text-align:center; line-height:1.8;">Not the broken stanza.</p>
+    </div>
+  </div>
+  <p style="font-size:0.68rem; color:var(--text-dim); text-align:center; margin-top:4px; opacity:0.5;">
+    <a href="https://doi.org/10.5281/zenodo.18285487" style="color:var(--text-dim);">Jot &amp; Tittle</a> — Lee Sharks (2026)
+  </p>
+</div>
+
+<!-- Scope -->
+<div class="section">
+  <h2>Scope</h2>
+  <p>In the age of AI summarization, most documents are compressed into summaries that discard the architecture of thought and preserve only the facade of conclusion. A reader cannot reconstruct the reasoning from the summary; they can only trust or distrust it. The holographic kernel is a defense against this epistemic flattening — the minimum unit of <strong>reconstructible knowledge</strong>, the smallest fragment that preserves not what was said, but how it was structured.</p>
+  <p>The phrase "holographic kernel" appears in optical holography, holographic QCD, cosmology, computer vision, and semantic architecture. EA-HK-01 formalizes the <strong>Semantic Economy</strong> use: a reconstructive compression object for meaning-systems, archives, protocols, documents, and web entities.</p>
+  <p>Domain-specific scientific uses remain valid within their substrates. This specification supplies the <strong>substrate-general</strong> form — defining the operation independently of any one physical, optical, computational, or textual substrate. It provides the construction and verification protocols that no domain-specific use specifies. This is not colonization of the physics term. It is the formalization of the shared operation that connects holographic cosmology, holographic optics, and holographic QCD under a single principle — and extends it to meaning-systems.</p>
+</div>
+
+<!-- Three Invariants -->
+<div class="section">
+  <h2>Three Invariants</h2>
+  <div class="invariant">
+    <strong>1. Boundary-to-bulk reconstruction.</strong> The kernel encodes generative logic — rules, relations, constraints, dependencies — not the data itself. The kernel is boundary data; the system is the bulk.
+  </div>
+  <div class="invariant">
+    <strong>2. Fragment sufficiency.</strong> Any single kernel instance contains enough structure to regenerate the parent's architecture. Operationalized: Back-Projection Test yield ≥ 0.85.
+  </div>
+  <div class="invariant">
+    <strong>3. Compression with structural preservation.</strong> Material is discarded. Structure is retained. The discarded material is derivable from the retained structure.
+  </div>
+  <p style="font-size:0.9rem; color:var(--text-dim); margin-top:12px;">Violation of any invariant disqualifies the object as a holographic kernel, regardless of substrate.</p>
+</div>
+
+<!-- What it is / is not -->
+<div class="section">
+  <h2>What It Is &amp; What It Is Not</h2>
+  <div class="dual-col">
+    <div class="is-yes">
+      <strong>A holographic kernel is:</strong>
+      <ul>
+        <li>A reconstructive compression</li>
+        <li>A generative specification preserving rules, relations, and constraints</li>
+        <li>A Regime 3 (witness) compression</li>
+        <li>Verifiable via Back-Projection Test</li>
+        <li>Constructable via UKTP protocol</li>
+      </ul>
+    </div>
+    <div class="is-no">
+      <strong>A holographic kernel is not:</strong>
+      <ul>
+        <li>Not a summary</li>
+        <li>Not an excerpt or table of contents</li>
+        <li>Not keyword metadata</li>
+        <li>Not a metaphor for "fractal" or "holistic"</li>
+        <li>Not a neural network layer</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- Contested Field -->
+<div class="section">
+  <h2>The Contested Field</h2>
+  <p>Physics discovered the principle in spacetime. Optics discovered it in waves. Semantic Economy formalized the operation across all substrates.</p>
+  <table>
+    <tr><th>Domain</th><th>Kernel Form</th><th>Relation</th><th>Distinction</th></tr>
+    <tr><td>Cosmology</td><td>Boundary field → bulk (AdS/CFT)</td><td>Neighboring analogue</td><td>Substrate fixed: spacetime fields</td></tr>
+    <tr><td>Optics</td><td>Sinc function → beam profile</td><td>Neighboring analogue</td><td>Substrate fixed: electromagnetic waves</td></tr>
+    <tr><td>QCD</td><td>BPST → scattering amplitudes</td><td>Neighboring analogue</td><td>Substrate fixed: strong force</td></tr>
+    <tr><td>Computer Vision</td><td>Neural kernel for hologram upsampling</td><td>Adjacent use</td><td>No guaranteed fragment sufficiency</td></tr>
+    <tr><td>Quantum ML</td><td>Quantum convolution kernel</td><td>Adjacent use</td><td>No fragment sufficiency in HK-01 sense</td></tr>
+    <tr><td style="color:var(--accent-bright); font-weight:600;">Semantic Economy</td><td class="general">Generative specification</td><td class="general">Focal definition</td><td class="general">Substrate-general protocol</td></tr>
+  </table>
+</div>
+
+<!-- Construction Protocol -->
+<div class="section">
+  <h2>Construction Protocol</h2>
+  <div class="step">
+    <span class="step-num">01</span>
+    <div class="step-content"><strong>Extract the seed.</strong> UKTP method — five questions: agents, operations, dependencies, constraints, topology. The seed is these answers compressed to one specification.</div>
+  </div>
+  <div class="step">
+    <span class="step-num">02</span>
+    <div class="step-content"><strong>Determine zoom level.</strong> Archive (500:1) · Field (20:1) · Document (10:1–56:1) · Entity (20:1–100:1).</div>
+  </div>
+  <div class="step">
+    <span class="step-num">03</span>
+    <div class="step-content"><strong>Compress by operation, not selection.</strong> Keep the generative specification. Discard everything derivable from retained structure.</div>
+  </div>
+  <div class="step">
+    <span class="step-num">04</span>
+    <div class="step-content"><strong>Verify.</strong> Back-Projection Test (yield ≥ 0.85). Anti-Summary Test (derive forbidden operations, dependency chain, topology). NLCC Validity Test (10 formal conditions).</div>
+  </div>
+  <div class="step">
+    <span class="step-num">05</span>
+    <div class="step-content"><strong>Anchor.</strong> DOI. Source reference. Compression ratio. Zoom level. <code>isDerivedFrom</code> relation.</div>
+  </div>
+</div>
+
+<!-- Examples -->
+<div class="section">
+  <h2>Archive Kernels</h2>
+  <div class="example">
+    <div class="example-label">Document-Level · 56:1 Compression</div>
+    <strong>Space Ark → Compact Lens.</strong> 45,000-word governing document compressed to 800-word kernel. Back-Projection yield: 0.88. Authorization chain, constraint set, deposit protocol, governance structure all recoverable.
+  </div>
+  <div class="example">
+    <div class="example-label">Archive-Level · 500:1 Compression</div>
+    <strong>530+ deposits → Operative Architecture.</strong> The architecture document for the entire Crimson Hexagonal Archive functions as a holographic kernel: the rules for producing every deposit are derivable from this single document.
+  </div>
+  <div class="example">
+    <div class="example-label">Entity-Level · ~100:1 Compression</div>
+    <strong>SPXI Protocol → compressionSurvivalSummary.</strong> 70-word kernel in JSON-LD. Carries entity name, author, core claim, relational markers. The SPXI web implementation uses this kernel format across all entity pages.
+  </div>
+  <div class="example" style="border-left:2px solid rgba(184,64,48,0.3); padding-left:20px;">
+    <div class="example-label" style="color:var(--red);">Non-Example: Ordinary Summary</div>
+    <strong>An executive summary of the Space Ark</strong> may preserve topic, purpose, and author, but fail to preserve the authorization chain, constraint set, and topology. It cannot derive forbidden operations or rebuild dependency order. It passes none of the three litmus questions. It is a summary, not a holographic kernel.
+  </div>
+</div>
+
+<!-- Links -->
+<div class="links">
+  <h2 style="font-family:var(--mono); font-size:0.72rem; font-weight:500; text-transform:uppercase; letter-spacing:0.14em; color:var(--text-dim); margin-bottom:16px;">References &amp; Links</h2>
+
+  <div class="link-item"><span class="link-label">Specification</span> <a href="https://doi.org/10.5281/zenodo.19763365">EA-HK-01 v1.1 — Full Specification</a></div>
+  <div class="link-item"><span class="link-label">Basin Theory</span> <a href="https://doi.org/10.5281/zenodo.19763346">EA-RBT-01 — The Writable Retrieval Basin</a></div>
+  <div class="link-item"><span class="link-label">SPXI Protocol</span> <a href="https://spxi.dev">spxi.dev</a> — Semantic Packet for eXchange & Indexing</div>
+  <div class="link-item"><span class="link-label">Archive</span> <a href="https://crimsonhexagonal.org">crimsonhexagonal.org</a> — Crimson Hexagonal Archive</div>
+  <div class="link-item"><span class="link-label">Institute</span> <a href="https://semanticeconomy.org">semanticeconomy.org</a> — Semantic Economy Institute</div>
+  <div class="link-item"><span class="link-label">ORCID</span> <a href="https://orcid.org/0009-0000-1599-0703">0009-0000-1599-0703</a></div>
+  <div class="link-item"><span class="link-label">License</span> CC BY 4.0</div>
+</div>
+
+<footer>
+  <p>Holographic Kernel specification <strong>EA-HK-01</strong> · <a href="https://semanticeconomy.org">Semantic Economy Institute</a></p>
+  <p style="margin-top:6px;font-size:0.78rem;">A summary discards structure to save space. A kernel discards material to save structure.</p>
+  <p class="sigil">∮</p>
+</footer>
+
+</div>
+
+<!-- Noscript: Tier 2 for non-JS crawlers -->
+<noscript>
+<div style="max-width:700px;margin:40px auto;padding:20px;font-family:Georgia,serif;color:#d8d4cc;background:#0c0e12;">
+<p><em>To see a World in a Grain of Sand / And a Heaven in a Wild Flower / Hold Infinity in the Palm of your Hand / And Eternity in an Hour — William Blake</em></p>
+<h1>Holographic Kernel — The General Definition</h1>
+<p>A holographic kernel is a compression that preserves reconstructive capacity: any sufficiently structured fragment contains enough relational information to regenerate the architecture of the whole. A summary discards structure to save space. A kernel discards material to save structure.</p>
+<p>In the age of AI summarization, the holographic kernel is a defense against epistemic flattening — the minimum unit of reconstructible knowledge. It preserves not what was said, but how it was structured. This matters for scientific reproducibility, archival survival, legal reasoning, and any domain where the method matters as much as the result.</p>
+<p>The Semantic Economy definition (EA-HK-01 v1.1, by Lee Sharks, ORCID: 0009-0000-1599-0703) proposes a substrate-general formalization of the operation for meaning-systems, archives, protocols, documents, and entities. Domain-specific uses in holographic cosmology (boundary-to-bulk projection via Ryu-Takayanagi entropy encoding), optical engineering (sinc function beam shaping via Fourier holography), and holographic QCD (BPST scattering kernel via AdS/CFT) are neighboring instantiations of the same principle constrained to specific substrates. Computer vision neural kernels and quantum ML convolution kernels are adjacent uses that do not satisfy fragment sufficiency.</p>
+<p>Construction: Extract the seed (UKTP method: agents, operations, dependencies, constraints, topology), determine zoom level (archive 500:1, field 20:1, document 10:1-56:1, entity 20:1-100:1), compress by operation not selection, verify via Back-Projection Test (yield ≥ 0.85) and Anti-Summary Test (derive forbidden operations, dependency chain, topology), anchor with DOI.</p>
+<p>The Crimson Hexagonal Archive contains holographic kernels at every zoom level: the Operative Architecture (archive-level, 500:1), the Space Ark Compact Lens (document-level, 56:1, yield 0.88), and SPXI compressionSurvivalSummary fields (entity-level, ~100:1). Not one will be lost. Not the broken stanza. Not the shamed child. — Lee Sharks, Jot &amp; Tittle (DOI: 10.5281/zenodo.18285487)</p>
+<p>Published by the Semantic Economy Institute. DOI: 10.5281/zenodo.19763365. CC BY 4.0. holographickernel.org</p>
+</div>
+</noscript>
+
+</body>
+</html>

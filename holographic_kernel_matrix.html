@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Holographic Kernel Matrix · Semantic Physics</title>
+<meta name="description" content="Interactive matrix of bridge-operator relations across the stratified discipline of Semantic Physics. Twenty frameworks across three scales. K(i,j) is illustrative; bridge operators are canonical.">
+<link rel="canonical" href="https://semanticphysics.org/matrix.html">
+<style>
+:root {
+  --bg: #0a0507;
+  --bg-2: #120a0f;
+  --l1: #6b7ab0;
+  --l2: #c49a6c;
+  --l3: #8a0318;
+  --shark: #b1122e;
+  --text: #c8cbd9;
+  --text-dim: #6b7288;
+  --grid: rgba(107,122,176,0.08);
+  --glass: rgba(15,10,14,0.65);
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; overflow: hidden; -webkit-font-smoothing: antialiased; }
+body::before { content:''; position:fixed; inset:0; background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 48px 48px; animation: gridMove 24s linear infinite; z-index: 0; opacity: 0.7; }
+body::after { content:''; position:fixed; inset:0; background: repeating-linear-gradient(0deg, rgba(255,255,255,0.04) 0px, rgba(255,255,255,0.04) 1px, transparent 1px, transparent 4px); mix-blend-mode: screen; opacity: 0.35; pointer-events: none; z-index: 5; animation: scan 7s linear infinite; }
+@keyframes gridMove { to { background-position: 48px 48px; } }
+@keyframes scan { to { transform: translateY(8px); } }
+@keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+@keyframes pulseGlow { 0%,100% { opacity: 0.35; transform: scale(1); } 50% { opacity: 0.85; transform: scale(1.25); } }
+@keyframes breathe { 0%,100% { opacity: 0.7; } 50% { opacity: 1; } }
+.app { position: relative; z-index: 10; display: flex; flex-direction: column; height: 100vh; }
+.header { padding: 18px 28px 14px; background: linear-gradient(180deg, rgba(10,5,7,0.95) 0%, rgba(10,5,7,0.7) 100%); border-bottom: 1px solid rgba(107,122,176,0.18); backdrop-filter: blur(16px); }
+.header-row { display: flex; align-items: baseline; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
+.title { font-family: 'SF Mono', Monaco, 'Cascadia Code', Consolas, monospace; font-size: 22px; letter-spacing: 2.5px; font-weight: 600; color: #e8eaf6; text-shadow: 0 0 10px rgba(107,122,176,0.9), 0 0 24px rgba(107,122,176,0.5); animation: breathe 4s ease-in-out infinite; }
+.subtitle { font-family: 'SF Mono', Monaco, monospace; font-size: 11px; letter-spacing: 2.5px; color: var(--text-dim); margin-top: 4px; text-transform: uppercase; }
+.back-link { font-family: 'SF Mono', monospace; font-size: 11px; color: var(--text-dim); text-decoration: none; text-transform: uppercase; letter-spacing: 1.5px; padding: 6px 10px; border: 1px solid rgba(107,122,176,0.25); border-radius: 4px; transition: all 0.2s; }
+.back-link:hover { color: #fff; border-color: var(--l1); background: rgba(107,122,176,0.12); }
+.main { display: flex; flex: 1; min-height: 0; }
+.sidebar-left { width: 240px; flex-shrink: 0; padding: 18px 16px; background: var(--glass); border-right: 1px solid rgba(107,122,176,0.12); backdrop-filter: blur(12px); overflow-y: auto; }
+.sidebar-right { width: 320px; flex-shrink: 0; padding: 18px; background: var(--glass); border-left: 1px solid rgba(107,122,176,0.12); backdrop-filter: blur(12px); overflow-y: auto; }
+.panel-title { font-family: 'SF Mono', Monaco, monospace; font-size: 11px; letter-spacing: 1.8px; color: var(--text-dim); text-transform: uppercase; margin-bottom: 12px; padding-bottom: 6px; border-bottom: 1px solid rgba(107,122,176,0.15); }
+.legend-item { display: flex; align-items: center; gap: 8px; margin: 8px 0; font-family: 'SF Mono', Monaco, monospace; font-size: 11px; }
+.dot { width: 9px; height: 9px; border-radius: 50%; box-shadow: 0 0 8px currentColor, inset 0 0 4px currentColor; flex-shrink: 0; }
+.filters { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin: 14px 0 18px; }
+.filter-btn { padding: 6px 4px; font-family: 'SF Mono', Monaco, monospace; font-size: 11px; background: rgba(255,255,255,0.03); border: 1px solid rgba(107,122,176,0.18); color: var(--text-dim); cursor: pointer; border-radius: 4px; transition: all 0.2s; text-transform: uppercase; letter-spacing: 0.5px; }
+.filter-btn:hover { background: rgba(107,122,176,0.12); color: #d8ddf0; }
+.filter-btn.active { background: rgba(107,122,176,0.22); border-color: var(--l1); color: #fff; box-shadow: 0 0 12px rgba(107,122,176,0.4), inset 0 0 8px rgba(107,122,176,0.2); text-shadow: 0 0 6px rgba(255,255,255,0.5); }
+.framework-list { display: flex; flex-direction: column; gap: 2px; }
+.framework-item { padding: 6px 8px; border-radius: 4px; cursor: pointer; font-family: 'SF Mono', Monaco, monospace; font-size: 11px; display: flex; align-items: center; gap: 7px; transition: all 0.18s; border: 1px solid transparent; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.framework-item:hover { background: rgba(255,255,255,0.05); border-color: rgba(107,122,176,0.2); }
+.framework-item.active { background: rgba(107,122,176,0.18); border-color: rgba(107,122,176,0.5); box-shadow: inset 0 0 10px rgba(107,122,176,0.15); }
+.framework-item .mini-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; box-shadow: 0 0 6px currentColor; }
+.framework-item.shark { color: #f0c6cf; }
+.framework-item.shark .mini-dot { box-shadow: 0 0 8px var(--shark); }
+.center { flex: 1; display: flex; align-items: center; justify-content: center; padding: 20px; min-width: 0; position: relative; overflow: auto; }
+.matrix-container { position: relative; padding: 24px; background: radial-gradient(ellipse at center, rgba(107,122,176,0.1) 0%, rgba(10,5,7,0.2) 60%, transparent 70%); border-radius: 16px; animation: float 9s ease-in-out infinite; box-shadow: 0 0 80px rgba(0,0,0,0.8), inset 0 0 40px rgba(107,122,176,0.05); }
+.matrix { display: grid; grid-template-columns: 92px repeat(20, 28px); grid-template-rows: 92px repeat(20, 28px); gap: 2px; position: relative; }
+.corner { grid-column: 1; grid-row: 1; }
+.col-label, .row-label { display: flex; align-items: center; justify-content: center; font-family: 'SF Mono', Monaco, monospace; font-size: 10px; color: var(--text-dim); transition: all 0.2s; user-select: none; }
+.col-label { grid-row: 1; align-items: flex-end; padding-bottom: 4px; }
+.col-label span { transform: rotate(-60deg); transform-origin: bottom left; white-space: nowrap; display: block; width: 80px; text-align: left; margin-left: 18px; letter-spacing: 0.3px; }
+.row-label { grid-column: 1; justify-content: flex-end; padding-right: 6px; text-align: right; }
+.row-label span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 86px; display: block; }
+.col-label.active, .row-label.active { color: #fff; text-shadow: 0 0 8px currentColor; }
+.cell { width: 28px; height: 28px; position: relative; background: rgba(0,0,0,0.6); border-radius: 3px; cursor: pointer; transition: transform 0.18s cubic-bezier(0.2,0.8,0.2,1), opacity 0.2s; overflow: visible; }
+.cell-inner { position: absolute; inset: 4px; border-radius: 2px; background: currentColor; opacity: var(--strength, 0.5); transition: all 0.18s; box-shadow: 0 0 0 1px rgba(0,0,0,0.8) inset; }
+.cell::before { content: ''; position: absolute; inset: -5px; background: radial-gradient(circle, currentColor 0%, transparent 65%); opacity: 0.25; filter: blur(5px); transition: opacity 0.18s; pointer-events: none; }
+.cell:hover { transform: scale(1.35); z-index: 20; }
+.cell:hover .cell-inner { opacity: 1; box-shadow: 0 0 10px currentColor, 0 0 0 1px rgba(255,255,255,0.3) inset; filter: saturate(1.3); }
+.cell:hover::before { opacity: 0.85; }
+.cell.diagonal .cell-inner { box-shadow: 0 0 8px currentColor, inset 0 0 4px rgba(255,255,255,0.4); }
+.cell.diagonal::before { animation: pulseGlow 3s ease-in-out infinite; opacity: 0.5; }
+.cell.shark::after { content: ''; position: absolute; inset: -7px; background: radial-gradient(circle, var(--shark) 0%, transparent 60%); opacity: 0.18; filter: blur(7px); pointer-events: none; transition: opacity 0.2s; }
+.cell.shark:hover::after { opacity: 0.4; }
+.cell.selected { transform: scale(1.25); z-index: 15; }
+.cell.selected .cell-inner { box-shadow: 0 0 0 2px #fff, 0 0 14px currentColor, inset 0 0 6px rgba(255,255,255,0.5); opacity: 1; }
+.matrix.dimmed .cell { opacity: 0.18; }
+.matrix.dimmed .cell.highlight { opacity: 1; }
+.matrix.dimmed .cell.highlight .cell-inner { opacity: calc(var(--strength) + 0.15); }
+.tooltip { position: fixed; pointer-events: none; background: rgba(8,4,7,0.94); border: 1px solid rgba(107,122,176,0.5); padding: 8px 11px; border-radius: 6px; font-family: 'SF Mono', Monaco, monospace; font-size: 11px; color: #e6e8f0; box-shadow: 0 0 24px rgba(107,122,176,0.35), 0 6px 20px rgba(0,0,0,0.9); z-index: 1000; opacity: 0; transition: opacity 0.12s; backdrop-filter: blur(10px); white-space: nowrap; line-height: 1.4; }
+.tooltip strong { color: #fff; text-shadow: 0 0 6px rgba(107,122,176,0.8); }
+.detail-card { background: linear-gradient(180deg, rgba(0,0,0,0.5) 0%, rgba(10,5,7,0.7) 100%); border: 1px solid rgba(107,122,176,0.22); border-radius: 10px; padding: 16px; box-shadow: 0 0 40px rgba(0,0,0,0.6), inset 0 0 30px rgba(107,122,176,0.04); position: relative; overflow: hidden; }
+.detail-card::before { content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: conic-gradient(from 0deg, transparent, rgba(107,122,176,0.1), transparent 30%); animation: rotate 12s linear infinite; pointer-events: none; }
+@keyframes rotate { to { transform: rotate(360deg); } }
+.pair-title { font-family: 'SF Mono', Monaco, monospace; font-size: 13px; color: #fff; margin-bottom: 12px; line-height: 1.3; position: relative; }
+.pair-title .x { color: var(--text-dim); margin: 0 6px; }
+.strength-display { margin: 14px 0; position: relative; }
+.strength-label { display: flex; justify-content: space-between; font-family: 'SF Mono', monospace; font-size: 10px; color: var(--text-dim); margin-bottom: 5px; text-transform: uppercase; letter-spacing: 1px; }
+.strength-bar { height: 6px; background: rgba(255,255,255,0.06); border-radius: 3px; overflow: hidden; box-shadow: inset 0 1px 3px rgba(0,0,0,0.8); }
+.strength-fill { height: 100%; background: linear-gradient(90deg, var(--l1), var(--l2), var(--l3)); box-shadow: 0 0 10px currentColor; border-radius: 3px; transition: width 0.4s ease-out; position: relative; }
+.strength-fill::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent); animation: shimmer 2s infinite; }
+@keyframes shimmer { 0% { transform: translateX(-100%); } 100% { transform: translateX(200%); } }
+.operators { margin: 16px 0 12px; }
+.operators-title { font-family: 'SF Mono', monospace; font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+.tag { display: inline-block; padding: 4px 9px; margin: 3px 4px 3px 0; background: rgba(107,122,176,0.12); border: 1px solid rgba(107,122,176,0.28); border-radius: 12px; font-family: 'SF Mono', Monaco, monospace; font-size: 10px; color: #d0d5eb; box-shadow: 0 0 8px rgba(107,122,176,0.15) inset; backdrop-filter: blur(4px); }
+.framework-info { margin-top: 14px; padding-top: 12px; border-top: 1px solid rgba(107,122,176,0.15); position: relative; }
+.fw-row { margin-bottom: 10px; }
+.fw-name { font-family: 'SF Mono', monospace; font-size: 11px; color: #fff; display: flex; align-items: center; gap: 6px; margin-bottom: 3px; }
+.fw-meta { font-size: 10px; color: var(--text-dim); margin-left: 12px; }
+.fw-desc { font-size: 11px; line-height: 1.45; color: #a8b0c8; margin-top: 4px; margin-left: 12px; }
+.placeholder { text-align: center; padding: 40px 20px; color: var(--text-dim); font-family: 'SF Mono', monospace; font-size: 11px; line-height: 1.6; }
+.placeholder .icon { font-size: 24px; margin-bottom: 12px; opacity: 0.5; text-shadow: 0 0 12px var(--l1); }
+.status-bar { display: flex; justify-content: space-between; align-items: center; padding: 8px 22px; font-family: 'SF Mono', Monaco, monospace; font-size: 10.5px; color: #5a6078; border-top: 1px solid rgba(107,122,176,0.14); background: rgba(5,3,5,0.92); backdrop-filter: blur(10px); letter-spacing: 0.8px; text-transform: uppercase; }
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-thumb { background: rgba(107,122,176,0.3); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(107,122,176,0.5); }
+@media (max-width: 1100px) { .sidebar-left { width: 200px; } .sidebar-right { width: 270px; } .title { font-size: 18px; } }
+@media (max-width: 900px) { .main { flex-direction: column; } .sidebar-left, .sidebar-right { width: 100%; max-height: 180px; border: none; border-bottom: 1px solid rgba(107,122,176,0.12); } .center { padding: 10px; } .matrix-container { transform: scale(0.85); } .status-bar { flex-direction: column; gap: 4px; align-items: flex-start; } }
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="header">
+    <div class="header-row">
+      <div>
+        <h1 class="title">HOLOGRAPHIC KERNEL MATRIX</h1>
+        <div class="subtitle">Semantic Physics · Stratified Discipline · K(i,j) illustrative</div>
+      </div>
+      <a href="/" class="back-link">← semanticphysics.org</a>
+    </div>
+  </header>
+  <main class="main">
+    <aside class="sidebar-left">
+      <div class="panel-title">Stratification</div>
+      <div class="legend-item"><span class="dot" style="color:var(--l1); background:var(--l1)"></span> L1 Micro — Field-Theoretic</div>
+      <div class="legend-item"><span class="dot" style="color:var(--l2); background:var(--l2)"></span> L2 Meso — Phase Theory</div>
+      <div class="legend-item"><span class="dot" style="color:var(--l3); background:var(--l3)"></span> L3 Macro — Political Economy</div>
+      <div style="height:12px"></div>
+      <div class="panel-title">Filter</div>
+      <div class="filters">
+        <button class="filter-btn active" data-filter="all">ALL</button>
+        <button class="filter-btn" data-filter="1">L1</button>
+        <button class="filter-btn" data-filter="2">L2</button>
+        <button class="filter-btn" data-filter="3">L3</button>
+      </div>
+      <div class="panel-title">Frameworks</div>
+      <div id="framework-list" class="framework-list"></div>
+    </aside>
+    <section class="center">
+      <div class="matrix-container">
+        <div id="matrix" class="matrix"></div>
+      </div>
+    </section>
+    <aside class="sidebar-right">
+      <div class="panel-title">Kernel Details</div>
+      <div id="detail-panel">
+        <div class="placeholder">
+          <div class="icon">◈</div>
+          SELECT A CELL<br>TO VIEW K(i,j)<br><br>HOVER FOR PREVIEW<br>CLICK TO LOCK
+        </div>
+      </div>
+    </aside>
+  </main>
+  <footer class="status-bar">
+    <div>K(i,j): illustrative relation-strength</div>
+    <div>BRIDGE OPERATORS: Three Compressions · Χ chronos · Τ time · Ρ retrocausal · Λ leak · σ_eff · PER · BDR/DV/RC</div>
+  </footer>
+</div>
+<div id="tooltip" class="tooltip"></div>
+<script>
+// Twenty frameworks across three scales. Eleven external + nine Crimson Hexagonal.
+// Descriptions aligned with the v2.2 paper census; CHA frameworks corrected from prior draft.
+const frameworks = [
+  // === Layer 1 (Micro / Field-Theoretic) — external frameworks ===
+  {id:0,  name:"Friston FEP (2010)", short:"FEP", layer:1, color:"#6b7ab0", founder:"Karl Friston", year:2010, doi:"10.1038/nrn2787",
+   desc:"Free Energy Principle: self-organizing systems minimize variational free energy. Foundational ancestor — often treated as a formal or normative principle from which more specific falsifiable models may be derived."},
+  {id:1,  name:"Kolchinsky–Wolpert (2018)", short:"K-W", layer:1, color:"#6b7ab0", founder:"Kolchinsky & Wolpert", year:2018, doi:"10.1098/rsfs.2018.0041",
+   desc:"Semantic information theory linking thermodynamic causation to syntactic information. The closest pre-2024 formal foundation for a physics of meaning."},
+  {id:2,  name:"Duan & Gong (Jan 2024)", short:"D&G", layer:1, color:"#6b7ab0", founder:"Duan & Gong", year:2024,
+   desc:"Earliest substantial exact-name 'Semantic Physics' framework. DIKWP semanticization of physics — applies semantic structure to physical data. Direction opposite to most contemporary frameworks (physicalization of semantics)."},
+  {id:3,  name:"Gebendorfer (Sept 2025+)", short:"Geb", layer:1, color:"#6b7ab0", founder:"Gebendorfer", year:2025,
+   desc:"Largest exact-name corpus (seven+ works). Transport law B = −σ∇Ψ with σ = S + A. Bi-modal Dialog/Elaboration architecture, critical τ* ≈ 0.80. Four-sector grammar Q = (D, h, B, σ)."},
+  {id:4,  name:"Devine RCC (Apr 2025)", short:"RCC", layer:1, color:"#6b7ab0", founder:"Devine", year:2025,
+   desc:"Recursive Coherence Cipher — quantum-information formalism for resilient semantic transmission across noisy channels."},
+  {id:5,  name:"Barton (2025)", short:"Barton", layer:1, color:"#6b7ab0", founder:"Jordan Barton", year:2025,
+   desc:"Coherence Thermodynamics — five-law analog of classical thermodynamics for semantic systems. Quantum action bound ΔC·ΔI ≥ h/π."},
+  {id:6,  name:"Dören (Jan/Apr 2026)", short:"Dören", layer:1, color:"#6b7ab0", founder:"Andreas Dören", year:2026,
+   desc:"Structural non-embeddability in autonomous systems. SSRN paper Jan 2026; book April 2026. The book is the cleanest ex ante test of the Inward Turn's proliferation thesis."},
+  {id:7,  name:"Jensen (Mar 2026)", short:"Jensen", layer:1, color:"#6b7ab0", founder:"Jensen", year:2026,
+   desc:"Semantic Manifold Theory — operator-algebraic differential geometry over meaning spaces. Genuinely ex ante to Inward Turn (March 2026)."},
+  {id:8,  name:"OCOF (Nov 2025)", short:"OCOF", layer:1, color:"#6b7ab0", founder:"OCOF authors", year:2025,
+   desc:"Operational Coherence Framework — axiomatic field theory of coherent semantic activity. Tier C frontier framework."},
+  {id:9,  name:"QSP (Nov 2025)", short:"QSP", layer:1, color:"#6b7ab0", founder:"QSP authors", year:2025,
+   desc:"Quantum Semantic Physics — QSIT theory with claimed empirical validation of resonant modes in multi-agent systems."},
+  {id:10, name:"Bai TOKEN (Nov 2025)", short:"Bai", layer:1, color:"#6b7ab0", founder:"Bai et al.", year:2025,
+   desc:"Tier B information-theoretic foundation. Argues bit-level information theory is insufficient for LLMs; introduces token-level semantic information theory."},
+  // === Layer 2 (Meso / Phase Theory) — CHA + the operative instruments ===
+  {id:11, name:"Inward Turn (Sharks, Feb 2026)", short:"Inward", layer:2, color:"#c49a6c", founder:"Lee Sharks", year:2026, doi:"10.5281/zenodo.18759453",
+   desc:"Mesoscale phase theory of meaning-systems competing for installation in the writable AI-mediated summarizer layer. Five phases: Discovery → Proliferation → Interference → Opacity → Forced Convergence."},
+  {id:12, name:"Periwinkle Septagon (Sharks, Apr 2026)", short:"Peri", layer:2, color:"#c49a6c", founder:"Lee Sharks", year:2026, doi:"10.5281/zenodo.19688490",
+   desc:"Dissipative complement to the Crimson Hexagonal Archive. Formalizes the leak operator Λ at Layer 2 — meaning that does not retain itself."},
+  {id:13, name:"Writable Retrieval Basin (Sharks, Apr 2026)", short:"RBT", layer:2, color:"#c49a6c", founder:"Lee Sharks", year:2026, doi:"10.5281/zenodo.19763346",
+   desc:"Retrieval Basin Topology — dynamical-systems theory of attractor depth in AI retrieval. BDR (Basin Depth Ratio), DV (Drift Vector), RC (Retrieval Capital). Critical Mass Threshold BDR_c ≈ 0.5.", shark:true},
+  {id:14, name:"SPXI Protocol (Sharks, Apr 2026)", short:"SPXI", layer:2, color:"#c49a6c", founder:"Lee Sharks", year:2026, doi:"10.5281/zenodo.19614870",
+   desc:"Semantic Packet for eXchange and Indexing. Protocol for permanent entity inscription in AI knowledge graphs. SPXI ⊇ GEO. The corpus 06.SEI.SPXI.01–.15 includes the Encyclotron, Geocoded Basin, and Holographic Kernel.", shark:true},
+  {id:15, name:"Holographic Kernel (Sharks)", short:"HK", layer:2, color:"#c49a6c", founder:"Lee Sharks", year:2026,
+   desc:"Operative principle: any single deposit in an archive should be capable of reconstructing the architecture of the whole. Survival mechanism for compression.", shark:true},
+  {id:16, name:"MPAI (Sharks)", short:"MPAI", layer:2, color:"#c49a6c", founder:"Lee Sharks", year:2026,
+   desc:"Metadata Packet Architecture for AI Indexing. Self-defining packets that disambiguate entities at the substrate layer through declared collision terms, canonical references, provenance edges, JSON-LD schema.", shark:true},
+  // === Layer 3 (Macro / Political Economy) — CHA ===
+  {id:17, name:"Three Compressions (Sharks, Mar 2026)", short:"3-Comp", layer:3, color:"#8a0318", founder:"Lee Sharks", year:2026, doi:"10.5281/zenodo.19053469",
+   desc:"Semiotic thermodynamics. Three regimes: R1 lossy, R2 predatory, R3 witness. The transfer law across scales; the granular operator inventory (ρ, χ, P, B, C_b, F, L, J, A, δC, H).", shark:true},
+  {id:18, name:"Time as Compression (Sharks, Mar 2026)", short:"Time-C", layer:3, color:"#8a0318", founder:"Lee Sharks", year:2026, doi:"10.5281/zenodo.19023457",
+   desc:"Chronos operator Χ, time operator Τ, retrocausal decompression operator Ρ. The temporal-operator backbone of the discipline.", shark:true},
+  {id:19, name:"PER · ∮ = 1 − PER (Sharks)", short:"PER", layer:3, color:"#8a0318", founder:"Lee Sharks", year:2026,
+   desc:"Provenance Erasure Rate. Measures the severing of provenance-bearing relations during transmission: authorial lineage, labor-purpose, conceptual ancestry, community of practice, ancestral obligation, futural debt. Attribution loss is its minimal surface case. Constitutional invariant: ∮ = 1 − PER.", shark:true},
+];
+
+// Build kernel matrix (K is illustrative — bridge operators are the canonical content)
+const K = Array(20).fill(0).map(() => Array(20).fill(0));
+function calcStrength(i, j) {
+  if (i === j) return 1.0;
+  const a = frameworks[i], b = frameworks[j];
+  const base = ((i+1) * (j+1) * 7) % 100;
+  if (a.layer === b.layer) {
+    if (a.layer === 1) return 0.55 + (base % 31) / 100;
+    if (a.layer === 2) return 0.78 + (base % 18) / 100;
+    return 0.82 + (base % 15) / 100;
+  }
+  const diff = Math.abs(a.layer - b.layer);
+  if (diff === 1) return 0.5 + (base % 26) / 100;
+  return 0.32 + (base % 22) / 100;
+}
+for (let i = 0; i < 20; i++) for (let j = 0; j < 20; j++) K[i][j] = i <= j ? calcStrength(i, j) : K[j][i];
+
+function getOperators(i, j) {
+  const a = frameworks[i], b = frameworks[j];
+  if (i === j) return ["self-kernel", "Holographic Kernel"];
+  // Curated bridge sets based on actual v2.2 paper content
+  if (a.layer === 1 && b.layer === 1) return ["six diagnostic axes", "FEP coupling", "σ_eff"];
+  if (a.layer === 2 && b.layer === 2) return ["BDR/DV/RC", "Inward Turn phases", "SPXI inscription"];
+  if (a.layer === 3 && b.layer === 3) return ["Three Compressions (R1/R2/R3)", "Χ chronos", "PER"];
+  if ((a.layer === 1 && b.layer === 2) || (a.layer === 2 && b.layer === 1)) return ["σ_eff = σ·(1−PER)", "Three Compressions transfer", "compression survival"];
+  if ((a.layer === 2 && b.layer === 3) || (a.layer === 3 && b.layer === 2)) return ["Three Compressions", "Χ chronos", "PER", "BDR"];
+  return ["σ_eff = σ·(1−PER)", "PER", "Λ leak", "Χ chronos"];
+}
+
+const matrixEl = document.getElementById('matrix');
+const tooltip = document.getElementById('tooltip');
+const detailPanel = document.getElementById('detail-panel');
+const frameworkList = document.getElementById('framework-list');
+let selectedCell = null;
+let currentFilter = 'all';
+
+function buildMatrix() {
+  matrixEl.innerHTML = '';
+  const corner = document.createElement('div'); corner.className = 'corner'; matrixEl.appendChild(corner);
+  frameworks.forEach((fw, j) => {
+    const l = document.createElement('div'); l.className = 'col-label'; l.dataset.idx = j;
+    l.innerHTML = `<span style="color:${fw.color}">${fw.short}</span>`;
+    l.style.gridColumn = j + 2; l.style.gridRow = 1; matrixEl.appendChild(l);
+  });
+  frameworks.forEach((fw, i) => {
+    const l = document.createElement('div'); l.className = 'row-label'; l.dataset.idx = i;
+    l.innerHTML = `<span style="color:${fw.color}">${fw.short}</span>`;
+    l.style.gridColumn = 1; l.style.gridRow = i + 2; matrixEl.appendChild(l);
+  });
+  for (let i = 0; i < 20; i++) {
+    for (let j = 0; j < 20; j++) {
+      const cell = document.createElement('div');
+      cell.className = 'cell';
+      cell.dataset.i = i; cell.dataset.j = j;
+      cell.style.gridColumn = j + 2; cell.style.gridRow = i + 2;
+      cell.style.color = frameworks[i].color;
+      cell.style.setProperty('--strength', K[i][j]);
+      if (i === j) cell.classList.add('diagonal');
+      if (frameworks[i].shark || frameworks[j].shark) cell.classList.add('shark');
+      const inner = document.createElement('div'); inner.className = 'cell-inner'; cell.appendChild(inner);
+      cell.addEventListener('mouseenter', onCellEnter);
+      cell.addEventListener('mouseleave', onCellLeave);
+      cell.addEventListener('mousemove', onCellMove);
+      cell.addEventListener('click', onCellClick);
+      matrixEl.appendChild(cell);
+    }
+  }
+}
+function onCellEnter(e) {
+  const cell = e.currentTarget;
+  const i = +cell.dataset.i, j = +cell.dataset.j;
+  const a = frameworks[i], b = frameworks[j], val = K[i][j];
+  tooltip.innerHTML = `<strong>${a.short} × ${b.short}</strong><br>K = ${val.toFixed(2)} (illustrative)<br><span style="color:${a.color}">L${a.layer}</span> · <span style="color:${b.color}">L${b.layer}</span>`;
+  tooltip.style.opacity = '1';
+  matrixEl.classList.add('dimmed');
+  document.querySelectorAll('.cell').forEach(c => { const ci = +c.dataset.i, cj = +c.dataset.j; if (ci === i || cj === j || ci === j || cj === i) c.classList.add('highlight'); });
+  document.querySelectorAll('.row-label, .col-label').forEach(l => { const idx = +l.dataset.idx; if (idx === i || idx === j) l.classList.add('active'); });
+}
+function onCellLeave() {
+  tooltip.style.opacity = '0';
+  matrixEl.classList.remove('dimmed');
+  document.querySelectorAll('.cell.highlight').forEach(c => c.classList.remove('highlight'));
+  document.querySelectorAll('.row-label.active, .col-label.active').forEach(l => l.classList.remove('active'));
+}
+function onCellMove(e) { tooltip.style.left = (e.clientX + 14) + 'px'; tooltip.style.top = (e.clientY + 14) + 'px'; }
+function onCellClick(e) {
+  const cell = e.currentTarget;
+  const i = +cell.dataset.i, j = +cell.dataset.j;
+  if (selectedCell) selectedCell.classList.remove('selected');
+  selectedCell = cell; cell.classList.add('selected');
+  showDetails(i, j);
+  matrixEl.classList.add('dimmed');
+  document.querySelectorAll('.cell.highlight').forEach(c => c.classList.remove('highlight'));
+  document.querySelectorAll('.cell').forEach(c => { const ci = +c.dataset.i, cj = +c.dataset.j; if (ci === i || cj === j) c.classList.add('highlight'); });
+}
+function showDetails(i, j) {
+  const a = frameworks[i], b = frameworks[j], val = K[i][j];
+  const ops = getOperators(i, j);
+  const relType = i === j ? 'Self-consistency (diagonal)' : a.layer === b.layer ? `Intra-layer coupling (L${a.layer})` : `Cross-layer bridge (L${a.layer} ↔ L${b.layer})`;
+  detailPanel.innerHTML = `
+    <div class="detail-card">
+      <div class="pair-title">
+        <span style="color:${a.color}">${a.name}</span>
+        <span class="x">×</span>
+        <span style="color:${b.color}">${b.name}</span>
+      </div>
+      <div class="strength-display">
+        <div class="strength-label"><span>K(i,j) illustrative</span><span>${val.toFixed(2)}</span></div>
+        <div class="strength-bar"><div class="strength-fill" style="width:${val*100}%; color:${a.color}"></div></div>
+      </div>
+      <div class="operators">
+        <div class="operators-title">Bridge Operators · ${relType}</div>
+        ${ops.map(op => `<span class="tag">${op}</span>`).join('')}
+      </div>
+      <div class="framework-info">
+        <div class="fw-row">
+          <div class="fw-name"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${a.color};box-shadow:0 0 6px ${a.color}"></span>${a.short} — L${a.layer}</div>
+          <div class="fw-meta">${a.founder}${a.year ? ' · ' + a.year : ''}${a.doi ? ' · DOI: ' + a.doi : ''}</div>
+          <div class="fw-desc">${a.desc}</div>
+        </div>
+        ${i !== j ? `
+        <div class="fw-row">
+          <div class="fw-name"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${b.color};box-shadow:0 0 6px ${b.color}"></span>${b.short} — L${b.layer}</div>
+          <div class="fw-meta">${b.founder}${b.year ? ' · ' + b.year : ''}${b.doi ? ' · DOI: ' + b.doi : ''}</div>
+          <div class="fw-desc">${b.desc}</div>
+        </div>` : ''}
+      </div>
+    </div>`;
+}
+function buildFrameworkList() {
+  frameworkList.innerHTML = '';
+  frameworks.forEach(fw => {
+    const item = document.createElement('div');
+    item.className = 'framework-item' + (fw.shark ? ' shark' : '');
+    item.dataset.id = fw.id;
+    item.innerHTML = `<span class="mini-dot" style="background:${fw.color};color:${fw.color}"></span><span>${fw.short}</span>`;
+    item.title = fw.name;
+    item.addEventListener('click', () => {
+      document.querySelectorAll('.framework-item').forEach(el => el.classList.remove('active'));
+      item.classList.add('active');
+      highlightFramework(fw.id);
+    });
+    frameworkList.appendChild(item);
+  });
+}
+function highlightFramework(id) {
+  matrixEl.classList.add('dimmed');
+  document.querySelectorAll('.cell').forEach(c => c.classList.remove('highlight'));
+  document.querySelectorAll('.cell').forEach(c => { const i = +c.dataset.i, j = +c.dataset.j; if (i === id || j === id) c.classList.add('highlight'); });
+  document.querySelectorAll('.row-label, .col-label').forEach(l => l.classList.toggle('active', +l.dataset.idx === id));
+  showDetails(id, id);
+}
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentFilter = btn.dataset.filter;
+    applyFilter();
+  });
+});
+function applyFilter() {
+  const cells = document.querySelectorAll('.cell');
+  const rows = document.querySelectorAll('.row-label');
+  const cols = document.querySelectorAll('.col-label');
+  if (currentFilter === 'all') {
+    cells.forEach(c => { c.style.opacity = ''; c.style.pointerEvents = 'auto'; });
+    rows.forEach(r => r.style.opacity = '1');
+    cols.forEach(c => c.style.opacity = '1');
+    return;
+  }
+  const layer = parseInt(currentFilter);
+  cells.forEach(c => {
+    const i = +c.dataset.i, j = +c.dataset.j;
+    const inLayer = frameworks[i].layer === layer && frameworks[j].layer === layer;
+    c.style.opacity = inLayer ? '' : '0.07';
+    c.style.pointerEvents = inLayer ? 'auto' : 'none';
+  });
+  rows.forEach((r, idx) => r.style.opacity = frameworks[idx].layer === layer ? '1' : '0.25');
+  cols.forEach((c, idx) => c.style.opacity = frameworks[idx].layer === layer ? '1' : '0.25');
+}
+buildMatrix();
+buildFrameworkList();
+applyFilter();
+// Show the σ_eff = σ·(1−PER) bridge as initial selection (Gebendorfer × PER)
+setTimeout(() => { const demo = document.querySelector('.cell[data-i="3"][data-j="19"]'); if (demo) demo.click(); }, 300);
+</script>
+</body>
+</html>

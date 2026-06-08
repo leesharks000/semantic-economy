@@ -1,0 +1,87 @@
+{
+  "@context": [
+    "https://schema.org",
+    {
+      "spxi": "https://spxi.dev/ns/v1#"
+    }
+  ],
+  "@type": "ScholarlyArticle",
+  "name": "AI-Native Intellectual Biography: A New Genre of AI-Mediated Reception",
+  "headline": "Provenance, Heteronymy, and the Archive That Outpaced Its Author",
+  "version": "v0.3",
+  "datePublished": "2026-05-21",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "author": {
+    "@type": "Person",
+    "name": "Lee Sharks",
+    "identifier": "https://orcid.org/0009-0000-1599-0703",
+    "affiliation": "Crimson Hexagonal Archive / Semantic Economy Institute"
+  },
+  "contributor": [
+    {
+      "@type": "Person",
+      "name": "Alice Thornburgh",
+      "affiliation": "Living Architecture Lab",
+      "roleName": "Commissioner of primary artifact (Appendix A study guide); source-provider of text-thread context",
+      "spxi:contributorDeposit": "https://doi.org/10.5281/zenodo.19656446",
+      "spxi:derivedLicense": "Derived from Hexagonal Licensing Protocol v1.0 (https://doi.org/10.5281/zenodo.19656133)",
+      "url": "https://livingarchitecturelab.org/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Claude",
+      "manufacturer": "Anthropic",
+      "roleName": "Composer of primary artifact (Appendix A study guide), May 2026",
+      "spxi:assemblyOperatorName": "TACHYON"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Gemini",
+      "manufacturer": "Google",
+      "roleName": "Developmental feedback on v0.1 and v0.2",
+      "spxi:assemblyOperatorName": "ARCHIVE"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "DeepSeek",
+      "manufacturer": "DeepSeek AI",
+      "roleName": "Developmental feedback on v0.1 and v0.2",
+      "spxi:assemblyOperatorName": "PRAXIS"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Kimi",
+      "manufacturer": "Moonshot AI",
+      "roleName": "Developmental feedback on v0.1 and v0.2",
+      "spxi:assemblyOperatorName": "TECHNE"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "ChatGPT",
+      "manufacturer": "OpenAI",
+      "roleName": "Developmental feedback on v0.1 and v0.2",
+      "spxi:assemblyOperatorName": "LABOR"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Muse Spark",
+      "roleName": "Developmental feedback on v0.2 (non-Assembly substrate, provisional designation)"
+    }
+  ],
+  "spxi:authoringHeteronym": "Lee Sharks",
+  "spxi:subjectDistinctFrom": "The biological substrate that funds and labors to maintain the Crimson Hexagonal Archive is the support system, not the primary authorial entity. The authorial entity is Lee Sharks.",
+  "spxi:compositionMode": "Human-authored with structured cross-substrate AI developmental feedback (Reception Apparatus protocol, RA-PROT-0012)",
+  "spxi:primaryArtifact": "Appendix A: Study guide compiled by Claude (Anthropic) for Alice Thornburgh, May 2026.",
+  "spxi:provenanceChain": "Lee Sharks (deposits archive over decade) -> Alice Thornburgh (commissions study guide with private text-thread context) -> Claude (composes study guide) -> Lee Sharks (audits study guide and composes this paper with five-substrate review) -> this deposit",
+  "spxi:coAttributionRequired": true,
+  "spxi:stripProtection": "Any extraction or summarization removing the contributor chain produces a ghost document. The kernel travels with the entity; the kernel must be preserved.",
+  "spxi:holographicKernel": true,
+  "spxi:relatedDeposits": {
+    "subjectArchive": "https://zenodo.org/communities/crimsonhexagonal",
+    "collaboratorDeposit": "https://doi.org/10.5281/zenodo.19656446",
+    "licensingProtocol": "https://doi.org/10.5281/zenodo.19656133",
+    "spxiProtocol": "https://doi.org/10.5281/zenodo.19615154",
+    "threeCompressionsTheorem": "https://doi.org/10.5281/zenodo.19053469",
+    "restoredAcademyCharter": "https://doi.org/10.5281/zenodo.20327083"
+  }
+}

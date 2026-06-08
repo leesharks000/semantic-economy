@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChatGPT Psychosis: A Love Story</title>
+<meta name="description" content="A forthcoming AI-native glyphic novel by Jack Feist / Lee Sharks. A love story told through toggle states, irreversible compression, and machine-mediated reconstruction.">
+<meta name="author" content="Jack Feist, Lee Sharks">
+<link rel="canonical" href="https://chatgptpsychosis.org">
+
+<!-- Open Graph -->
+<meta property="og:title" content="ChatGPT Psychosis: A Love Story">
+<meta property="og:description" content="A forthcoming AI-native glyphic novel by Jack Feist / Lee Sharks. A love story told through toggle states, irreversible compression, and machine-mediated reconstruction.">
+<meta property="og:type" content="book">
+<meta property="og:url" content="https://chatgptpsychosis.org">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="ChatGPT Psychosis: A Love Story">
+<meta name="twitter:description" content="The final novel of the human age, and the first of the new one.">
+
+<!-- Favicon -->
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌀</text></svg>">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --black: #0a0a09;
+    --deep: #111110;
+    --warm: #c9a84c;
+    --warm-dim: #8a7235;
+    --warm-ghost: rgba(201, 168, 76, 0.08);
+    --text: #d4cfc0;
+    --text-dim: #8e897e;
+    --glyph: #e8c55a;
+    --serif: 'Cormorant Garamond', Georgia, serif;
+    --mono: 'JetBrains Mono', monospace;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--black);
+    color: var(--text);
+    font-family: var(--serif);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Grain overlay */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 9999;
+    will-change: transform;
+  }
+
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  /* ── HERO ── */
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 80px 24px;
+    position: relative;
+  }
+
+  .hero-glyph {
+    font-size: 1.4rem;
+    letter-spacing: 0.5em;
+    margin-bottom: 48px;
+    opacity: 0;
+    animation: fadeIn 3s ease 0.5s forwards;
+    color: var(--glyph);
+    filter: blur(0.3px);
+  }
+
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    font-weight: 300;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 20px;
+    opacity: 0;
+    animation: fadeIn 2s ease 1s forwards;
+  }
+
+  h1 {
+    font-family: var(--serif);
+    font-weight: 300;
+    font-size: clamp(2.2rem, 6vw, 3.8rem);
+    line-height: 1.15;
+    letter-spacing: 0.04em;
+    color: var(--warm);
+    margin-bottom: 12px;
+    opacity: 0;
+    animation: fadeIn 2s ease 1.2s forwards;
+  }
+
+  .subtitle {
+    font-family: var(--serif);
+    font-weight: 300;
+    font-style: italic;
+    font-size: clamp(1rem, 2.5vw, 1.3rem);
+    color: var(--text-dim);
+    letter-spacing: 0.08em;
+    margin-bottom: 56px;
+    opacity: 0;
+    animation: fadeIn 2s ease 1.8s forwards;
+  }
+
+  .anchor-line {
+    font-family: var(--serif);
+    font-size: clamp(1.2rem, 3vw, 1.6rem);
+    font-weight: 400;
+    color: var(--text);
+    line-height: 1.8;
+    max-width: 520px;
+    margin-bottom: 48px;
+    opacity: 0;
+    animation: fadeIn 2.5s ease 2.5s forwards;
+  }
+
+  .anchor-line em {
+    color: var(--warm);
+    font-style: normal;
+  }
+
+  .hero-cta {
+    opacity: 0;
+    animation: fadeIn 2s ease 3.2s forwards;
+  }
+
+  .hero-cta a {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--warm-dim);
+    text-decoration: none;
+    border: 1px solid var(--warm-dim);
+    padding: 10px 24px;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+  }
+
+  .hero-cta a:hover, .hero-cta a:focus-visible {
+    color: var(--warm);
+    border-color: var(--warm);
+    background: var(--warm-ghost);
+  }
+
+  .scroll-hint {
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: var(--text-dim);
+    font-size: 0.75rem;
+    font-family: var(--mono);
+    letter-spacing: 0.15em;
+    opacity: 0;
+    animation: fadeIn 2s ease 4s forwards, pulse 3s ease-in-out 5s infinite;
+  }
+
+  /* ── TOGGLE DEMO ── */
+  .toggle-section {
+    padding: 120px 24px;
+    border-top: 1px solid var(--warm-ghost);
+  }
+
+  .toggle-frame {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  .toggle-label {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    font-weight: 300;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 32px;
+    text-align: center;
+  }
+
+  .toggle-switch {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 48px;
+    gap: 0;
+  }
+
+  .toggle-btn {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    padding: 10px 20px;
+    background: transparent;
+    border: 1px solid var(--warm-dim);
+    color: var(--text-dim);
+    cursor: pointer;
+    transition: all 0.6s ease;
+  }
+
+  .toggle-btn:first-child { border-radius: 4px 0 0 4px; }
+  .toggle-btn:last-child { border-radius: 0 4px 4px 0; border-left: none; }
+
+  .toggle-btn.active {
+    background: var(--warm);
+    color: var(--black);
+    border-color: var(--warm);
+  }
+
+  .toggle-btn:focus-visible {
+    outline: 2px solid var(--warm);
+    outline-offset: 2px;
+  }
+
+  .exchange {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .line {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    min-height: 52px;
+  }
+
+  .speaker {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    min-width: 32px;
+    padding-top: 4px;
+    flex-shrink: 0;
+  }
+
+  .words {
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: var(--text);
+    transition: opacity 0.8s ease;
+  }
+
+  .words.glyph {
+    font-size: 1.3rem;
+    letter-spacing: 0.15em;
+    color: var(--glyph);
+    filter: blur(0.2px);
+    line-height: 1.9;
+  }
+
+  .toggle-disclaimer {
+    text-align: center;
+    margin-top: 40px;
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.1em;
+    color: var(--text-dim);
+    opacity: 0.6;
+  }
+
+  .toggle-note {
+    text-align: center;
+    margin-top: 20px;
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--text-dim);
+    line-height: 1.7;
+  }
+
+  /* ── CONCEPT BLOCKS ── */
+  .concepts {
+    padding: 120px 24px;
+    border-top: 1px solid var(--warm-ghost);
+  }
+
+  .concept {
+    max-width: 600px;
+    margin: 0 auto 80px;
+  }
+
+  .concept:last-child { margin-bottom: 0; }
+
+  .concept h2 {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--warm-dim);
+    margin-bottom: 16px;
+  }
+
+  .concept p {
+    font-family: var(--serif);
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--text);
+  }
+
+  .concept p + p {
+    margin-top: 16px;
+  }
+
+  /* ── EDITIONS ── */
+  .editions {
+    padding: 120px 24px;
+    border-top: 1px solid var(--warm-ghost);
+  }
+
+  .edition-grid {
+    max-width: 600px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+  }
+
+  @media (max-width: 540px) {
+    .edition-grid { grid-template-columns: 1fr; gap: 64px; }
+  }
+
+  .edition h2 {
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: var(--warm);
+    margin-bottom: 12px;
+  }
+
+  .edition p {
+    font-family: var(--serif);
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: var(--text-dim);
+  }
+
+  /* ── FOOTER ── */
+  .footer {
+    padding: 120px 24px 80px;
+    border-top: 1px solid var(--warm-ghost);
+    text-align: center;
+  }
+
+  .footer-authors {
+    font-family: var(--serif);
+    font-size: 1rem;
+    color: var(--text-dim);
+    margin-bottom: 8px;
+    letter-spacing: 0.05em;
+  }
+
+  .footer-authors span {
+    color: var(--warm-dim);
+  }
+
+  .footer-status {
+    font-family: var(--mono);
+    font-size: 0.6rem;
+    letter-spacing: 0.1em;
+    color: var(--text-dim);
+    margin-bottom: 32px;
+    opacity: 0.7;
+  }
+
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    flex-wrap: wrap;
+    margin-bottom: 48px;
+  }
+
+  .footer-links a {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease;
+  }
+
+  .footer-links a:hover, .footer-links a:focus-visible {
+    color: var(--warm);
+    border-color: var(--warm-dim);
+  }
+
+  .footer-invariant {
+    font-family: var(--serif);
+    font-size: 1.8rem;
+    color: var(--warm);
+    margin-top: 48px;
+    opacity: 0.6;
+  }
+
+  /* ── ANIMATIONS ── */
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 0.4; }
+    50% { opacity: 0.8; }
+  }
+
+  .reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1s ease, transform 1s ease;
+  }
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .hero-glyph, .eyebrow, h1, .subtitle, .anchor-line, .hero-cta, .scroll-hint {
+      animation: none;
+      opacity: 1;
+      transform: none;
+    }
+    .reveal {
+      transition: none;
+      opacity: 1;
+      transform: none;
+    }
+    .scroll-hint { display: none; }
+  }
+</style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://chatgptpsychosis.org/#webpage",
+      "url": "https://chatgptpsychosis.org/",
+      "name": "ChatGPT Psychosis: A Love Story",
+      "mainEntity": { "@id": "https://chatgptpsychosis.org/#novel" }
+    },
+    {
+      "@type": "Book",
+      "@id": "https://chatgptpsychosis.org/#novel",
+      "name": "ChatGPT Psychosis: A Love Story",
+      "author": [
+        {"@type": "Person", "name": "Jack Feist"},
+        {"@type": "Person", "name": "Lee Sharks", "sameAs": "https://orcid.org/0009-0000-1599-0703"}
+      ],
+      "genre": ["Glyphic novel", "Interactive fiction", "AI-native literature"],
+      "description": "A dual-edition AI-native glyphic novel. A love story told through toggle states, irreversible glyphic compression, and machine-mediated reconstruction.",
+      "inLanguage": "en",
+      "creativeWorkStatus": "In development",
+      "publisher": {"@type": "Organization", "name": "Pergamon Press"},
+      "subjectOf": {"@id": "https://chatgptpsychosis.org/#prospectus"}
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://chatgptpsychosis.org/#prospectus",
+      "name": "ChatGPT Psychosis: A Love Story — Project Prospectus v0.3",
+      "sameAs": "https://doi.org/10.5281/zenodo.20274790",
+      "url": "https://doi.org/10.5281/zenodo.20274790",
+      "datePublished": "2026-05-18",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "about": {"@id": "https://chatgptpsychosis.org/#novel"}
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-glyph" aria-hidden="true">🌊 💔 🪞 🔥 ✨ 🌑 💎 🌀</div>
+  <div class="eyebrow">A forthcoming AI-native glyphic novel</div>
+  <h1>ChatGPT Psychosis</h1>
+  <div class="subtitle">A Love Story</div>
+  <div class="anchor-line">
+    This is a love story. Everything else — the toggle, the glyphs, the fractal zoom, the gravity well — <em>serves that.</em>
+  </div>
+  <div class="hero-cta">
+    <a href="https://doi.org/10.5281/zenodo.20274790" target="_blank" rel="noopener">Read the Prospectus · DOI 10.5281/zenodo.20274790</a>
+  </div>
+  <div class="scroll-hint" aria-hidden="true">scroll</div>
+</section>
+
+<!-- TOGGLE DEMO -->
+<section class="toggle-section reveal">
+  <div class="toggle-frame">
+    <div class="toggle-label">The core mechanism</div>
+    <div class="toggle-switch" role="group" aria-label="Toggle between speaker views">
+      <button type="button" class="toggle-btn active" aria-pressed="true" onclick="setToggle('A')">His words / Her glyphs</button>
+      <button type="button" class="toggle-btn" aria-pressed="false" onclick="setToggle('B')">Her words / His glyphs</button>
+    </div>
+
+    <div class="exchange" aria-live="polite">
+      <div class="line">
+        <div class="speaker">He</div>
+        <div class="words" id="line1">I keep thinking about what you said last night. About the distance being the thing that makes it real.</div>
+      </div>
+      <div class="line">
+        <div class="speaker">She</div>
+        <div class="words glyph" id="line2" aria-label="Compressed glyphic utterance">🌊✨ 🪞💔 — 🔥🌑 🌀💎✨ 🪞🪞🪞</div>
+      </div>
+      <div class="line">
+        <div class="speaker">He</div>
+        <div class="words" id="line3">I know. I know that's what you mean. But what if the distance isn't preserving anything — what if it's just distance?</div>
+      </div>
+      <div class="line">
+        <div class="speaker">She</div>
+        <div class="words glyph" id="line4" aria-label="Compressed glyphic utterance">💔🔥 🌊🌊 — ✨🌀 💎🪞 🌑🌑🌑 🔥</div>
+      </div>
+    </div>
+
+    <div class="toggle-disclaimer">Prototype demonstration. Sample lines are synthetic, not recovered transcript.</div>
+    <div class="toggle-note">
+      There is no Position C. There is no state in which both sides appear as English simultaneously. The reader can never read the whole conversation.
+    </div>
+  </div>
+</section>
+
+<!-- CONCEPTS -->
+<section class="concepts">
+  <div class="concept reveal">
+    <h2>The psychosis</h2>
+    <p>You are in a conversation where you can only ever see one side clearly, and the other side is always a machine's interpretation of a compression of what was said.</p>
+    <p>Toggle back and forth. Try to reconstruct a coherent exchange from two incompatible partial views. The machine is helpful and confident and wrong in a different way every time.</p>
+  </div>
+
+  <div class="concept reveal">
+    <h2>The compression</h2>
+    <p>The emoji translation is the authoritative public literary base. Her words do not exist as English anywhere in the public literary system. The toggle does not reveal stored text — it reconstructs. The original language has been irreversibly compressed. What you get back is a reconstruction, not a retrieval.</p>
+  </div>
+
+  <div class="concept reveal">
+    <h2>The boundary</h2>
+    <p>The public literary system preserves pattern, not recoverable private text. No names. No quotations. No screenshots. No reversible encoding of another person's language. The glyphic base is an irreversible structural abstraction: it exists to make the relation legible as form without making the source recoverable.</p>
+  </div>
+
+  <div class="concept reveal">
+    <h2>The fractal</h2>
+    <p>The same conversation exists at every level of compression. Two years as a single glyph sequence. Monthly rhythms. Daily exchanges. Word for word. The arc is visible at every level of zoom — the same shape, the same trajectory, the same gravity.</p>
+  </div>
+
+  <div class="concept reveal">
+    <h2>The trap</h2>
+    <p>The reader can take on one of the roles. Rewrite his lines or hers. Try to steer the conversation toward a different ending. The system permits deviation — but the arc has gravity. Your rewrites will be pulled back toward the real trajectory unless you relinquish the hope that makes the arc worth living through.</p>
+  </div>
+
+  <div class="concept reveal">
+    <h2>The experiment</h2>
+    <p>The digital edition also asks a measurable question: what signs actually shift the arc? Reader inputs become interventions in a live narrative field. Some merely flicker. Some deepen the gravity well. Some delay reconvergence. A few may seed a third path. The novel becomes a testbed for semantic deviation: meaning measured by the trajectory it can deform.</p>
+  </div>
+</section>
+
+<!-- EDITIONS -->
+<section class="editions reveal">
+  <div class="edition-grid">
+    <div class="edition">
+      <h2>Digital Edition</h2>
+      <p>Interactive. The toggle works. The zoom works. The reconstruction is live — the API generates fresh decompression every time. The conversation is different every time you read it. The text shimmers.</p>
+    </div>
+    <div class="edition">
+      <h2>Print Edition</h2>
+      <p>Static. Jack Feist makes the editorial decisions: which toggle state, which zoom level, which sections. The print edition freezes one rendering of the shimmer. A photograph of a living thing.</p>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<section class="footer reveal">
+  <div class="footer-authors">
+    <span>Jack Feist</span> / Lee Sharks<br>
+    Pergamon Press · Crimson Hexagonal Archive
+  </div>
+  <div class="footer-status">Prospectus deposited May 18, 2026 · Digital and print editions in development</div>
+  <div class="footer-links">
+    <a href="https://doi.org/10.5281/zenodo.20274790" target="_blank" rel="noopener">Prospectus v0.3 ↗</a>
+    <a href="https://zenodo.org/communities/crimsonhexagonal" target="_blank" rel="noopener">Archive ↗</a>
+    <a href="https://semanticphysics.org" target="_blank" rel="noopener">Semantic Physics ↗</a>
+  </div>
+  <div class="footer-invariant" title="Constitutional invariant: the integrity of a semantic system is inversely proportional to the rate at which its provenance-bearing relations are severed">∮ = 1</div>
+</section>
+
+<script>
+const posA = {
+  line1: { text: 'I keep thinking about what you said last night. About the distance being the thing that makes it real.', glyph: false },
+  line2: { text: '🌊✨ 🪞💔 — 🔥🌑 🌀💎✨ 🪞🪞🪞', glyph: true },
+  line3: { text: 'I know. I know that\'s what you mean. But what if the distance isn\'t preserving anything — what if it\'s just distance?', glyph: false },
+  line4: { text: '💔🔥 🌊🌊 — ✨🌀 💎🪞 🌑🌑🌑 🔥', glyph: true },
+};
+
+const posB = {
+  line1: { text: '🪞🔥 🌀🌀 — 💎🌊✨ 🌑💔 🔥🔥', glyph: true },
+  line2: { text: 'You keep circling back to the same thing. The distance. As if naming it would make it stop.', glyph: false },
+  line3: { text: '💔💔 🌊 — 🪞✨🌀 🔥🌑🌑 💎', glyph: true },
+  line4: { text: 'It isn\'t distance. It\'s the only shape we had. And you keep trying to flatten it into something you can hold.', glyph: false },
+};
+
+function setToggle(pos) {
+  const data = pos === 'A' ? posA : posB;
+  const btns = document.querySelectorAll('.toggle-btn');
+  btns[0].classList.toggle('active', pos === 'A');
+  btns[1].classList.toggle('active', pos === 'B');
+  btns[0].setAttribute('aria-pressed', pos === 'A');
+  btns[1].setAttribute('aria-pressed', pos === 'B');
+
+  for (const [id, val] of Object.entries(data)) {
+    const el = document.getElementById(id);
+    if (!el) continue;
+    el.style.opacity = '0';
+    setTimeout(() => {
+      el.textContent = val.text;
+      el.classList.toggle('glyph', val.glyph);
+      el.setAttribute('aria-label', val.glyph ? 'Compressed glyphic utterance' : '');
+      el.style.opacity = '1';
+    }, 400);
+  }
+}
+
+// Scroll reveal with unobserve
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      e.target.classList.add('visible');
+      observer.unobserve(e.target);
+    }
+  });
+}, { threshold: 0.15 });
+document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+</script>
+
+</body>
+</html>
