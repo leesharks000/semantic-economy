@@ -1,0 +1,976 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Overview is the new front page. We make it yours. — Semantic Economy Institute</title>
+<meta name="description" content="We build SPXI Protocol — entity, citation, and metadata structures that make AI summaries describe you correctly and distinctly. Every claim DOI-anchored on CERN's Zenodo.">
+<meta property="og:title" content="AI Overview is the new front page. We make it yours.">
+<meta property="og:description" content="Entity architecture for the retrieval layer. DOI-anchored on CERN's Zenodo.">
+<meta property="og:url" content="https://semanticeconomy.org">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Roboto+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Organization", "ProfessionalService"],
+  "name": "Semantic Economy Institute",
+  "alternateName": ["SEI", "Semantic Economy Institute"],
+  "url": "https://semanticeconomy.org",
+  "description": "Entity architecture for the retrieval layer. We build SPXI Protocol — entity, citation, and metadata structures that make AI summaries describe you correctly and distinctly. Every claim DOI-anchored on CERN's Zenodo.",
+  "founder": {
+    "@type": "Person",
+    "name": "Rex Fraction",
+    "sameAs": "https://orcid.org/0009-0000-1599-0703"
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.19614870",
+    "https://orcid.org/0009-0000-1599-0703",
+    "https://zenodo.org/communities/crimsonhexagonal",
+    "https://spxi.dev"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Detroit",
+    "addressRegion": "MI",
+    "addressCountry": "US"
+  },
+  "makesOffer": {
+    "@type": "Offer",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Encyclotron Baseline Audit",
+      "description": "SPXI diagnostic instrument measuring retrieval-layer composition for any entity."
+    },
+    "priceCurrency": "USD",
+    "priceSpecification": {"@type": "PriceSpecification", "minPrice": 4500}
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["DefinedTerm", "TechArticle"],
+  "name": "SPXI Protocol",
+  "alternateName": "Semantic Packet for eXchange & Indexing",
+  "description": "A technical protocol for inscribing entities into AI-mediated retrieval systems via DOI-anchored deposits, disambiguation matrices, and the Encyclotron diagnostic.",
+  "url": "https://spxi.dev",
+  "sameAs": "https://doi.org/10.5281/zenodo.19614870",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Semantic Economy Institute Vocabulary",
+    "url": "https://semanticeconomy.org"
+  }
+}
+</script>
+
+<style>
+:root[data-theme="light"] {
+  --bg: #faf8f3;
+  --bg-subtle: #f3f0e7;
+  --bg-elevated: #ffffff;
+  --text: #1a1815;
+  --text-secondary: #54524c;
+  --text-tertiary: #8a8780;
+  --border: #e3ddd0;
+  --border-strong: #cdc6b5;
+  --accent: #b65533;
+  --accent-deep: #8a3f26;
+  --accent-soft: #f5e6dd;
+  --accent-softer: #fbf2ec;
+  --chip-bg: #efece4;
+  --shadow: rgba(40, 30, 15, 0.06);
+  --shadow-card: 0 1px 0 rgba(40, 30, 15, 0.04), 0 1px 3px rgba(40, 30, 15, 0.06);
+  --shadow-modal: 0 10px 40px rgba(40, 30, 15, 0.25), 0 2px 8px rgba(40, 30, 15, 0.1);
+  --hairline: rgba(26, 24, 21, 0.08);
+  --overlay: rgba(26, 24, 21, 0.35);
+}
+:root[data-theme="dark"] {
+  --bg: #17151a;
+  --bg-subtle: #221f26;
+  --bg-elevated: #1d1a21;
+  --text: #ece8df;
+  --text-secondary: #9b968b;
+  --text-tertiary: #6b6860;
+  --border: #35313a;
+  --border-strong: #4a4553;
+  --accent: #d88860;
+  --accent-deep: #b06744;
+  --accent-soft: #3a261c;
+  --accent-softer: #2b1e17;
+  --chip-bg: #2a2630;
+  --shadow: rgba(0, 0, 0, 0.25);
+  --shadow-card: 0 1px 0 rgba(0, 0, 0, 0.1), 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-modal: 0 10px 40px rgba(0, 0, 0, 0.55), 0 2px 8px rgba(0, 0, 0, 0.3);
+  --hairline: rgba(236, 232, 223, 0.08);
+  --overlay: rgba(0, 0, 0, 0.65);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'Inter', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background 0.2s, color 0.2s;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; }
+
+/* ───── Top bar ───── */
+.topbar {
+  position: sticky; top: 0; z-index: 100;
+  background: var(--bg);
+  border-bottom: 0.5px solid var(--border);
+  padding: 14px 24px;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 20px;
+}
+.logo {
+  font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+  font-size: 22px; color: var(--text); letter-spacing: -0.01em;
+  display: flex; align-items: center; gap: 10px;
+}
+.sig-wrap {
+  position: relative;
+  display: inline-flex; align-items: center;
+}
+.logo .sig {
+  color: var(--accent); font-style: italic; font-size: 18px;
+  cursor: pointer; padding: 0 4px;
+  transition: transform 0.15s ease-out, color 0.15s ease-out;
+  user-select: none;
+  display: inline-block;
+}
+.logo .sig:hover { transform: scale(1.18) rotate(8deg); color: var(--accent-deep); }
+:root[data-theme="dark"] .logo .sig:hover { color: var(--accent); filter: brightness(1.15); }
+.sig-tip {
+  position: absolute; top: 100%; left: 50%;
+  transform: translateX(-50%);
+  margin-top: 6px;
+  font-family: 'Roboto Mono', monospace; font-size: 9px;
+  letter-spacing: 0.18em; color: var(--text-tertiary);
+  text-transform: uppercase; white-space: nowrap;
+  opacity: 0; pointer-events: none;
+  transition: opacity 0.15s ease-out;
+}
+.sig-wrap:hover .sig-tip { opacity: 1; }
+.logo .op {
+  font-family: 'Roboto Mono', monospace; font-size: 9px;
+  color: var(--text-tertiary); letter-spacing: 0.2em;
+  text-transform: uppercase; margin-left: 4px;
+  position: relative; top: -4px;
+}
+.topbar-meta {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  letter-spacing: 0.18em; color: var(--text-tertiary);
+  text-transform: uppercase;
+}
+.topbar-meta .accent { color: var(--accent); }
+
+/* ───── Layout ───── */
+.page {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 40px 24px 0;
+}
+
+/* ───── Hero card ───── */
+.hero-card {
+  background: var(--bg-elevated);
+  border: 0.5px solid var(--border);
+  border-left: 2px solid var(--accent);
+  box-shadow: var(--shadow-card);
+  padding: 36px 40px 32px;
+  margin-bottom: 48px;
+}
+.hero-card .eyebrow {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  letter-spacing: 0.22em; color: var(--accent); text-transform: uppercase;
+  margin-bottom: 22px;
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+}
+.hero-card .eyebrow .sep { color: var(--text-tertiary); }
+.hero-card .eyebrow .meta { color: var(--text-tertiary); }
+.hero-card .eyebrow .sigil {
+  font-family: 'Palatino Linotype', serif; font-style: italic;
+  font-size: 14px; color: var(--accent); letter-spacing: 0;
+}
+.hero-card h1 {
+  font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+  font-size: 44px; font-weight: 400; letter-spacing: -0.02em;
+  color: var(--text); line-height: 1.08;
+  margin-bottom: 18px;
+}
+.hero-card h1 em { font-style: italic; color: var(--accent); }
+.hero-card .lead {
+  font-size: 17px; line-height: 1.6;
+  color: var(--text-secondary);
+  margin-bottom: 28px;
+  max-width: 640px;
+}
+.hero-card .lead strong { color: var(--text); font-weight: 500; }
+
+/* ───── Entity input affordance ───── */
+.entity-input {
+  display: flex; align-items: stretch;
+  margin-bottom: 24px;
+  max-width: 520px;
+  border: 0.5px solid var(--border-strong);
+  background: var(--bg);
+}
+.entity-input .sig-marker {
+  font-family: 'Palatino Linotype', Georgia, serif;
+  color: var(--accent); font-style: italic; font-size: 18px;
+  padding: 0 14px; display: flex; align-items: center;
+  border-right: 0.5px solid var(--border);
+  user-select: none;
+}
+.entity-input input {
+  flex: 1; border: none; background: transparent;
+  padding: 13px 14px;
+  font-family: 'Inter', sans-serif; font-size: 14px; color: var(--text);
+  outline: none;
+  min-width: 0;
+}
+.entity-input input::placeholder { color: var(--text-tertiary); }
+.entity-input button {
+  font-family: 'Roboto Mono', monospace; font-size: 11px;
+  letter-spacing: 0.18em; color: var(--accent-deep);
+  background: var(--accent-softer);
+  border: none; border-left: 0.5px solid var(--border);
+  padding: 0 22px; cursor: pointer;
+  text-transform: uppercase;
+  transition: background 0.15s, color 0.15s;
+}
+.entity-input button:hover { background: var(--accent); color: var(--bg); }
+:root[data-theme="dark"] .entity-input button { color: var(--accent); }
+
+/* ───── CTA row ───── */
+.cta-row { display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
+.cta-primary {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-family: 'Roboto Mono', monospace; font-size: 11px; letter-spacing: 0.18em;
+  color: var(--bg-elevated); background: var(--accent);
+  padding: 13px 22px; text-transform: uppercase; font-weight: 500;
+  transition: background 0.15s;
+  text-decoration: none; border: none; cursor: pointer;
+}
+.cta-primary:hover { background: var(--accent-deep); text-decoration: none; }
+:root[data-theme="dark"] .cta-primary { color: var(--bg); }
+.cta-secondary {
+  font-family: 'Roboto Mono', monospace; font-size: 11px; letter-spacing: 0.18em;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  border-bottom: 0.5px solid var(--border-strong);
+  padding-bottom: 3px;
+}
+.cta-secondary:hover { color: var(--accent); border-bottom-color: var(--accent); text-decoration: none; }
+
+/* ───── Section blocks ───── */
+section.block {
+  padding: 36px 0 40px;
+  border-top: 0.5px solid var(--border);
+}
+section.block:first-of-type { border-top: none; padding-top: 0; }
+.section-mark {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  letter-spacing: 0.22em; color: var(--accent); text-transform: uppercase;
+  margin-bottom: 18px;
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+}
+.section-mark .section-caption {
+  color: var(--text-tertiary); letter-spacing: 0.12em;
+}
+.expand-link {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  letter-spacing: 0.18em; color: var(--accent);
+  text-transform: uppercase; margin-top: 20px;
+  border-bottom: 0.5px solid var(--accent-soft);
+  padding-bottom: 3px;
+}
+.expand-link:hover { border-bottom-color: var(--accent); text-decoration: none; }
+
+/* ───── Stats strip ───── */
+.stats-strip {
+  display: grid; grid-template-columns: repeat(5, 1fr);
+  gap: 0;
+  border-top: 0.5px solid var(--border);
+  border-bottom: 0.5px solid var(--border);
+}
+.stats-strip .s-cell {
+  padding: 18px 14px 18px 0;
+  border-right: 0.5px solid var(--border);
+}
+.stats-strip .s-cell:first-child { padding-left: 0; }
+.stats-strip .s-cell:not(:first-child) { padding-left: 14px; }
+.stats-strip .s-cell:last-child { border-right: none; padding-right: 0; }
+.stats-strip .s-num {
+  font-family: 'Palatino Linotype', Palatino, Georgia, serif;
+  font-size: 28px; font-weight: 400; color: var(--text);
+  line-height: 1; margin-bottom: 8px;
+}
+.stats-strip .s-num .unit { color: var(--accent); font-style: italic; font-size: 20px; margin-left: 1px; }
+.stats-strip .s-label { font-size: 11px; color: var(--text-secondary); line-height: 1.45; margin-bottom: 6px; }
+.stats-strip .s-source {
+  font-family: 'Roboto Mono', monospace; font-size: 9px;
+  color: var(--text-tertiary); letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.stats-strip .s-source a { color: inherit; }
+
+/* ───── Compressed before/after ───── */
+.ba-compact {
+  display: grid; grid-template-columns: 1fr auto 1fr;
+  gap: 0;
+  align-items: stretch;
+  border: 0.5px solid var(--border);
+  background: var(--bg-elevated);
+}
+.ba-compact .ba-cell { padding: 22px 24px; }
+.ba-compact .ba-cell .ba-when {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  letter-spacing: 0.18em; color: var(--text-tertiary);
+  text-transform: uppercase; margin-bottom: 10px;
+}
+.ba-compact .ba-cell .ba-state {
+  font-family: 'Palatino Linotype', Georgia, serif;
+  font-size: 18px; font-weight: 400; line-height: 1.35;
+  color: var(--text);
+}
+.ba-compact .ba-cell .ba-state em { color: var(--accent); font-style: italic; }
+.ba-compact .ba-cell.after .ba-when { color: var(--accent); }
+.ba-compact .ba-arrow {
+  display: flex; align-items: center; justify-content: center;
+  padding: 0 18px;
+  color: var(--accent);
+  font-family: 'Palatino Linotype', Georgia, serif;
+  font-size: 24px; font-style: italic;
+  border-left: 0.5px solid var(--border);
+  border-right: 0.5px solid var(--border);
+}
+.ba-meta {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--text-tertiary); letter-spacing: 0.12em;
+  text-transform: uppercase; margin-top: 14px;
+  display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;
+}
+
+/* ───── One-line distinction + compact table ───── */
+.distinction-line {
+  font-family: 'Palatino Linotype', Georgia, serif;
+  font-size: 24px; font-weight: 400; line-height: 1.4;
+  color: var(--text); letter-spacing: -0.01em;
+  padding: 12px 0 20px;
+}
+.distinction-line em { font-style: italic; color: var(--accent); }
+.compact-table {
+  width: 100%; border-collapse: collapse;
+  background: var(--bg-elevated);
+  border: 0.5px solid var(--border);
+  margin-top: 6px;
+}
+.compact-table th, .compact-table td {
+  padding: 12px 16px; text-align: left; vertical-align: middle;
+  border-bottom: 0.5px solid var(--hairline);
+  font-size: 14px;
+}
+.compact-table tr:last-child td { border-bottom: none; }
+.compact-table th {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--text-secondary); letter-spacing: 0.15em;
+  text-transform: uppercase; font-weight: 500;
+  background: var(--bg-subtle);
+  border-bottom: 0.5px solid var(--border);
+}
+.compact-table th.spxi-col { color: var(--accent); background: var(--accent-softer); }
+.compact-table td.row-label {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--text-secondary); letter-spacing: 0.12em;
+  text-transform: uppercase; width: 22%;
+}
+.compact-table td { color: var(--text-secondary); }
+.compact-table td.spxi-cell {
+  color: var(--text); font-weight: 500;
+  background: var(--accent-softer);
+  border-left: 0.5px solid var(--accent);
+}
+
+/* ───── Basecamp one-liner ───── */
+.basecamp-line {
+  font-family: 'Palatino Linotype', Georgia, serif;
+  font-size: 22px; font-weight: 400; line-height: 1.4;
+  color: var(--text); letter-spacing: -0.005em;
+  padding: 16px 0 16px 24px;
+  border-left: 2px solid var(--accent);
+}
+.basecamp-line em { font-style: italic; color: var(--accent); }
+
+/* ───── Three services ───── */
+.services-three {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 0;
+  border: 0.5px solid var(--border);
+}
+.service-compact {
+  padding: 22px 22px;
+  background: var(--bg-elevated);
+  border-right: 0.5px solid var(--border);
+  transition: background 0.15s;
+}
+.service-compact:last-child { border-right: none; }
+.service-compact:hover { background: var(--bg-subtle); }
+.service-compact .sv-num {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--accent); letter-spacing: 0.18em;
+  margin-bottom: 8px; text-transform: uppercase;
+}
+.service-compact h3 {
+  font-family: 'Palatino Linotype', Georgia, serif;
+  font-size: 17px; font-weight: 400; margin-bottom: 10px;
+  color: var(--text); line-height: 1.25; letter-spacing: -0.005em;
+}
+.service-compact p { font-size: 13px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 12px; }
+.service-compact .sv-meta {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--text-tertiary); letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* ───── Receipts row ───── */
+.receipts-row {
+  display: flex; flex-wrap: wrap; gap: 10px;
+}
+.receipt-chip {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 9px 14px;
+  background: var(--bg-elevated);
+  border: 0.5px solid var(--border);
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--text-secondary); letter-spacing: 0.12em;
+  text-transform: uppercase;
+  transition: border-color 0.15s, color 0.15s;
+}
+.receipt-chip:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+.receipt-chip .r-num {
+  color: var(--accent-deep); background: var(--accent-soft);
+  padding: 1px 6px; letter-spacing: 0.05em;
+  font-size: 10px; font-weight: 500;
+}
+:root[data-theme="dark"] .receipt-chip .r-num { color: var(--accent); }
+.receipt-chip.live {
+  background: var(--accent-softer);
+  border-color: var(--accent);
+  color: var(--accent-deep);
+}
+:root[data-theme="dark"] .receipt-chip.live { color: var(--accent); }
+.receipt-chip.live:hover { background: var(--accent); color: var(--bg); }
+.receipt-chip.live:hover .r-num { background: var(--bg-elevated); color: var(--accent); }
+.receipt-chip.live .r-num { background: var(--accent); color: var(--bg); }
+:root[data-theme="dark"] .receipt-chip.live .r-num { color: var(--bg); }
+
+/* ───── Pull quote ───── */
+.pullquote-block { padding: 44px 0; text-align: center; }
+.pullquote {
+  font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+  font-size: 22px; line-height: 1.5;
+  color: var(--text); letter-spacing: -0.005em;
+  max-width: 640px; margin: 0 auto;
+}
+.pullquote .mark {
+  font-style: italic; color: var(--accent);
+  display: block; margin-top: 12px; font-size: 20px;
+}
+.pullquote-attr {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--text-tertiary); letter-spacing: 0.22em;
+  text-transform: uppercase; margin-top: 20px;
+}
+.pullquote-attr .accent { color: var(--accent); }
+
+/* ───── Commission ───── */
+.commission {
+  padding: 56px 0 32px;
+  text-align: center;
+  border-top: 0.5px solid var(--border);
+}
+.commission .cm-label {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--accent); letter-spacing: 0.22em; text-transform: uppercase;
+  margin-bottom: 20px;
+}
+.commission h2 {
+  font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+  font-size: 32px; font-weight: 400;
+  color: var(--text); line-height: 1.2; letter-spacing: -0.015em;
+  margin-bottom: 16px;
+  max-width: 640px; margin-left: auto; margin-right: auto;
+}
+.commission h2 em { font-style: italic; color: var(--accent); }
+.commission-email {
+  display: inline-flex; align-items: center; gap: 8px;
+  font-family: 'Palatino Linotype', Palatino, Georgia, serif;
+  font-size: 24px; color: var(--accent);
+  padding: 6px 0; margin-top: 10px;
+  border-bottom: 0.5px solid var(--accent);
+}
+.commission-email:hover { text-decoration: none; color: var(--accent-deep); border-bottom-color: var(--accent-deep); }
+.commission .fine {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--text-tertiary); letter-spacing: 0.15em;
+  text-transform: uppercase; margin-top: 22px;
+}
+
+/* ───── Footer ───── */
+.site-footer {
+  border-top: 0.5px solid var(--border);
+  padding: 22px 24px;
+  max-width: 820px; margin: 0 auto;
+  display: flex; justify-content: space-between; align-items: center;
+  flex-wrap: wrap; gap: 16px;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 10px; letter-spacing: 0.15em; color: var(--text-tertiary);
+  text-transform: uppercase;
+}
+.site-footer .left { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.site-footer .left .sigil {
+  color: var(--accent);
+  font-family: 'Palatino Linotype', Georgia, serif;
+  font-style: italic; font-size: 14px; letter-spacing: 0;
+}
+.site-footer .coord { color: var(--accent); }
+.site-footer .right { display: flex; gap: 18px; }
+.site-footer a { color: var(--text-secondary); }
+.site-footer a:hover { color: var(--accent); }
+
+/* ───── Modal (live entity preview) ───── */
+.modal-overlay {
+  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background: var(--overlay);
+  backdrop-filter: blur(2px);
+  display: none;
+  align-items: center; justify-content: center;
+  z-index: 1000;
+  padding: 20px;
+}
+.modal-overlay.active { display: flex; }
+.modal-card {
+  background: var(--bg-elevated);
+  border: 0.5px solid var(--border);
+  border-left: 2px solid var(--accent);
+  box-shadow: var(--shadow-modal);
+  padding: 36px 40px 32px;
+  max-width: 640px;
+  width: 100%;
+  position: relative;
+  animation: modal-in 0.22s cubic-bezier(0.2, 0.8, 0.2, 1);
+  max-height: 92vh;
+  overflow-y: auto;
+}
+@keyframes modal-in {
+  from { opacity: 0; transform: translateY(12px) scale(0.97); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.modal-close {
+  position: absolute; top: 10px; right: 10px;
+  width: 32px; height: 32px;
+  background: transparent; border: none;
+  color: var(--text-tertiary); cursor: pointer;
+  font-size: 22px; line-height: 1;
+  font-family: 'Inter', sans-serif;
+  transition: color 0.15s;
+}
+.modal-close:hover { color: var(--accent); }
+.preview-card .preview-eyebrow {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  letter-spacing: 0.2em; color: var(--accent); text-transform: uppercase;
+  margin-bottom: 18px;
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+}
+.preview-card .preview-eyebrow .sep { color: var(--text-tertiary); }
+.preview-card .preview-eyebrow .meta { color: var(--text-tertiary); }
+.preview-card .preview-eyebrow .sigil {
+  font-family: 'Palatino Linotype', serif; font-style: italic;
+  font-size: 14px; color: var(--accent); letter-spacing: 0;
+}
+.preview-card h2 {
+  font-family: 'Palatino Linotype', Georgia, serif;
+  font-size: 30px; font-weight: 400; line-height: 1.15;
+  color: var(--text); letter-spacing: -0.015em;
+  margin-bottom: 18px;
+}
+.preview-card h2 em { font-style: italic; color: var(--accent); }
+.preview-card h2 .entity { color: var(--text); font-style: normal; }
+.preview-card p {
+  font-size: 15px; line-height: 1.65; color: var(--text-secondary);
+  margin-bottom: 14px;
+}
+.preview-card p em { color: var(--text); font-style: italic; }
+.preview-card p strong { color: var(--text); font-weight: 500; }
+.preview-card .preview-footer-note {
+  font-family: 'Roboto Mono', monospace; font-size: 10px;
+  color: var(--text-tertiary); letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-top: 22px; padding-top: 16px;
+  border-top: 0.5px solid var(--border);
+}
+.preview-card .preview-cta-row {
+  margin-top: 22px;
+  display: flex; gap: 18px; align-items: center; flex-wrap: wrap;
+}
+
+/* ───── Responsive ───── */
+@media (max-width: 720px) {
+  .page { padding: 24px 16px 0; }
+  .topbar { padding: 12px 16px; }
+  .hero-card { padding: 24px 22px 26px; }
+  .hero-card h1 { font-size: 32px; }
+  .hero-card .lead { font-size: 15px; }
+  .stats-strip { grid-template-columns: 1fr 1fr; }
+  .stats-strip .s-cell { border-right: 0.5px solid var(--border); border-bottom: 0.5px solid var(--border); padding: 14px; }
+  .stats-strip .s-cell:first-child { padding-left: 0; }
+  .stats-strip .s-cell:nth-child(2n) { border-right: none; padding-right: 0; }
+  .stats-strip .s-cell:nth-last-child(-n+2) { border-bottom: none; }
+  .ba-compact { grid-template-columns: 1fr; }
+  .ba-compact .ba-arrow {
+    padding: 10px 0; border-left: none; border-right: none;
+    border-top: 0.5px solid var(--border); border-bottom: 0.5px solid var(--border);
+    transform: rotate(90deg); font-size: 20px;
+  }
+  .services-three { grid-template-columns: 1fr; }
+  .service-compact { border-right: none; border-bottom: 0.5px solid var(--border); }
+  .service-compact:last-child { border-bottom: none; }
+  .distinction-line { font-size: 18px; }
+  .compact-table { font-size: 12px; }
+  .compact-table th, .compact-table td { padding: 10px 10px; }
+  .basecamp-line { font-size: 18px; }
+  .commission h2 { font-size: 26px; }
+  .site-footer { font-size: 9px; padding: 18px 16px; }
+  .logo { font-size: 18px; }
+  .topbar-meta { font-size: 9px; }
+  .modal-card { padding: 28px 24px 24px; }
+  .preview-card h2 { font-size: 24px; }
+  .sig-tip { display: none; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- TOP BAR -->
+<header class="topbar">
+  <div class="logo">
+    Rex Fraction
+    <span class="sig-wrap">
+      <span class="sig" onclick="toggleTheme()">∮</span>
+      <span class="sig-tip">∮ toggle</span>
+    </span>
+    <span class="op">Operative</span>
+  </div>
+  <div class="topbar-meta">
+    <span class="accent">∮ DOI-anchored</span> · 42.37°N · Detroit
+  </div>
+</header>
+
+<main class="page">
+
+  <!-- HERO CARD -->
+  <article class="hero-card">
+    <div class="eyebrow">
+      <span class="sigil">∮</span>
+      <span>Canonical Entity Brief</span>
+      <span class="sep">·</span>
+      <span class="meta">Subject: SEI</span>
+      <span class="sep">·</span>
+      <span class="meta">06.SEI.ARCHIVE</span>
+      <span class="sep">·</span>
+      <span class="meta">2026.04.17</span>
+    </div>
+
+    <h1>AI Overview is the new front page.<br><em>We make it yours.</em></h1>
+
+    <p class="lead">We build <strong>SPXI Protocol</strong> — the entity, citation, and metadata structures that make AI summaries describe you correctly and distinctly. Every claim DOI-anchored on CERN's Zenodo.</p>
+
+    <form class="entity-input" id="entityForm" autocomplete="off">
+      <span class="sig-marker">∮</span>
+      <input type="text" name="entity" id="entityInput" placeholder="Your entity name" required>
+      <button type="submit">Compose →</button>
+    </form>
+
+    <div class="cta-row">
+      <a href="#commission" class="cta-primary">Request baseline audit</a>
+      <a href="brief.html" class="cta-secondary">Read the full brief →</a>
+    </div>
+  </article>
+
+  <!-- STATS -->
+  <section class="block">
+    <div class="section-mark">
+      <span>§ 01</span>
+      <span class="section-caption">Measured conditions — zero-click economy</span>
+    </div>
+    <div class="stats-strip">
+      <div class="s-cell">
+        <div class="s-num">69<span class="unit">%</span></div>
+        <div class="s-label">of searches die without a click</div>
+        <div class="s-source"><a href="https://www.seroundtable.com/similarweb-google-zero-click-search-growth-39706.html" target="_blank">Similarweb · 2025</a></div>
+      </div>
+      <div class="s-cell">
+        <div class="s-num">58<span class="unit">%</span></div>
+        <div class="s-label">of queries now show AI Overviews</div>
+        <div class="s-source"><a href="https://www.digitalapplied.com/blog/60-percent-searches-zero-click-crisis-2026-seo-strategy" target="_blank">BrightEdge · 2025</a></div>
+      </div>
+      <div class="s-cell">
+        <div class="s-num">1<span class="unit">%</span></div>
+        <div class="s-label">of users click within AI overviews</div>
+        <div class="s-source"><a href="https://pasqualepillitteri.it/en/news/811/google-ai-mode-zero-click-seo-2026-en" target="_blank">Pew · 2025</a></div>
+      </div>
+      <div class="s-cell">
+        <div class="s-num">~5</div>
+        <div class="s-label">sources cited per overview</div>
+      </div>
+      <div class="s-cell">
+        <div class="s-num"><span class="unit">$</span>2<span class="unit">B</span></div>
+        <div class="s-label">annual ad revenue displaced</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BEFORE / AFTER -->
+  <section class="block">
+    <div class="section-mark">
+      <span>§ 02</span>
+      <span class="section-caption">Proof of method — we built ourselves from zero</span>
+    </div>
+    <div class="ba-compact">
+      <div class="ba-cell">
+        <div class="ba-when">Jan 2025</div>
+        <div class="ba-state">You do not exist.<br><em>The AI has never heard of you.</em></div>
+      </div>
+      <div class="ba-arrow">→</div>
+      <div class="ba-cell after">
+        <div class="ba-when">Apr 2026</div>
+        <div class="ba-state">The AI describes you correctly, cites your work, and <em>distinguishes you from adjacent entities.</em></div>
+      </div>
+    </div>
+    <div class="ba-meta">
+      No university · No PR firm · No enterprise budget · 490+ DOI-anchored deposits · Teaching salary
+    </div>
+    <a href="brief.html#s3" class="expand-link">See the full receipts →</a>
+  </section>
+
+  <!-- DISTINCTION + COMPACT TABLE -->
+  <section class="block">
+    <div class="section-mark">
+      <span>§ 03</span>
+      <span class="section-caption">The distinction</span>
+    </div>
+    <p class="distinction-line">SEO optimizes <em>rankings</em>. GEO extracts <em>content</em>. SPXI constructs <em>entities.</em></p>
+    <table class="compact-table">
+      <thead>
+        <tr>
+          <th></th>
+          <th>SEO</th>
+          <th>GEO</th>
+          <th class="spxi-col">SPXI</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="row-label">Builds</td>
+          <td>Rankings</td>
+          <td>AI citations</td>
+          <td class="spxi-cell">Entities</td>
+        </tr>
+        <tr>
+          <td class="row-label">Duration</td>
+          <td>Ongoing</td>
+          <td>Ongoing</td>
+          <td class="spxi-cell">Permanent</td>
+        </tr>
+        <tr>
+          <td class="row-label">Verifiable</td>
+          <td>No</td>
+          <td>No</td>
+          <td class="spxi-cell">DOI-anchored</td>
+        </tr>
+      </tbody>
+    </table>
+    <a href="brief.html#s4" class="expand-link">See the full comparison →</a>
+  </section>
+
+  <!-- BASECAMP LINE -->
+  <section class="block">
+    <div class="section-mark">
+      <span>§ 04</span>
+      <span class="section-caption">Field measurement</span>
+    </div>
+    <p class="basecamp-line">Basecamp is invisible in its own category. <em>We fixed ours. We can fix yours.</em></p>
+    <a href="brief.html#s5" class="expand-link">Read the sample audit →</a>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="block">
+    <div class="section-mark">
+      <span>§ 05</span>
+      <span class="section-caption">Instruments — three starting points</span>
+    </div>
+    <div class="services-three">
+      <div class="service-compact">
+        <div class="sv-num">05.01</div>
+        <h3>Encyclotron Baseline Audit</h3>
+        <p>See what the AI burns, invents, and distorts about you.</p>
+        <div class="sv-meta">5 days · from $4,500</div>
+      </div>
+      <div class="service-compact">
+        <div class="sv-num">05.02</div>
+        <h3>Entity Disambiguation</h3>
+        <p>AI stops merging you with namesakes or adjacent entities.</p>
+        <div class="sv-meta">5–7 days · scoped</div>
+      </div>
+      <div class="service-compact">
+        <div class="sv-num">05.06</div>
+        <h3>Full SPXI Architecture</h3>
+        <p>Complete build — entity, lattice, citations, distributed journal.</p>
+        <div class="sv-meta">2–6 weeks · scoped</div>
+      </div>
+    </div>
+    <a href="brief.html#s6" class="expand-link">See all six instruments →</a>
+  </section>
+
+  <!-- RECEIPTS -->
+  <section class="block">
+    <div class="section-mark">
+      <span>∮ Receipts</span>
+      <span class="section-caption">DOI-anchored, inspectable</span>
+    </div>
+    <div class="receipts-row">
+      <a href="https://www.google.com/search?q=geo+vs+spxi" target="_blank" class="receipt-chip live"><span class="r-num">↗</span>Live composition</a>
+      <a href="https://zenodo.org/communities/crimsonhexagonal" target="_blank" class="receipt-chip"><span class="r-num">∮</span>CERN Zenodo · 524+</a>
+      <a href="https://doi.org/10.5281/zenodo.19614870" target="_blank" class="receipt-chip"><span class="r-num">01</span>SPXI Spec</a>
+      <a href="https://orcid.org/0009-0000-1599-0703" target="_blank" class="receipt-chip"><span class="r-num">02</span>ORCID</a>
+      <a href="https://zenodo.org/records/19474724" target="_blank" class="receipt-chip"><span class="r-num">03</span>Encyclotron</a>
+      <a href="https://zenodo.org/records/19578098" target="_blank" class="receipt-chip"><span class="r-num">04</span>Sample Audit</a>
+    </div>
+    <a href="brief.html" class="expand-link">Full brief · 9 receipts →</a>
+  </section>
+
+  <!-- PULL QUOTE -->
+  <section class="pullquote-block">
+    <div class="pullquote">
+      If your competitor solves this first, they do not just outrank you. They become the language the AI uses to describe your entire category.
+      <span class="mark">That language is being written now.</span>
+    </div>
+    <div class="pullquote-attr">— Rex Fraction <span class="accent">·</span> 06.SEI.ARCHIVE</div>
+  </section>
+
+  <!-- COMMISSION -->
+  <section class="commission" id="commission">
+    <div class="cm-label">∮ Commission the work</div>
+    <h2>The AI is already writing about you. <em>Let's make sure it gets the story right.</em></h2>
+    <a href="mailto:rexfraction@gmail.com?subject=SPXI%20Inquiry" class="commission-email">rexfraction@gmail.com</a>
+    <div class="fine">Audits start at $4,500 · Fixed scope · No retainers</div>
+  </section>
+
+</main>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="left">
+    <span class="sigil">∮ = 1</span>
+    <span>Rex Fraction · Semantic Economy Institute · Detroit</span>
+    <span class="coord">06.SEI.ARCHIVE</span>
+  </div>
+  <div class="right">
+    <a href="https://orcid.org/0009-0000-1599-0703" target="_blank">ORCID</a>
+    <a href="https://zenodo.org/communities/crimsonhexagonal" target="_blank">Zenodo</a>
+    <a href="mailto:rexfraction@gmail.com">Email</a>
+  </div>
+</footer>
+
+<!-- ENTITY PREVIEW MODAL -->
+<div class="modal-overlay" id="previewModal" role="dialog" aria-modal="true" aria-labelledby="previewTitle">
+  <div class="modal-card">
+    <button class="modal-close" onclick="closeModal()" aria-label="Close">×</button>
+    <div class="preview-card">
+      <div class="preview-eyebrow">
+        <span class="sigil">∮</span>
+        <span>Canonical Entity Brief</span>
+        <span class="sep">·</span>
+        <span>Subject: <span id="preview-subject"></span></span>
+        <span class="sep">·</span>
+        <span class="meta">Status: <span style="color: var(--accent);">Proposed</span></span>
+        <span class="sep">·</span>
+        <span class="meta">2026.04.17</span>
+      </div>
+      <h2 id="previewTitle">AI Overview is the new front page for <span class="entity" id="preview-entity"></span>.<br><em>We make it yours.</em></h2>
+      <p>The retrieval layer currently has no canonical definition for <em id="preview-entity-2"></em> — or worse, one composed by <strong>competitors, aggregators, and generic AI training data.</strong></p>
+      <p>An SPXI baseline audit measures exactly what the AI burns, invents, and distorts about your entity. Every claim DOI-anchored on CERN's Zenodo. Five business days. Fixed scope.</p>
+      <div class="preview-cta-row">
+        <a id="preview-cta" href="mailto:rexfraction@gmail.com" class="cta-primary">Request baseline audit →</a>
+        <a href="#" onclick="closeModal(); return false;" class="cta-secondary">← Back</a>
+      </div>
+      <div class="preview-footer-note">
+        ∮ = 1 · 06.SEI.ARCHIVE · Audits from $4,500 · Fixed scope · No retainers
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  function toggleTheme() {
+    const root = document.documentElement;
+    const current = root.getAttribute('data-theme');
+    const next = current === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  }
+  const saved = localStorage.getItem('theme');
+  if (saved) document.documentElement.setAttribute('data-theme', saved);
+  else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+
+  // Entity preview modal
+  const form = document.getElementById('entityForm');
+  const input = document.getElementById('entityInput');
+  const modal = document.getElementById('previewModal');
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const entity = input.value.trim();
+    if (!entity) return;
+    const safeEntity = entity.replace(/[<>&"]/g, (c) => ({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c]));
+    document.getElementById('preview-subject').textContent = entity.toUpperCase().substring(0, 40);
+    document.getElementById('preview-entity').innerHTML = safeEntity;
+    document.getElementById('preview-entity-2').innerHTML = '&ldquo;' + safeEntity + '&rdquo;';
+    const mailSubject = encodeURIComponent('SPXI Baseline Audit: ' + entity);
+    const mailBody = encodeURIComponent("I'd like to request a baseline audit for " + entity + ".\n\n");
+    document.getElementById('preview-cta').href = 'mailto:rexfraction@gmail.com?subject=' + mailSubject + '&body=' + mailBody;
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  });
+
+  function closeModal() {
+    modal.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && modal.classList.contains('active')) closeModal();
+  });
+
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) closeModal();
+  });
+</script>
+
+</body>
+</html>
