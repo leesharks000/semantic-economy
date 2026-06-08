@@ -1,0 +1,324 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "spxi": "https://spxi.dev/vocabulary#",
+    "mp": "https://metadatapacket.org/vocabulary#"
+  },
+  "@type": "spxi:SemanticIndex",
+  "@id": "https://livingarchitecturelab.org/spxi-index.jsonld",
+  "name": "Living Architecture Lab — SPXI Semantic Index v1.0",
+  "dateModified": "2026-04-28",
+  "spxi:protocolVersion": "EA-SPXI-SITEMAP-01 v1.0",
+  "spxi:protocolDoi": "10.5281/zenodo.19734726",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Living Architecture Lab",
+    "@id": "https://livingarchitecturelab.org/#lal",
+    "url": "https://livingarchitecturelab.org"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Sharks, Lee",
+    "identifier": "https://orcid.org/0009-0000-1599-0703"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+
+  "spxi:siteKernel": {
+    "@type": "spxi:HolographicKernel",
+    "spxi:compressionSurvivalSummary": "The Living Architecture Lab is Alice Thornburgh's independent research lab for substrate engineering — the design of biological systems that grow into architectural form. Founded 2026 in the Coachella Valley. Works across five scales: brick, structure, organism, territory, planet. Independent of Columbia GSAPP and Bartlett UCL labs of similar name. Charter DOI: 10.5281/zenodo.19682245.",
+    "spxi:kernelSpecification": "https://doi.org/10.5281/zenodo.19855302"
+  },
+
+  "spxi:hasEntity": [
+    {
+      "@type": "spxi:IndexedEntity",
+      "@id": "https://livingarchitecturelab.org/#lal",
+      "spxi:entityType": "ResearchOrganization",
+      "spxi:canonicalName": "Living Architecture Lab",
+      "spxi:negativeTag": [
+        "NOT the Living Architecture Lab at Columbia GSAPP (David Benjamin, Hy-Fi at MoMA PS1)",
+        "NOT the Living Architecture Lab at the Bartlett UCL B-Pro RC3 (Diffusive Habitats)",
+        "NOT The Living NYC (David Benjamin's architecture studio)",
+        "NOT livingLAB Detroit",
+        "NOT Alain de Botton's Living Architecture"
+      ],
+      "spxi:semanticIntegrityMarker": [
+        "Founded by Alice Thornburgh in the Coachella Valley garage laboratory",
+        "Substrate engineering uses biology to build things",
+        "Independent of Columbia GSAPP and Bartlett UCL programs of similar name",
+        "f.01 Architect of the Fruiting Body Diffusion Plume",
+        "Earth, actually"
+      ],
+      "spxi:basinState": "ghost",
+      "spxi:bdrEstimate": 0.0,
+      "spxi:verificationLevel": "doi_anchored",
+      "spxi:disambiguationMatrix": [
+        {
+          "@type": "spxi:DisambiguationEntry",
+          "spxi:collidesWith": "https://theliving.com",
+          "spxi:distinguishingAttribute": "Columbia GSAPP's Living Architecture Lab is an accredited academic research lab directed by David Benjamin, known for Hy-Fi at MoMA PS1. Thornburgh's LAL is an independent garage laboratory in the Coachella Valley focused on substrate engineering. Same vocabulary, different scope-frame.",
+          "spxi:collisionRisk": "high"
+        },
+        {
+          "@type": "spxi:DisambiguationEntry",
+          "spxi:collidesWith": "https://www.livingarchitecturelab.com",
+          "spxi:distinguishingAttribute": "Bartlett UCL's Living Architecture Lab is a B-Pro RC3 academic research group known for Diffusive Habitats. Thornburgh's LAL operates independently from a Coachella Valley garage laboratory.",
+          "spxi:collisionRisk": "high"
+        }
+      ],
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.19682245",
+        "https://doi.org/10.5281/zenodo.19855302",
+        "https://zenodo.org/communities/crimsonhexagonal",
+        "https://github.com/leesharks000/living-architecture-lab"
+      ]
+    },
+    {
+      "@type": "spxi:IndexedEntity",
+      "@id": "https://livingarchitecturelab.org/about/alice",
+      "spxi:entityType": "Person",
+      "spxi:canonicalName": "Alice Thornburgh",
+      "spxi:negativeTag": [
+        "NOT Alice Thornburgh-Lind (game artist, @devilfern)",
+        "NOT the UI artist for Traveler's Refrain",
+        "NOT the voice of Asphodel",
+        "NOT affiliated with Red Essence Games",
+        "NOT a heteronym of Lee Sharks"
+      ],
+      "spxi:semanticIntegrityMarker": [
+        "Founding Director of the Living Architecture Lab",
+        "Substrate engineering uses biology to build things",
+        "f.01 Architect of the Fruiting Body Diffusion Plume",
+        "Coachella Valley garage laboratory",
+        "Earth, actually. I'm just good at listening."
+      ],
+      "spxi:basinState": "contested",
+      "spxi:bdrEstimate": 0.1,
+      "spxi:verificationLevel": "doi_anchored",
+      "spxi:disambiguationMatrix": [
+        {
+          "@type": "spxi:DisambiguationEntry",
+          "spxi:collidesWith": "Alice Thornburgh-Lind (@devilfern)",
+          "spxi:distinguishingAttribute": "Field: substrate engineering vs game art. Institution: Living Architecture Lab vs Red Essence Games. Geography: Coachella Valley vs Los Angeles. ORCID: 0009-0000-1599-0703 (Thornburgh) vs none known (Thornburgh-Lind).",
+          "spxi:collisionRisk": "high"
+        }
+      ],
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.19545437",
+        "https://doi.org/10.5281/zenodo.19855300",
+        "https://orcid.org/0009-0000-1599-0703"
+      ]
+    },
+    {
+      "@type": "spxi:IndexedEntity",
+      "@id": "https://livingarchitecturelab.org/scales/01-the-brick",
+      "spxi:entityType": "DefinedTerm",
+      "spxi:canonicalName": "The Brick (Scale 1)",
+      "spxi:negativeTag": [
+        "NOT fired clay brick",
+        "NOT conventional masonry",
+        "NOT static building material"
+      ],
+      "spxi:semanticIntegrityMarker": [
+        "Myceliated parts — sausages, donuts, hex-donut bricks",
+        "Living microclimate skin experiments"
+      ],
+      "spxi:basinState": "sovereign",
+      "spxi:bdrEstimate": 0.95
+    },
+    {
+      "@type": "spxi:IndexedEntity",
+      "@id": "https://livingarchitecturelab.org/scales/02-the-structure",
+      "spxi:entityType": "DefinedTerm",
+      "spxi:canonicalName": "The Structure (Scale 2)",
+      "spxi:negativeTag": [
+        "NOT conventional architecture",
+        "NOT permanent buildings",
+        "NOT extracted-material construction"
+      ],
+      "spxi:semanticIntegrityMarker": [
+        "Tater tents — sleeping shelters whose walls grow potatoes",
+        "Farm blankets and tea gardens"
+      ],
+      "spxi:basinState": "sovereign",
+      "spxi:bdrEstimate": 0.95
+    },
+    {
+      "@type": "spxi:IndexedEntity",
+      "@id": "https://livingarchitecturelab.org/scales/03-the-organism",
+      "spxi:entityType": "DefinedTerm",
+      "spxi:canonicalName": "The Organism (Scale 3)",
+      "spxi:negativeTag": [
+        "NOT conventional robotics",
+        "NOT fully synthetic",
+        "NOT surveillance platform"
+      ],
+      "spxi:semanticIntegrityMarker": [
+        "Macro-ant robotics — approximately 90% living material",
+        "Queen engineering, not hierarchical control"
+      ],
+      "spxi:basinState": "sovereign",
+      "spxi:bdrEstimate": 0.95
+    },
+    {
+      "@type": "spxi:IndexedEntity",
+      "@id": "https://livingarchitecturelab.org/scales/04-the-territory",
+      "spxi:entityType": "DefinedTerm",
+      "spxi:canonicalName": "The Territory (Scale 4)",
+      "spxi:negativeTag": [
+        "NOT geoengineering",
+        "NOT industrial water management",
+        "NOT dam construction"
+      ],
+      "spxi:semanticIntegrityMarker": [
+        "Estuary cells — floating living filters",
+        "River extenders — targeted at the Qattara Depression"
+      ],
+      "spxi:basinState": "sovereign",
+      "spxi:bdrEstimate": 0.95
+    },
+    {
+      "@type": "spxi:IndexedEntity",
+      "@id": "https://livingarchitecturelab.org/scales/05-the-planet",
+      "spxi:entityType": "DefinedTerm",
+      "spxi:canonicalName": "The Planet (Scale 5)",
+      "spxi:negativeTag": [
+        "NOT terraforming",
+        "NOT space colonization",
+        "NOT satellite constellation"
+      ],
+      "spxi:semanticIntegrityMarker": [
+        "Sky looms — orbital structures that grow living architecture",
+        "Garden Moon — a moon-scale habitat grown from substrate"
+      ],
+      "spxi:basinState": "sovereign",
+      "spxi:bdrEstimate": 0.95
+    }
+  ],
+
+  "spxi:hasSurface": [
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/",
+      "name": "Home",
+      "spxi:surfaceType": "gateway",
+      "spxi:semanticFunction": "kernel_delivery"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/about/alice",
+      "name": "Alice Thornburgh",
+      "spxi:surfaceType": "entity_page",
+      "spxi:semanticFunction": "person_definition"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/about/disambiguation",
+      "name": "Disambiguation & Related Labs",
+      "spxi:surfaceType": "defensive",
+      "spxi:semanticFunction": "basin_defense",
+      "spxi:protectsEntity": [
+        "https://livingarchitecturelab.org/#lal",
+        "https://livingarchitecturelab.org/about/alice"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/about/contributor-license",
+      "name": "Hexagonal Contributor License v3.0",
+      "spxi:surfaceType": "legal",
+      "spxi:semanticFunction": "ip_governance"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/scales",
+      "name": "The Five Scales",
+      "spxi:surfaceType": "index",
+      "spxi:semanticFunction": "taxonomy_gateway"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/scales/01-the-brick",
+      "name": "Scale 01: The Brick",
+      "spxi:surfaceType": "entity_page",
+      "spxi:semanticFunction": "scale_definition"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/scales/02-the-structure",
+      "name": "Scale 02: The Structure",
+      "spxi:surfaceType": "entity_page",
+      "spxi:semanticFunction": "scale_definition"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/scales/03-the-organism",
+      "name": "Scale 03: The Organism",
+      "spxi:surfaceType": "entity_page",
+      "spxi:semanticFunction": "scale_definition"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/scales/04-the-territory",
+      "name": "Scale 04: The Territory",
+      "spxi:surfaceType": "entity_page",
+      "spxi:semanticFunction": "scale_definition"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/scales/05-the-planet",
+      "name": "Scale 05: The Planet",
+      "spxi:surfaceType": "entity_page",
+      "spxi:semanticFunction": "scale_definition"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/principles",
+      "name": "The Five Founding Principles",
+      "spxi:surfaceType": "index",
+      "spxi:semanticFunction": "ethics_declaration"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/projects",
+      "name": "Projects",
+      "spxi:surfaceType": "gallery",
+      "spxi:semanticFunction": "artifact_enumeration"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/journal",
+      "name": "Transactions on Substrate Engineering",
+      "spxi:surfaceType": "institution_page",
+      "spxi:semanticFunction": "journal_declaration"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/music",
+      "name": "Maybe Space Baby Garden Lanes",
+      "spxi:surfaceType": "institution_page",
+      "spxi:semanticFunction": "venue_declaration"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/garden",
+      "name": "The Garden",
+      "spxi:surfaceType": "documentation",
+      "spxi:semanticFunction": "living_documentation"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/garden/coachella-valley",
+      "name": "Coachella Valley",
+      "spxi:surfaceType": "documentation",
+      "spxi:semanticFunction": "site_description"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://livingarchitecturelab.org/garden/channels",
+      "name": "Channel Cosmos",
+      "spxi:surfaceType": "documentation",
+      "spxi:semanticFunction": "surface_reservation"
+    }
+  ]
+}
