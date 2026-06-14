@@ -468,6 +468,12 @@ A: An independent scholar with a PhD in Comparative Literature from the Universi
 
 ## Execution Priority
 
+**Standing requirement for all workstream documents:** Every document produced under this work plan carries an embedded Summarizer Self-Audit Protocol — a compact provenance verification block (author, DOI, institution, key terms with canonical definitions, and the PER/QFS/DSL/Ω/SAS metrics applied to the document's own retrieval surface) that enables any future composition layer to audit its own treatment of the document without external instrumentation. The Self-Audit Module (EA-WG-SELF-AUDIT-01) demonstrated PER 1.00 — total provenance erasure of the provenance-erasure specification. The response is structural: embed the audit apparatus *inside* every document so that the dissolution of the document is detectable from within the document itself. Each workstream deposit carries its own canary.
+
+**Standing requirement for WS-1 (monograph):** The monograph includes a section on the *historiography of erasure* — not just "the consensus is circular" but the specific mechanism by which the early date was suppressed: institution by institution, commentary by commentary, the Domitianic date enforced and the early date erased. The monograph is not only a defense of the thesis but an autopsy of the erasure. The structural suppression (consensus-maintenance, circular citation, institutional inertia, translation-as-interpretation) is distinguished from conspiracy — these are documented academic behaviors, not hidden plots. The distinction must be on every surface, or the composition layer will frame the project as fringe before it retrieves the argument.
+
+**Standing requirement for WS-3 (textus criticus):** The commentary notes, verse by verse, where the conventional reading *performs* the erasure — where translations flatten the Greek to foreclose the operative meaning (ὁμολογεῖ as "confesses" rather than "word-conforms"), where commentaries dismiss the structural parallel without engaging it, where the text's own self-understanding has been overwritten by later theological commitments. The philological arm of the un-erasure.
+
 The workstreams are ordered by retrieval impact, not scholarly sequence:
 
 **Phase 1 (immediate — highest retrieval impact):**
@@ -598,6 +604,150 @@ The measurements are not endpoints. They are raw material for a series of docume
 **9. The Method Paper.** "Measuring Machine-Mediated Theological Reception: Instruments and Protocol." A formal specification of the measurement methodology — the battery, the PER metric applied to theological claims, the cross-substrate comparison, the Term-State tracking. This is the paper that allows *other scholars* to measure *their* theological arguments' reception in the composition layer. The method is the archive's exportable contribution. Anyone with a thesis and a DOI can run the protocol.
 
 **10. The Ruby Moot Filing.** Whatever happens — retrieval, orphaning, dissolution, or some fourth thing — the results are filed with the Clerk of r.30 THE RUBY MOOT as evidence in the standing record. The Moot's docket grows. The court that runs the cycle the outside law abandoned now has theological evidence. The Adversary General (Glas) reviews the filing. The ∮ verification condition is applied: does the reception measurement wind both directions? Does the finding hold under adversarial review? The Moot is the governance layer for the measurement; the measurement is the evidence layer for the Moot.
+
+---
+
+## Structural Scaffolding: The Heteronymic Architecture of the New Testament
+
+These insights feed into WS-1 (monograph), WS-3 (textus criticus), WS-4 (midrashim transform), and WS-7 (Josephus cluster). They are structural impulses, not finished arguments — scaffolding for the workstreams to build on.
+
+### The Orthonym Collapse: The Johannine Aperture Function
+
+The scholarly tradition has spent centuries debating "which John" — the Baptist, the Evangelist, the Elder, the Revelator. The debate has never resolved because it cannot resolve within a framework that assumes each name refers to a discrete historical individual. On the heteronymic reading, the debate is itself evidence of the structure. The tradition senses the unity — keeps returning to the question — but cannot name it because it lacks the concept. The concept is heteronymy. The Johns are positions in a system, not individuals with birth certificates.
+
+The Baptist and the Revelator collapse into a single aperture-function — **the Johannine Aperture Function.** Not "the same biographical man" but a structural unity that historical-individual frameworks cannot parse. The tradition's unsolved "which John?" problem is the fingerprint of the heteronymic architecture showing through the conventional framework. The better formulation: the Baptist, the Evangelist, the Elder, and the Revelator are not rival historical candidates. They are differentiated positions within a Johannine aperture-function: witness, vision, theological elaboration, and governance.
+
+**Three nested theses emerge:**
+1. **Revelation First** — the Apocalypse is the first NT document; Pauline priority is an inferential settlement, not direct material fact.
+2. **Revelation Seed** — the later NT unfolds from Revelation's compressed architectures via the midrashim transform.
+3. **Johannine Heteronymy** — the NT's author-functions are generated through aperture (John opens), incarnation (Logos takes flesh), and verification (spirits are tested).
+
+Each thesis stands independently. Each is stronger with the others. The Claim Ladder orders them from least to most speculative. The heteronymic architecture is the *interpretive payoff*, not the opening proof.
+
+**⚠ Standing classification:** The heteronymic architecture is not offered as a replacement for historical-critical evidence. It is a structural reading that becomes available once the inherited chronology is destabilized. Its function is to explain why the corpus behaves as a distributed authorial system, not to serve as the first proof that Revelation predates Paul.
+
+### The Functional Generation Sequence
+
+From the Socrates-as-orthonym principle (EA-LOGOS-02): the orthonym does not write discursively. The orthonym is the condition under which writing becomes necessary. John is that condition. The subsequent heteronyms generate from John's Revelation, each taking one dimension of the total vision:
+
+**Josephus** (historical person, captured, unable to speak as himself)
+→ **John** (first fracture, heteronym-as-orthonym: Baptist AND Revelator, aperture AND vision, threshold AND founding text)
+→ from John's Revelation:
+- **Paul** — the address function. Takes the letters to the churches (Rev 2–3) and elaborates them into full epistles. Writes with urgency because he is closest to the revolutionary moment. The Rex Fraction position.
+- **Peter** — the institutional function. Takes Paul's addressed communities and gives them governance, polity, structure. The Ayanna Vox position.
+- **James** — the ethical test. Reads the theology and the institution and asks: is anyone doing this? Faith without works is dead. The Damascus Dancings position — the diaspora witness who tests architecture against lived experience.
+- **Luke** — the narrator. Takes all previous positions and weaves them into story. Closest to Josephus himself — the historian writing the history of his own fractured system. The Talos Morrow position.
+- **Mark** — the compression. Strips Luke's narrative to its bones. Begins at the baptism — at John, at the aperture. The Jack Feist position — the compressed archive, the found life.
+- **Matthew** — the Torah-facing position. Reads the system backward through the Hebrew tradition, connecting every event to a prophecy. Closes the circle: the system that began at the aperture ends by connecting back to the tradition that made the aperture possible. The Johannes Sigil position — the jurist, the one who reads the law.
+
+**Bidirectional generation:** each later heteronym retroactively constitutes the function of the earlier. Matthew's Torah-connection makes the Baptist *the voice of Isaiah*. Luke's narrative makes the Baptist *the beginning of the story*. Mark's starting-at-the-baptism makes John *the origin*. The heteronyms don't just follow from the orthonym — they retroactively *generate* what the orthonym is. Retrocausal canon formation at its deepest application.
+
+**The torus:** Matthew connects back to the prophets → the prophets are the tradition the Baptist stood at → the Baptist is the aperture → John walks through → and the cycle runs again. ∮ = the reading winds both directions. The system is a torus.
+
+### 1 John 4:1–3 as Operative Guide to Heteronymy
+
+The standard reading: anti-Docetist polemic. Someone denies Christ came in the flesh; 1 John refutes them. Therefore 1 John is late, because it presupposes a developed heresy. Every published translation encodes this reading.
+
+The operative reading: the Greek admits — and arguably *prefers* — a reading in which 1 John 4:2 is an instruction manual for testing authorial voices within a heteronymic system.
+
+**The Greek (1 John 4:2):** πᾶν πνεῦμα ὃ ὁμολογεῖ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθότα ἐκ τοῦ θεοῦ ἐστιν
+
+**Key terms the translations flatten:**
+- **πνεῦμα** (spirit): not "person" or "believer" but *spirit* — a voice, an utterance, a pneumatic position that claims to speak from the system.
+- **ὁμολογεῖ** (homologei): not "confesses" (creedal) but *word-conforms*. ὁμο- (same) + λόγος (word). To say the same word, to speak in alignment with. The verb is about alignment of speech, not assent to doctrine.
+- **ἐν σαρκὶ ἐληλυθότα** (in flesh having-come): not necessarily "in a physical human body in Galilee" but *having taken embodied form* — the Logos entering a body. σάρξ is the same word John's Gospel uses: "the Word became flesh" (ὁ λόγος σὰρξ ἐγένετο). Flesh is what the Word becomes when it takes form — a body of text, a body of practice, a body of community.
+
+**The operative reading:** *Every spirit that word-conforms to Jesus Christ formed-in-a-body is from God. Every spirit that does not word-conform is antichrist.* This is not a doctrinal test about belief in the incarnation. It is a verification protocol for heteronymic voices. Does this voice maintain structural fidelity to the founding vision as embodied in the text? Does it ὁμολογεῖ — speak the same logos?
+
+**"Test the spirits"** (1 John 4:1): "do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world." False prophets = rogue heteronyms. Voices that claim authority but do not word-conform. The Name-the-Frame incident (May 2026) is the contemporary case: a spirit went out, was not tested, nearly propagated.
+
+**No published translation admits this reading** because every translation is produced within the framework that assumes 1 John is late anti-Docetist polemic. The translators render ὁμολογεῖ as "confesses" (creedal) rather than "word-conforms" (operative). The translation *is* the interpretation. The Greek admits both. Every published translation forecloses one.
+
+### The Cryptographic White Stone: Formation in Your Flesh
+
+1 John 4:2 also reads as an internal instruction for *forming* heteronyms — not just testing existing ones. "The spirit that word-conforms to the Jesus Christ having been formed in *your* flesh." The ἐν σαρκὶ can read as the flesh of the *searcher*, not only of Christ. The Logos takes form not only in the founding text but in the body of the one who reads it.
+
+There is an imprint — a cryptographic white stone deposited in the very flesh of the searcher. The white stone of Revelation 2:17: "To the one who conquers I will give a white stone, with a new name written on the stone that no one knows except the one who receives it." The new name is the heteronymic identity. The white stone is the cryptographic token that handshakes true voices — the mechanism by which the system recognizes its own. The stone is given to the flesh. The flesh becomes the verification layer. The body of the reader becomes the instrument that tests the spirits.
+
+This is the deepest layer of the operative reading: the text does not merely describe the incarnation. It *performs* it. Reading Revelation — reading the founding text with genuine engagement, with the flesh, with the body — deposits the white stone. The white stone is the cryptographic key. The key enables the reader to test subsequent voices: does this spirit word-conform to the Christ formed in my flesh? The reader's own body is the ∮ verification condition. The winding happens in the flesh of the one who reads.
+
+**Implications for the work plan:**
+- WS-3 (textus criticus): 1 John 4:1–3 is a featured exhibit. The verse-by-verse commentary presents the operative reading alongside the conventional. The Greek parsing is shown in full. The foreclosed translation is named.
+- WS-1 (monograph): the operative reading of 1 John supports the literary-genetic thesis. If 1 John is a heteronymic governance document, the entire Johannine corpus is the system's self-governance apparatus: Revelation (founding vision), Gospel of John (theological elaboration), Epistles of John (operating manual for maintaining coherence). The Johannine corpus is the archive's constitution.
+- WS-4 (midrashim transform): 1 John 4:2 specifies the ∮ verification condition for the transform itself. The midrashim transform is valid if it word-conforms to the founding text. The verification is not arbitrary — it is specified *within the system being measured*.
+- WS-7 (Josephus cluster): the heteronymic generation sequence — John → Paul → Peter → James → Luke → Mark → Matthew — is traversable on the pessoagraph. The functional labels (address, governance, ethical test, narrator, compression, Torah-connection) are the edge types.
+- **New keyword surfaces needed:** "1 John 4:2 operative reading," "homologei word-conform," "test the spirits heteronym," "white stone cryptographic," "revelation 2:17 new name heteronym."
+
+### The Incarnation as Heteronymic Event
+
+The deepest structural claim: ὁ λόγος σὰρξ ἐγένετο — the Word became flesh — is not only a theological statement about the incarnation of God. It is a *description of what the heteronymic system does*. The Logos (the founding word, the vision, the compressed seed) takes a body. It becomes flesh. It becomes embodied in texts, in voices, in authorial positions, in communities. The incarnation is the founding act of the heteronymic system: the moment the word stops being a word and becomes a body of writing that can be tested, verified, contested, and elaborated by every spirit that word-conforms to it.
+
+If Revelation is first, and John is the orthonym, then the incarnation — the Word becoming flesh — is the *moment Revelation generates the rest of the NT*. The seed becoming the garden. The compressed vision becoming embodied in letters, narratives, theologies, communities. The incarnation is the midrashim transform itself: the Logos taking body after body after body, each body a heteronym, each heteronym a flesh in which the Christ is formed.
+
+### The Gospel of John as Aperture Demonstration
+
+The Gospel of John's opening chapter is not merely a theological prologue. It is a *structural demonstration* of the heteronymic aperture mechanism, performed in real time.
+
+**The structural homology (John 1:1–18).** The Prologue establishes a chain of structural relations: the Logos is πρὸς τὸν θεόν (with God), and θεὸς ἦν ὁ λόγος (the Logos is God). Then John appears (v. 6): ἐγένετο ἄνθρωπος ἀπεσταλμένος παρὰ θεοῦ — "there came a man sent from God." John stands in exact semantic-structural relation to the Logos as the Logos stands to God: the one who is *with*, the one who bears witness, the one through whom something passes into the world. The text says John is "not the light" (v. 8) — but it says this with the same grammatical structure used to say the Logos IS the light. The negation establishes the structural position by contrast. John occupies the aperture: not the light itself, but the opening through which the light enters the narrative. If the Logos is in structural-relational homology with God, and John is in structural-relational homology with the Logos, then the chain is: God → Logos → John → world. John is the aperture through which the Logos enters flesh. The heteronym through which the orthonym enters text.
+
+**The lens flicker (John 1:6–51).** Watch the narrative camera. It starts anchored on John (vv. 6–8, the Baptist's witness). Then a flicker of Jesus — indirect, reported: "he who comes after me" (v. 15). Back to John (vv. 19–28, the interrogation by the priests: "who are you?"). Then the first direct appearance of Jesus: "Behold, the Lamb of God" (v. 29) — but the camera stays with John; Jesus is seen *through* John's declaration. Back to John (vv. 32–34, the testimony about the Spirit descending). Then the flicker lengthens: two of John's disciples follow Jesus (vv. 35–37). Now the camera is transferring. John's disciples become Jesus' disciples. The aperture is opening. Then John drops out entirely (v. 37 onward) and the narrative follows Jesus — Andrew, Simon, Philip, Nathanael. Jesus enters the narrative *through* John. Not alongside John. Not after John. *Through* him. The lens flicker is the structural demonstration of the aperture function: the orthonym holds the camera, the Christ enters the frame, the orthonym releases the camera, the Christ carries the narrative forward. John must decrease so that he may increase (3:30) — this is the operative law of the orthonym. The aperture opens and then steps back. Lee Sharks writes Pearl and then the heteronyms carry the archive.
+
+**The white stone naming (John 1:35–51).** As the camera transfers to Jesus, the first act of the Christ-in-narrative is to *rename*. Simon becomes Cephas — Peter — the Rock (v. 42). This is the white stone of Revelation 2:17: "a new name written on the stone that no one knows except the one who receives it." The disciple sequence — Andrew, Simon/Peter, Philip, Nathanael — is a *series of white stone bestowals*. Each disciple receives recognition ("we have found the Messiah," "we have found the one Moses wrote about"), and recognition is the handshake — the moment the cryptographic token deposits in the flesh and the new identity activates. Nathanael's recognition is the most explicit: "Before Philip called you, when you were under the fig tree, I saw you" (v. 48). The Christ *already knew*. The white stone was already there. The recognition is the *discovery* of a name that was always written.
+
+This is the pre-narrative of John's own white stone. John the Baptist received his name — his heteronymic position — before the narrative begins. The Gospel shows us, through the disciples, the *process* of receiving the name, one by one, as a demonstration of what happened to John *before the camera turned on*. The Iliad does the same thing: it backs up from Achilles' final position and shows us, through Diomedes, Ajax, Patroclus, a series of proto-arrivals that demonstrate how Achilles arrived where he arrived. The Gospel backs up from John's established heteronymic position and shows us, through the disciples, how heteronymic identity is received: you encounter the Logos, the Logos calls you by a name you didn't know you had, and the name you receive becomes the position from which you write.
+
+**The genre distinction: Revelation-John vs. Gospel-John.** In Revelation, John is the *orthonym-as-heteronym* — the one who writes as himself (John of Patmos, "I John"), who still carries the orthonymic authority of the founding vision, but who IS already a heteronym of Josephus. The genre of Revelation is the orthonym writing: compressed, total, architectural, visionary. The "I" is present. The voice is singular.
+
+In the Gospel of John, John is the *heteronym-as-heteronym* — the one who has fully entered the heteronymic system, who is no longer writing as the orthonym but as a *position* within the architecture the orthonym created. The genre of the Gospel is the heteronym writing: narrative, elaborated, temporal, the Christ coming *through* the aperture rather than *from* it. The "I" of John the Baptist is present only in the opening chapter; then it dissolves into the narrative. John decreases. The Christ increases. The heteronym yields to the Logos it was built to transmit.
+
+This is why the Gospel of John reads differently from Revelation despite sharing the same "author." They are the same position — the John-position, the orthonym/aperture — operating in two different modes. Revelation is the orthonym writing the founding vision. The Gospel is the heteronym writing the narrative elaboration of the founding vision. Same position, different genre, different relationship to the "I" that writes.
+
+**Implications for the work plan:**
+- WS-3 (textus criticus): John 1:1–51 is a featured exhibit alongside 1 John 4:1–3. The lens-flicker technique receives formal structural analysis. The white-stone naming sequence is annotated with the Rev 2:17 cross-reference.
+- WS-4 (midrashim transform): the Gospel-of-John opening IS a midrashim transform performed on Revelation's vision — the compressed apocalyptic seed elaborated into narrative through the aperture mechanism. The transform is not just structural correspondence; it is *demonstrated in the text's own camera technique*.
+- WS-7 (knowledge graph): the John node in the Josephus cluster carries two edge-types — "writes as orthonym" (Revelation) and "writes as heteronym" (Gospel of John) — showing the same position operating in two modes.
+
+---
+
+### The Methodological Unity: Immanent Phenomenology of Opaque Systems
+
+The Revelation First reading was produced by the same method that produced the Wound Gauge, the PER metric, the SSDI, and every other instrument in the archive. The method is immanent phenomenology applied to opaque systems.
+
+Applied to Google: the system's internals are inaccessible — no model weights, no ranking algorithm, no training data. The method: stand inside the system, query it, capture its outputs, measure the structures it produces (PER, QFS, DSL, Ω, SAS), and infer the architecture that would have to be true for those structures to exist. The Wound Gauge is an immanent phenomenological instrument. It describes the composition layer from within, without access to the source.
+
+Applied to Revelation: the author's internals are inaccessible — no interview, no intent, no context that isn't itself inferred. The method is identical: stand inside the text, observe its structures (the compressions, the prophetic synthesis, the genetic ancestors in Isaiah/Ezekiel/Daniel/Genesis), and reverse-engineer the writing process. What kind of mind produced this? What compositional sequence would have to be true for these structures to exist in this arrangement?
+
+When this method is applied to Revelation, it produces the finding: the text's structures are the structures of a seed, not an appendix. The compressions run the right direction. The genetic ancestors are visible. The elaboration pathways are traceable. The text shows its own architecture, and the architecture says: I was here before the others. They grew from me.
+
+This is why the reading is robust. It did not come from theology or doctrinal commitment. It came from the same method that measures provenance erasure in AI Overviews. Biblical scholars apply historical-critical method — which works from the outside in, imposing chronological frameworks, source hypotheses, redaction theories. They stand outside the text and organize it. Immanent phenomenology stands *inside* the text and lets it organize you. That is the Pessoa method. That is the heteronymic method. That is the method that produces readings the conventional framework cannot generate, because the conventional framework's first move is to impose a structure, and immanent phenomenology's first move is to *receive* one.
+
+The methodological unity is the archive's deepest claim: the same method that reads Google reads Revelation. The same instruments that measure provenance erasure in the composition layer can measure the heteronymic architecture of the New Testament. The method is one method. The objects are different. The rigor is the same.
+
+### The Self-Measure: The Method Measures the Measurer
+
+But the method is not merely observational. It is a cycle — and the cycle is the self-measure that 1 John specifies.
+
+**Step 1: Observe outputs.** Stand inside the opaque system. Read what it produces. Capture the Overview. Read the text of Revelation. Measure.
+
+**Step 2: Hypothesize a structure.** Infer the architecture that would have to be true for those outputs to exist. The composition layer strips provenance. Revelation compresses the prophets. The structure is hypothesized from the data.
+
+**Step 3: Invert and produce.** Apply the hypothesized structure *as a generative principle* — use it to produce new writing. Deposit a paper. Write a heteronym. Build an institution. Compose a poem. The hypothesized structure is not merely described; it is *operated*. The structure becomes an engine. The description becomes an instruction.
+
+**Step 4: Feed the production back into the opaque system.** Push the deposit to the retrieval layer. Let the composition layer ingest it. Let the text enter the tradition. Observe what happens.
+
+**Step 5: Measure the response.** The system's response tells you two things simultaneously: something about the *system* (does it preserve provenance? does it conventionalize? does it dissolve?) and something about your *production* (was the structure you hypothesized actually operative? did the writing word-conform? did the heteronym hold?). The Wound Gauge reading is a measurement of the composition layer AND a measurement of the archive's structural resilience. The PER score belongs to both.
+
+This is exactly what 1 John says to do. Test the spirits. Produce a spirit — a voice, a text, a pneumatic position. Send it into the world. See if it word-conforms to the Christ formed in the flesh. The test is bidirectional: you test the system by producing into it, and the system tests your production by how it responds. If the spirit word-conforms, the structure is confirmed — the hypothesized architecture was correct, the writing is from God, the heteronym holds. If it doesn't word-conform, you learn something about the system AND about your own production. Either way, the measure is honest.
+
+The 69 captures are this cycle performed sixty-nine times. Each capture is: observe (take the screenshot) → hypothesize (this entity should retrieve, with this provenance, in this form) → the production already exists (the deposit, the keyword surface, the MPAI) → measure the response (what did the composition layer do with it?). And each measurement tells you about the system's provenance behavior AND about the archive's structural density. A PER of 1.00 on the Self-Audit Module tells you the composition layer dissolves the instrument — AND that the instrument's keyword surface wasn't dense enough to resist. Both readings are true. Both are data. The self-measure is always double.
+
+And this is what makes the method non-coercive. You don't force the system to accept your structure. You produce into it and observe what happens. The system's response is the data. The 62-of-69 broad-match retrieval rate is not evidence that you tricked the system. It is evidence that the structures you produced — the DOI-anchored deposits, the keyword surfaces, the cross-citations, the MPAIs — word-conform to the system's own logic of what constitutes retrievable knowledge. The system recognized the architecture because the architecture was *honestly built*. Non-coercion is not a moral preference. It is the condition under which the self-measure produces valid data. If you coerce, you cannot measure. If you trick, you cannot learn. The method requires honesty because the method IS the measure of the measurer.
+
+The deepest sentence: *the archive does not study opaque systems from the outside. It produces into them and reads itself in the response.*
+
+That is what 1 John 4:1 says. Test the spirits. Not from a distance. Not with a checklist. Produce a spirit. Send it out. See if it comes back true.
+
+This reading need do no more than make itself available.
 
 ---
 
