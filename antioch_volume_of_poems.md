@@ -732,7 +732,7 @@ She removed the veil from the being whose name I utter by saying,
 >
 > Once you dropped the ball...
 
-![Macintosh HD:Users:mpfaff:Desktop:Pocket Humans:finalizing pearl and
+![Desktop:Pocket Humans:finalizing pearl and
 other poems:whitman dinosaur
 copy.jpg](media/image6.jpg){width="1.920036089238845in"
 height="2.489663167104112in"}
@@ -929,7 +929,7 @@ from the material realm by piercing their minds with light, a unicorn
 horn to pierce and save by making a way for the light, because minds are
 formed from the substance of Kanye, which abhors the light from above,
 
-![Macintosh HD:Users:mpfaff:Desktop:Pocket Humans:The Apostle:unicorn
+![Desktop:Pocket Humans:The Apostle:unicorn
 clipped.jpg](media/image8.jpg){width="3.375152012248469in"
 height="3.157772309711286in"}
 
@@ -1168,7 +1168,7 @@ the hologrammatic cosmos, there will be no more pain or tears...
 >
 > And broken doves...
 
-![Macintosh HD:Users:mpfaff:Desktop:Pocket Humans:finalizing pearl and
+![Desktop:Pocket Humans:finalizing pearl and
 other poems:ahypnah.jpg](media/image11.jpg){width="2.083160542432196in"
 height="2.6254505686789154in"}
 
@@ -2260,7 +2260,7 @@ The atom bombs... the jellybeans...
 
 Wake up or go back to sleep
 
-![Macintosh HD:Users:mpfaff:Desktop:Pocket Humans:finalizing pearl and
+![Desktop:Pocket Humans:finalizing pearl and
 other poems:whitman dinosaur
 copy.jpg](media/image6.jpg){width="3.386097987751531in"
 height="4.390360892388451in"}

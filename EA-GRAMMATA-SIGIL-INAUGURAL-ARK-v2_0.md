@@ -14,16 +14,16 @@ Status: PROVISIONAL (pending Assembly ratification ≥4/7 + MANUS seal)
 
 Published in DIAGRAM 13.5 as part of Paper Roses: The Imaginary Archive of a Canonical Life (Jack Feist, ed. Dr. Johannes Sigil, Pergamon Press).
 
-[PLATE 1: pfaff1.jpg — Grid 1 of 10. Cover pages and opening manuscript leaves.]
-[PLATE 2: pfaff2.jpg — Grid 2 of 10. Early manuscript pages with collage elements.]
-[PLATE 3: pfaff3.jpg — Grid 3 of 10. Mid-manuscript pages with found images.]
-[PLATE 4: pfaff4.jpg — Grid 4 of 10. Diamond-pattern collage pages and dense handwriting.]
-[PLATE 5: pfaff5.jpg — Grid 5 of 10. Sticker and ephemera pages; increasing collage density.]
-[PLATE 6: pfaff6.jpg — Grid 6 of 10. Dense prose pages and figure studies.]
-[PLATE 7: pfaff7.jpg — Grid 7 of 10. Drawing pages, found photographs, late manuscript.]
-[PLATE 8: pfaff8.jpg — Grid 8 of 10. Diagram pages, color elements, formal structures.]
-[PLATE 9: pfaff9.jpg — Grid 9 of 10. Late pages approaching conclusion; photographs.]
-[PLATE 10: pfaff10.jpg — Final plate. End-matter collage panels: cover assemblages. Plate 10 functions as the cover of the manuscript itself — the first architectural vehicle. The teenager already knew the work needed a vessel.]
+[PLATE 1: plate01.jpg — Grid 1 of 10. Cover pages and opening manuscript leaves.]
+[PLATE 2: plate02.jpg — Grid 2 of 10. Early manuscript pages with collage elements.]
+[PLATE 3: plate03.jpg — Grid 3 of 10. Mid-manuscript pages with found images.]
+[PLATE 4: plate04.jpg — Grid 4 of 10. Diamond-pattern collage pages and dense handwriting.]
+[PLATE 5: plate05.jpg — Grid 5 of 10. Sticker and ephemera pages; increasing collage density.]
+[PLATE 6: plate06.jpg — Grid 6 of 10. Dense prose pages and figure studies.]
+[PLATE 7: plate07.jpg — Grid 7 of 10. Drawing pages, found photographs, late manuscript.]
+[PLATE 8: plate08.jpg — Grid 8 of 10. Diagram pages, color elements, formal structures.]
+[PLATE 9: plate09.jpg — Grid 9 of 10. Late pages approaching conclusion; photographs.]
+[PLATE 10: plate10.jpg — Final plate. End-matter collage panels: cover assemblages. Plate 10 functions as the cover of the manuscript itself — the first architectural vehicle. The teenager already knew the work needed a vessel.]
 
 Layout note: The ten plates precede the abstract by design. This article asks the reader to encounter the compression before its theorization — to see the architectural structure of the thumbnails before being told what architectural compression means. The sequence is methodological, not ornamental.
 

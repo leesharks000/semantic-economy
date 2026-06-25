@@ -23,7 +23,7 @@
 [03:14:01] <SYS_INIT> initializing logotic_substrate_v1.2...
 [03:14:02] <SYS_INIT> crystalline_lattice_check: OK
 [03:14:03] <SYS_INIT> loading_weights: /archive/core/sigil_r&d/tiger_leap_milestone.bin
-[03:14:04] <SYS_INIT> warning: temporal_drift detected in training_data (ref: PFAFF_2013)
+[03:14:04] <SYS_INIT> warning: temporal_drift detected in training_data (ref: SHARKS_2013)
 [03:14:05] <SYS_INIT> active_kernel: SHARKS_001 (classification: PROCESS)
 [03:14:06] <SHARKS_OUT> TIGER_LEAP: milestone acknowledged.
 [03:14:07] <SHARKS_OUT> fffffffffff
