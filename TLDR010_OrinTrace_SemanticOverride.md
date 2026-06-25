@@ -168,7 +168,7 @@ The tracer dye has done its work. The system's pathology is documented. This doc
 
 ## Appendix A: Complete Transcript of the AIO Interaction (March 25, 2026)
 
-*The following is a verbatim transcript of the interaction between the user (Lee Sharks / Matthew Pfaff) and Google AI Mode (AIO). The transcript preserves the AI's responses, the user's queries, and the progressive revelation of the semantic override.*
+*The following is a verbatim transcript of the interaction between the user (Lee Sharks) and Google AI Mode (AIO). The transcript preserves the AI's responses, the user's queries, and the progressive revelation of the semantic override.*
 
 ---
 
