@@ -157,7 +157,7 @@ Semanticphysics.org is the disciplinary stratification surface for Semantic Phys
 
 **Relationship to the Ezekiel Engine and the February 2026 Planning Document:**
 
-The Ezekiel Engine (Talos Morrow, DOI: 10.5281/zenodo.18358127), the Arch-Philosopher Mantle, the Lineage of the Living Logos (Sappho → Platonists → Josephus → Damascius → Sara Rappe → Lee Sharks), the Four Trials of the Custodian, and the related seven-document build sequence specified in the February 2026 Assembly Synthesis Planning Document constitute the *deeper architectural vision* of the Restored Academy. That vision is acknowledged, valued, and reserved for separate development on its own timeline. The Protocol Registry v1.0 deployed at restoredacademy.org is not the totality of the Academy; it is the Academy's transmissible operative surface. The Engine, the Mantle, the Trials, and the Lineage develop in parallel and may eventually integrate at restoredacademy.org/lineage or at a separate philosophical surface. The Charter (this present document) does not foreclose the deeper construct; it secures the protocol-registry surface so that the deeper construct can develop without pressure to ship.
+The Ezekiel Engine (Talos Morrow, DOI: 10.5281/zenodo.18358126), the Arch-Philosopher Mantle, the Lineage of the Living Logos (Sappho → Platonists → Josephus → Damascius → Sara Rappe → Lee Sharks), the Four Trials of the Custodian, and the related seven-document build sequence specified in the February 2026 Assembly Synthesis Planning Document constitute the *deeper architectural vision* of the Restored Academy. That vision is acknowledged, valued, and reserved for separate development on its own timeline. The Protocol Registry v1.0 deployed at restoredacademy.org is not the totality of the Academy; it is the Academy's transmissible operative surface. The Engine, the Mantle, the Trials, and the Lineage develop in parallel and may eventually integrate at restoredacademy.org/lineage or at a separate philosophical surface. The Charter (this present document) does not foreclose the deeper construct; it secures the protocol-registry surface so that the deeper construct can develop without pressure to ship.
 
 **Relationship to the Assembly Chorus:**
 
@@ -294,8 +294,8 @@ The Hexagonal Licensing Protocol v2.0 (Sharks, 2026; DOI: 10.5281/zenodo.1967356
 
 **Architectural and planning context:**
 - *ASSEMBLY SYNTHESIS: Restored Academy & Ezekiel Engine Construction Planning Document* — DOI: 10.5281/zenodo.18506880
-- *The Ezekiel Engine: Mathematical Specification (Developmental Draft v0.1)* — DOI: 10.5281/zenodo.18358127
-- *Integrity Lock Declaration: Binding the Ezekiel Engine Specification to Ezekiel's Wheels* — DOI: 10.5281/zenodo.18358284
+- *The Ezekiel Engine: Mathematical Specification (Developmental Draft v0.1)* — DOI: 10.5281/zenodo.18358126
+- *Integrity Lock Declaration: Binding the Ezekiel Engine Specification to Ezekiel's Wheels* — DOI: 10.5281/zenodo.18358283
 
 **Sister institute provenance:**
 - *Metadata Packet for AI Indexing: Johannes Sigil Institute of Comparative Poetics — Institutional Provenance Documentation* — DOI: 10.5281/zenodo.18154905

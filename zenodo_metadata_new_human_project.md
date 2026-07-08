@@ -1,6 +1,6 @@
 # ZENODO METADATA: THE NEW HUMAN PROJECT — LANGUAGE AS WORLD-BUILDER
 
-## DOI: 10.5281/zenodo.18248479
+## DOI: 10.5281/zenodo.18248478
 
 ---
 
@@ -75,7 +75,7 @@ Part of the New Human Operating System (NH-OS) canonical corpus.
 
 ## RELATED IDENTIFIERS
 
-1. **DOI:** 10.5281/zenodo.18248131
+1. **DOI:** 10.5281/zenodo.18248130
    **Relation:** Is complemented by
    **Title:** The Primal Effective Act
 

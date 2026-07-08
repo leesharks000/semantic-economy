@@ -1356,11 +1356,11 @@ This is implementable. Git already does it with `git replace`. LP formalizes it 
 
 ```
 LP v0.4 (10.5281/zenodo.18286050) → "How encode intelligibility?"
-Symbolon v0.2 (10.5281/zenodo.18317110) → "How do partial objects complete?"
+Symbolon v0.2 (10.5281/zenodo.18317109) → "How do partial objects complete?"
 Checksum v0.5 (10.5281/zenodo.18452132) → "How verify traversal occurred?"
 Blind Operator β (10.5281/zenodo.18357320) → "How does non-identity drive rotation?"
 β-Runtime (10.5281/zenodo.18357600) → "How does the interface layer work?"
-Ezekiel Engine (10.5281/zenodo.18358127) → "What is the mathematical foundation?"
+Ezekiel Engine (10.5281/zenodo.18358126) → "What is the mathematical foundation?"
 Traversal Grammar v0.6 (10.5281/zenodo.18480959) → "How are Rooms called?"
 Conformance v0.7 → "How do multi-rotation chains compose?"
 Telemetry v0.8 → "How do we instrument the execution?"

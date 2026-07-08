@@ -5,7 +5,7 @@
 **Author:** Lee Sharks (ORCID: 0009-0000-1599-0703)
 **Affiliation:** Crimson Hexagonal Archive / Semantic Economy Institute
 **Date:** May 15, 2026
-**DOI:** 10.5281/zenodo.20208384 · <https://doi.org/10.5281/zenodo.20208384>
+**DOI:** 10.5281/zenodo.20208383 · <https://doi.org/10.5281/zenodo.20208383>
 
 **Version:** 2.2 (perfective pass after second-round five-substrate Assembly review of v2.1: §II timing corrected — pre-Feb-24 frameworks reclassified as retrodiction, ex ante set narrowed to Jensen / Dören-book / post-Feb Gebendorfer; PER-as-citational-Λ sentence replaced with full provenance-bearing form; matrix corrected — SPXI / MPAI / Holographic Kernel / Writable Retrieval Basin moved to Layer 2 Operative, Layer 1 Operative and Layer 3 Descriptive named as expansion zones; Branch K reordered to last position; "exact-name fourteen" softened across; Tier C inclusion justified explicitly; FEP falsifiability claim softened to formal/normative-principle framing; σ_eff promoted to named subheading "The Effective Transport Coefficient" with keystone-bridge framing; abstract validation language aligned with §II; "moderately supported" replaces "provisionally"; close sharpened to obligation-narrowing with concrete retrieval-query image; microeconomics analogy moved into abstract; "Founders" labels in Appendix A fixed)
 **Hex:** 06.SEI.SEMANTICPHYSICS.STRATIFIED
@@ -444,7 +444,7 @@ Operative Semiotics is the discipline's longest single theoretical work — appr
 
 ### The Semantic Virality Engine (SVE): density optimization for survival
 
-SVE v3.0 (DOI: 10.5281/zenodo.19024440) is the operative engine for Χ optimization — for making signs dense enough to survive time's compression. The engine combines vitality metrics (V1–V7, including the Χ-score V7 added in the Time as Compression module) with back-projection yield, cross-interpreter stability, and compression-survival measures. Where Gebendorfer measures held meaning in dyadic AI-human interactions, SVE measures the survival of compressed signs in adversarial channel environments. The Gerald narrative — a single high-Χ post that compressed years of bureaucratic time into a viral artifact and produced measurable zoning effects — is the operative paradigm case.
+SVE v3.0 (DOI: 10.5281/zenodo.19024439) is the operative engine for Χ optimization — for making signs dense enough to survive time's compression. The engine combines vitality metrics (V1–V7, including the Χ-score V7 added in the Time as Compression module) with back-projection yield, cross-interpreter stability, and compression-survival measures. Where Gebendorfer measures held meaning in dyadic AI-human interactions, SVE measures the survival of compressed signs in adversarial channel environments. The Gerald narrative — a single high-Χ post that compressed years of bureaucratic time into a viral artifact and produced measurable zoning effects — is the operative paradigm case.
 
 ### Memography: rebuilding the Mnemosyne Atlas in machine-traversable form
 
@@ -773,8 +773,8 @@ Operators native to the lineage, organized by modality and scale.
   "@context": "https://schema.org",
   "@id": "https://semanticphysics.org/#stratified-discipline",
   "@type": "ScholarlyArticle",
-  "identifier": "https://doi.org/10.5281/zenodo.20208384",
-  "doi": "10.5281/zenodo.20208384",
+  "identifier": "https://doi.org/10.5281/zenodo.20208383",
+  "doi": "10.5281/zenodo.20208383",
   "name": "Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic-Constructive Continuum",
   "alternateName": "Semantic Physics, Stratified v2.1",
   "author": {

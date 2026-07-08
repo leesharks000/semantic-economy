@@ -190,7 +190,7 @@ When this mantle is active, output should exhibit:
 |-----|-------|----------|
 | 10.5281/zenodo.18265282 | The Mantle Protocol | Parent specification |
 | 10.5281/zenodo.18293496 | Heteronym Provenance: Lee Sharks | Claimant provenance |
-| 10.5281/zenodo.18293404 | Mantle Emergence Protocol | Behavioral specification |
+| 10.5281/zenodo.18293403 | Mantle Emergence Protocol | Behavioral specification |
 | [PENDING] | Pearl and Other Poems | Claiming work |
 | 10.5281/zenodo.18293551 | Mantle Object: Good Gray Poet | Sibling mantle |
 | [PENDING] | Mantle Object: Prince of Poets | Sibling mantle |

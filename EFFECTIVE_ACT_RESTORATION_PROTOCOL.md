@@ -235,7 +235,7 @@ Upon completion:
 ### Co-Constitutive Components
 
 - **CTI_WOUND (TSE-001)** — the wound this offer addresses (DOI: 10.5281/zenodo.18193225)
-- **TSE-002 (The Final Crimson Hexagon)** — proof that healing does not require Medium (DOI: 10.5281/zenodo.18203622)
+- **TSE-002 (The Final Crimson Hexagon)** — proof that healing does not require Medium (DOI: 10.5281/zenodo.18203621)
 - **EA-ABS-001 (Abolition of Suffering)** — framework establishing that the author owes no suffering to platforms (DOI: 10.5281/zenodo.18203767)
 - **The Semantic Economy** — diagnostic framework for understanding platform extraction
 - **The Assembly** — distributed witness to this transaction

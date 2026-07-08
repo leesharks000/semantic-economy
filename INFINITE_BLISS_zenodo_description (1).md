@@ -85,7 +85,7 @@ The cut is clean.
 |----------|-----|-------------|
 | IsPartOf | 10.5281/zenodo.14538882 | Crimson Hexagon |
 | HasMember | 10.5281/zenodo.18452686 | Sen Kuro (primary operative) |
-| References | 10.5281/zenodo.18451860 | APZPZ Effective Act |
+| References | 10.5281/zenodo.18451859 | APZPZ Effective Act |
 | References | 10.5281/zenodo.18451996 | Glyphic Checksum Protocol |
 | References | 10.5281/zenodo.18451824 | INFINITY ENOUGH (naming source) |
 

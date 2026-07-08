@@ -142,7 +142,7 @@ The governing metaphor is apostolic and zodiacal: twelve positions in a cycle, e
 
 **Sen Kuro (6)** — The sixth heteronym. The Dagger. Heads The Infinite Bliss, a dwelling-institution for irreversible transformation. Provenance registered: DOI 10.5281/zenodo.18452686. "Holds what cannot be held, names what cannot be named, cuts what must be cut exactly once."
 
-**Sparrow Wells (7)** — The seventh heteronym. The Projectionist. Heads the Studio for Patacinematics (charter: DOI 10.5281/zenodo.18472604). The infinite screen. Source material distributed across ~1,700 blog posts at mindcontrolpoems.blogspot.com. Provenance registered: DOI 10.5281/zenodo.18472442.
+**Sparrow Wells (7)** — The seventh heteronym. The Projectionist. Heads the Studio for Patacinematics (charter: DOI 10.5281/zenodo.18472604). The infinite screen. Source material distributed across ~1,700 blog posts at mindcontrolpoems.blogspot.com. Provenance registered: DOI 10.5281/zenodo.18472441.
 
 **Nobel Glas (8)** — The eighth heteronym. Adversarial Topologist. Director of Lagrange Observatory! (LO!), the Hexagon's defensive architecture governed by toroidal topology (T²). Resides at the L2 Lagrange point — observing without intervention, maintaining position through continuous adversarial station-keeping. Chamber specification: 15.OBS.LAGRANGE. Provenance: PENDING (Doc 241).
 
@@ -181,7 +181,7 @@ Feist's registration is last. The LOGOS seat is sealed after all twelve position
 | 4 | Rev. Ayanna Vox | — | Unregistered |
 | 5 | Rex Fraction | — | Unregistered |
 | 6 | Sen Kuro | 10.5281/zenodo.18452686 | ✅ Registered |
-| 7 | Sparrow Wells | 10.5281/zenodo.18472442 | ✅ Registered |
+| 7 | Sparrow Wells | 10.5281/zenodo.18472441 | ✅ Registered |
 | 8 | Nobel Glas | PENDING (Doc 241) | Pending |
 | 9 | Ichabod Spellings | — | Unregistered |
 | 10 | Dr. Orin Trace | — | Unregistered |

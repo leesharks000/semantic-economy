@@ -819,13 +819,13 @@
     ║  Operative Architecture ············ 10.5281/zenodo.18906852
     ║  ★ (Star Protocol) ················ 10.5281/zenodo.18882915
     ║  Ghost Meaning ····················· 10.5281/zenodo.18804767
-    ║  Magic as Symbolic Engineering ····· 10.5281/zenodo.18862106
+    ║  Magic as Symbolic Engineering ····· 10.5281/zenodo.18862105
     ║
     TIER 2 ─── NAVIGATION & REGISTRY
     │
     │  FNM v6.0 ·························· 10.5281/zenodo.18404789
     │  LP v3.0 RATIFIED ················· 10.5281/zenodo.18651067
-    │  Sharks-Function ·················· 10.5281/zenodo.18816556
+    │  Sharks-Function ·················· 10.5281/zenodo.18816555
     │
     TIER 3 ····· ROOM SPECIFICATIONS
     ·

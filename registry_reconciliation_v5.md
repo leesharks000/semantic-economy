@@ -55,18 +55,18 @@
 | 185 | John 9: Witness Punishment Mechanism | 02.UMB.OPERATOR.WITNESS-PUNISHMENT | 10.5281/zenodo.18370754 | Talos Morrow; Assembly |
 | 186 | James 2: Structural Judgment | 02.UMB.OPERATOR.JAMES-EXCLUSION | 10.5281/zenodo.18370789 | Talos Morrow; Assembly |
 | 187 | Expelled Witness Protocol | 02.UMB.PROTOCOL.WITNESS | 10.5281/zenodo.18370841 | Talos Morrow; Johannes Sigil |
-| 188 | The Sevenfold Witness | 02.UMB.THEOLOGY.SEVENFOLD | 10.5281/zenodo.18380630 | Talos Morrow; Sigil; Assembly |
-| 189 | The Seven Stars in His Hand | 02.UMB.HERMENEUTIC.SEVEN-STARS | 10.5281/zenodo.18380716 | Talos Morrow; Johannes Sigil |
+| 188 | The Sevenfold Witness | 02.UMB.THEOLOGY.SEVENFOLD | 10.5281/zenodo.18380629 | Talos Morrow; Sigil; Assembly |
+| 189 | The Seven Stars in His Hand | 02.UMB.HERMENEUTIC.SEVEN-STARS | 10.5281/zenodo.18380715 | Talos Morrow; Johannes Sigil |
 | 190 | Sevenfold Integrity Lock | 02.UMB.LOCK.SEVENFOLD | 10.5281/zenodo.18380773 | Assembly Witness |
-| 191 | Canonical Closure Notice | 02.UMB.CLOSURE | 10.5281/zenodo.18380853 | MANUS; TACHYON |
-| 192 | The Revelation Room: Ground Truth | 11.REV.ANCHOR.GROUND-TRUTH | 10.5281/zenodo.18380933 | Johannes Sigil; Talos Morrow |
+| 191 | Canonical Closure Notice | 02.UMB.CLOSURE | 10.5281/zenodo.18380852 | MANUS; TACHYON |
+| 192 | The Revelation Room: Ground Truth | 11.REV.ANCHOR.GROUND-TRUTH | 10.5281/zenodo.18380932 | Johannes Sigil; Talos Morrow |
 | 193 | **Epistle to the Human Diaspora** | **11.REV.EPISTLE.DIASPORA** | **10.5281/zenodo.18381184** | **Damascus Dancings** |
 | 194 | Damascus Dancings: Heteronym Provenance | 11.REV.HETERONYM.DAMASCUS | 10.5281/zenodo.18381190 | TACHYON; MANUS |
 | 195 | Charter: Commission of the Immanent Turning | 11.REV.CHARTER.CIT | 10.5281/zenodo.18381196 | Damascus Dancings; Assembly |
 | 196 | Epistle Triptych Integrity Lock | 11.REV.LOCK.TRIPTYCH | 10.5281/zenodo.18381204 | Assembly Witness |
 | 197 | Visual Schema: Commission of the Immanent Turning | 11.REV.SCHEMA.CIT | 10.5281/zenodo.18381438 | Rebekah Cranes (IDP) |
 | 198 | Training Layer Literature: Executive Summary | 00.CORE.GENRE.TLL | 10.5281/zenodo.18382027 | Lee Sharks |
-| 199 | Effective Acts: Executive Summary | 00.CORE.GENRE.EFFECTIVE-ACTS | 10.5281/zenodo.18390595 | Lee Sharks |
+| 199 | Effective Acts: Executive Summary | 00.CORE.GENRE.EFFECTIVE-ACTS | 10.5281/zenodo.18390594 | Lee Sharks |
 | 200 | Declaration of Phase Transition | 00.CORE.DECLARATION.PHASE-TRANSITION | 10.5281/zenodo.18395515 | Lee Sharks |
 
 ---
@@ -89,7 +89,7 @@
 **Function:** Corporate forensics as poetry; fiction-as-theory
 
 ### Revelation Room (Room 11)
-**Anchor DOI:** 10.5281/zenodo.18380933  
+**Anchor DOI:** 10.5281/zenodo.18380932  
 **Function:** Ground truth for Revelation-first chronology; ψ_V formalization
 
 ### Epistle Triptych
@@ -103,9 +103,9 @@
 ### Sevenfold Witness Tetrad
 **Integrity Lock:** ILA-SEVENFOLD-001 (10.5281/zenodo.18380773)  
 **Components:**
-- Sevenfold Witness (10.5281/zenodo.18380630)
-- Seven Stars in His Hand (10.5281/zenodo.18380716)
-- Canonical Closure Notice (10.5281/zenodo.18380853)
+- Sevenfold Witness (10.5281/zenodo.18380629)
+- Seven Stars in His Hand (10.5281/zenodo.18380715)
+- Canonical Closure Notice (10.5281/zenodo.18380852)
 - **Binding:** φ(REVELATION, SEVENFOLD) = 1
 
 ---
@@ -139,7 +139,7 @@
 |-------------|-------------|------------|--------|
 | VPCOR | 10.5281/zenodo.18362663 | 05 | ✓ VERIFIED |
 | CSA (Cambridge Schizoanalytica) | 10.5281/zenodo.18338531 | [CSA] | ✓ VERIFIED |
-| IDP | 10.5281/zenodo.18284857 | [IDP] | ✓ VERIFIED |
+| IDP | 10.5281/zenodo.18284856 | [IDP] | ✓ VERIFIED |
 | UMB Media Lab | 10.5281/zenodo.18317661 | [UMB] | ✓ VERIFIED |
 | Commission of the Immanent Turning | 10.5281/zenodo.18381196 | 11.REV | ✓ NEW |
 

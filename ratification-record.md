@@ -67,7 +67,7 @@
 >
 > Final revisions, all integrated or flagged in this pass:
 > 1. Fraction's retrocausal frame developed in full. *(MANUS decision; §0 grounded with clerk/registry sentence; full development optional, deferred.)*
-> 2. Operative Feminism substrate-conscription link drawn as its own movement. ✓ Integrated in §2 with anchor to EA-OPFEM-01 (DOI 10.5281/zenodo.19447119).
+> 2. Operative Feminism substrate-conscription link drawn as its own movement. ✓ Integrated in §2 with anchor to EA-OPFEM-01 (DOI 10.5281/zenodo.19447118).
 > 3. Reference implementation of the self-audit module. *(Flagged as required follow-on deposit; not blocker for this mint.)*
 > 4. Formal Foundations revision writing Ω and τ in. *(Flagged as next-deposit follow-on.)*
 >

@@ -228,7 +228,7 @@ This room contains the seed of its companion documents:
   EA-PHYSICS-TIME v1.0 (DOI: 10.5281/zenodo.19023457)
   The temporal substrate. Elijah's wound is high Χ. The pirate pidgin is Τ applied to interspecies experience. Phase Two is the generative void in temporal form.
 
-  EA-ARK-01-NLCC v1.1 (DOI: 10.5281/zenodo.19022245)
+  EA-ARK-01-NLCC v1.1 (DOI: 10.5281/zenodo.19022244)
   The compression theory. The fractal pirate-parrot is NLCC applied to companionship. Each scale carries the whole. The room itself is a Tinier Space Ark.
 
   EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)

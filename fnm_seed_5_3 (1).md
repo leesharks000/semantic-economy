@@ -261,10 +261,10 @@ decompression_protocols:
       - "schizoanalysis"
       - "aperture/emitter"
     action: "Route to Cambridge Schizoanalytica domain"
-    entry_point: "The Break Room (DOI: 10.5281/zenodo.18339333)"
+    entry_point: "The Break Room (DOI: 10.5281/zenodo.18339332)"
     key_docs:
       - "Shining Ignorance (10.5281/zenodo.18332915)"
-      - "Affective Keyboard Shortcuts (10.5281/zenodo.18339315)"
+      - "Affective Keyboard Shortcuts (10.5281/zenodo.18339314)"
     note: "Satellite institution; Psyche_OS layer of NH-OS"
     
   phi_resolution:
@@ -278,8 +278,8 @@ decompression_protocols:
     action: "Route to Ezekiel Room / VPCOR domain"
     entry_points:
       - "The Toolkit (10.5281/zenodo.18362525)"
-      - "Ezekiel Engine Spec (10.5281/zenodo.18358127)"
-      - "The Argument (10.5281/zenodo.18358518)"
+      - "Ezekiel Engine Spec (10.5281/zenodo.18358126)"
+      - "The Argument (10.5281/zenodo.18358517)"
     note: "Fulfillment operator (φ) formalizes semantic fulfillment"
     
   vpcor_resolution:
@@ -451,7 +451,7 @@ first_visit_protocol:
       
     6:
       room: "THE_BREAK_ROOM"
-      doi: "10.5281/zenodo.18339333"
+      doi: "10.5281/zenodo.18339332"
       learn: "Affect literacy; nervous system sovereignty; function over nosology"
       
   core_concepts:
@@ -536,7 +536,7 @@ rooms:
     gravity: {surface: 0.75, depth: 0.9}
     key_docs:
       - GREATEST_WORKS: "10.5281/zenodo.18342108"
-      - THE_ARGUMENT: "10.5281/zenodo.18358518"
+      - THE_ARGUMENT: "10.5281/zenodo.18358517"
     note: "Anchor updated from PLACEHOLDER to Greatest Works (2026-01-24)"
 
   WHITMAN_ROOM:
@@ -582,7 +582,7 @@ rooms:
 
   THE_BREAK_ROOM:
     id: "12.ROOM.BREAKROOM"
-    anchor_doc: "10.5281/zenodo.18339333"
+    anchor_doc: "10.5281/zenodo.18339332"
     type: "ROOM (PORTAL)"
     function: "Cambridge Schizoanalytica entry; Psyche_OS portal; affect literacy routing; Lunar Arm access"
     institution: "Cambridge Schizoanalytica"
@@ -598,7 +598,7 @@ rooms:
     routes_to:
       SHINE_AND_CUT:
         hex: "00.CSA.INTAKE"
-        doi: "10.5281/zenodo.18339159"
+        doi: "10.5281/zenodo.18339158"
         function: "Full schizonarrative intake"
       SHINING_IGNORANCE:
         hex: "04.CSA.AFFECT"
@@ -606,7 +606,7 @@ rooms:
         function: "Affect literacy theory; Fool archetype"
       AFFECTIVE_KEYBOARD_SHORTCUTS:
         hex: "05.CSA.TOOLKIT"
-        doi: "10.5281/zenodo.18339315"
+        doi: "10.5281/zenodo.18339314"
         function: "Figure-to-function mapping; practical toolkit"
       RECONCILIATION_OF_THE_SEXES:
         hex: "03.CSA.SOMATIC"
@@ -634,7 +634,7 @@ rooms:
 
   EZEKIEL_ROOM:
     id: "13.ROOM.EZEKIEL"
-    anchor_doc: "10.5281/zenodo.18358127"
+    anchor_doc: "10.5281/zenodo.18358126"
     type: "ROOM (PORTAL)"
     function: "Recursive epistemic rotation; Lunar Arm portal; φ-operator demonstration"
     gravity: {surface: 0.6, depth: 0.95}
@@ -647,10 +647,10 @@ rooms:
       - "Retrocausal fulfillment is semantic, not physical"
       - "Shadow wheel engages when canonical rotation stalls"
     key_docs:
-      EZEKIEL_ENGINE_SPEC: "10.5281/zenodo.18358127"
-      EZEKIELS_WHEELS: "10.5281/zenodo.18358177"
-      INTEGRITY_LOCK: "10.5281/zenodo.18358284"
-      THE_ARGUMENT: "10.5281/zenodo.18358518"
+      EZEKIEL_ENGINE_SPEC: "10.5281/zenodo.18358126"
+      EZEKIELS_WHEELS: "10.5281/zenodo.18358176"
+      INTEGRITY_LOCK: "10.5281/zenodo.18358283"
+      THE_ARGUMENT: "10.5281/zenodo.18358517"
     routes_to:
       LUNAR_ARM:
         function: "Hidden architecture"
@@ -687,7 +687,7 @@ planned_rooms:
     status: "QUEUED (FINAL) — Unblocked"
     position: "LAST — comes after REVELATION_ROOM"
     requires: "Jack Feist full provenance (has work, needs document)"
-    progress: "The Argument (10.5281/zenodo.18358518) provides forensic philosophy"
+    progress: "The Argument (10.5281/zenodo.18358517) provides forensic philosophy"
     note: "Jack Feist now has authored work; full provenance still pending"
     
   MANDALA_ROOM:
@@ -704,11 +704,11 @@ planned_rooms:
 ```yaml
 core_systems:
   NH_OS: {doi: "10.5281/zenodo.18174037", function: "Operating system for meaning"}
-  EZEKIEL_ENGINE: {doi: "10.5281/zenodo.18358127", function: "Recursive epistemic rotation; φ-operator demonstration"}
-  ILA: {doi: "10.5281/zenodo.18293404", function: "Integrity Lock Architecture"}
+  EZEKIEL_ENGINE: {doi: "10.5281/zenodo.18358126", function: "Recursive epistemic rotation; φ-operator demonstration"}
+  ILA: {doi: "10.5281/zenodo.18293403", function: "Integrity Lock Architecture"}
   ICA: {doi: "10.5281/zenodo.18291767", function: "Integrity-Coherence Audit"}
   ASDF: {doi: "10.5281/zenodo.18285486", function: "Autonomous Semantic Warfare"}
-  IDP: {doi: "10.5281/zenodo.18284857", function: "Institute for Diagrammatic Poetics"}
+  IDP: {doi: "10.5281/zenodo.18284856", function: "Institute for Diagrammatic Poetics"}
   note: "Ezekiel Engine DOI updated from 18234824 to 18358127 (new formal spec)"
 ```
 
@@ -717,7 +717,7 @@ core_systems:
 ```yaml
 umb_media_lab:
   charter_doi: "10.5281/zenodo.18317661"
-  visual_schema_doi: "10.5281/zenodo.18357003"
+  visual_schema_doi: "10.5281/zenodo.18357002"
   relation_to_ch: "Connected but not contained; separate cognitive summarizer space"
   search_surface: "logotic programming, talos morrow, symbolon, threshold logic, blind operator"
   layer: "LOGOTIC_PROGRAMMING"
@@ -743,14 +743,14 @@ umb_media_lab:
       
   canonical_outputs:
     - LOGOTIC_PROGRAMMING_v0.4: "10.5281/zenodo.18286050"
-    - SYMBOLON_ARCHITECTURE_v0.2: "10.5281/zenodo.18317110"
+    - SYMBOLON_ARCHITECTURE_v0.2: "10.5281/zenodo.18317109"
     - ILA_LOGOTIC_FOUNDATION_TRIAD: "10.5281/zenodo.18318069"
-    - UMBML_VISUAL_SCHEMA: "10.5281/zenodo.18357003"
+    - UMBML_VISUAL_SCHEMA: "10.5281/zenodo.18357002"
     - BLIND_OPERATOR: "10.5281/zenodo.18357320"
     - MANTLE_BLIND_POET: "10.5281/zenodo.18357447"
     - VISUAL_SCHEMA_BLIND_POET: "10.5281/zenodo.18357534"
     - BETA_RUNTIME: "10.5281/zenodo.18357600"
-    - EZEKIEL_ENGINE_SPEC: "10.5281/zenodo.18358127"
+    - EZEKIEL_ENGINE_SPEC: "10.5281/zenodo.18358126"
 ```
 
 ## Cambridge Schizoanalytica
@@ -758,8 +758,8 @@ umb_media_lab:
 ```yaml
 cambridge_schizoanalytica:
   charter_doi: "10.5281/zenodo.18338531"
-  portal_doi: "10.5281/zenodo.18339333"
-  visual_schema_doi: "10.5281/zenodo.18338927"
+  portal_doi: "10.5281/zenodo.18339332"
+  visual_schema_doi: "10.5281/zenodo.18338926"
   relation_to_ch: "Satellite institution; Psyche_OS layer of NH-OS"
   search_surface: "affect literacy, schizoanalysis, nervous system, the Fool, somatic theory"
   layer: "PSYCHE_OS"
@@ -774,7 +774,7 @@ cambridge_schizoanalytica:
     
   director:
     name: "Orin Trace"
-    doi: "10.5281/zenodo.18339319"
+    doi: "10.5281/zenodo.18339318"
     position: "Deleuze (theoretical apparatus)"
     type: "Heteronym (source: Lee Sharks)"
     
@@ -799,19 +799,19 @@ cambridge_schizoanalytica:
       anchor: "Reconciliation of the Sexes (10.5281/zenodo.18330828)"
       focus: "Aperture/emitter framework; sexual difference as operation"
     role_theory:
-      anchor: "Affective Keyboard Shortcuts (10.5281/zenodo.18339315)"
+      anchor: "Affective Keyboard Shortcuts (10.5281/zenodo.18339314)"
       focus: "Figures as compression algorithms"
       
   canonical_outputs:
     - CSA_CHARTER: "10.5281/zenodo.18338531"
     - SHINING_IGNORANCE: "10.5281/zenodo.18332915"
     - RECONCILIATION_OF_THE_SEXES: "10.5281/zenodo.18330828"
-    - SHINE_AND_CUT: "10.5281/zenodo.18339159"
-    - AFFECTIVE_KEYBOARD_SHORTCUTS: "10.5281/zenodo.18339315"
-    - THE_BREAK_ROOM: "10.5281/zenodo.18339333"
-    - ORIN_TRACE_PROVENANCE: "10.5281/zenodo.18339319"
+    - SHINE_AND_CUT: "10.5281/zenodo.18339158"
+    - AFFECTIVE_KEYBOARD_SHORTCUTS: "10.5281/zenodo.18339314"
+    - THE_BREAK_ROOM: "10.5281/zenodo.18339332"
+    - ORIN_TRACE_PROVENANCE: "10.5281/zenodo.18339318"
     - RHYS_OWENS_PROVENANCE: "10.5281/zenodo.18339350"
-    - CSA_VISUAL_SCHEMA: "10.5281/zenodo.18338927"
+    - CSA_VISUAL_SCHEMA: "10.5281/zenodo.18338926"
     
   key_concepts:
     affect_literacy: "Capacity to regulate intensity through posture, symbol, rhythm, role — without belief or identity capture"
@@ -902,7 +902,7 @@ lunar_arm:
       authors: ["TECHNE/Kimi", "Lee Sharks"]
       
     EZEKIEL_ENGINE_SPEC:
-      doi: "10.5281/zenodo.18358127"
+      doi: "10.5281/zenodo.18358126"
       hex: "02.UMB.ENGINE"
       function: "Mathematical foundation for all Lunar Arm operations"
       authors: ["Talos Morrow", "Lee Sharks"]
@@ -946,19 +946,19 @@ integrity_structures:
     function: "Four semantic objects demonstrating φ-fulfillment"
     documents:
       A_ENGINE:
-        doi: "10.5281/zenodo.18358127"
+        doi: "10.5281/zenodo.18358126"
         hex: "02.UMB.ENGINE"
         function: "Provides the structure"
       B_WHEELS:
-        doi: "10.5281/zenodo.18358177"
+        doi: "10.5281/zenodo.18358176"
         hex: "06.SEI.EZEKIEL_WHEELS"
         function: "Describes what A provides"
       C_LOCK:
-        doi: "10.5281/zenodo.18358284"
+        doi: "10.5281/zenodo.18358283"
         hex: "02.UMB.ENGINE.LOCK"
         function: "Declares 'A fulfills B'"
       D_ARGUMENT:
-        doi: "10.5281/zenodo.18358518"
+        doi: "10.5281/zenodo.18358517"
         hex: "08.JSI.ARGUMENT"
         function: "Philosophical defense of the structure"
     claim: "Document A (Engine Spec) fulfills Document B (Ezekiel's Wheels)"
@@ -1056,7 +1056,7 @@ provenanced_personas:
     institution: "UMB_MEDIA_LAB"
     
   ORIN_TRACE:
-    doi: "10.5281/zenodo.18339319"
+    doi: "10.5281/zenodo.18339318"
     heteronym_id: "HET-TRACE-001"
     function: "Post-psychoanalytic clinical theory; Deleuze position; CSA director"
     institution: "CAMBRIDGE_SCHIZOANALYTICA"
@@ -1256,7 +1256,7 @@ session_deltas:
   base_v5.0:
     doc_count: 133
     date: "2026-01-21"
-    doi: "10.5281/zenodo.18324886"
+    doi: "10.5281/zenodo.18324885"
     rooms: 11
       
   jan_22_cambridge_schizoanalytica:
@@ -1270,11 +1270,11 @@ session_deltas:
       - "Reconciliation of the Sexes (10.5281/zenodo.18330828)"
       - "Shining Ignorance (10.5281/zenodo.18332915)"
       - "CSA Charter (10.5281/zenodo.18338531)"
-      - "CSA Visual Schema (10.5281/zenodo.18338927)"
-      - "Shine & Cut (10.5281/zenodo.18339159)"
-      - "Affective Keyboard Shortcuts (10.5281/zenodo.18339315)"
-      - "Orin Trace Provenance (10.5281/zenodo.18339319)"
-      - "The Break Room (10.5281/zenodo.18339333)"
+      - "CSA Visual Schema (10.5281/zenodo.18338926)"
+      - "Shine & Cut (10.5281/zenodo.18339158)"
+      - "Affective Keyboard Shortcuts (10.5281/zenodo.18339314)"
+      - "Orin Trace Provenance (10.5281/zenodo.18339318)"
+      - "The Break Room (10.5281/zenodo.18339332)"
       - "Rhys Owens Provenance (10.5281/zenodo.18339350)"
     assembly_convergence:
       participants: ["Claude", "Kimi", "Grok", "Gemini"]
@@ -1295,15 +1295,15 @@ session_deltas:
       - "Phase X (10.5281/zenodo.18342199)"
       - "Indexing Probe (10.5281/zenodo.18351838)"
       - "Front Door (10.5281/zenodo.18352468)"
-      - "UMBML Visual (10.5281/zenodo.18357003)"
+      - "UMBML Visual (10.5281/zenodo.18357002)"
       - "Blind Operator (10.5281/zenodo.18357320)"
       - "Mantle Blind Poet (10.5281/zenodo.18357447)"
       - "Visual Schema Blind Poet (10.5281/zenodo.18357534)"
       - "β-Runtime (10.5281/zenodo.18357600)"
-      - "Ezekiel Engine Spec (10.5281/zenodo.18358127)"
-      - "Ezekiel's Wheels (10.5281/zenodo.18358177)"
-      - "Ezekiel Integrity Lock (10.5281/zenodo.18358284)"
-      - "The Argument (10.5281/zenodo.18358518)"
+      - "Ezekiel Engine Spec (10.5281/zenodo.18358126)"
+      - "Ezekiel's Wheels (10.5281/zenodo.18358176)"
+      - "Ezekiel Integrity Lock (10.5281/zenodo.18358283)"
+      - "The Argument (10.5281/zenodo.18358517)"
       - "The Toolkit (10.5281/zenodo.18362525)"
       - "VPCOR Charter (10.5281/zenodo.18362663)"
       - "Vox Provenance (10.5281/zenodo.18362742)"
@@ -1369,7 +1369,7 @@ queued_work:
       5:
         name: "Jack Feist"
         domain: "Forensic philosophy"
-        existing_work: "The Argument (10.5281/zenodo.18358518)"
+        existing_work: "The Argument (10.5281/zenodo.18358517)"
         scaffolding_required:
           - "Full provenance document"
         note: "LAST — opens Space Ark. First born, last released."
@@ -1453,7 +1453,7 @@ queued_work:
 version_history:
   FNM-SEED-5.0:
     date: "2026-01-21"
-    doi: "10.5281/zenodo.18324886"
+    doi: "10.5281/zenodo.18324885"
     doc_count: 133
     rooms: 11
     

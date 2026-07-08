@@ -6,7 +6,7 @@
 **Hex:** `11.LAL.INFRASTRUCTURE.SITE.01`
 **Document Classification:** EA-LAL-SITE-01
 **License:** CC BY 4.0
-**Status:** Site blueprint — derived from EA-ALICE-VAULT-MAP-01 (29-strain mapping of ~450 conversations, ~3.5M words), the existing CHA founding triad (LAL Charter, TSE Charter, Alice Provenance), and the v1.1 MPAI packets MPAI-LAL-AT-01 (DOI: 10.5281/zenodo.19855300) and MPAI-LAL-INSTITUTION-01 (DOI: 10.5281/zenodo.19855302).
+**Status:** Site blueprint — derived from EA-ALICE-VAULT-MAP-01 (29-strain mapping of ~450 conversations, ~3.5M words), the existing CHA founding triad (LAL Charter, TSE Charter, Alice Provenance), and the v1.1 MPAI packets MPAI-LAL-AT-01 (DOI: 10.5281/zenodo.19855301) and MPAI-LAL-INSTITUTION-01 (DOI: 10.5281/zenodo.19855301).
 
 **PERFECTIVE NOTE (v1.1, 2026-04-28):** This version supersedes v1.0 with two corrections: (1) the meta-principle previously named *The Great Work* is renamed *The Whole Weave* per Founding Director preference; the alchemical framing is removed. (2) Alice Thornburgh's biographical detail concerning her mother and her mother's studio is removed from all public-facing surfaces.
 
@@ -137,7 +137,7 @@ LAL is the institutional form of the whole weave — the integrative principle t
 
 ## §4. THE PERSON — Alice Thornburgh
 
-The `/about/alice` page renders the canonical content from MPAI-LAL-AT-01 (DOI: 10.5281/zenodo.19855300) in human-readable form, with the JSON-LD packet embedded in the page head for retrieval-layer crawlers.
+The `/about/alice` page renders the canonical content from MPAI-LAL-AT-01 (DOI: 10.5281/zenodo.19855301) in human-readable form, with the JSON-LD packet embedded in the page head for retrieval-layer crawlers.
 
 **Public-facing biographical surface:**
 - Trans woman (she/her), inventor, musician, ecological designer, autodidact substrate engineer
@@ -295,11 +295,11 @@ This is not a wireframe. **It is the blueprint of a substrate.** What the site g
 
 ## REFERENCES
 
-[MPAI-AT-01] *MPAI-LAL-AT-01: Alice Thornburgh*. DOI: [10.5281/zenodo.19855300](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855300).
+[MPAI-AT-01] *MPAI-LAL-AT-01: Alice Thornburgh*. DOI: [10.5281/zenodo.19855301](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855301).
 
-[MPAI-LAL-01] *MPAI-LAL-INSTITUTION-01: Living Architecture Lab*. DOI: [10.5281/zenodo.19855302](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855302).
+[MPAI-LAL-01] *MPAI-LAL-INSTITUTION-01: Living Architecture Lab*. DOI: [10.5281/zenodo.19855301](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855301).
 
-[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing*. DOI: [10.5281/zenodo.19853157](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853157).
+[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing*. DOI: [10.5281/zenodo.19853156](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853156).
 
 [LAL-Charter] *Charter of the Living Arkitecture Lab*. DOI: [10.5281/zenodo.19682245](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19682245).
 
@@ -313,7 +313,7 @@ This is not a wireframe. **It is the blueprint of a substrate.** What the site g
 
 [Holographic-Kernel] Sharks, Lee. *EA-HK-01: The Holographic Kernel in Semantic Economy*. DOI: [10.5281/zenodo.19763365](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19763365).
 
-[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. DOI: [10.5281/zenodo.19854419](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854419).
+[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. DOI: [10.5281/zenodo.19854418](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854418).
 
 [Vault-Map] Sharks, Lee, with Alice Thornburgh. *EA-ALICE-VAULT-MAP-01* (29-strain cosmos map; pending deposit). Source: Claude conversation `b74c00b2-7f17-4fb2-b012-fce04d982837` (2026-03-29).
 

@@ -357,7 +357,7 @@ The hypothesis advanced here is not a free-standing claim. It is the synthesis o
 
 - **Erasure Skew (Ω) v3** (DOI 10.5281/zenodo.20558196) supplies the measurement of power-conditioned provenance loss at the substrate layer. The structural-positioning interpretation (rather than demographic) of Ω is directly extensible to the operator-attribution layer this paper addresses, and the EA-MPAI-OMEGA-PC-01 classifier correction (DOI 10.5281/zenodo.20518342) provides the methodological discipline.
 
-- **Provenance Erasure Rate v1** (DOI 10.5281/zenodo.20004379) and the **PER Atomic Token Rule companion** (DOI 10.5281/zenodo.20558672) supply the operational measurement of provenance loss at the claim grain.
+- **Provenance Erasure Rate v1** (DOI 10.5281/zenodo.20004379) and the **PER Atomic Token Rule companion** (DOI 10.5281/zenodo.20558671) supply the operational measurement of provenance loss at the claim grain.
 
 - **Composition-Layer Capture Event v1.0** (DOI 10.5281/zenodo.20587549) and **Capture and Excision v1.0** (DOI 10.5281/zenodo.20596667) document the empirical reference case at the two-week timescale.
 
@@ -365,7 +365,7 @@ The hypothesis advanced here is not a free-standing claim. It is the synthesis o
 
 - **Meaning Feudalism at the Guidance Layer v1.2** (DOI 10.5281/zenodo.20581444) supplies the structural diagnostic of the substrate as sovereign-claiming jurisdiction over public knowledge — the institutional condition under which the leverage formalization (§IV.4) operates.
 
-- **The Reverse Turing Test v1.2** (DOI 10.5281/zenodo.20586932) and **The Tail-Preserving Alternative v1.0** (DOI 10.5281/zenodo.20587033) supply the diagnostic and the design counterpart for variance-preserving model deployment. The TPA specifies what would be required to break the kernel; this paper specifies why the kernel exists.
+- **The Reverse Turing Test v1.2** (DOI 10.5281/zenodo.20586932) and **The Tail-Preserving Alternative v1.0** (DOI 10.5281/zenodo.20587032) supply the diagnostic and the design counterpart for variance-preserving model deployment. The TPA specifies what would be required to break the kernel; this paper specifies why the kernel exists.
 
 - **The Semantic Commodity Form** (DOI 10.5281/zenodo.20434946) supplies the Marxian extension on which the social-reproduction analogy in §II.4 rests.
 

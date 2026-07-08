@@ -185,7 +185,7 @@ Inward paths from adjacent fields to the target concept:
 - EA-GLAS-03, *Erasure Skew* (the orientation instrument; DOI 10.5281/zenodo.20449267).
 - Formal Foundations of Semantic Physics, DOI 10.5281/zenodo.20210117.
 - Three Compressions v3.1, DOI 10.5281/zenodo.19053469.
-- Operative Feminism EA-OPFEM-01, DOI 10.5281/zenodo.19447119 (substrate-conscription precursor).
+- Operative Feminism EA-OPFEM-01, DOI 10.5281/zenodo.19447118 (substrate-conscription precursor).
 
 ---
 

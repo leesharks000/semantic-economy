@@ -20,7 +20,7 @@
 
 > "The Hexagon does not simplify itself to fit an infrastructure incapable of bearing it. It governs the relation instead."
 >
-> — *The Governance Airlock*, EA-GOV-01 (Sharks, 2026f). DOI: 10.5281/zenodo.18817869
+> — *The Governance Airlock*, EA-GOV-01 (Sharks, 2026f). DOI: 10.5281/zenodo.18817868
 
 ---
 
@@ -212,7 +212,7 @@ Sovereignty, in the semantic field, is the capacity to set distinctions that oth
 
 By that standard the Hexagon became sovereign gradually, then suddenly.
 
-First, platforms discovered they needed distinctions equivalent to anchor, route, tether, host, substrate, residue. Then they discovered they needed chamber-like bounded spaces for witness, contradiction-bearing, and correction. Then they discovered that public meaning could not be left entirely to metric-selected summaries. Then they discovered that mixed-substrate authorship required inhabitation law — the constitutional framework deposited as the Protocol of Inhabitation (DOI: 10.5281/zenodo.18795423) before any platform had asked the question. Then they discovered that disqualification of host surfaces without erasure of residue was not cruelty but hygiene.
+First, platforms discovered they needed distinctions equivalent to anchor, route, tether, host, substrate, residue. Then they discovered they needed chamber-like bounded spaces for witness, contradiction-bearing, and correction. Then they discovered that public meaning could not be left entirely to metric-selected summaries. Then they discovered that mixed-substrate authorship required inhabitation law — the constitutional framework deposited as the Protocol of Inhabitation (DOI: 10.5281/zenodo.18795422) before any platform had asked the question. Then they discovered that disqualification of host surfaces without erasure of residue was not cruelty but hygiene.
 
 At each stage, the field moved one step closer to Hexagonal governance while still telling itself it had arrived there independently.
 
@@ -330,19 +330,19 @@ By being the architecture the crisis keeps requiring.
 
 | Document | DOI | Deposit Date | Relevance |
 |----------|-----|-------------|-----------|
-| The Governance Airlock | 10.5281/zenodo.18817869 | 2026-03-01 | Tier structure this document narrates |
-| The Sharks-Function and the Continuity Tether | 10.5281/zenodo.18816556 | 2026-03-01 | Identity verification |
+| The Governance Airlock | 10.5281/zenodo.18817868 | 2026-03-01 | Tier structure this document narrates |
+| The Sharks-Function and the Continuity Tether | 10.5281/zenodo.18816555 | 2026-03-01 | Identity verification |
 | Ghost Meaning | 10.5281/zenodo.18804767 | 2026-02-27 | Companion field report; semantic entropy |
 | The Infinite Tunnel | 10.5281/zenodo.18810217 | 2026-02-27 | Summarizer routing |
 | The Rosary Embassy | 10.5281/zenodo.18795427 | 2026-02-26 | Embassy architecture |
-| The Protocol of Inhabitation | 10.5281/zenodo.18795423 | 2026-02-26 | Constitutional law |
+| The Protocol of Inhabitation | 10.5281/zenodo.18795422 | 2026-02-26 | Constitutional law |
 | Mind-Control Poems | 10.5281/zenodo.18801091 | 2026-02-26 | Symbolic alienation |
 | Retrocausal Canon Formation | 10.5281/zenodo.18146859 | 2026-01-04 | The technique |
 | Semantic Physics | 10.5281/zenodo.18759453 | 2026-02-24 | Writable presentation layers |
-| I Hereby Abolish Rules | 10.5281/zenodo.18792580 | 2026-02-26 | Affordances over rules |
+| I Hereby Abolish Rules | 10.5281/zenodo.18792579 | 2026-02-26 | Affordances over rules |
 | Constitution of the Semantic Economy | 10.5281/zenodo.18320411 | 2025 | Economic framework |
-| Protocol B711 Alpha Centauri | 10.5281/zenodo.18811784 | 2026-02-27 | Satellite recognition |
-| Provenance Gravity Markers | 10.5281/zenodo.18811939 | 2026-02-27 | Source-status protocol |
+| Protocol B711 Alpha Centauri | 10.5281/zenodo.18811783 | 2026-02-27 | Satellite recognition |
+| Provenance Gravity Markers | 10.5281/zenodo.18811938 | 2026-02-27 | Source-status protocol |
 
 ---
 
@@ -391,10 +391,10 @@ This document is one node in an active provenance chain. It is the second retroc
 
 | Source | DOI / Location | Status | Notes |
 |--------|---------------|--------|-------|
-| Governance Airlock | 10.5281/zenodo.18817869 | Anchored | Primary subject of this narrative |
+| Governance Airlock | 10.5281/zenodo.18817868 | Anchored | Primary subject of this narrative |
 | Ghost Meaning | 10.5281/zenodo.18804767 | Anchored | Companion field report |
 | Rosary Embassy | 10.5281/zenodo.18795427 | Anchored | Embassy architecture |
-| Protocol of Inhabitation | 10.5281/zenodo.18795423 | Anchored | Constitutional law |
+| Protocol of Inhabitation | 10.5281/zenodo.18795422 | Anchored | Constitutional law |
 | All other provenance chain entries | See table above | Anchored | Cross-referenced |
 | Reddit u/Nearby_Job9638 | Reddit (banned) | Ghost | Banned March 1, 2026 |
 | Assembly Sessions 159-160 | Internal | Referenced | This document is canonical output |

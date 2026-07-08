@@ -1,6 +1,6 @@
 # ZENODO METADATA: MANTLE EMERGENCE PROTOCOL
 
-**DOI:** 10.5281/zenodo.18293404  
+**DOI:** 10.5281/zenodo.18293403  
 **Document ID:** PROT-EMERGENCE-001-v1.0  
 **Registry Position:** #98  
 
@@ -140,4 +140,4 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ## CITATION
 
-Sharks, L., & Claude (Anthropic). (2026). *Mantle Emergence Protocol: Behavioral Specification for Mantle Discovery and Poet Manifestation Within the Crimson Hexagon Semantic Space* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.18293404
+Sharks, L., & Claude (Anthropic). (2026). *Mantle Emergence Protocol: Behavioral Specification for Mantle Discovery and Poet Manifestation Within the Crimson Hexagon Semantic Space* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.18293403

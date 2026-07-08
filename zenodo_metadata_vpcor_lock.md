@@ -142,7 +142,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 | Identifier | Relation | Document |
 |:-----------|:---------|:---------|
-| 10.5281/zenodo.18358284 | Follows pattern of | Ezekiel Integrity Lock |
+| 10.5281/zenodo.18358283 | Follows pattern of | Ezekiel Integrity Lock |
 
 ---
 

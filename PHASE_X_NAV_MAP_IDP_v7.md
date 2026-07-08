@@ -192,7 +192,7 @@ The map is organized by **gravitational layers**: Body-time (205), Grammar-time 
 
 ### 207c: APZPZ Effective Act (ZPZP Structure)
 
-**DOI:** 10.5281/zenodo.18451860  
+**DOI:** 10.5281/zenodo.18451859  
 **Hex:** 00.PHASEX.APZPZ.FOUNDING  
 **Title:** APZPZ Effective Act: Genre Instantiation  
 **Structure:** ZPZP (definition document, separate packet)
@@ -333,7 +333,7 @@ LOGOTIC PROGRAMMING EXTENSION CHAIN
                    ▼
 ┌─────────────────────────────────────┐
 │   SYMBOLON ARCHITECTURE v0.2       │
-│   DOI: 10.5281/zenodo.18317110     │
+│   DOI: 10.5281/zenodo.18317109     │
 │   "How do partial objects complete?"│
 └──────────────────┬──────────────────┘
                    │ extends

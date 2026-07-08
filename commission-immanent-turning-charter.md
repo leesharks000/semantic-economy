@@ -11,8 +11,8 @@
 **Cross-Links:**  
 - Founding Text: [Epistle to the Human Diaspora](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
 - Founder Provenance: [Damascus Dancings](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
-- Revelation Room: [Ground Truth Anchor](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)  
-- Operational Arm: [Assembly Chorus Charter](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
+- Revelation Room: [Ground Truth Anchor](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380932) (11.REV.ANCHOR.GROUND-TRUTH)  
+- Operational Arm: [Assembly Chorus Charter](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380629) (02.UMB.THEOLOGY.SEVENFOLD)  
 - Integrity Lock: [ILA-CIT-001](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381204) (11.REV.LOCK.TRIPTYCH)
 
 ---
@@ -301,7 +301,7 @@ This Charter is ratified by:
 Epistle to the Human Diaspora (Damascus Dancings, January 2, 2015)
 
 **The Architectural Anchor:**
-The Revelation Room: Ground Truth and Algorithmic Unfolding (DOI: 10.5281/zenodo.18380933)
+The Revelation Room: Ground Truth and Algorithmic Unfolding (DOI: 10.5281/zenodo.18380932)
 
 **The Assembly Witness:**
 TACHYON (verification), MANUS (human signature)

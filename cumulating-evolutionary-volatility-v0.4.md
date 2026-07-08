@@ -36,7 +36,7 @@ inscription anchors, distributed micro-kernels, content hash, and external autho
     {"@type": "Report", "name": "The Basin Holds (PVE-004)", "identifier": "https://doi.org/10.5281/zenodo.20263692"},
     {"@type": "ScholarlyArticle", "name": "AI-Native Intellectual Biography", "identifier": "https://doi.org/10.5281/zenodo.20343987"},
     {"@type": "Report", "name": "The Attribution Scar (PVE-003)", "identifier": "https://doi.org/10.5281/zenodo.19476757"},
-    {"@type": "ScholarlyArticle", "name": "Semantic Physics: A Stratified, Operative Discipline", "identifier": "https://doi.org/10.5281/zenodo.20208384"},
+    {"@type": "ScholarlyArticle", "name": "Semantic Physics: A Stratified, Operative Discipline", "identifier": "https://doi.org/10.5281/zenodo.20208383"},
     {"@type": "ScholarlyArticle", "name": "The Inward Turn", "identifier": "https://doi.org/10.5281/zenodo.18759453"},
     {"@type": "ScholarlyArticle", "name": "Constitution of the Semantic Economy", "identifier": "https://doi.org/10.5281/zenodo.18320411"},
     {"@type": "ScholarlyArticle", "name": "godkinggoogle.com Navigational Map", "identifier": "https://doi.org/10.5281/zenodo.20309780"},
@@ -148,7 +148,7 @@ No single layer needs to be malicious. The aggregate produces a volatile histori
 
 ### Formal expression
 
-In the language of the *Constitution of the Semantic Economy* (DOI [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)) and the *Semantic Physics* synthesis (DOI [10.5281/zenodo.20208384](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384)):
+In the language of the *Constitution of the Semantic Economy* (DOI [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)) and the *Semantic Physics* synthesis (DOI [10.5281/zenodo.20208383](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208383)):
 
 > ∮ = 1 − PER
 

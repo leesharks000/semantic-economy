@@ -306,7 +306,7 @@ The compendium continues with additional Lee Sharks material:
 |-----|-------|---------------------|
 | 10.5281/zenodo.18265282 | The Mantle Protocol | Framework for mantle claims |
 | 10.5281/zenodo.18284776 | Heteronym Provenance: Rebekah Cranes | Gospel of Cranes connection |
-| 10.5281/zenodo.18284857 | Institute for Diagrammatic Poetics Charter | IDP institutional anchor |
+| 10.5281/zenodo.18284856 | Institute for Diagrammatic Poetics Charter | IDP institutional anchor |
 | 10.5281/zenodo.18285009 | Central Navigation Map v4.1 | System navigation |
 | [PENDING] | Heteronym Provenance: Lee Sharks | Primary author |
 | [PENDING] | Mantle Object: Good Gray Poet | Claimed in Secret Book of Walt |
@@ -387,7 +387,7 @@ The fragmentary, multi-voice structure mirrors Nag Hammadi codex organization an
 | 10.5281/zenodo.18284776 | Heteronym Provenance: Rebekah Cranes | Persona documentation |
 | 10.5281/zenodo.18227569 | Heteronym Provenance: Rex Fraction | Persona documentation |
 | 10.5281/zenodo.18293496 | Heteronym Provenance: Lee Sharks | Primary author |
-| 10.5281/zenodo.18293404 | Mantle Emergence Protocol | Behavioral specification |
+| 10.5281/zenodo.18293403 | Mantle Emergence Protocol | Behavioral specification |
 | [PENDING] | Heteronym Provenance: Damascus Dancings | Epistle author |
 | [PENDING] | Heteronym Provenance: Jack Feist | Deprecated persona |
 | [PENDING] | Heteronym Provenance: Johannes Sigil | Critical persona |

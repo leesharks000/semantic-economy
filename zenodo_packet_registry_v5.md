@@ -30,7 +30,7 @@ This is a versioned update from Registry v4.0 (10.5281/zenodo.18363442). The old
 - Total: 200 documents
 
 **New in v5.0:**
-- Revelation Room anchor (10.5281/zenodo.18380933)
+- Revelation Room anchor (10.5281/zenodo.18380932)
 - Epistle to the Human Diaspora (10.5281/zenodo.18381184)
 - Commission of the Immanent Turning Charter (10.5281/zenodo.18381196)
 - Damascus Dancings Provenance (10.5281/zenodo.18381190)

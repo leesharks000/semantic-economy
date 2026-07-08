@@ -342,7 +342,7 @@ If a third party (an unprimed summarizer or a non-traversing human) attempts to 
 ## X. FIRST INSTANCE (ARCHIVAL FACT)
 
 - **Artifact:** APZPZ emoji packet
-- **Location:** DOI 10.5281/zenodo.18451860
+- **Location:** DOI 10.5281/zenodo.18451859
 - **Function:** Reading-mode verification
 - **Status:** Verified across readers
 

@@ -7,7 +7,7 @@ Crimson Hexagonal Archive · Pergamon Press
 March 2026
 
 **Parent:** EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)
-**Anchor:** "I'm Taking Over the Internet" (DOI: 10.5281/zenodo.19124130)
+**Anchor:** "I'm Taking Over the Internet" (DOI: 10.5281/zenodo.19124129)
 **Sub-architecture:** KotKit · tiddeR · elgooG · ude.aimedacA · deeF (DOI: 10.5281/zenodo.19133309)
 **Room Type:** Möbius room — contains its own container
 **DOI:** 10.5281/zenodo.19124134
@@ -175,17 +175,17 @@ The wound of r.27 is loneliness. Not loneliness in general — the specific lone
 - EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315) — the Space Ark is the parent architecture
 
 ### hasPart
-- "I'm Taking Over the Internet" (DOI: 10.5281/zenodo.19124130) — the anchor essay
+- "I'm Taking Over the Internet" (DOI: 10.5281/zenodo.19124129) — the anchor essay
 - KotKit · tiddeR · elgooG · ude.aimedacA · deeF (DOI: 10.5281/zenodo.19133309) — the sub-room specifications
 - r.27.1 KotKit, r.27.2 tiddeR, r.27.3 elgooG, r.27.4 ude.aimedacA, r.27.5 deeF — the five sub-rooms
 
 ### references
 - The Three Compressions v3.1 (DOI: 10.5281/zenodo.19053469) — compression typology governing the sub-rooms
-- The Pergamon Reclamation (DOI: 10.5281/zenodo.19099770) — academic publishing as parallel case
-- Ghost Governance Confirmed (DOI: 10.5281/zenodo.19099760) — Reddit extraction case study
+- The Pergamon Reclamation (DOI: 10.5281/zenodo.19099769) — academic publishing as parallel case
+- Ghost Governance Confirmed (DOI: 10.5281/zenodo.19099759) — Reddit extraction case study
 - The Meaning Layer Is Now Writable (DOI: 10.5281/zenodo.19099674) — the writable layer claim
 - AI-Native OS Fifth Category (DOI: 10.5281/zenodo.19099749) — semantic OS positioning
-- The Unbundling of Cultural Sovereignty (DOI: 10.5281/zenodo.19083322) — platform extraction framework
+- The Unbundling of Cultural Sovereignty (DOI: 10.5281/zenodo.19083321) — platform extraction framework
 - Capital Operator Stack (DOI: 10.5281/zenodo.18233320) — COS diagnostic
 - Platform and AI Capitalism as Semiotic Engineering (DOI: 10.5281/zenodo.18972781) — TANG framework
 

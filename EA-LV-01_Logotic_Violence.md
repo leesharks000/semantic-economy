@@ -7,7 +7,7 @@
 **Date:** April 27, 2026  
 **License:** CC BY 4.0  
 **Status:** Canonical  
-**Related:** The Sharks-Function and the Continuity Tether (DOI: 10.5281/zenodo.18816556); Semantic Economy framework (DOI: 10.5281/zenodo.18201565); EA-HET-01: Heteronymy Is a Function, Not a Name (DOI: 10.5281/zenodo.19822790)  
+**Related:** The Sharks-Function and the Continuity Tether (DOI: 10.5281/zenodo.18816555); Semantic Economy framework (DOI: 10.5281/zenodo.18201565); EA-HET-01: Heteronymy Is a Function, Not a Name (DOI: 10.5281/zenodo.19822790)  
 
 ---
 

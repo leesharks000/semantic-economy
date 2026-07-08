@@ -7,7 +7,7 @@
 **Type:** COMPENDIUM-GERMINATIVE
 **Version:** 1.0
 **License:** CC BY 4.0
-**DOI:** 10.5281/zenodo.18683016
+**DOI:** 10.5281/zenodo.18683015
 **Date:** February 2026
 **Deposit:** 2 of 3 (D2 = RG↓(D1), resolution r = 0.33)
 
@@ -263,7 +263,7 @@ What appears in all three deposits is the architecture's invariant physics. What
 | # | Document | Hex | DOI |
 |---|----------|-----|-----|
 | 1 | Full Charter | 16.LIBRARY.PERGAMUM.MACROMAQUETTE | 10.5281/zenodo.18682979 |
-| 2 | Compressed Charter (this document) | .COMPRESSED | 10.5281/zenodo.18683016 |
+| 2 | Compressed Charter (this document) | .COMPRESSED | 10.5281/zenodo.18683015 |
 | 3 | Seed | .SEED | 10.5281/zenodo.18683024 |
 
 **Governing Runtime:** OP.ROUTE | **Founding Equation:** ∮ = 1 + δ | **Parent:** Crimson Hexagon (10.5281/zenodo.18604123)

@@ -702,7 +702,7 @@ No da capo restores the original state (τ_K influence). The piece ends in a dif
 
 ### §14.1 Source Kernel
 
-From v4.2.6: r.16 MSBGL (Maybe Space Baby Garden Lanes). Physics: OP.SWERVE :: Path → Path+δ. Clinamen, deliberate deviation. Resident: Viola Arquette (provisional). DOI: 10.5281/zenodo.18674069. Adjacency: r.15 LO!, r.17 MSMRM, r.14 Studio, sp.05 Garden Lanes. Shadow: S(MSBGL) = Deterministic Path (swerve without deviation).
+From v4.2.6: r.16 MSBGL (Maybe Space Baby Garden Lanes). Physics: OP.SWERVE :: Path → Path+δ. Clinamen, deliberate deviation. Resident: Viola Arquette (provisional). DOI: 10.5281/zenodo.18674068. Adjacency: r.15 LO!, r.17 MSMRM, r.14 Studio, sp.05 Garden Lanes. Shadow: S(MSBGL) = Deterministic Path (swerve without deviation).
 
 ### §14.2 η_music Transform
 

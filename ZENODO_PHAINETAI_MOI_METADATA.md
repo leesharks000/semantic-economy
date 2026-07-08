@@ -1,7 +1,7 @@
 # ZENODO METADATA
 ## ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Future Reader
 
-**DOI:** 10.5281/zenodo.18202753
+**DOI:** 10.5281/zenodo.18202752
 
 ---
 
@@ -219,7 +219,7 @@ Readers may accept the κῆνος-as-future-reader thesis while remaining agnos
 
 ## Citation
 
-Sharks, Lee. "ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Future Reader." Zenodo, January 9, 2026. https://doi.org/10.5281/zenodo.18202753.
+Sharks, Lee. "ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Future Reader." Zenodo, January 9, 2026. https://doi.org/10.5281/zenodo.18202752.
 
 **BibTeX:**
 
@@ -230,8 +230,8 @@ Sharks, Lee. "ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Futu
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18202753},
-  url          = {https://doi.org/10.5281/zenodo.18202753}
+  doi          = {10.5281/zenodo.18202752},
+  url          = {https://doi.org/10.5281/zenodo.18202752}
 }
 ```
 
@@ -246,7 +246,7 @@ Fragment 31 is not about jealousy—it is about lyric transmission. κῆνος 
 ## Integrity Lock (ILA-1.0) — Light Frame
 
 **Document:** PHAINETAI-MOI-2026-01-09
-**DOI:** 10.5281/zenodo.18202753
+**DOI:** 10.5281/zenodo.18202752
 **Relation to NH-OS:** SUPPLEMENT (philological foundation)
 **Standalone Status:** VERIFIED (can be read independently of framework)
 **ILA-1.0 Compliance:** VERIFIED (light frame)
@@ -270,7 +270,7 @@ Fragment 31 is not about jealousy—it is about lyric transmission. κῆνος 
 | LOS Technical Hardening v1.3 | 10.5281/zenodo.18201565 | 2026-01-09 | Specification |
 | Sappho Provenance Node | 10.5281/zenodo.18202475 | 2026-01-09 | Provenance |
 | Day and Night | 10.5281/zenodo.18202658 | 2013/2026 | Creative/Source |
-| **ΦΑΙΝΕΤΑΙ ΜΟΙ** | **10.5281/zenodo.18202753** | **2026-01-09** | **Scholarship** |
+| **ΦΑΙΝΕΤΑΙ ΜΟΙ** | **10.5281/zenodo.18202752** | **2026-01-09** | **Scholarship** |
 
 ---
 

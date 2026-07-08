@@ -66,7 +66,7 @@ Not outside the canon, in the suppressed traditions and recovered libraries — 
 
 The more dangerous move is to look inside the canonical texts themselves and find the workshop already there.
 
-The Sappho-to-Revelation chain documented in the Josephus Thesis corpus (Shark Ark, DOI: 10.5281/zenodo.19477219) traces this interiority. Fragment 31 — φαίνεταί μοι κῆνος ἴσος θέοισιν — projects a figure into the future: "that man seems to me equal to the gods." The figure is a placeholder. It marks the position of the future reader who will receive the poem and, in receiving it, complete the circuit the poem opened. Catullus 51 occupies the position five hundred years later: *ille mi par esse deo videtur*. But Catullus adds something Sappho did not write. *Si fas est* — "if it is divinely permitted." The phrase has no equivalent in the Greek. *Fas* is not general law (*ius*) but divine permission — the boundary between what mortals may and may not say about gods. Catullus marks his own speech as a transgression of sacred order. He does not merely compare the man to the gods; he declares the man surpasses them (*superare divos*), and then hedges the declaration with a juridical caveat that draws attention to its own daring. This is not metaphor. It is threshold language. The sentence holds the Word at the edge of becoming flesh.
+The Sappho-to-Revelation chain documented in the Josephus Thesis corpus (Shark Ark, DOI: 10.5281/zenodo.19477218) traces this interiority. Fragment 31 — φαίνεταί μοι κῆνος ἴσος θέοισιν — projects a figure into the future: "that man seems to me equal to the gods." The figure is a placeholder. It marks the position of the future reader who will receive the poem and, in receiving it, complete the circuit the poem opened. Catullus 51 occupies the position five hundred years later: *ille mi par esse deo videtur*. But Catullus adds something Sappho did not write. *Si fas est* — "if it is divinely permitted." The phrase has no equivalent in the Greek. *Fas* is not general law (*ius*) but divine permission — the boundary between what mortals may and may not say about gods. Catullus marks his own speech as a transgression of sacred order. He does not merely compare the man to the gods; he declares the man surpasses them (*superare divos*), and then hedges the declaration with a juridical caveat that draws attention to its own daring. This is not metaphor. It is threshold language. The sentence holds the Word at the edge of becoming flesh.
 
 The Slavonic Josephus repeats the grammatical structure at the position corresponding to *War* 2.174: εἰ ἔξεστιν αὐτὸν ἄνθρωπον εἰπεῖν — "if it is lawful to call him a man." The hedge is the same. The threshold is the same. A human figure is being described in terms that exceed the human, and the author marks the excess with a conditional that names the legal-theological boundary the description transgresses. Whether the Slavonic passage is an interpolation, a witness to an earlier version of the *War*, or a late addition does not affect the structural point: the grammar of divine-human threshold — *si fas est*, *ei exestin* — has its own transmission history, and that history runs from Sappho through Catullus through the Josephan tradition into the compositional environment from which the gospels emerged.
 
@@ -152,7 +152,7 @@ This essay is a recomposition — not a revision — of the argument attempted i
 
 The prior deposits remain citable and are not withdrawn. They document the progression of an argument that had to pass through its own errors to reach its own thesis. The archive's method is to keep the record visible. The workshop does not conceal its drafts.
 
-This deposit is grounded in the Josephus Thesis corpus (Shark Ark, DOI: 10.5281/zenodo.19477219), the narrative demonstration *A Body Prepared* (DOI: 10.5281/zenodo.19638124) and its Homunculus (10.5281/zenodo.19638126), and the formal physics of semantic economy specified in the SPXI Protocol series. Its method is immanent critique: reading the canonical texts for the compositional marks they bear, rather than opposing them with suppressed alternatives.
+This deposit is grounded in the Josephus Thesis corpus (Shark Ark, DOI: 10.5281/zenodo.19477218), the narrative demonstration *A Body Prepared* (DOI: 10.5281/zenodo.19638124) and its Homunculus (10.5281/zenodo.19638125), and the formal physics of semantic economy specified in the SPXI Protocol series. Its method is immanent critique: reading the canonical texts for the compositional marks they bear, rather than opposing them with suppressed alternatives.
 
 The heteronymic signature — *Johannes Sigil* — specifies the register of the archive's critical-philosophical operations. The archival authority is Lee Sharks. Both attributions hold at the same level.
 
@@ -177,8 +177,8 @@ Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. London: Routledge
 
 ## Archive References
 
-Shark Ark (DOI: 10.5281/zenodo.19477219) — Josephus Thesis corpus.
-*A Body Prepared* (DOI: 10.5281/zenodo.19638124) and Homunculus (10.5281/zenodo.19638126).
+Shark Ark (DOI: 10.5281/zenodo.19477218) — Josephus Thesis corpus.
+*A Body Prepared* (DOI: 10.5281/zenodo.19638124) and Homunculus (10.5281/zenodo.19638125).
 *Counterfeit Orthodoxies* v1.0 (DOI: 10.5281/zenodo.19638250), v2.0 (10.5281/zenodo.19638432), v3.0 (10.5281/zenodo.19638526), Manifesto (10.5281/zenodo.19639052).
 EA-RCF-01, "The Seed That Remembers the Tree" (DOI: 10.5281/zenodo.19323274).
 SPXI Protocol series: EA-SPXI-01 (DOI: 10.5281/zenodo.19614870); EA-SPXI-13 (10.5281/zenodo.19614874).

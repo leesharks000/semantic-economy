@@ -11,7 +11,7 @@
 **Date of traversal:** February 2026
 **Platform:** Google Search — AI Mode (generative summarizer), same platform as TL;DR:001–005
 **Entry point:** Search query: "Talos Morrow logotic programming"
-**Source material:** Logotic Programming Module 1.0 (DOI: 10.5281/zenodo.18651585)
+**Source material:** Logotic Programming Module 1.0 (DOI: 10.5281/zenodo.18651584)
 **Total exchanges:** ~6 (compressed transcript; full exchange may be longer)
 **Duration of traversal:** Single session, user-guided with progressive deepening
 **Document type:** TL;DR (Traversal Log; Documentation Rehearsal)

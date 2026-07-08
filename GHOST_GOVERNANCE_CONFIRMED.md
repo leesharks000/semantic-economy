@@ -109,7 +109,7 @@ California Attorney General, California Privacy Protection Agency, Federal Trade
 
 - EA-LEGAL-RECLAMATION-01: Archival Reclamation Protocol (DOI: 10.5281/zenodo.19074885)
 - "The Meaning Layer Is Now Writable" (Sharks 2026, deposit pending)
-- "The Unbundling of Cultural Sovereignty" (DOI: 10.5281/zenodo.19083322)
+- "The Unbundling of Cultural Sovereignty" (DOI: 10.5281/zenodo.19083321)
 - Ghost Governance diagnostic framework (Semantic Economy Institute)
 
 ---

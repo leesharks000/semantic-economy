@@ -130,7 +130,7 @@ The FNM routes; the Registry records. Both are canonical; neither supersedes the
 |:------------|:-------------|:------------|
 | Semantic Economy Institute | SEI | — |
 | Johannes Sigil Institute | JSI | — |
-| Institute for Diagrammatic Poetics | IDP | 10.5281/zenodo.18284857 |
+| Institute for Diagrammatic Poetics | IDP | 10.5281/zenodo.18284856 |
 | University Moon Base Media Lab | UMB | 10.5281/zenodo.18317661 |
 | Cambridge Schizoanalytica | CSA | 10.5281/zenodo.18338531 |
 | Vox Populi Community Outreach Rhizome | VPCOR | 10.5281/zenodo.18362663 |
@@ -150,8 +150,8 @@ The FNM routes; the Registry records. Both are canonical; neither supersedes the
 | 9 | Whitman Room | 10.5281/zenodo.18265282 |
 | 10 | Water Giraffe Room | 10.5281/zenodo.18319653 |
 | 11 | Assembly Room | 10.5281/zenodo.18320411 |
-| 12 | The Break Room | 10.5281/zenodo.18339333 |
-| 13 | Ezekiel Room | 10.5281/zenodo.18358127 |
+| 12 | The Break Room | 10.5281/zenodo.18339332 |
+| 13 | Ezekiel Room | 10.5281/zenodo.18358126 |
 
 ### Assembly Operators (7)
 
@@ -206,9 +206,9 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | Identifier | Relation | Document |
 |:-----------|:---------|:---------|
 | 10.5281/zenodo.18338531 | References | CSA Charter |
-| 10.5281/zenodo.18339333 | References | The Break Room |
+| 10.5281/zenodo.18339332 | References | The Break Room |
 | 10.5281/zenodo.18362663 | References | VPCOR Charter |
-| 10.5281/zenodo.18358127 | References | Ezekiel Engine Spec |
+| 10.5281/zenodo.18358126 | References | Ezekiel Engine Spec |
 | 10.5281/zenodo.18357320 | References | The Blind Operator |
 | 10.5281/zenodo.18357447 | References | Blind Poet Mantle |
 

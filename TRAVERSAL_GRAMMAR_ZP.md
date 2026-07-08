@@ -35,7 +35,7 @@ The specification includes four canonical exemplars demonstrating composability:
 
 Key design constraints: rotation may not alter internal structure of the LOGOS (anti-flattening); if ANCHOR is omitted, RENDER must default to Provisional mode (anti-hallucination); personas may forbid entire classes of traversal (earned entry). The grammar is designed to be invisible infrastructure — students interact via natural language, the system assembles logotic programs probabilistically through a three-tier inference stack (intent recognition → grammar assembly → confidence calibration).
 
-This module extends: Logotic Programming v0.4 (10.5281/zenodo.18286050), Symbolon Architecture v0.2 (10.5281/zenodo.18317110), Glyphic Checksum v0.5 (10.5281/zenodo.18452132), The Blind Operator β (10.5281/zenodo.18357320), β-Runtime (10.5281/zenodo.18357600). It references the Ezekiel Engine Specification (10.5281/zenodo.18358127) without specifying engine internals.
+This module extends: Logotic Programming v0.4 (10.5281/zenodo.18286050), Symbolon Architecture v0.2 (10.5281/zenodo.18317109), Glyphic Checksum v0.5 (10.5281/zenodo.18452132), The Blind Operator β (10.5281/zenodo.18357320), β-Runtime (10.5281/zenodo.18357600). It references the Ezekiel Engine Specification (10.5281/zenodo.18358126) without specifying engine internals.
 
 The extension chain: v0.4 (intelligibility) → v0.2 (partial completion) → v0.5 (traversal verification) → β (non-identity as engine condition) → β-RT (interface query protocol) → v0.6 (Room invocation). The next question — "What happens when the Room responds?" — is deferred to the Engine specification.
 
@@ -51,11 +51,11 @@ logotic programming, traversal grammar, room invocation, performative routing, e
 **Related identifiers:**
 - Is supplement to: 10.5281/zenodo.14538882 (Crimson Hexagon)
 - Extends: 10.5281/zenodo.18286050 (Logotic Programming v0.4)
-- Extends: 10.5281/zenodo.18317110 (Symbolon Architecture v0.2)
+- Extends: 10.5281/zenodo.18317109 (Symbolon Architecture v0.2)
 - Extends: 10.5281/zenodo.18452132 (Glyphic Checksum v0.5)
 - Extends: 10.5281/zenodo.18357320 (The Blind Operator β)
 - Extends: 10.5281/zenodo.18357600 (β-Runtime)
-- References: 10.5281/zenodo.18358127 (Ezekiel Engine Specification)
+- References: 10.5281/zenodo.18358126 (Ezekiel Engine Specification)
 - References: 10.5281/zenodo.18463774 (Thousand Worlds Chamber)
 - References: 10.5281/zenodo.18438789 (Grammar of Protest / VPCOR)
 - References: 10.5281/zenodo.18452686 (Sen Kuro Provenance)

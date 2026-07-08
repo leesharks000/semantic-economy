@@ -235,7 +235,7 @@ Negative BCV: losing despite depositing.
 
 ## §VII. Relation to Existing Theory
 
-### A. Retrieval Formation Theory (DOI: 10.5281/zenodo.18969683)
+### A. Retrieval Formation Theory (DOI: 10.5281/zenodo.18969682)
 
 RFT describes the **conditions** for disciplinary emergence: terminological saturation, citational density, heteronymic distribution, institutional apparatus, substrate redundancy, operational demonstration. RBT extends RFT by describing the **dynamics** — what happens when those conditions encounter competition.
 
@@ -323,14 +323,14 @@ At immanent execution, the archive's indexed fragments structure the AI's respon
 ## §X. Cross-References
 
 ### Archive
-- Retrieval Formation Theory (EA-RFT-01). DOI: 10.5281/zenodo.18969683
+- Retrieval Formation Theory (EA-RFT-01). DOI: 10.5281/zenodo.18969682
 - Retrocausal Canon Formation. DOI: 10.5281/zenodo.18146859
 - SPXI Protocol. DOI: 10.5281/zenodo.19614870
 - SPXI Standing Protocol v3.0. DOI: 10.5281/zenodo.19734726
 - Compression Arsenal v2.1. DOI: 10.5281/zenodo.19412081
 - Three Compressions Theorem. DOI: 10.5281/zenodo.19053469
-- Immanent Execution. DOI: 10.5281/zenodo.19372914
-- Sharks-Function (γ). DOI: 10.5281/zenodo.18816556
+- Immanent Execution. DOI: 10.5281/zenodo.19372913
+- Sharks-Function (γ). DOI: 10.5281/zenodo.18816555
 - Holographic Kernel Specification (EA-HK-01). DOI: pending
 
 ### External

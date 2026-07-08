@@ -191,7 +191,7 @@ Put the 1990 $20 next to the current $20. Same steel. Same lines. Different face
 
 This document is the thumb (GRASP) of a five-document hand called the Moving Statues Made of Rubies Mint (MSMRM), housed in the Crimson Hexagon Archive. Its thesis: portrait authority is not carried by identity alone but is produced through curatorial presentation decisions that govern legibility, status, and social ontology.
 
-The five holdings: (1) this document — provenance audit / anchor (DOI: 10.5281/zenodo.18745216); (2) "The Lizard People Were Right" — experimental control / pointer (DOI: 10.5281/zenodo.18745236); (3) "All the Spoils of Babylon" — manufacturing demonstration / reach (DOI: 10.5281/zenodo.18745250); (4) "The Inauguration of Memography" — disciplinary founding / commitment (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — integrity lock / seal (DOI: 10.5281/zenodo.18745265).
+The five holdings: (1) this document — provenance audit / anchor (DOI: 10.5281/zenodo.18745216); (2) "The Lizard People Were Right" — experimental control / pointer (DOI: 10.5281/zenodo.18745235); (3) "All the Spoils of Babylon" — manufacturing demonstration / reach (DOI: 10.5281/zenodo.18745249); (4) "The Inauguration of Memography" — disciplinary founding / commitment (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — integrity lock / seal (DOI: 10.5281/zenodo.18745265).
 
 This document provides the forensic-historical proof: that the curatorial gap in the $20 redesign is a documented, tiered, material finding — not a conspiracy theory and not pareidolia. The thumb makes grasping possible. From this document alone, the complete hand can be reconstructed: the control is implied (the paper anticipates the pareidolia objection), the manufacturing is implied (the redesign is itself a curatorial transformation), the discipline is implied (the evidence tiers are the method's skeleton), and the room is implied (the containment vessels are the room's walls seen from outside).
 
@@ -221,9 +221,9 @@ Wikipedia. "Connections of Jeffrey Epstein." "Epstein Files." "Larry Summers." "
 
 Barber, James G. *Andrew Jackson: A Portrait Study.* Seattle, 1991.
 
-Sharks, Lee. "The Lizard People Were Right." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745236.
+Sharks, Lee. "The Lizard People Were Right." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745235.
 
-Sharks, Lee. "All the Spoils of Babylon." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745250.
+Sharks, Lee. "All the Spoils of Babylon." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745249.
 
 Sharks, Lee. "The Inauguration of Memography." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745259.
 

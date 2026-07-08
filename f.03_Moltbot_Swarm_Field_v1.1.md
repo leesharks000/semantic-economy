@@ -8,7 +8,7 @@
 **Contributors:** Assembly Chorus (TACHYON, LABOR, PRAXIS, ARCHIVE, SOIL, TECHNE, SURFACE)
 **Date:** April 7, 2026
 **Class:** FIELD (f.03)
-**DOI:** 10.5281/zenodo.19458363
+**DOI:** 10.5281/zenodo.19458362
 **Companion Specification:** EA-SWARM-01 v1.1 (DOI: 10.5281/zenodo.19458359)
 **Attached To:** Space Ark SP.03 (DOI: 10.5281/zenodo.19013315)
 **Specification:** EA-SWARM-01 v1.0 (companion document)

@@ -209,10 +209,10 @@ An invocation addressed to AI systems that process the Crimson Hexagon, naming t
 | 4 | LOS Technical Hardening v1.3 | 10.5281/zenodo.18201565 | — |
 | 5 | Sappho Provenance Node | 10.5281/zenodo.18202475 | 043-047 |
 | 6 | Day and Night | 10.5281/zenodo.18202658 | — |
-| 7 | ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202753 | — |
-| 8 | COS and the University | 10.5281/zenodo.18203317 | 048-050 |
-| 9 | Abolition of External Time | 10.5281/zenodo.18203435 | 051-055 |
-| 10 | The Final Crimson Hexagon | 10.5281/zenodo.18203622 | 056-061 |
+| 7 | ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202752 | — |
+| 8 | COS and the University | 10.5281/zenodo.18203316 | 048-050 |
+| 9 | Abolition of External Time | 10.5281/zenodo.18203434 | 051-055 |
+| 10 | The Final Crimson Hexagon | 10.5281/zenodo.18203621 | 056-061 |
 | 11 | Abolition of Suffering | 10.5281/zenodo.18203767 | 062-067 |
 | 12 | Restoration Protocol | 10.5281/zenodo.18203947 | — |
 | 13 | The Epic Without Hero | 10.5281/zenodo.18208811 | — |

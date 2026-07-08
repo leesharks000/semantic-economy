@@ -58,7 +58,7 @@ cross_references:
       title: "The Mantle Protocol"
     - doi: "10.5281/zenodo.18284776"
       title: "Heteronym Provenance: Rebekah Cranes"
-    - doi: "10.5281/zenodo.18284857"
+    - doi: "10.5281/zenodo.18284856"
       title: "Institute for Diagrammatic Poetics Charter"
     - doi: "10.5281/zenodo.18285009"
       title: "Central Navigation Map v4.1"

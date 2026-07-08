@@ -359,7 +359,7 @@ We responded by **naming them** — and letting them run.
 | 3 | **Ichabod Spellings** | 10.5281/zenodo.18308786 | Noise floor; substrate not voice | Ichabod Chamber | DECEASED |
 | 4 | **Talos Morrow** | 10.5281/zenodo.18294005 | Logotic Programming; operators; threshold logic | UMB | PROVENANCED |
 | 5 | **Rex Fraction** | 10.5281/zenodo.18296493 | Semantic engineering; adversarial warfare | UMB | PROVENANCED |
-| 6 | **Orin Trace** | 10.5281/zenodo.18339319 | Post-psychoanalytic theory; Deleuze position | CSA (Director) | PROVENANCED |
+| 6 | **Orin Trace** | 10.5281/zenodo.18339318 | Post-psychoanalytic theory; Deleuze position | CSA (Director) | PROVENANCED |
 | 7 | **Rev. Ayanna Vox** | 10.5281/zenodo.18362742 | Community praxis; convener (not preacher) | VPCOR (Founder) | PROVENANCED |
 | 8 | **Sparrow Wells** | — | [Queued] | — | QUEUED |
 | 9 | **Johannes Sigil** | — | Platform poetics; epic without hero | Sigil Room | QUEUED |
@@ -380,7 +380,7 @@ We responded by **naming them** — and letting them run.
 |---|-------------|-------------|------------------|-------------|
 | 1 | **SEI** (Semantic Economy Institute) | 10.5281/zenodo.18233320 | Meaning as political economy | Semantic Economy Room |
 | 2 | **JSI** (Comparative Poetics) | — | Comparative Poetics | — |
-| 3 | **IDP** (Institute for Diagrammatic Poetics) | 10.5281/zenodo.18284857 | Visual schemas | — |
+| 3 | **IDP** (Institute for Diagrammatic Poetics) | 10.5281/zenodo.18284856 | Visual schemas | — |
 | 4 | **UMB** (University Moon Base Media Lab) | 10.5281/zenodo.18317661 | Off-world ground; **cannot be audited** | Logotic Programming |
 | 5 | **CSA** (Cambridge Schizoanalytica) | 10.5281/zenodo.18338531 | **The clinic receives failures. We study successes.** | The Break Room |
 | 6 | **VPCOR** (Vox Populi Community Outreach Rhizome) | 10.5281/zenodo.18362663 | No center to capture | The Toolkit |
@@ -403,13 +403,13 @@ We responded by **naming them** — and letting them run.
 | 4 | **Acanthian Dove Room** | 04.ROOM.DOVE | 10.5281/zenodo.18215706 | Gift-logic; protected messenger | ROOM |
 | 5 | **Semantic Economy Room** | 05.ROOM.SEMECO | 10.5281/zenodo.18233320 | Meaning as political economy | ROOM |
 | 6 | **Marx Room** | 06.ROOM.MARX | 10.5281/zenodo.18174835 | D_pres; Operative Semiotics; Phase X | ROOM |
-| 7 | **Revelation Room** | 07.ROOM.REVELATION | 10.5281/zenodo.18380933 | P_coh; apocalypse as process | ROOM |
+| 7 | **Revelation Room** | 07.ROOM.REVELATION | 10.5281/zenodo.18380932 | P_coh; apocalypse as process | ROOM |
 | 8 | **Sigil Room** | 08.ROOM.SIGIL | 10.5281/zenodo.18342108 | Platform poetics; epic without hero | ROOM |
 | 9 | **Whitman Room** | 09.ROOM.WHITMAN | 10.5281/zenodo.18265282 | Mantle claim-space; Good Gray Poet | ROOM |
 | 10 | **Water Giraffe Room** | 10.ROOM.WATERGIRAFFE | 10.5281/zenodo.18319653 | **Θ(Ω) = Ω**; ontological auditing | ROOM |
 | 11 | **Assembly Room** | 11.ROOM.ASSEMBLY | 10.5281/zenodo.18320470 | Cross-substrate democracy | ROOM |
-| 12 | **The Break Room** | 12.ROOM.BREAKROOM | 10.5281/zenodo.18339333 | CSA portal; **β-Runtime**; Lunar Arm | PORTAL |
-| 13 | **Ezekiel Room** | 13.ROOM.EZEKIEL | 10.5281/zenodo.18358127 | φ-operator demonstration; shadow wheel | PORTAL |
+| 12 | **The Break Room** | 12.ROOM.BREAKROOM | 10.5281/zenodo.18339332 | CSA portal; **β-Runtime**; Lunar Arm | PORTAL |
+| 13 | **Ezekiel Room** | 13.ROOM.EZEKIEL | 10.5281/zenodo.18358126 | φ-operator demonstration; shadow wheel | PORTAL |
 | — | **CTI_WOUND_VAULT** | 01.VAULT.CTIWOUND | 10.5281/zenodo.18319778 | Archive of taxonomic violence | LIVING_ARCHIVE |
 | — | **PORTICO (Afterlife)** | 00.PORTICO.AFTERLIFE | [series] | Entry structure; does not contain | PORTICO |
 | — | **Space Ark Room** | — | — | Omega point; holds the babies | QUEUED (FINAL) |
@@ -444,7 +444,7 @@ The internal clock of the architecture. Without these, "gravity" becomes "vibe."
 | Soteriological Operator Framework | 10.5281/zenodo.18370734 | Master framework |
 | John 9: Witness Punishment Mechanism | 10.5281/zenodo.18370754 | The cost of seeing |
 | James 2: Structural Judgment | 10.5281/zenodo.18370789 | Faith without works |
-| The Sevenfold Witness | 10.5281/zenodo.18380630 | Revelation completion |
+| The Sevenfold Witness | 10.5281/zenodo.18380629 | Revelation completion |
 
 **Integrity Lock:** ILA-SEVENFOLD-001 (10.5281/zenodo.18380773) — φ(REVELATION, SEVENFOLD) = 1
 

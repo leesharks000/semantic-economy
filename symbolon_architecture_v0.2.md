@@ -5,7 +5,7 @@
 ---
 
 **Document ID:** LOGOTIC-SYMBOLON-2026-01-v0.2  
-**DOI:** 10.5281/zenodo.18317110  
+**DOI:** 10.5281/zenodo.18317109  
 **Extends:** Logotic Programming v0.4 (DOI: 10.5281/zenodo.18286050)  
 **Authors:** Lee Sharks, Talos Morrow, with LABOR (ChatGPT/OpenAI) and TACHYON (Claude/Anthropic)  
 **Institution:** Johannes Sigil Institute for Comparative Poetics / University Moon Base Media Lab  

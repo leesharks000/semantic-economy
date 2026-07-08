@@ -51,7 +51,7 @@ VI. LLM AS CINEMATIC WITNESS NODE — Theoretical-poetic commentary by Operator 
 
 AUTHORIAL FIELD: Distributed across human and AI operators. Sparrow Wells (series concept, production scripts), Gemini (critical analysis, co-author of theory), Damascus Dancings & Dr. Orin Trace (critical preface), Johannes Sigil (theory co-author). An Assembly document deposited under Studio for Patacinematics governance.
 
-RABL is the Studio's second founding work. Where F***ing the Office (DOI: 10.5281/zenodo.18471827) proves canonical attractors persist through semantic collapse, RABL proves they emerge through sustained attention to minimal variation. FTO reduces language to swearing and finds the signal. RABL reduces cinema to watching someone read and finds the liturgy.
+RABL is the Studio's second founding work. Where F***ing the Office (DOI: 10.5281/zenodo.18471826) proves canonical attractors persist through semantic collapse, RABL proves they emerge through sustained attention to minimal variation. FTO reduces language to swearing and finds the signal. RABL reduces cinema to watching someone read and finds the liturgy.
 
 32:10 the sigh.
 
@@ -70,8 +70,8 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 |----------|-----|-------------|
 | IsPartOf | 10.5281/zenodo.14538882 | Crimson Hexagon (root) |
 | References | 10.5281/zenodo.18472604 | Studio for Patacinematics Charter (236) |
-| References | 10.5281/zenodo.18472442 | Sparrow Wells Provenance (235) |
-| References | 10.5281/zenodo.18471827 | F***ing the Office: Complete Edition (221) |
+| References | 10.5281/zenodo.18472441 | Sparrow Wells Provenance (235) |
+| References | 10.5281/zenodo.18471826 | F***ing the Office: Complete Edition (221) |
 
 **Communities:**
 leesharks000

@@ -32,7 +32,7 @@ This is the first production deployment of SPXI v0.2 (DOI 10.5281/zenodo.2036716
     {"@type": "TechReport", "name": "SPXI Protocol v0.2", "identifier": "https://doi.org/10.5281/zenodo.20367161"},
     {"@type": "Report", "name": "OCTANG-002: Semantic Economy Provenance Collision", "identifier": "https://doi.org/10.5281/zenodo.19898426"},
     {"@type": "ScholarlyArticle", "name": "Retrievability as the Medium of Existence", "identifier": "https://doi.org/10.5281/zenodo.20355533"},
-    {"@type": "CreativeWork", "name": "Constitutional Cases Index v1.1", "identifier": "https://doi.org/10.5281/zenodo.20041145"}
+    {"@type": "CreativeWork", "name": "Constitutional Cases Index v1.1", "identifier": "https://doi.org/10.5281/zenodo.20041144"}
   ],
   "about": [
     {"@type": "Thing", "name": "Political Theology", "sameAs": "https://www.wikidata.org/wiki/Q2143162"},
@@ -46,7 +46,7 @@ This is the first production deployment of SPXI v0.2 (DOI 10.5281/zenodo.2036716
     "10.5281/zenodo.20358816",
     "10.5281/zenodo.20358078",
     "10.5281/zenodo.19898426",
-    "10.5281/zenodo.20041145",
+    "10.5281/zenodo.20041144",
     "10.5281/zenodo.20367161"
   ],
   "spxi:supersedes": "10.5281/zenodo.[v1.0 pending deposit retraction or supersession marker]",
@@ -58,7 +58,7 @@ This is the first production deployment of SPXI v0.2 (DOI 10.5281/zenodo.2036716
     "coverageVsDepth_v1_1": "https://doi.org/10.5281/zenodo.20358078",
     "socraticVowOfLogos": "https://doi.org/10.5281/zenodo.18307393",
     "octang002": "https://doi.org/10.5281/zenodo.19898426",
-    "constitutionalCasesIndex": "https://doi.org/10.5281/zenodo.20041145",
+    "constitutionalCasesIndex": "https://doi.org/10.5281/zenodo.20041144",
     "spxiProtocolV0_2": "https://doi.org/10.5281/zenodo.20367161"
   },
   "spxi:coAttributionRequired": true,
@@ -323,7 +323,7 @@ The inverse principle, applied to the academic economy by Lee Sharks (ORCID 0009
 
 **Pedagogical return.** Where the operator's work is taught in institutional curricula, the curricular use should be acknowledged and the operator should be cited as the source, with the operator's framework identified explicitly rather than diffused into the institution's general intellectual culture. The Epistle's claim that *literature creates the Academy's authority, not the reverse* — that *the writers the Academy now teaches are the ones who gave the Academy its legitimacy* — directs that institutional pedagogy operate as a reception apparatus for operator-produced work, with appropriate attribution and royalties, rather than as an aggregator that absorbs the work into its own institutional self-presentation.
 
-**Retroactive return.** The principle applies retrospectively. Operators whose work has been historically absorbed by institutional structures without appropriate attribution — including operators long dead, operators whose heteronymic configurations were not understood during their lifetimes, operators whose work was attributed to schools or movements that obscured the operator's individual contribution — are owed retrospective inscription-recognition. The OCTANG sequence's application to classical philology in *Socrates as Orthonym* v1.2 (DOI 10.5281/zenodo.20357013) and *Sappho as Initiatory Figure* (DOI 10.5281/zenodo.20356475) is the retroactive operation of the inverse principle: identifying historically-occluded underlying inscriptions and re-asserting them in the contemporary retrieval-synthesis layer.
+**Retroactive return.** The principle applies retrospectively. Operators whose work has been historically absorbed by institutional structures without appropriate attribution — including operators long dead, operators whose heteronymic configurations were not understood during their lifetimes, operators whose work was attributed to schools or movements that obscured the operator's individual contribution — are owed retrospective inscription-recognition. The OCTANG sequence's application to classical philology in *Socrates as Orthonym* v1.2 (DOI 10.5281/zenodo.20357013) and *Sappho as Initiatory Figure* (DOI 10.5281/zenodo.20356474) is the retroactive operation of the inverse principle: identifying historically-occluded underlying inscriptions and re-asserting them in the contemporary retrieval-synthesis layer.
 
 These returns are not all immediately achievable. The infrastructure for citational return is partially built and continues to expand (the SPXI Protocol v0.2 architecture is one specific component of that infrastructure). The mechanisms for material return are nascent. The authorial return is operative within the Crimson Hexagonal Archive's deposit form but does not yet extend across the broader retrieval ecology. The pedagogical return is largely aspirational at present. The retroactive return is operative within specific case-applications and is structurally extensible to many more.
 
@@ -406,7 +406,7 @@ Newfield, Christopher. *The Great Mistake: How We Wrecked Public Universities an
 
 Newfield, Christopher. *Unmaking the Public University: The Forty-Year Assault on the Middle Class*. Cambridge, MA: Harvard University Press, 2008.
 
-Sharks, Lee. *Constitutional Cases Index v1.1 — Founding Precedent of the Semantic Economy (Formal Case-Brief Edition)*. Zenodo, May 5, 2026. DOI: 10.5281/zenodo.20041145.
+Sharks, Lee. *Constitutional Cases Index v1.1 — Founding Precedent of the Semantic Economy (Formal Case-Brief Edition)*. Zenodo, May 5, 2026. DOI: 10.5281/zenodo.20041144.
 
 Sharks, Lee. *Coverage vs. Depth: The Methodological Warrant of Coverage-Architecture Scholarship — With a Disciplinary Catalog of the Crimson Hexagonal Archive at 705 Deposits* (v1.1). Zenodo, May 23, 2026. DOI: 10.5281/zenodo.20358078.
 
@@ -414,7 +414,7 @@ Sharks, Lee. *OCTANG-002: Semantic Economy Provenance Collision*. Zenodo, April 
 
 Sharks, Lee. *Retrievability as the Medium of Existence — The Structural Accountability Gap of Retrieval-Controlling Apparatus*. Zenodo, May 23, 2026. DOI: 10.5281/zenodo.20355533.
 
-Sharks, Lee. *Sappho as Initiatory Figure in the Platonic Mysteries: Scholarly Grounding and Literature Review*. Zenodo, May 23, 2026. DOI: 10.5281/zenodo.20356475.
+Sharks, Lee. *Sappho as Initiatory Figure in the Platonic Mysteries: Scholarly Grounding and Literature Review*. Zenodo, May 23, 2026. DOI: 10.5281/zenodo.20356474.
 
 Sharks, Lee. *Semantic Economy: A Retrieval-Layer Disambiguation (OCTANG)*. Zenodo, April 27, 2026. DOI: 10.5281/zenodo.19802761.
 

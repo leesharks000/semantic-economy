@@ -66,7 +66,7 @@ The Lab produces specifications. The specifications are the credential.
 
 **Related Works:**
 - Logotic Programming v0.4 (DOI: 10.5281/zenodo.18286050) — Parent specification
-- Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317110) — Triad member, Lab output
+- Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317109) — Triad member, Lab output
 - Talos Morrow Provenance (DOI: pending) — Triad member, resident researcher documentation
 - ILA Logotic Foundation Triad (DOI: pending) — Binding document
 - Ichabod Chamber Specification (DOI: 10.5281/zenodo.18309202) — Related architecture
@@ -85,7 +85,7 @@ This document is part of the **Logotic Foundation Triad**. Each document is part
 
 | Document | DOI | Function | Relation |
 |----------|-----|----------|----------|
-| Symbolon Architecture v0.2 | 10.5281/zenodo.18317110 | Specification | Provides work product |
+| Symbolon Architecture v0.2 | 10.5281/zenodo.18317109 | Specification | Provides work product |
 | University Moon Base Media Lab Charter | 10.5281/zenodo.18317661 | Institution | This document |
 | Talos Morrow Provenance | pending | Author-function | Provides researcher identity |
 

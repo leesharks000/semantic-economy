@@ -182,7 +182,7 @@ This document is part of the **Logotic Foundation Triad** (ILA-LOGOTIC-2026-01).
 
 | Document | DOI | Function | This Document Is Partial Without |
 |----------|-----|----------|----------------------------------|
-| **Symbolon Architecture v0.2** | 10.5281/zenodo.18317110 | Specification | ← Provides work product, proof of function |
+| **Symbolon Architecture v0.2** | 10.5281/zenodo.18317109 | Specification | ← Provides work product, proof of function |
 | **University Moon Base Media Lab Charter** | 10.5281/zenodo.18317661 | Institution | Resident researcher, canonical output |
 | **Talos Morrow Provenance** | pending | Author-function | ← Provides researcher identity and domain |
 

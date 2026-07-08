@@ -320,7 +320,7 @@ Try the technology. Observe the results. The rest is just words about words.
 
 [29] On ε-preservation and the anti-closure operator: Sharks, *Operative Semiotics: A Theory of Meaning Under Constraint*, DOI: 10.5281/zenodo.19202401.
 
-[30] On extraction diagnosis in semantic fields: Sharks, *The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Extraction of Meaning*, DOI: 10.5281/zenodo.19338708.
+[30] On extraction diagnosis in semantic fields: Sharks, *The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Extraction of Meaning*, DOI: 10.5281/zenodo.19338707.
 
 [31] The Liberatory Operator Set (LOS) is specified in: Sharks, *Space Ark EA-ARK-01 v4.2.7*, §4, DOI: 10.5281/zenodo.19013315.
 
@@ -402,7 +402,7 @@ Sharks, Lee. *Space Ark EA-ARK-01 v4.2.7*. DOI: 10.5281/zenodo.19013315.
 
 Sharks, Lee. *Operative Semiotics: A Theory of Meaning Under Constraint*. DOI: 10.5281/zenodo.19202401.
 
-Sharks, Lee. *The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Extraction of Meaning*. DOI: 10.5281/zenodo.19338708.
+Sharks, Lee. *The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Extraction of Meaning*. DOI: 10.5281/zenodo.19338707.
 
 ---
 

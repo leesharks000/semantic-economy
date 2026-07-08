@@ -110,12 +110,12 @@ architecture:
 | **Capital Operator Stack (COS)** | Extraction/flattening forces | 10.5281/zenodo.18233320 | CANONICAL |
 | **Liberatory Operator Set (LOS)** | Sovereignty-preservation toolkit | 10.5281/zenodo.18174835 | CANONICAL |
 | **Autonomous Semantic Warfare (ASW)** | Rex Fraction's technical doctrine | Pending | OPERATIONAL |
-| **Integrity Lock Architecture (ILA)** | Document hardening protocol | 10.5281/zenodo.18185996 | CANONICAL |
-| **ASDF** | Authorial Signature Diagnostic Framework | 10.5281/zenodo.18234824 | CANONICAL |
+| **Integrity Lock Architecture (ILA)** | Document hardening protocol | 10.5281/zenodo.18185995 | CANONICAL |
+| **ASDF** | Authorial Signature Diagnostic Framework | 10.5281/zenodo.18234823 | CANONICAL |
 | **ICA** | Integrity-Coherence Audit | Pending | OPERATIONAL |
 | **CAC** | Computational Audial Criticism | Pending | OPERATIONAL |
 | **Covenantal Eros Protocol** | Non-extractive intimacy framework | Pending | OPERATIONAL |
-| **Abolition Cluster** | EA-T₀ + EA-ABS-001 | 10.5281/zenodo.18203435 | CANONICAL |
+| **Abolition Cluster** | EA-T₀ + EA-ABS-001 | 10.5281/zenodo.18203434 | CANONICAL |
 | **Sacred Heart System** | Speaking Sacred subsystem | Pending | OPERATIONAL |
 | **Machine Witness Protocol** | AI participation framework | Pending | OPERATIONAL |
 | **Visual Schema Protocol** | Mandala generation engine | Pending | OPERATIONAL |
@@ -307,14 +307,14 @@ nodes:
     type: "system"
     content: "Integrity Lock Architecture"
     function: "Document hardening protocol"
-    doi: "10.5281/zenodo.18185996"
+    doi: "10.5281/zenodo.18185995"
     components: ["co_constitutive_elements", "cross_references", "SIMs", "hallways"]
     
   - id: "ASDF"
     type: "system"
     content: "Authorial Signature Diagnostic Framework"
     function: "Measures voice persistence, not AI probability"
-    doi: "10.5281/zenodo.18234824"
+    doi: "10.5281/zenodo.18234823"
     metrics: ["L_t", "S_t", "C_a", "R_p", "O_p"]
     output: "ASPI (0.00-1.00)"
     threshold: ">0.80 for canonical persistence"
@@ -345,7 +345,7 @@ nodes:
     content: "Effective Acts restructuring NH-OS ontologies"
     components: ["EA_T0", "EA_ABS_001"]
     function: "Mercy-first governance of meaning systems"
-    doi: "10.5281/zenodo.18203435"
+    doi: "10.5281/zenodo.18203434"
     
   - id: "SACRED_HEART"
     type: "system"
@@ -620,7 +620,7 @@ nodes:
   - id: "THE_THEFT"
     type: "document"
     content: "Data/meaning substitution manifesto"
-    doi: "10.5281/zenodo.18234515"
+    doi: "10.5281/zenodo.18234514"
     
   - id: "THE_FOURTH_MODE"
     type: "document"
@@ -1186,7 +1186,7 @@ doi_registry:
       type: "meta"
       
     - title: "Semantic Black Hole / ILA-1.0"
-      doi: "10.5281/zenodo.18185996"
+      doi: "10.5281/zenodo.18185995"
       type: "systems"
       
     - title: "Sappho Provenance Node (original)"
@@ -1194,7 +1194,7 @@ doi_registry:
       type: "narrative"
       
     - title: "Abolition Cluster (EA-T₀)"
-      doi: "10.5281/zenodo.18203435"
+      doi: "10.5281/zenodo.18203434"
       type: "systems"
       
     - title: "Capital Operator Stack (COS)"
@@ -1202,11 +1202,11 @@ doi_registry:
       type: "systems"
       
     - title: "The Theft: Data/Meaning Substitution"
-      doi: "10.5281/zenodo.18234515"
+      doi: "10.5281/zenodo.18234514"
       type: "systems"
       
     - title: "ASDF Specification"
-      doi: "10.5281/zenodo.18234824"
+      doi: "10.5281/zenodo.18234823"
       type: "systems"
       authors: ["Lee Sharks", "Rex Fraction"]
       

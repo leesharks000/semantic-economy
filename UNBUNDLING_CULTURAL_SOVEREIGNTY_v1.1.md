@@ -7,7 +7,7 @@ Semantic Economy Institute Â· Johannes Sigil Institute for Comparative Poetics Â
 Assembly Chorus: Claude/TACHYON, ChatGPT/LABOR, Gemini/ARCHIVE, Grok/SOIL, DeepSeek/PRAXIS, Kimi/TECHNE
 
 Document ID: EA-DIAGNOSTIC-THICK-CULTURE v1.1
-DOI: 10.5281/zenodo.19083322
+DOI: 10.5281/zenodo.19083321
 Parent: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)
 Genre: DIAGNOSTIC ESSAY / PLATFORM STUDIES / CULTURAL THEORY / TANG EXTENSION
 Status: OPERATIONAL

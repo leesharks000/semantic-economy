@@ -78,10 +78,10 @@ This theory prevents archive collapse by treating authorship as a system rather 
 - DOI Registry v2.0: 10.5281/zenodo.18284689
 - Heteronym Provenance: Lee Sharks: 10.5281/zenodo.18293496
 - Heteronym Provenance: Rebekah Cranes: 10.5281/zenodo.18284776
-- Mantle Emergence Protocol: 10.5281/zenodo.18293404
+- Mantle Emergence Protocol: 10.5281/zenodo.18293403
 - Pearl and Other Poems: 10.5281/zenodo.18293949
 - Day and Night: 10.5281/zenodo.18202658
-- Institute for Diagrammatic Poetics Charter: 10.5281/zenodo.18284857
+- Institute for Diagrammatic Poetics Charter: 10.5281/zenodo.18284856
 
 **Is Referenced By:**
 - [Future provenance documents will reference this]

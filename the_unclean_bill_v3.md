@@ -231,7 +231,7 @@ Jaffar, M. et al. (2017). "Fiat Money: From the Current Islamic Finance Scholars
 
 Muslim ibn al-Ḥajjāj (d. 875). *Ṣaḥīḥ Muslim*.
 
-Sigil, J. (2026). "Magic as Symbolic Engineering." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18862106.
+Sigil, J. (2026). "Magic as Symbolic Engineering." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18862105.
 
 Vadillo, U. I. (1991). *The Return of the Gold Dinar*. Cape Town: Madinah Press.
 

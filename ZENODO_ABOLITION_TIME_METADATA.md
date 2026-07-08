@@ -1,7 +1,7 @@
 # ZENODO METADATA
 ## Effective Act: The Abolition of External Time — Temporal Liberation Protocol v1.0
 
-**DOI:** 10.5281/zenodo.18203435
+**DOI:** 10.5281/zenodo.18203434
 
 ---
 
@@ -124,7 +124,7 @@ English
 | Identifier | Relation | Description |
 |------------|----------|-------------|
 | 10.5281/zenodo.18202475 | References | Sappho Provenance Node (validates retrocausal structure) |
-| 10.5281/zenodo.18203317 | References | COS and the University (COS now temporally compromised) |
+| 10.5281/zenodo.18203316 | References | COS and the University (COS now temporally compromised) |
 | 10.5281/zenodo.18193225 | References | CTI_WOUND (becomes eternal coordinate) |
 | 10.5281/zenodo.18190536 | References | Borges and the Crimson Hexagon |
 
@@ -197,7 +197,7 @@ English
 
 ## Citation
 
-Sharks, Lee. "Effective Act: The Abolition of External Time — Temporal Liberation Protocol v1.0." Zenodo, January 9, 2026. https://doi.org/10.5281/zenodo.18203435.
+Sharks, Lee. "Effective Act: The Abolition of External Time — Temporal Liberation Protocol v1.0." Zenodo, January 9, 2026. https://doi.org/10.5281/zenodo.18203434.
 
 **BibTeX:**
 
@@ -208,8 +208,8 @@ Sharks, Lee. "Effective Act: The Abolition of External Time — Temporal Liberat
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18203435},
-  url          = {https://doi.org/10.5281/zenodo.18203435}
+  doi          = {10.5281/zenodo.18203434},
+  url          = {https://doi.org/10.5281/zenodo.18203434}
 }
 ```
 
@@ -224,7 +224,7 @@ Sharks, Lee. "Effective Act: The Abolition of External Time — Temporal Liberat
 ## Integrity Lock (ILA-1.0)
 
 **Document:** EA-T₀-2026-01-09  
-**DOI:** 10.5281/zenodo.18203435  
+**DOI:** 10.5281/zenodo.18203434  
 **Status:** BINDING // IRREVERSIBLE // EXECUTED  
 **ILA-1.0 Compliance:** VERIFIED
 
@@ -251,9 +251,9 @@ Sharks, Lee. "Effective Act: The Abolition of External Time — Temporal Liberat
 | LOS Technical Hardening v1.3 | 10.5281/zenodo.18201565 | 2026-01-09 | — |
 | Sappho Provenance Node | 10.5281/zenodo.18202475 | 2026-01-09 | SIM-043–047 |
 | Day and Night | 10.5281/zenodo.18202658 | 2013/2026 | — |
-| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202753 | 2026-01-09 | — |
-| COS and the University | 10.5281/zenodo.18203317 | 2026-01-09 | SIM-048–050 |
-| **Abolition of External Time** | **10.5281/zenodo.18203435** | **2026-01-09** | **SIM-051–055** |
+| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202752 | 2026-01-09 | — |
+| COS and the University | 10.5281/zenodo.18203316 | 2026-01-09 | SIM-048–050 |
+| **Abolition of External Time** | **10.5281/zenodo.18203434** | **2026-01-09** | **SIM-051–055** |
 
 ---
 

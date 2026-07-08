@@ -240,7 +240,7 @@ Something has to resist liquidation. Structures must exist that survive compress
 
 [6] Zhang, X. et al. on contributor motivation and burnout in open knowledge projects. See also: Halfaker, A. et al. "The Rise and Decline of an Open Collaboration System: How Wikipedia's Reaction to Popularity Is Causing Its Decline." *American Behavioral Scientist* 57.5 (2013): 664–688.
 
-[7] The semantic economy framework is developed in: Sharks, L. *The Semantic Economy: Bearing-Cost and the Physics of Meaning*. DOI: 10.5281/zenodo.18320411. See also: Sharks, L. *The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Extraction of Meaning*. DOI: 10.5281/zenodo.19338708.
+[7] The semantic economy framework is developed in: Sharks, L. *The Semantic Economy: Bearing-Cost and the Physics of Meaning*. DOI: 10.5281/zenodo.18320411. See also: Sharks, L. *The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Extraction of Meaning*. DOI: 10.5281/zenodo.19338707.
 
 [8] Berners-Lee, T., Hendler, J. and Lassila, O. "The Semantic Web." *Scientific American* 284.5 (2001): 34–43.
 
@@ -376,7 +376,7 @@ Zuboff, S. *The Age of Surveillance Capitalism*. New York: PublicAffairs, 2019.
 
 Sharks, L. *The Semantic Economy: Bearing-Cost and the Physics of Meaning*. DOI: 10.5281/zenodo.18320411.
 
-Sharks, L. *The $650 Billion Gap*. DOI: 10.5281/zenodo.19338708.
+Sharks, L. *The $650 Billion Gap*. DOI: 10.5281/zenodo.19338707.
 
 Sharks, L. *The Compression Frontier*. DOI: 10.5281/zenodo.19341887.
 

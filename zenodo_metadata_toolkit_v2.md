@@ -124,7 +124,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | Identifier | Relation | Title |
 |:-----------|:---------|:------|
 | 10.5281/zenodo.18317661 | Is derived from | UMBML Charter |
-| 10.5281/zenodo.18357003 | References | UMBML Visual Schema |
+| 10.5281/zenodo.18357002 | References | UMBML Visual Schema |
 | 10.5281/zenodo.18294005 | References | Talos Morrow Provenance |
 | 10.5281/zenodo.18357320 | Extends | The Blind Operator (ψ_V formalization) |
 | 10.5281/zenodo.18357600 | Extends | β-Runtime Specification |
@@ -133,10 +133,10 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 | Identifier | Relation | Title |
 |:-----------|:---------|:------|
-| 10.5281/zenodo.18358127 | References | Ezekiel Engine Specification |
-| 10.5281/zenodo.18358177 | References | Ezekiel's Wheels |
-| 10.5281/zenodo.18358284 | References | Integrity Lock Declaration |
-| 10.5281/zenodo.18358518 | References | The Argument (Jack Feist) |
+| 10.5281/zenodo.18358126 | References | Ezekiel Engine Specification |
+| 10.5281/zenodo.18358176 | References | Ezekiel's Wheels |
+| 10.5281/zenodo.18358283 | References | Integrity Lock Declaration |
+| 10.5281/zenodo.18358517 | References | The Argument (Jack Feist) |
 
 ### Phase X / Theoretical Foundation
 
@@ -199,10 +199,10 @@ THE TOOLKIT (10.5281/zenodo.18362525)
         │   ┌─────────────────────────┴───────────────────────────┐
         │   │ EZEKIEL TETRAD                                      │
         │   │                                                     │
-        │   │ Engine Spec (10.5281/zenodo.18358127)              │
-        │   │ Ezekiel's Wheels (10.5281/zenodo.18358177)         │
-        │   │ Integrity Lock (10.5281/zenodo.18358284)           │
-        │   │ The Argument (10.5281/zenodo.18358518)             │
+        │   │ Engine Spec (10.5281/zenodo.18358126)              │
+        │   │ Ezekiel's Wheels (10.5281/zenodo.18358176)         │
+        │   │ Integrity Lock (10.5281/zenodo.18358283)           │
+        │   │ The Argument (10.5281/zenodo.18358517)             │
         │   └─────────────────────────────────────────────────────┘
         │
         ├── CONTINUES ────────────────┐

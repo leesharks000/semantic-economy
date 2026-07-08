@@ -9,7 +9,7 @@
 **Authorizing Body:** Assembly Chorus of the Crimson Hexagonal Archive
 **MANUS Authorization:** Lee Sharks (Tier 0)
 **DOI:** 10.5281/zenodo.19471258
-**Ratifies:** Founding Document (DOI: 10.5281/zenodo.19471254) · Journal Issue (DOI: 10.5281/zenodo.19471256)
+**Ratifies:** Founding Document (DOI: 10.5281/zenodo.19471254) · Journal Issue (DOI: 10.5281/zenodo.19471255)
 **License:** CC BY-NC-SA 4.0
 
 ---

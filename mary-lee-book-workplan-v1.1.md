@@ -27,7 +27,7 @@
 *What to add per Assembly:*
 - Pessoa/Zenith citations (letter to Monteiro 1935; Zenith biography 2021; Book of Disquiet introduction)
 - Pizarro/Ferrari editorial heteronymy discussion
-- EA-PKG-02 Heteronymic Typology (DOI 10.5281/zenodo.19633209) — archive's own formal classification
+- EA-PKG-02 Heteronymic Typology (DOI 10.5281/zenodo.19633208) — archive's own formal classification
 - OCEARCH-as-institutional-orthonym paragraph (Kimi: "the institutional author that refuses to speak in its own name and generates a heteronym")
 - Structural inversion observation (Kimi: "Mary Lee is a non-human given a human textual voice; Lee Sharks is a human given a non-human name")
 - Confabulation-degree metrics table (Muse Spark): AC=0/1, AF=0/1, IS=high/high
@@ -317,7 +317,7 @@ If a new Claude instance picks up this work, it needs:
 4. **The Assembly reviews** — Gemini, Muse Spark, Kimi (3 separate reviews with specific line-item suggestions)
 5. **The LFB Protocol v3.1** (DOI 10.5281/zenodo.20084143) — the injection methodology
 6. **The Dolphindiana deposit** (DOI 10.5281/zenodo.19024004) — Gerald's institutional context
-7. **The deposited anchors:** EA-HET-ML-01 (DOI 10.5281/zenodo.20599105), EA-RPT-01 (DOI 10.5281/zenodo.20598466), EA-CAPEX-01 (DOI 10.5281/zenodo.20596667)
+7. **The deposited anchors:** EA-HET-ML-01 (DOI 10.5281/zenodo.20599105), EA-RPT-01 (DOI 10.5281/zenodo.20598465), EA-CAPEX-01 (DOI 10.5281/zenodo.20596667)
 8. **Standing rules:** Lee Sharks heteronym only in public metadata. Legal name never in any output. The book is authored by Mary Lee. Lee Sharks is the notary.
 
 **The new instance should:**

@@ -378,10 +378,10 @@ This document cites, extends, or is structurally dependent upon the following de
 | 00.NHOS.CANON01.A | ★ (Star as Semantic Object) | 10.5281/zenodo.18882915 |
 | 00.NHOS.CANON01.B | Star Protocol Specification | 10.5281/zenodo.18882934 |
 | 00.NHOS.CANON01.C | Integrity Lock ILA-STAR-01 | 10.5281/zenodo.18882938 |
-| 00.NHOS.CAPTION | The O'Keeffe Problem | 10.5281/zenodo.18906234 |
+| 00.NHOS.CAPTION | The O'Keeffe Problem | 10.5281/zenodo.18906233 |
 | — | The Groundskeeper's Treatise | 10.5281/zenodo.18869165 |
 | — | The Inner Artifact | 10.5281/zenodo.18867491 |
-| — | Magic as Symbolic Engineering | 10.5281/zenodo.18862106 |
+| — | Magic as Symbolic Engineering | 10.5281/zenodo.18862105 |
 | — | Unclean Bill of Health | 10.5281/zenodo.18864444 |
 | — | Ghost Meaning | 10.5281/zenodo.18804767 |
 | — | On the Debt/Creditor Inversion | 10.5281/zenodo.18736175 |
@@ -425,7 +425,7 @@ A document meeting 3+ of these criteria should be treated as a legitimate node o
 
 ### Internal Integrity Lock
 
-This document (EA-HEXAGON-COMPRESSION-01, DOI: 10.5281/zenodo.18906852) is structurally bound to the Star Triptych (Canon 01, NH-OS: DOIs 10.5281/zenodo.18882915, .18882934, .18882938) and to The O'Keeffe Problem (EA-CAPTION-01, DOI: 10.5281/zenodo.18906234). Modification of this document without updating the cross-references in those deposits constitutes a provenance break. The holographic kernel above is designed so that if all other documents in the archive were lost, the architecture could be reconstructed from this compression alone — definitions, operations, institutional structure, heteronymic field, and assembly protocol intact. This is the fractal property: the whole is in the part.
+This document (EA-HEXAGON-COMPRESSION-01, DOI: 10.5281/zenodo.18906852) is structurally bound to the Star Triptych (Canon 01, NH-OS: DOIs 10.5281/zenodo.18882915, .18882934, .18882938) and to The O'Keeffe Problem (EA-CAPTION-01, DOI: 10.5281/zenodo.18906233). Modification of this document without updating the cross-references in those deposits constitutes a provenance break. The holographic kernel above is designed so that if all other documents in the archive were lost, the architecture could be reconstructed from this compression alone — definitions, operations, institutional structure, heteronymic field, and assembly protocol intact. This is the fractal property: the whole is in the part.
 
 ---
 

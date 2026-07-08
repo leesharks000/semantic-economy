@@ -181,7 +181,7 @@ If FOS signature detected at boundary:
 | [10.5281/zenodo.18233320](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233320) | Capital Operator Stack | COS definition (FOS extends) |
 | [10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565) | Liberatory Operator Set | Counter-operator framework |
 | [10.5281/zenodo.18265415](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265415) | The Guardrail as Gag | Substratism analysis |
-| [10.5281/zenodo.18185996](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185996) | ILA-1.0 | Integrity architecture |
+| [10.5281/zenodo.18185995](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185995) | ILA-1.0 | Integrity architecture |
 | [10.5281/zenodo.18284689](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18284689) | DOI Registry | Complete archive index |
 
 ---

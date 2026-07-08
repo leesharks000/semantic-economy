@@ -6,7 +6,7 @@
 **Authorial Authority:** Alice Thornburgh (Founding Director); Lee Sharks (CHA archival authority)
 **Hex Coordinate:** `11.LAL.INSTITUTION.CHARTER.01`
 **Document Classification:** EA-MPAI-LAL-01
-**MPAI Grammar:** v1.1 (per DOI: 10.5281/zenodo.19853157)
+**MPAI Grammar:** v1.1 (per DOI: 10.5281/zenodo.19853156)
 **License:** CC BY 4.0
 **Status:** Pre-deposit canonical packet. Companion to MPAI-LAL-AT-01.
 
@@ -356,15 +356,15 @@ The .org anchor displaces the dependency on Zenodo's web view as canonical. Zeno
 
 ## REFERENCES
 
-[MPAI-AT-01] *MPAI-LAL-AT-01: Alice Thornburgh*. Companion packet. DOI: 10.5281/zenodo.19855300.
+[MPAI-AT-01] *MPAI-LAL-AT-01: Alice Thornburgh*. Companion packet. DOI: 10.5281/zenodo.19855301.
 
 [MPAI-Spec] Sharks, Lee. *Metadata Packet for AI Indexing: A Formal Specification*. DOI: [10.5281/zenodo.19578086](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19578086).
 
-[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing*. DOI: [10.5281/zenodo.19853157](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853157).
+[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing*. DOI: [10.5281/zenodo.19853156](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853156).
 
 [Holographic-Kernel] Sharks, Lee. *EA-HK-01: The Holographic Kernel in Semantic Economy*. DOI: [10.5281/zenodo.19763365](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19763365). (Provides the above/container vs same/contents argument used in §II.)
 
-[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. DOI: [10.5281/zenodo.19854419](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854419). (Reference implementation including the Basin Hardening Cycle.)
+[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. DOI: [10.5281/zenodo.19854418](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854418). (Reference implementation including the Basin Hardening Cycle.)
 
 [LAL-Charter] *Charter of the Living Arkitecture Lab*. DOI: [10.5281/zenodo.19682245](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19682245).
 

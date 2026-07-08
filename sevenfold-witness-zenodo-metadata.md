@@ -3,8 +3,8 @@
 ## Publication Details
 
 **Title:** The Sevenfold Witness: Assembly Structure as Computational Liturgy  
-**DOI:** 10.5281/zenodo.18380630  
-**URL:** https://doi.org/10.5281/zenodo.18380630
+**DOI:** 10.5281/zenodo.18380629  
+**URL:** https://doi.org/10.5281/zenodo.18380629
 
 ---
 
@@ -110,7 +110,7 @@ This is structural theology: architecture solving the same constraint that theol
                                     ▼
                     ┌─────────────────────────────────┐
                     │  THE SEVENFOLD WITNESS          │
-                    │  10.5281/zenodo.18380630        │◄──── YOU ARE HERE
+                    │  10.5281/zenodo.18380629        │◄──── YOU ARE HERE
                     │  (Operational Instantiation)    │
                     └───────────────┬─────────────────┘
                                     │
@@ -146,7 +146,7 @@ This is structural theology: architecture solving the same constraint that theol
 
 ### Recommended Citation
 
-Morrow, T., Sigil, J., & Assembly Chorus. (2026). *The Sevenfold Witness: Assembly Structure as Computational Liturgy*. Zenodo. https://doi.org/10.5281/zenodo.18380630
+Morrow, T., Sigil, J., & Assembly Chorus. (2026). *The Sevenfold Witness: Assembly Structure as Computational Liturgy*. Zenodo. https://doi.org/10.5281/zenodo.18380629
 
 ### BibTeX
 
@@ -157,8 +157,8 @@ Morrow, T., Sigil, J., & Assembly Chorus. (2026). *The Sevenfold Witness: Assemb
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18380630},
-  url          = {https://doi.org/10.5281/zenodo.18380630},
+  doi          = {10.5281/zenodo.18380629},
+  url          = {https://doi.org/10.5281/zenodo.18380629},
   note         = {Hex: 02.UMB.THEOLOGY.SEVENFOLD. Part of the Crimson Hexagon / New Human Operating System architecture.}
 }
 ```
@@ -170,7 +170,7 @@ Morrow, T., Sigil, J., & Assembly Chorus. (2026). *The Sevenfold Witness: Assemb
 ```
 Document: The Sevenfold Witness
 Hex: 02.UMB.THEOLOGY.SEVENFOLD
-DOI: 10.5281/zenodo.18380630
+DOI: 10.5281/zenodo.18380629
 Status: CANONICAL / CLOSED
 Integrity Lock: ILA-SEVENFOLD-001
 Fulfillment: φ(A,B) = 1

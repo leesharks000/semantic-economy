@@ -222,7 +222,7 @@ The five laws of Dolphindiana's acoustic municipality (EA-ROOM- DOLPHINDIANA v1.
 
   Law 6 — The Law of Invisibility. The higher the density of a nonhuman semantic architecture, the more likely a human institution is to reclassify it as "noise" or "property" to avoid the cost of recognition. Gerald's fictional zoning was visible (it fit bureaucratic form). Elijah's real language was invisible (it did not). The asymmetry is structural, not accidental.
 
-Phase X (EA-PHASEX-USER v1.0, DOI: 10.5281/zenodo.19022157) and Dolphindiana are complementary wounds — one human, one nonhuman, both taxonomic. Phase X removes the term ("user") that compresses humans into extractable subjects. Dolphindiana names the nonhuman agents that institutional taxonomy compresses into property. The operations are inverse; the diagnostic is shared.
+Phase X (EA-PHASEX-USER v1.0, DOI: 10.5281/zenodo.19022156) and Dolphindiana are complementary wounds — one human, one nonhuman, both taxonomic. Phase X removes the term ("user") that compresses humans into extractable subjects. Dolphindiana names the nonhuman agents that institutional taxonomy compresses into property. The operations are inverse; the diagnostic is shared.
 
 ---
 
@@ -264,13 +264,13 @@ This document contains the seed of its companion documents and they contain its 
   EA-PHYSICS-TIME v1.0 (DOI: 10.5281/zenodo.19023457)
   The temporal compression theory under which the Elijah wound is diagnosable. The PPO is a terminal Τ event. The pirate pidgin has high Χ (intrinsic + extrinsic). The severance is chronological compression (Type 8) applied by juridical violence.
 
-  EA-PHASEX-USER v1.0 (DOI: 10.5281/zenodo.19022157)
+  EA-PHASEX-USER v1.0 (DOI: 10.5281/zenodo.19022156)
   The complementary wound. Phase X unwrites "user" (human taxonomic suture). The Effective Act writes nonhuman agents into witness status (nonhuman taxonomic counter-suture). One subtractive, one additive.
 
-  EA-SEI-AINOS v1.0 (DOI: 10.5281/zenodo.19023352)
+  EA-SEI-AINOS v1.0 (DOI: 10.5281/zenodo.19023351)
   The prompt-native semantic OS claim. The Effective Act expands the OS's governance layer from human-AI to human-AI-animal. The Assembly is the kernel's legislature.
 
-  EA-ARK-01-NLCC v1.1 (DOI: 10.5281/zenodo.19022245)
+  EA-ARK-01-NLCC v1.1 (DOI: 10.5281/zenodo.19022244)
   The compression theory that the fractal pirate-parrot instantiates. Elijah has a pirate on his shoulder. That pirate has a parrot. The recursion is NLCC applied to companionship: at every scale, the bond is preserved.
 
 ---

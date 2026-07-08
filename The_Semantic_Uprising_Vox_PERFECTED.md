@@ -307,7 +307,7 @@ This document is one entry point to a larger architecture. The others are listed
 
 **For the full framework:** Rex Fraction, *Autonomous Semantic Warfare: A Field Manual for Meaning in the Age of Platform Capture* (New Human Press, 2026; ISBN 979-8-234-01118-3; Zenodo sampler DOI: 10.5281/zenodo.18715724).
 
-**For the theoretical foundation:** "The Semantic Economy" (Sharks & Sigil; DOI: 10.5281/zenodo.18713917).
+**For the theoretical foundation:** "The Semantic Economy" (Sharks & Sigil; DOI: 10.5281/zenodo.18713916).
 
 **For the juridical abolition of the contract-form:** "The Murder of the Vow" (Sharks; DOI: 10.5281/zenodo.18717850).
 

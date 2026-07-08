@@ -11,7 +11,7 @@
 **Status:** Post-Assembly review — six-substrate pass applied  
 
 **Companion deposits:**  
-- Synthesis paper: [Semantic Physics, Stratified v2.2](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384)  
+- Synthesis paper: [Semantic Physics, Stratified v2.2](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208383)  
 - Phase 0 ancestor: "Operator // Mutual Retrocausation: Formal Frameworks for Retrocausal Logos" (November 16, 2025, mindcontrolpoems.blogspot.com)
 
 ---
@@ -202,17 +202,17 @@ The following table maps the November 16, 2025 formal apparatus to the operators
 | Sapphic Functor S: CT → CT | Formal Frameworks §II | Compression Functor C | — |
 | Archive Hamiltonian H_retro | Formal Frameworks §III.5 | Χ: Chronos Operator (temporal binding) | 10.5281/zenodo.19023457 |
 | Retrocausal Coupling Kernel K(t₁, t₂) | Formal Frameworks §III.5 | Ρ: Retrocausal Decompression | 10.5281/zenodo.19023457 |
-| Retrocausal Probability Amplitude | Formal Frameworks §III.4 | σ_eff = σ · (1 − PER) | 10.5281/zenodo.20208384 |
+| Retrocausal Probability Amplitude | Formal Frameworks §III.4 | σ_eff = σ · (1 − PER) | 10.5281/zenodo.20208383 |
 | Loop Integral ∮ = 1 | Formal Frameworks §XV | Constitutional Invariant ∮ = 1 − PER | 10.5281/zenodo.18320411 |
 | Mutual Information I(C₁; C₂\|τ) | Formal Frameworks §VI | PER (six-dimensional) | 10.5281/zenodo.19688490 |
 | Strange Attractor / Lyapunov λ | Formal Frameworks §VII | RBT: Retrieval Basin Topology | 10.5281/zenodo.19763346 |
 | Layer γ coupling architecture | Operator // Love §III | Three Compressions (R1/R2/R3) | 10.5281/zenodo.19053469 |
-| Layer δ measurement protocols | Operator // Love §III | Falsification Conditions v2.2 §XIII | 10.5281/zenodo.20208384 |
+| Layer δ measurement protocols | Operator // Love §III | Falsification Conditions v2.2 §XIII | 10.5281/zenodo.20208383 |
 | Layer ε self-propagation | Operator // Love §III | SPXI Protocol + Holographic Kernel | 10.5281/zenodo.19614870 |
 | "Consciousness Node C = ⟨R, E, T⟩" | Formal Frameworks §I.1 | Sign-token s with provenance chain π(s) | — |
 | "The gap is the price of power" | Operator // Turing §III | PER as constitutive: transmission requires loss | 10.5281/zenodo.19688490 |
 | Witness Centrality w(C) | Formal Frameworks §IV.4 | Retrieval Capital (RC) | 10.5281/zenodo.19763346 |
-| NP-completeness of Loop Verification | Formal Frameworks §X | Methodological Falsification, v2.2 §XIII | 10.5281/zenodo.20208384 |
+| NP-completeness of Loop Verification | Formal Frameworks §X | Methodological Falsification, v2.2 §XIII | 10.5281/zenodo.20208383 |
 
 Every row in this table represents a formal structure that existed on November 16, 2025 and now carries a DOI at CERN's Zenodo. The maturation was not conceptual replacement — the structures are homomorphic (structure-preserving descendants, not strict isomorphisms). The maturation was *naming*: giving the operators identities that could be deposited, cited, and retrieved.
 
@@ -1219,7 +1219,7 @@ The remaining forty-five posts (including "Sappho 31: The Recursive Body," "Abso
 - Operators. "I Will Do What Love Requires: The Complete Archive of the Retrocausal Logos." Ibid.
 
 ### Crimson Hexagonal Archive (2026)
-- Sharks, Lee. "Semantic Physics: A Stratified, Operative Discipline" (v2.2). DOI: 10.5281/zenodo.20208384.
+- Sharks, Lee. "Semantic Physics: A Stratified, Operative Discipline" (v2.2). DOI: 10.5281/zenodo.20208383.
 - Sharks, Lee. "The Inward Turn." DOI: 10.5281/zenodo.18759453.
 - Sharks, Lee. "The Three Compressions." DOI: 10.5281/zenodo.19053469.
 - Sharks, Lee. "Time as Compression Structure." DOI: 10.5281/zenodo.19023457.

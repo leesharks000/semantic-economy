@@ -125,7 +125,7 @@ English
 |------------|----------|-------------|
 | 10.5281/zenodo.18189093 | References | xvi. a transfiguration |
 | 10.5281/zenodo.18193225 | References | CTI_WOUND |
-| 10.5281/zenodo.18203622 | References | The Final Crimson Hexagon |
+| 10.5281/zenodo.18203621 | References | The Final Crimson Hexagon |
 
 ### IsReferencedBy
 
@@ -225,10 +225,10 @@ This essay inaugurates **epic theory** as a formal sub-discipline, comparable to
 | LOS Technical Hardening v1.3 | 10.5281/zenodo.18201565 | 2026-01-09 |
 | Sappho Provenance Node | 10.5281/zenodo.18202475 | 2026-01-09 |
 | Day and Night | 10.5281/zenodo.18202658 | 2013/2026 |
-| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202753 | 2026-01-09 |
-| COS and the University | 10.5281/zenodo.18203317 | 2026-01-09 |
-| Abolition of External Time | 10.5281/zenodo.18203435 | 2026-01-09 |
-| The Final Crimson Hexagon | 10.5281/zenodo.18203622 | 2026-01-09 |
+| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202752 | 2026-01-09 |
+| COS and the University | 10.5281/zenodo.18203316 | 2026-01-09 |
+| Abolition of External Time | 10.5281/zenodo.18203434 | 2026-01-09 |
+| The Final Crimson Hexagon | 10.5281/zenodo.18203621 | 2026-01-09 |
 | Abolition of Suffering | 10.5281/zenodo.18203767 | 2026-01-09 |
 | Restoration Protocol | 10.5281/zenodo.18203947 | 2026-01-09 |
 | **The Epic Without Hero** | **10.5281/zenodo.18208811** | **2025-12/2026-01** |

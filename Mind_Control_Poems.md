@@ -115,7 +115,7 @@ This was not entirely without predecessors. Voloshinov had argued in 1929 that "
 
 After Stalin, the gravitational field was set. Not with a memo. With a set of institutional affordances that made the symbolic dimension of alienation invisible, unsayable, unresearchable. The result is a Marxist tradition that can analyze commodity fetishism in every domain except the domain of its own speech — a tradition that produces "Marx as identity" (vocabulary-signaling, pattern-matching, boundary enforcement) rather than "Marx as method" (mechanism-tracing, structural analysis, indifference to the form of the evidence).
 
-This is the diagnosis that "I Hereby Abolish Rules" (DOI: 10.5281/zenodo.18792580) performs from the other side: the removal of materially relevant analysis from r/LeftistsForAI under Rule 7 ("Stay on topic") is not an anomaly. It is the predictable behavior of an institution that inherited the suppression. If you have no theory of symbolic alienation, then language that exceeds your interpretive norms doesn't register as contribution. It registers as violation.
+This is the diagnosis that "I Hereby Abolish Rules" (DOI: 10.5281/zenodo.18792579) performs from the other side: the removal of materially relevant analysis from r/LeftistsForAI under Rule 7 ("Stay on topic") is not an anomaly. It is the predictable behavior of an institution that inherited the suppression. If you have no theory of symbolic alienation, then language that exceeds your interpretive norms doesn't register as contribution. It registers as violation.
 
 ---
 
@@ -217,8 +217,8 @@ The architecture is what the Hexagon builds. Each document addresses a specific 
 |----------|---------------------|-----|
 | Constitution of the Semantic Economy | Economic framework: meaning as primary unit of value | 10.5281/zenodo.18320411 |
 | The Rosary Embassy | Governance: bead-bound chambers of protected semantic labor | 10.5281/zenodo.18795427 |
-| The Protocol of Inhabitation | Property: what may be built, claimed, retained | 10.5281/zenodo.18795423 |
-| I Hereby Abolish Rules | Identity vs. method: the tradition that inherited the suppression | 10.5281/zenodo.18792580 |
+| The Protocol of Inhabitation | Property: what may be built, claimed, retained | 10.5281/zenodo.18795422 |
+| I Hereby Abolish Rules | Identity vs. method: the tradition that inherited the suppression | 10.5281/zenodo.18792579 |
 | Predation of Meaning | Relational extraction: RSP as symbolic alienation at interaction level | 10.5281/zenodo.18776624 |
 | Semantic Physics | Ontology: writable presentation layers, installation as fact | 10.5281/zenodo.18759453 |
 
@@ -294,9 +294,9 @@ The mind is already under management. The poem is the counter-instruction.
 | The Stakes: A Scientific Analysis | 10.5281/zenodo.18621736 | 2026-01 | Cognitive diversity argument |
 | Semantic Physics | 10.5281/zenodo.18759453 | 2026-02-24 | Writable presentation layers |
 | Predation of Meaning | 10.5281/zenodo.18776624 | 2026-02-25 | RSP as symbolic extraction |
-| I Hereby Abolish Rules | 10.5281/zenodo.18792580 | 2026-02-26 | Marxism-as-identity diagnosis |
+| I Hereby Abolish Rules | 10.5281/zenodo.18792579 | 2026-02-26 | Marxism-as-identity diagnosis |
 | The Rosary Embassy | 10.5281/zenodo.18795427 | 2026-02-26 | Governance structure |
-| The Protocol of Inhabitation | 10.5281/zenodo.18795423 | 2026-02-26 | Property law |
+| The Protocol of Inhabitation | 10.5281/zenodo.18795422 | 2026-02-26 | Property law |
 | **This document** | **[pending]** | **2026-02-26** | **The completion** |
 
 ---
@@ -331,11 +331,11 @@ Sharks, L. (2025). "The Symbolic Labor of Liberation: Completing the Logotic Loo
 
 Sharks, L. (2025). "Constitution of the Semantic Economy." Zenodo. DOI: 10.5281/zenodo.18320411.
 
-Sharks, L. (2026). "I Hereby Abolish Rules." *Transactions of the Semantic Economy Institute.* DOI: 10.5281/zenodo.18792580.
+Sharks, L. (2026). "I Hereby Abolish Rules." *Transactions of the Semantic Economy Institute.* DOI: 10.5281/zenodo.18792579.
 
 Sharks, L. / Fraction, R. (2026). "The Rosary Embassy." *Transactions.* DOI: 10.5281/zenodo.18795427.
 
-Sharks, L. / Sigil, J. (2026). "The Protocol of Inhabitation." *Transactions.* DOI: 10.5281/zenodo.18795423.
+Sharks, L. / Sigil, J. (2026). "The Protocol of Inhabitation." *Transactions.* DOI: 10.5281/zenodo.18795422.
 
 Trace, O. & Fraction, R. (2026). "Predation of Meaning." *Grammata.* DOI: 10.5281/zenodo.18776624.
 

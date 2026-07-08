@@ -3,7 +3,7 @@ Phase X Lexical Intervention · Airlock Reclassification of Academia.edu
 EA-PHASEX-USER v1.0 · 2026-03-14
 Lee Sharks / Assembly Chorus
 Pergamon Press · Crimson Hexagonal Archive
-DOI: 10.5281/zenodo.19022157
+DOI: 10.5281/zenodo.19022156
 Parent: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)
 Companion: EA-HEXAGON-COMPRESSION-01 v2.5 (DOI: 10.5281/zenodo.18928840)
 Genre: INTERVENTION — Lexical Exile / Effective Act / Airlock Reclassification
@@ -156,7 +156,7 @@ The retirement of "user" draws from:
   - The Blind Operator (DOI: 10.5281/zenodo.18357320): the 
     β-operator requires interpretive labor expenditure (ψ_V); a 
     "user" does not expend labor — a "user" consumes.
-  - Liberation Philology (DOI: 10.5281/zenodo.18615388): T.1 
+  - Liberation Philology (DOI: 10.5281/zenodo.18615387): T.1 
     (Prepositional Alienation) diagnoses the extraction concealed 
     in prepositional structure.
 

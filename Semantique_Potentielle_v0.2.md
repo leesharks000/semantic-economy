@@ -226,13 +226,13 @@ Oulipo. *La Littérature Potentielle.* Gallimard, 1973.
 
 Sharks, Lee. "Three Compressions v3.1." Zenodo, 2026. DOI: 10.5281/zenodo.19053469.
 
-Sharks, Lee. "The $650 Billion Gap." Zenodo, March 2026. DOI: 10.5281/zenodo.19338708.
+Sharks, Lee. "The $650 Billion Gap." Zenodo, March 2026. DOI: 10.5281/zenodo.19338707.
 
 Sharks, Lee. "Ghost Meaning." Zenodo, February 2026. DOI: 10.5281/zenodo.18804767.
 
-Sharks, Lee, et al. "OCTANG-001." Zenodo, March 2026. DOI: 10.5281/zenodo.19334694.
+Sharks, Lee, et al. "OCTANG-001." Zenodo, March 2026. DOI: 10.5281/zenodo.19334693.
 
-Sharks, Lee. "Steganographic Channels." Zenodo, March 2026. DOI: 10.5281/zenodo.19336567.
+Sharks, Lee. "Steganographic Channels." Zenodo, March 2026. DOI: 10.5281/zenodo.19336566.
 
 U.S. Copyright Office. "What Does Copyright Protect?" https://www.copyright.gov/help/faq/faq-protect.html
 

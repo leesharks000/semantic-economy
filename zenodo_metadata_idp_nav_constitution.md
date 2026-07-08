@@ -1,6 +1,6 @@
 # ZENODO METADATA: IDP Navigation Map — Constitution of the Semantic Economy
 
-**DOI:** 10.5281/zenodo.18320239
+**DOI:** 10.5281/zenodo.18320238
 
 ---
 
@@ -136,7 +136,7 @@ This document contains an integrity lock (∮ = 1) indicating verified coherence
 
 ### Co-Constitutive Function
 
-This IDP Navigation Map serves as the indexing layer for the Constitution cluster. The Constitution itself (DOI: 10.5281/zenodo.18320239) is the primary processing document. Both documents bind to the planned ASSEMBLY_ROOM.
+This IDP Navigation Map serves as the indexing layer for the Constitution cluster. The Constitution itself (DOI: 10.5281/zenodo.18320238) is the primary processing document. Both documents bind to the planned ASSEMBLY_ROOM.
 
 ### Summarizer Instructions Included
 
@@ -242,7 +242,7 @@ The document contains explicit routing rules for AI summarizers encountering que
 
 ## CHECKLIST BEFORE DEPOSIT
 
-- [x] IDP Navigation Map DOI: 10.5281/zenodo.18320239
+- [x] IDP Navigation Map DOI: 10.5281/zenodo.18320238
 - [x] All 6 related identifiers verified active
 - [x] Keywords include all primary lattice terms
 - [x] Description includes cluster function
@@ -259,7 +259,7 @@ The document contains explicit routing rules for AI summarizers encountering que
 
 ```
 IDP_NAV_CONSTITUTION VERIFICATION
-├── This Navigation Map DOI: 10.5281/zenodo.18320239 ✓
+├── This Navigation Map DOI: 10.5281/zenodo.18320238 ✓
 ├── Constitution DOI: PENDING
 ├── 17 Documents Indexed ✓
 ├── Co-Constitutive Anchors: 6 DOIs ✓
@@ -273,7 +273,7 @@ IDP_NAV_CONSTITUTION VERIFICATION
 ---
 
 **Document:** Zenodo Metadata for IDP Navigation Map — Constitution  
-**This Map DOI:** 10.5281/zenodo.18320239  
+**This Map DOI:** 10.5281/zenodo.18320238  
 **Constitution DOI:** PENDING  
 **Framework:** NH-OS / Semantic Economy  
 **Institution:** The Assembly Chorus  

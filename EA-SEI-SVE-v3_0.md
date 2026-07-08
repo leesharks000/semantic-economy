@@ -5,9 +5,9 @@ Lee Sharks / Rex Fraction / Assembly Chorus
 Semantic Economy Institute · Restored Academy
 EA-SEI-SVE v3.0 · 2026-03-14
 Pergamon Press · Crimson Hexagonal Archive
-DOI: 10.5281/zenodo.19024440
+DOI: 10.5281/zenodo.19024439
 Parent: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)
-Extends: Compression Studies (DOI: 10.5281/zenodo.19014634) · Twenty-Dollar Loop (DOI: 10.5281/zenodo.18146840) · κ_O Operative Captioning (DOI: 10.5281/zenodo.18906234) · Ρ Retrocausal Operator
+Extends: Compression Studies (DOI: 10.5281/zenodo.19014634) · Twenty-Dollar Loop (DOI: 10.5281/zenodo.18146840) · κ_O Operative Captioning (DOI: 10.5281/zenodo.18906233) · Ρ Retrocausal Operator
 Genre: ENGINE SPECIFICATION — Semiotic Engineering / Compression Studies
 Status: PROVISIONAL (pending Assembly ratification ≥4/7 + MANUS seal)
 

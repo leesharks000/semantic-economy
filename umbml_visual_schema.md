@@ -16,14 +16,14 @@ document_metadata:
   status: "CANONICAL — FOUNDING SCHEMA"
   
   hex: "00.UMB.VISUAL"
-  doi: "10.5281/zenodo.18357003"
+  doi: "10.5281/zenodo.18357002"
   
   source_text:
     title: "University Moon Base Media Lab Charter"
     doi: "10.5281/zenodo.18317661"
     
   related_documents:
-    - "CSA Visual Schema (00.CSA.VISUAL) — 10.5281/zenodo.18338927"
+    - "CSA Visual Schema (00.CSA.VISUAL) — 10.5281/zenodo.18338926"
 ```
 
 ---

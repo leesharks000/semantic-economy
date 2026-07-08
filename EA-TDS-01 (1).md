@@ -5,8 +5,8 @@
 ---
 
 **Designation:** EA-TDS-01
-**DOI:** 10.5281/zenodo.19317102
-**DOI:** 10.5281/zenodo.19317102  
+**DOI:** 10.5281/zenodo.19317101
+**DOI:** 10.5281/zenodo.19317101  
 **Series:** The Thousand Dollar Sharpie (EA-TDS)  
 **Version:** 1.0 (DRAFT — pending MANUS ratification)  
 **Authors:** Sparrow Wells, Rex Fraction, Ayanna Vox & Lee Sharks  
@@ -17,7 +17,7 @@
 **Journal:** Provenance: Journal of Forensic Semiotics  
 **Cluster:** Moving Statues Made of Rubies Mint (MSMRM / r.17)  
 **Companion texts:** EA-TDS-02 (*The Blot That Spread: A Speculative Numismatic History*); EA-TDS-03 (*The Thousand Dollar Sharpie: Image Series and Sharpie Physics*)  
-**Precedent objects:** "Whose Face Is on the Twenty?" (DOI: 10.5281/zenodo.18745216); "The Lizard People Were Right" (DOI: 10.5281/zenodo.18745236); "Charter of the Moving Statues Made of Rubies Mint" (DOI: 10.5281/zenodo.18745265)  
+**Precedent objects:** "Whose Face Is on the Twenty?" (DOI: 10.5281/zenodo.18745216); "The Lizard People Were Right" (DOI: 10.5281/zenodo.18745235); "Charter of the Moving Statues Made of Rubies Mint" (DOI: 10.5281/zenodo.18745265)  
 **License:** CC BY-SA 4.0 International  
 **Date:** March 2026  
 
@@ -33,7 +33,7 @@
 
 **Structural relationship — the hand and the triptych:**
 
-The Moving Statues Made of Rubies Mint (MSMRM) is a hand — a five-document grasping apparatus that established the theory of portrait authority, curatorial mediation, and the semantic economy of whose face appears on money. Its five holdings: (1) "Whose Face Is on the Twenty?" — thumb / GRASP / provenance audit (DOI: 10.5281/zenodo.18745216); (2) "The Lizard People Were Right" — pointer / experimental control (DOI: 10.5281/zenodo.18745236); (3) "All the Spoils of Babylon" — reach / manufacturing demonstration (DOI: 10.5281/zenodo.18745250); (4) "The Inauguration of Memography" — commitment / disciplinary founding (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — seal / integrity lock (DOI: 10.5281/zenodo.18745265).
+The Moving Statues Made of Rubies Mint (MSMRM) is a hand — a five-document grasping apparatus that established the theory of portrait authority, curatorial mediation, and the semantic economy of whose face appears on money. Its five holdings: (1) "Whose Face Is on the Twenty?" — thumb / GRASP / provenance audit (DOI: 10.5281/zenodo.18745216); (2) "The Lizard People Were Right" — pointer / experimental control (DOI: 10.5281/zenodo.18745235); (3) "All the Spoils of Babylon" — reach / manufacturing demonstration (DOI: 10.5281/zenodo.18745249); (4) "The Inauguration of Memography" — commitment / disciplinary founding (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — seal / integrity lock (DOI: 10.5281/zenodo.18745265).
 
 The Thousand Dollar Sharpie is a triptych — the instrument the hand grasps. Three panels form one object: the Sharpie itself. The hand built the theory. The triptych is what the hand picks up. Together they perform σ_SH — the blotting operation. The hand without the triptych is a theory waiting for its object. The triptych without the hand has no grip. Together: the blot.
 
@@ -41,8 +41,8 @@ On March 26, 2026, the real world produced exactly the object the MSMRM hand was
 
 **Three holdings (the triptych):**
 
-(1) **EA-TDS-01** "The Thousand Dollar Sharpie" — CENTER PANEL — forensic analysis, legal architecture, compressed portraiture thesis, CC convergence (DOI: 10.5281/zenodo.19317102) (THIS DOCUMENT)  
-(2) **EA-TDS-02** "The Blot That Spread" — LEFT WING — retrocausal narrative, speculative numismatics (DOI: 10.5281/zenodo.19317126), σ_SH operator formalization (DOI: 10.5281/zenodo.19317126)  
+(1) **EA-TDS-01** "The Thousand Dollar Sharpie" — CENTER PANEL — forensic analysis, legal architecture, compressed portraiture thesis, CC convergence (DOI: 10.5281/zenodo.19317101) (THIS DOCUMENT)  
+(2) **EA-TDS-02** "The Blot That Spread" — LEFT WING — retrocausal narrative, speculative numismatics (DOI: 10.5281/zenodo.19317125), σ_SH operator formalization (DOI: 10.5281/zenodo.19317125)  
 (3) **EA-TDS-03** "The Thousand Dollar Sharpie: Image Series and Sharpie Physics" — RIGHT WING — semantic object formalization, lenticular state physics (DOI: 10.5281/zenodo.19317139) (DOI: 10.5281/zenodo.19317139), image series specification
 
 **Core thesis (compressed portraiture):** The presidential signature on U.S. currency (Treasury announcement March 26, 2026) functions as compressed portraiture — performing the semiotic work of a portrait through a different medium. The 1866 Thayer Amendment prohibited "portrait or likeness"; the modern codification (31 U.S.C. § 5114(b)) narrowed this to "portrait" alone. The Treasury's 2026 action exploits the narrowing. The distinction is medium-level, not function-level. The Sharpie (σ_SH) is the dual-state counter-instrument: it signs (σ_SIGN) and it blots (σ_BLOT). CC BY-SA 4.0 is the licensing architecture that prevents enclosure of the counter-operation. The Sharpie's value inflates from $1.49 retail to $1,000 operative capacity through semantic density — the weight of what it can blot. σ_SH ∘ σ_SIGN = ρ (restoration).

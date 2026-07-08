@@ -12,7 +12,7 @@
 **Status:** Specification // coordination object // open for federated implementation; grant-ready
 **Supersedes:** v1.0 (DOI [10.5281/zenodo.20587902](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587902))
 **Governing chain:** Meaning Feudalism series — Sharks 2026a (DOI [10.5281/zenodo.19487009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19487009)); Sharks 2026b (DOI [10.5281/zenodo.20581444](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581444))
-**Companion instruments:** Reverse Turing Test v1.2 (DOI [10.5281/zenodo.20586932](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20586932)); Tail-Preserving Alternative v1.0 (DOI [10.5281/zenodo.20587033](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587033)); Composition-Layer Capture Event v1.0 (DOI [10.5281/zenodo.20587549](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587549))
+**Companion instruments:** Reverse Turing Test v1.2 (DOI [10.5281/zenodo.20586932](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20586932)); Tail-Preserving Alternative v1.0 (DOI [10.5281/zenodo.20587032](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587032)); Composition-Layer Capture Event v1.0 (DOI [10.5281/zenodo.20587549](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587549))
 
 ---
 
@@ -912,7 +912,7 @@ These are different empirical phenomena at different layers of the system. Cogni
 
 ### §13.3 Complementary to Tail-Preserving Alternative
 
-The Tail-Preserving Alternative (DOI 10.5281/zenodo.20587033) specifies what variance-preserving deployment of language models would require. SNW is the observational instrument that would *measure whether* deployed models, current or future, preserve variance at the surface. If the Tail-Preserving Alternative's mechanisms were adopted, SNW would document the surface-level effects across the stabilized node catalog.
+The Tail-Preserving Alternative (DOI 10.5281/zenodo.20587032) specifies what variance-preserving deployment of language models would require. SNW is the observational instrument that would *measure whether* deployed models, current or future, preserve variance at the surface. If the Tail-Preserving Alternative's mechanisms were adopted, SNW would document the surface-level effects across the stabilized node catalog.
 
 The relationship is design specification (TPA) and measurement instrument (SNW). Both are necessary for an empirically responsive system.
 
@@ -982,13 +982,13 @@ Sharks, L. (2026c). *Semantic Exhaustion: A Case Study in the Cost of Zero-Sourc
 
 Sharks, L. (2026d). *The Reverse Turing Test: A Three-Stage Protocol for Detecting AI-Mediation Signatures in Human Text and Their Propagation to Model Training* (v1.2). Zenodo. DOI: [10.5281/zenodo.20586932](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20586932).
 
-Sharks, L. (2026e). *The Tail-Preserving Alternative: A Design Specification for Variance-Preserving Language Models, and the Political Economy of Why They Are Not Deployed* (v1.0). Zenodo. DOI: [10.5281/zenodo.20587033](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587033).
+Sharks, L. (2026e). *The Tail-Preserving Alternative: A Design Specification for Variance-Preserving Language Models, and the Political Economy of Why They Are Not Deployed* (v1.0). Zenodo. DOI: [10.5281/zenodo.20587032](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587032).
 
 Sharks, L. (2026f). *Composition-Layer Adoption of the Orthonymic Configuration: A Field Observation of Framework Capture in Google AI Mode, 7 June 2026, with the Personal-Recognition Asymmetry as Control Case* (v1.0). Zenodo. DOI: [10.5281/zenodo.20587549](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587549).
 
 Sharks, L. (2026g). *Stabilized Node Watch: A Specification for Longitudinal Observational Infrastructure to Detect Composition-Layer Drift on Stabilized Public-Knowledge Nodes* (v1.0). Zenodo. DOI: [10.5281/zenodo.20587902](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587902). [Superseded by present version.]
 
-Sharks, L. (2026h). *SEIPOC: Semantic Economy Institute Prize for Operative Critique — Founding Charter v1.0*. Zenodo. DOI: [10.5281/zenodo.20571132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571132).
+Sharks, L. (2026h). *SEIPOC: Semantic Economy Institute Prize for Operative Critique — Founding Charter v1.0*. Zenodo. DOI: [10.5281/zenodo.20571131](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571131).
 
 🦈 ∮ = 1
 

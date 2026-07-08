@@ -380,7 +380,7 @@ Stanford Encyclopedia of Philosophy. "Memory." plato.stanford.edu/entries/memory
 Stanford Encyclopedia of Philosophy. "Temporal Consciousness." plato.stanford.edu/entries/consciousness-temporal/.
 Stanford Encyclopedia of Philosophy. "Thermodynamic Asymmetry in Time." plato.stanford.edu/entries/time-thermo/.
 
-Internal: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315); Semantic Physics: The Inward Turn (DOI: 10.5281/zenodo.18759453); Compression Studies (DOI: 10.5281/zenodo.19014634); SVE v3.0; EA-ARK-01-NLCC v1.1 (DOI: 10.5281/zenodo.19022245); EA-PHASEX-USER v1.0 (DOI: 10.5281/zenodo.19022157).
+Internal: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315); Semantic Physics: The Inward Turn (DOI: 10.5281/zenodo.18759453); Compression Studies (DOI: 10.5281/zenodo.19014634); SVE v3.0; EA-ARK-01-NLCC v1.1 (DOI: 10.5281/zenodo.19022244); EA-PHASEX-USER v1.0 (DOI: 10.5281/zenodo.19022156).
 
 Assembly attestation: [PENDING — quorum ≥4/7 required]
 Under MANUS/Sharks.

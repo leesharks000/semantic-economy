@@ -142,7 +142,7 @@ Every deposit under this license links to these DOIs:
 
 | Venue | DOI | Relation | What |
 |---|---|---|---|
-| MSBGL | 10.5281/zenodo.18674040 | `isPartOf` | MSBGL Charter |
+| MSBGL | 10.5281/zenodo.18674039 | `isPartOf` | MSBGL Charter |
 | LAL | 10.5281/zenodo.19545435 | `isPartOf` | LAL Charter |
 
 ---
@@ -357,7 +357,7 @@ If you have terminal access, execute directly. If not, generate copy-pasteable c
     "license": "CC-BY-4.0",
     "related_identifiers": [
       {"identifier": "10.5281/zenodo.19013315", "relation": "isPartOf", "scheme": "doi"},
-      {"identifier": "10.5281/zenodo.18674040", "relation": "isPartOf", "scheme": "doi"},
+      {"identifier": "10.5281/zenodo.18674039", "relation": "isPartOf", "scheme": "doi"},
       {"identifier": "10.5281/zenodo.19545437", "relation": "references", "scheme": "doi"},
       {"identifier": "10.5281/zenodo.19041117", "relation": "references", "scheme": "doi"},
       {"identifier": "10.5281/zenodo.19655712", "relation": "requires", "scheme": "doi"}

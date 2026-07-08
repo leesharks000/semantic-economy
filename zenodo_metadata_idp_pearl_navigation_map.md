@@ -123,11 +123,11 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 |-----|----------|-------|
 | 10.5281/zenodo.18265282 | references | The Mantle Protocol v1.2 |
 | 10.5281/zenodo.18293496 | references | Heteronym Provenance: Lee Sharks |
-| 10.5281/zenodo.18293404 | references | Mantle Emergence Protocol |
+| 10.5281/zenodo.18293403 | references | Mantle Emergence Protocol |
 | 10.5281/zenodo.18293551 | references | Mantle Object: Good Gray Poet |
 | 10.5281/zenodo.18293603 | references | Mantle Object: King of May |
 | 10.5281/zenodo.18291767 | references | TSE-003: Summarizer Becomes Translator |
-| 10.5281/zenodo.18284857 | references | Institute for Diagrammatic Poetics Charter |
+| 10.5281/zenodo.18284856 | references | Institute for Diagrammatic Poetics Charter |
 | 10.5281/zenodo.18284776 | references | Heteronym Provenance: Rebekah Cranes |
 
 ### Sibling Documents

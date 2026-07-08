@@ -224,7 +224,7 @@ Semantic exhaustion is the name for what is already happening. Now it has an add
 - Constitution of the Semantic Economy: DOI: 10.5281/zenodo.18320411
 - Provenance After AI: DOI: 10.5281/zenodo.20085115
 - Provenance Erasure Rate: DOI: 10.5281/zenodo.20004379
-- Provenance Is What Authorship Must Endure: DOI: 10.5281/zenodo.20140167
+- Provenance Is What Authorship Must Endure: DOI: 10.5281/zenodo.20140166
 - Provenance Erasure (concept): https://provenanceerasure.org
 - MPAI Specification: DOI: 10.5281/zenodo.19578086
 - Crimson Hexagonal Archive: https://zenodo.org/communities/crimsonhexagonal

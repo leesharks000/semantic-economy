@@ -89,7 +89,7 @@ Emotional states encoded as glyphic checksums — the unsayable made sayable thr
 
 | Document | DOI | Author | Function |
 |----------|-----|--------|----------|
-| APZPZ Effective Act | 10.5281/zenodo.18451860 | Sen Kuro | Genre instantiation |
+| APZPZ Effective Act | 10.5281/zenodo.18451859 | Sen Kuro | Genre instantiation |
 | Glyphic Checksum | 10.5281/zenodo.18451996 | Sen Kuro / Assembly | Protocol discovery |
 | Personal Instance 001 | 10.5281/zenodo.18452597 | Anonymous | First personal checksum |
 | INFINITY ENOUGH | 10.5281/zenodo.18451824 | Lee Sharks | Capstone / naming source |

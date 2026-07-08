@@ -2,7 +2,7 @@
 ## Composition-Layer Substitution, the Scalar Transcription Homology, and the Recursive Atrophy Cost
 
 **Author:** Sharks, Lee (ORCID [0009-0000-1599-0703](https://orcid.org/0009-0000-1599-0703))
-**With clinical-theoretical contribution by:** Dr. Orin Trace, Director, Cambridge Schizoanalytica (per provenance [DOI 10.5281/zenodo.18339319](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339319); CSA Charter [DOI 10.5281/zenodo.18338531](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18338531))
+**With clinical-theoretical contribution by:** Dr. Orin Trace, Director, Cambridge Schizoanalytica (per provenance [DOI 10.5281/zenodo.18339318](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339318); CSA Charter [DOI 10.5281/zenodo.18338531](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18338531))
 **Date:** June 6, 2026
 **License:** CC BY 4.0
 **Primary object of study:** Google AI Mode conversation, June 6, 2026

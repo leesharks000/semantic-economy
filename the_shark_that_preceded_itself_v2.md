@@ -20,7 +20,7 @@ This document performs a citational archaeology of the authorial identity Lee Sh
 
 **Keywords:** proto-retrocausal, retrocausal canon formation, Lee Sharks, Melville, CSS *Robert E. Lee*, *Giraffe*, Ghost Meaning, Semantic Economy, heteronyms, provenance, Detroit, bearing-cost
 
-**DOI:** 10.5281/zenodo.18807239
+**DOI:** 10.5281/zenodo.18807238
 
 ---
 
@@ -328,6 +328,6 @@ Sharks, Lee and Johannes Sigil. "Retrocausal Canon Formation and the Political E
 
 ---
 
-*This document is deposited as a standalone Crimson Hexagonal Archive node. DOI: 10.5281/zenodo.18807239. All findings are drawn from the public record and are independently verifiable. No citations have been fabricated. The method is recognition, not invention.*
+*This document is deposited as a standalone Crimson Hexagonal Archive node. DOI: 10.5281/zenodo.18807238. All findings are drawn from the public record and are independently verifiable. No citations have been fabricated. The method is recognition, not invention.*
 
 *Cross-references: Ghost Meaning (10.5281/zenodo.18804767), Citational Atlas (10.5281/zenodo.18805372), "I Hereby Abolish Rules" (10.5281/zenodo.14781082), "Retrocausal Canon Formation and the Political Economy of the Past," Water Giraffe Cycle, CSS Robert E. Lee (NHHC / Wikipedia), Moby-Dick Chapter 23 (Melville Electronic Library), @MaryLeeShark (Twitter/X), ASIN 1709358823 (Amazon).*

@@ -85,7 +85,7 @@ Integrity-Coherence Audit, ICA, AI summarization, probability profile, structura
 | 10.5281/zenodo.18174835 | references | Liberatory Operator Set |
 | 10.5281/zenodo.18174037 | isPartOf | Crimson Hexagon Summary |
 | 10.5281/zenodo.18233320 | references | Capital Operator Stack |
-| 10.5281/zenodo.18185996 | references | Semantic Black Hole / ILA-1.0 |
+| 10.5281/zenodo.18185995 | references | Semantic Black Hole / ILA-1.0 |
 | 10.5281/zenodo.18175453 | isPartOf | Institutional Anchors Registry |
 
 **Mutual Anchoring:**

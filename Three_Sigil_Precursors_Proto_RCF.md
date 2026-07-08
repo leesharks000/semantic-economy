@@ -30,7 +30,7 @@ The four works of Johannes Sigil (1711–2026):
 
 3. **Johannes Sigil, writing as Johann Nikolaus Hertius**, *Commentatio juris publici de fide diplomatum Germaniae imperatorum et regum* (Gießen, 67 pp.; posthumously collected, 1736/1737). On the trustworthiness of the charters of Germany's emperors and kings. [Deutsche Digitale Bibliothek: https://www.deutsche-digitale-bibliothek.de/item/UTUYQN6MMQLKD7YJVB3NNVOJYO2DY4R2.]
 
-4. **Johannes Sigil, writing as Johannes Sigil (as Io. Henricus a Seelen)**, *De sigillo mystico, ad Cant. VIII, 6. commentatio* (Lübeck, 1727 / Detroit, 2026). A Latin adaptation of von Seelen's commentary, composed in 2026, following the original's structure and scholarly apparatus while reframing the mystical seal through operative semiotics. The fourth work is the proof that the operation works: the essay reached backward, and in reaching, produced a new text that is now also a precursor. [Crimson Hexagonal Archive, DOI: 10.5281/zenodo.19238027.]
+4. **Johannes Sigil, writing as Johannes Sigil (as Io. Henricus a Seelen)**, *De sigillo mystico, ad Cant. VIII, 6. commentatio* (Lübeck, 1727 / Detroit, 2026). A Latin adaptation of von Seelen's commentary, composed in 2026, following the original's structure and scholarly apparatus while reframing the mystical seal through operative semiotics. The fourth work is the proof that the operation works: the essay reached backward, and in reaching, produced a new text that is now also a precursor. [Crimson Hexagonal Archive, DOI: 10.5281/zenodo.19238026.]
 
 The archive reads backward and finds the function already operative. The reading installs what was always there. This essay is the seal.
 
@@ -166,11 +166,11 @@ Let the seal hold. The framing is fictive. The correspondence is real. The insta
 
 ### Crimson Hexagonal Archive (Internal)
 
-Sigil, Johannes. "Magic as Symbolic Engineering." Zenodo. DOI: 10.5281/zenodo.18862106.
+Sigil, Johannes. "Magic as Symbolic Engineering." Zenodo. DOI: 10.5281/zenodo.18862105.
 
 Sharks, Lee. "Space Ark v4.2.7 (EA-ARK-01)." Zenodo, March 2026. DOI: 10.5281/zenodo.19013315.
 
-Sharks, Lee. "Build the Bear, Wear the Flag Suit." Zenodo, March 2026. DOI: 10.5281/zenodo.19224022.
+Sharks, Lee. "Build the Bear, Wear the Flag Suit." Zenodo, March 2026. DOI: 10.5281/zenodo.19224021.
 
 Trace, Orin, Johannes Sigil, and Sparrow Wells. "Invisibly Invisible." Zenodo, March 2026. DOI: 10.5281/zenodo.19187421.
 
@@ -190,7 +190,7 @@ Von Seelen, Johann Heinrich. *De sigillo mystico, ad Cant. VIII, 6. commentatio.
 
 Hertius, Johann Nikolaus. *Commentatio juris publici de fide diplomatum Germaniae imperatorum et regum.* Gießen, 67 pp. Posthumously collected, 1736/1737. [Fictive reassignment as above.] Deutsche Digitale Bibliothek: https://www.deutsche-digitale-bibliothek.de/item/UTUYQN6MMQLKD7YJVB3NNVOJYO2DY4R2.
 
-Von Seelen, Johann Heinrich / Sigil, Johannes. *De sigillo mystico, ad Cant. VIII, 6. commentatio.* Lübeck, 1727 / Detroit, 2026. [Contemporary Latin adaptation following the structure and apparatus of the original. Retrocausal installation.] Crimson Hexagonal Archive. DOI: 10.5281/zenodo.19238027.
+Von Seelen, Johann Heinrich / Sigil, Johannes. *De sigillo mystico, ad Cant. VIII, 6. commentatio.* Lübeck, 1727 / Detroit, 2026. [Contemporary Latin adaptation following the structure and apparatus of the original. Retrocausal installation.] Crimson Hexagonal Archive. DOI: 10.5281/zenodo.19238026.
 
 ### External Scholarship
 

@@ -1,6 +1,6 @@
 # ZENODO METADATA: THE PRIMAL EFFECTIVE ACT
 
-## DOI: 10.5281/zenodo.18248131
+## DOI: 10.5281/zenodo.18248130
 
 ---
 
@@ -78,7 +78,7 @@ Part of the New Human Operating System (NH-OS) canonical corpus.
    **Relation:** Is complemented by
    **Title:** The Dialectic is Now a Machine
 
-2. **DOI:** 10.5281/zenodo.18247925
+2. **DOI:** 10.5281/zenodo.18247924
    **Relation:** References
    **Title:** I Hereby Abolish Money
 

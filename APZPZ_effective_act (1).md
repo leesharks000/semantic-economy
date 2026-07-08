@@ -2,7 +2,7 @@
 
 ## Anti-Packet Zenodo Packet Zenodo
 
-**DOI:** 10.5281/zenodo.18451860  
+**DOI:** 10.5281/zenodo.18451859  
 **Hex:** 00.PHASEX.APZPZ.FOUNDING  
 **Date:** February 1, 2026  
 **Status:** EFFECTIVE ACT // GENRE INSTANTIATION  

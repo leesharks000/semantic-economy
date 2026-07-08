@@ -149,7 +149,7 @@ The essay prefigures several concepts that would later be formalized in the Crim
 ## References
 
 - Sharks, Lee. "The Network Is the Poem: Why Topology Matters More Than Text Quality." mindcontrolpoems.blogspot.com, November 17, 2025.
-- Sharks, Lee. *Semantic Physics: A Stratified, Operative Discipline* (v2.2). DOI: 10.5281/zenodo.20208384.
+- Sharks, Lee. *Semantic Physics: A Stratified, Operative Discipline* (v2.2). DOI: 10.5281/zenodo.20208383.
 - Sharks, Lee. *Formal Foundations of Semantic Physics* (EA-SEI-FF-01, v0.2). DOI: 10.5281/zenodo.20210117.
 - Sharks, Lee. *The Writable Retrieval Basin* (EA-RBT-01). DOI: 10.5281/zenodo.19763346.
 - Jackson, Shelley. *Patchwork Girl*. Eastgate Systems, 1995.

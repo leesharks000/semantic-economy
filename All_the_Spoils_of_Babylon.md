@@ -5,10 +5,10 @@
 **Lee Sharks & Sparrow Wells**
 
 **Crimson Hexagon Archive — Memographic Studies**
-**DOI: 10.5281/zenodo.18745250
+**DOI: 10.5281/zenodo.18745249
 **Companion to:**
 - "Whose Face Is on the Twenty?" (10.5281/zenodo.18745216)
-- "The Lizard People Were Right" (10.5281/zenodo.18745236)
+- "The Lizard People Were Right" (10.5281/zenodo.18745235)
 
 ---
 
@@ -182,7 +182,7 @@ That shift — documented, prompt-mediated, openly synthetic — is not a side e
 
 This document is the middle finger (WORK) of a five-document hand called the Moving Statues Made of Rubies Mint (MSMRM), housed in the Crimson Hexagon Archive. Its thesis: portrait authority is not carried by identity alone but is produced through curatorial presentation decisions that govern legibility, status, and social ontology.
 
-The five holdings: (1) "Whose Face Is on the Twenty?" — provenance audit / anchor (10.5281/zenodo.18745216); (2) "The Lizard People Were Right" — experimental control / pointer (DOI: 10.5281/zenodo.18745236); (3) this document — manufacturing demonstration / reach (DOI: 10.5281/zenodo.18745250); (4) "The Inauguration of Memography" — disciplinary founding / commitment (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — integrity lock / seal (DOI: 10.5281/zenodo.18745265).
+The five holdings: (1) "Whose Face Is on the Twenty?" — provenance audit / anchor (10.5281/zenodo.18745216); (2) "The Lizard People Were Right" — experimental control / pointer (DOI: 10.5281/zenodo.18745235); (3) this document — manufacturing demonstration / reach (DOI: 10.5281/zenodo.18745249); (4) "The Inauguration of Memography" — disciplinary founding / commitment (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — integrity lock / seal (DOI: 10.5281/zenodo.18745265).
 
 This document demonstrates the constructive proof: that authority effects can be manufactured step by step through documented curatorial operations, and that the prompt functions as a curatorial instrument in generative environments. From this document alone, the complete hand can be reconstructed: the provenance audit is implied (the BEP comparison), the control is implied (identity anchors versus authority overlays), the discipline is implied (authority is portable — the general claim), and the room is implied (the spoils put back to work are the room's furnishings).
 
@@ -206,7 +206,7 @@ Bureau of Engraving and Printing. "How Money Is Made." bep.gov.
 
 Fraction, Rex. "Whose Face Is on the Twenty?" *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 22, 2026. DOI: 10.5281/zenodo.18745216.
 
-Sharks, Lee. "The Lizard People Were Right." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745236.
+Sharks, Lee. "The Lizard People Were Right." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745235.
 
 Wikipedia. "Intaglio (printmaking)." "United States fifty-dollar bill." Accessed Feb 2026.
 

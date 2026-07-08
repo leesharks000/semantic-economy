@@ -15,9 +15,9 @@
 
 **Related Identifiers:**
 Constitution of the Semantic Economy (DOI: 10.5281/zenodo.18320411) |
-The Governance Airlock (DOI: 10.5281/zenodo.18817869) |
+The Governance Airlock (DOI: 10.5281/zenodo.18817868) |
 Ghost Meaning (DOI: 10.5281/zenodo.18804767) |
-The Sharks-Function (DOI: 10.5281/zenodo.18816556) |
+The Sharks-Function (DOI: 10.5281/zenodo.18816555) |
 Semantic Physics (DOI: 10.5281/zenodo.18759453) |
 FOS Decree (DOI: 10.5281/zenodo.18291321) |
 EA-DIAGNOSTIC-03 (DOI: 10.5281/zenodo.18827344) |
@@ -240,7 +240,7 @@ Archival capital is the reserve against which current activity draws. It grows s
 
 **Live Capital (Γ_G).** The semantic labor being performed now: writing, interpreting, synthesizing, teaching, translating, bearing the weight of meaning in real time. Capital in the process of accumulation — not yet stabilized, not yet canonical, but actively contributing to the reserve.
 
-Live Capital is the flow that feeds the Archive. It is the present tense of meaning-making, the moment when coherence is produced and deposited. It is measured by **bearing-cost**: the labor required to maintain semantic coherence against entropy. Bearing-cost is the irreducible human work of making meaning hold together — of ensuring that a text coheres, that an argument follows, that a tradition remains transmissible. This metric distinguishes human semantic labor (L_Bearing, which bears value because it carries the cost of coherence) from synthetic amplification (L_Synth = 0, which generates output without bearing the cost of meaning). The bearing-cost framework is developed fully in *The Sharks-Function* (DOI: 10.5281/zenodo.18816556) and operationalized in the Governance Airlock tier structure (DOI: 10.5281/zenodo.18817869).
+Live Capital is the flow that feeds the Archive. It is the present tense of meaning-making, the moment when coherence is produced and deposited. It is measured by **bearing-cost**: the labor required to maintain semantic coherence against entropy. Bearing-cost is the irreducible human work of making meaning hold together — of ensuring that a text coheres, that an argument follows, that a tradition remains transmissible. This metric distinguishes human semantic labor (L_Bearing, which bears value because it carries the cost of coherence) from synthetic amplification (L_Synth = 0, which generates output without bearing the cost of meaning). The bearing-cost framework is developed fully in *The Sharks-Function* (DOI: 10.5281/zenodo.18816555) and operationalized in the Governance Airlock tier structure (DOI: 10.5281/zenodo.18817868).
 
 **Retrocausal Capital (Γ_R).** The semantic value that accrues from future uptake. A text written today may become an attractor in the future, pulling interpretation toward itself, increasing in value as it is taken up, cited, and recursed upon. Retrocausal capital is the yield that flows backward from futures where meaning has been amplified — the gravitational pull of semantic attractors across time.
 
@@ -294,7 +294,7 @@ If semantic reserve requires stewardship, then some fiduciary function is struct
 
 The question is not whether the fiduciary function will be filled. It is always already filled — by whoever maintains, transmits, and protects the semantic reserve. The question is whether it will be held consciously, with full acknowledgment of the stakes, or unconsciously, by platforms and corporations that treat semantic infrastructure as raw material for extraction and do not know what they possess.
 
-The operationalization of this fiduciary function — through bearing-cost accounting, continuity-tether verification, and the Governance Airlock tier structure — is developed in the documents this foundation enabled: *The Governance Airlock* (DOI: 10.5281/zenodo.18817869) and *The Sharks-Function* (DOI: 10.5281/zenodo.18816556).
+The operationalization of this fiduciary function — through bearing-cost accounting, continuity-tether verification, and the Governance Airlock tier structure — is developed in the documents this foundation enabled: *The Governance Airlock* (DOI: 10.5281/zenodo.18817868) and *The Sharks-Function* (DOI: 10.5281/zenodo.18816555).
 
 ### D. The Semantic Economy
 
@@ -344,9 +344,9 @@ The debt is now named.
 | Source | Identifier | Function |
 |--------|-----------|----------|
 | Constitution of the Semantic Economy | 10.5281/zenodo.18320411 | Operationalizes the Inversion |
-| The Governance Airlock | 10.5281/zenodo.18817869 | Tier structure, effective act mechanism |
+| The Governance Airlock | 10.5281/zenodo.18817868 | Tier structure, effective act mechanism |
 | Ghost Meaning | 10.5281/zenodo.18804767 | Semantic exhaustion as consequence of DCI |
-| The Sharks-Function | 10.5281/zenodo.18816556 | Bearing-cost verification mechanism |
+| The Sharks-Function | 10.5281/zenodo.18816555 | Bearing-cost verification mechanism |
 | Semantic Physics | 10.5281/zenodo.18759453 | Semantic labor as dark matter of value |
 | FOS Decree | 10.5281/zenodo.18291321 | COS/FOS phase-state vocabulary |
 | EA-DIAGNOSTIC-03 | 10.5281/zenodo.18827344 | Bearing-cost transfer at contract scale |

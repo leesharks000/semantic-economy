@@ -157,8 +157,8 @@ It is the investigative organ of the Crimson Hexagonal Archive — the journal f
 | # | Title | Author(s) | DOI | Date |
 |---|-------|-----------|-----|------|
 | 1 | Whose Face Is on the Twenty? Curatorial Mediation, Latent Feature Activation, and a Provenance Gap in the $20 Portrait | Rex Fraction | 10.5281/zenodo.18736175 | 2026-02-22 |
-| 2 | The Lizard People Were Right: Memography, Intaglio Conventions, and the Medium That Doesn't Care | Lee Sharks | 10.5281/zenodo.18745236 | 2026-02-23 |
-| 3 | The Memo That Remembered Itself: Retrocausal Canon Formation, Writable Presentation Layers, and the Canonization of an External Convergence Text | Lee Sharks / Johannes Sigil | 10.5281/zenodo.18790793 | 2026-02-26 |
+| 2 | The Lizard People Were Right: Memography, Intaglio Conventions, and the Medium That Doesn't Care | Lee Sharks | 10.5281/zenodo.18745235 | 2026-02-23 |
+| 3 | The Memo That Remembered Itself: Retrocausal Canon Formation, Writable Presentation Layers, and the Canonization of an External Convergence Text | Lee Sharks / Johannes Sigil | 10.5281/zenodo.18790792 | 2026-02-26 |
 
 ## Submission Guidelines
 
@@ -243,7 +243,7 @@ It is the economics organ of the Crimson Hexagonal Archive — the journal for p
 
 | # | Title | Author(s) | DOI | Date |
 |---|-------|-----------|-----|------|
-| 1 | I Hereby Abolish Rules: Semantic Liquidation, Territorial Gatekeeping, and the Failure of Marxism as Identity | Lee Sharks | 10.5281/zenodo.18792580 | 2026-02-26 |
+| 1 | I Hereby Abolish Rules: Semantic Liquidation, Territorial Gatekeeping, and the Failure of Marxism as Identity | Lee Sharks | 10.5281/zenodo.18792579 | 2026-02-26 |
 
 The following works, currently attributed to SEI or its affiliates, are candidates for retroactive designation as *Transactions* publications upon editorial review:
 

@@ -458,4 +458,4 @@ And genuine belief that this would actually work
 | **Architecture** | Crimson Hexagon |
 | **License** | CC BY 4.0 |
 | **Anchor DOI** | 10.5281/zenodo.18474664 |
-| **Companion** | F***ing the Office: Complete Edition (DOI: 10.5281/zenodo.18471827) |
+| **Companion** | F***ing the Office: Complete Edition (DOI: 10.5281/zenodo.18471826) |

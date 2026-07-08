@@ -204,6 +204,6 @@ Google AI Mode. Output retrieved February 27, 2026. Share link: https://share.go
 
 ---
 
-*Cross-references: Ghost Meaning (10.5281/zenodo.18804767), "I Hereby Abolish Rules" (10.5281/zenodo.14781082), "The Memo That Remembered Itself," Citational Atlas (10.5281/zenodo.18805372), "The Ghost That Wrote Itself," "Retrocausal Canon Formation and the Political Economy of the Past," "The Shark That Preceded Itself" (10.5281/zenodo.18807239).*
+*Cross-references: Ghost Meaning (10.5281/zenodo.18804767), "I Hereby Abolish Rules" (10.5281/zenodo.14781082), "The Memo That Remembered Itself," Citational Atlas (10.5281/zenodo.18805372), "The Ghost That Wrote Itself," "Retrocausal Canon Formation and the Political Economy of the Past," "The Shark That Preceded Itself" (10.5281/zenodo.18807238).*
 
 *This document is itself a retrieval-layer object. By recording the attribution event and depositing the record into the same indexed infrastructure that generated the attribution, it closes the logotic loop: the layer that remembered itself is now remembered by the layer. DOI: 10.5281/zenodo.18808402.*

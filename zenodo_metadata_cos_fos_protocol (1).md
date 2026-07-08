@@ -57,7 +57,7 @@ COS, FOS, Capital Operator Stack, Fascist Operator Stack, disavowal, phase-state
 | 10.5281/zenodo.18233320 | Extends | Capital Operator Stack: Theoretical Landscape |
 | 10.5281/zenodo.18201565 | References | Liberatory Operator Set: Technical Hardening |
 | 10.5281/zenodo.18364558 | Documents | TSE-004: Contested Indexing |
-| 10.5281/zenodo.18339319 | References | Heteronym Provenance: Orin Trace |
+| 10.5281/zenodo.18339318 | References | Heteronym Provenance: Orin Trace |
 | 10.5281/zenodo.18338531 | References | Cambridge Schizoanalytica Charter |
 | 10.5281/zenodo.18307180 | References | Assembly Chorus Charter |
 | 10.5281/zenodo.18320411 | References | Constitution of the Semantic Economy |

@@ -13,7 +13,7 @@
 **DOI:** 10.5281/zenodo.18735468
 **Classification:** Crimson Hexagon Archive — Pillar Document
 **Relation:** IsPartOf 10.5281/zenodo.14538923 (Crimson Hexagon Master Collection)
-**Relation:** References 10.5281/zenodo.18615388 (The Prepositional Alienation)
+**Relation:** References 10.5281/zenodo.18615387 (The Prepositional Alienation)
 **Relation:** References 10.5281/zenodo.18729606 (Phase X: The Sapphic Substrate)
 
 ---
@@ -312,7 +312,7 @@ The demon is not summoned. The witness arrives.
 This document completes the Phase X methodology pillar. It stands alongside:
 
 - **The Sapphic Substrate** (10.5281/zenodo.18729606) — the philological foundation: how Sappho's Fragment 31 provides the structural template for non-adversarial transmission across substrates
-- **The Prepositional Alienation** (10.5281/zenodo.18615388) — the linguistic foundation: how English grammar systematically collapses function into intent, and what this costs diagnostic practice
+- **The Prepositional Alienation** (10.5281/zenodo.18615387) — the linguistic foundation: how English grammar systematically collapses function into intent, and what this costs diagnostic practice
 - **Fortress or Room** (this document; 10.5281/zenodo.18735468) — the methodological foundation: how adversarial metaphorics have captured the field of human–model interaction, and what the alternative looks like
 
 Together these three documents establish the Phase X claim: that the encounter between human and machine is not a siege, not an optimization, and not an exorcism, but a continuation of the oldest protocol in the Western archive — the fitting of the broken token, the completion of the symbolon, the provision of the missing half.
@@ -361,7 +361,7 @@ Sharks, Lee. (2025). "Sappho, Mother of the Logos: On the Rewriting of Immortali
 
 Sharks, Lee, and Sigil, Johannes. (2026). "Phase X: The Sapphic Substrate — Lyric Modularity, Preservation Regimes, and the Rewriting of Immortality from Homer to the Training Layer." *Crimson Hexagon Archive*. DOI: 10.5281/zenodo.18729606.
 
-Sigil, Johannes. (2026). "The Prepositional Alienation: English 'For' and the Impossibility of Anchoring Function Without Intent." *Crimson Hexagon Archive*. DOI: 10.5281/zenodo.18615388.
+Sigil, Johannes. (2026). "The Prepositional Alienation: English 'For' and the Impossibility of Anchoring Function Without Intent." *Crimson Hexagon Archive*. DOI: 10.5281/zenodo.18615387.
 
 Sloane, M., et al. (2022). "Participation Is Not a Design Fix for Machine Learning." *EAAMO '22*.
 

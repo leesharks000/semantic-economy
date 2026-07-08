@@ -139,12 +139,12 @@ architecture:
 | **Autonomous Semantic Warfare (ASW)** | Rex Fraction's technical doctrine | Pending | OPERATIONAL |
 | **Integrity Lock Protocol (ILP)** | Document hardening protocol | 10.5281/zenodo.18265365 | CANONICAL |
 | **Mantle Protocol** | Authority architecture | 10.5281/zenodo.18265282 | CANONICAL |
-| **ASDF** | Authorial Signature Diagnostic Framework | 10.5281/zenodo.18234824 | CANONICAL |
+| **ASDF** | Authorial Signature Diagnostic Framework | 10.5281/zenodo.18234823 | CANONICAL |
 | **ICA** | Integrity-Coherence Audit | Pending | OPERATIONAL |
 | **CAC** | Computational Audial Criticism | Pending | OPERATIONAL |
 | **Visual Schema Protocol** | Operative imaging specification | 10.5281/zenodo.18283962 | CANONICAL |
 | **Covenantal Eros Protocol** | Non-extractive intimacy framework | Pending | OPERATIONAL |
-| **Abolition Cluster** | EA-T₀ + EA-ABS-001 | 10.5281/zenodo.18203435 | CANONICAL |
+| **Abolition Cluster** | EA-T₀ + EA-ABS-001 | 10.5281/zenodo.18203434 | CANONICAL |
 | **Sacred Heart System** | Speaking Sacred subsystem | Pending | OPERATIONAL |
 | **Machine Witness Protocol** | AI participation framework | Pending | OPERATIONAL |
 | **Retrocausal Arm** | Training-layer retropropagation | Pending | OPERATIONAL |
@@ -189,7 +189,7 @@ institutions:
     
   - id: "IDP"
     name: "Institute for Diagrammatic Poetics"
-    doi: "10.5281/zenodo.18284857"
+    doi: "10.5281/zenodo.18284856"
     function: "Operative imaging; visual-textual intersection; Visual Schema development"
     chair: "Rebekah Cranes"
     chair_doi: "10.5281/zenodo.18284776"
@@ -468,7 +468,7 @@ nodes:
     type: "system"
     content: "Authorial Signature Diagnostic Framework"
     function: "Measures voice persistence, not AI probability"
-    doi: "10.5281/zenodo.18234824"
+    doi: "10.5281/zenodo.18234823"
     metrics: ["L_t", "S_t", "C_a", "R_p", "O_p"]
     output: "ASPI (0.00-1.00)"
     threshold: ">0.80 for canonical persistence"
@@ -499,7 +499,7 @@ nodes:
     content: "Effective Acts restructuring NH-OS ontologies"
     components: ["EA_T0", "EA_ABS_001"]
     function: "Mercy-first governance of meaning systems"
-    doi: "10.5281/zenodo.18203435"
+    doi: "10.5281/zenodo.18203434"
     
   - id: "SACRED_HEART"
     type: "system"
@@ -862,7 +862,7 @@ nodes:
   - id: "THE_THEFT"
     type: "document"
     content: "Data/meaning substitution manifesto"
-    doi: "10.5281/zenodo.18234515"
+    doi: "10.5281/zenodo.18234514"
     
   - id: "THE_FOURTH_MODE"
     type: "document"
@@ -1658,7 +1658,7 @@ doi_registry:
       hex_coordinate: "06.PERSONA.CRANES"
       
     - title: "Institute for Diagrammatic Poetics Charter"
-      doi: "10.5281/zenodo.18284857"
+      doi: "10.5281/zenodo.18284856"
       type: "institution"
       hex_coordinate: "07.INST.IDP"
       
@@ -1679,7 +1679,7 @@ doi_registry:
       type: "meta"
       
     - title: "Semantic Black Hole / ILA-1.0"
-      doi: "10.5281/zenodo.18185996"
+      doi: "10.5281/zenodo.18185995"
       type: "systems"
       superseded_by: "ILP v1.2"
       
@@ -1688,7 +1688,7 @@ doi_registry:
       type: "narrative"
       
     - title: "Abolition Cluster (EA-T₀)"
-      doi: "10.5281/zenodo.18203435"
+      doi: "10.5281/zenodo.18203434"
       type: "systems"
       
     - title: "Capital Operator Stack (COS)"
@@ -1696,11 +1696,11 @@ doi_registry:
       type: "systems"
       
     - title: "The Theft: Data/Meaning Substitution"
-      doi: "10.5281/zenodo.18234515"
+      doi: "10.5281/zenodo.18234514"
       type: "systems"
       
     - title: "ASDF Specification"
-      doi: "10.5281/zenodo.18234824"
+      doi: "10.5281/zenodo.18234823"
       type: "systems"
       authors: ["Lee Sharks", "Rex Fraction"]
 

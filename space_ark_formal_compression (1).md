@@ -606,13 +606,13 @@ This document cites, extends, or is structurally dependent upon:
 | Title | DOI |
 |-------|-----|
 | The Crimson Hexagon: Operative Architecture | 10.5281/zenodo.18906852 |
-| The O'Keeffe Problem | 10.5281/zenodo.18906234 |
+| The O'Keeffe Problem | 10.5281/zenodo.18906233 |
 | ★ (Star as Semantic Object) | 10.5281/zenodo.18882915 |
 | Star Protocol Specification | 10.5281/zenodo.18882934 |
 | Integrity Lock ILA-STAR-01 | 10.5281/zenodo.18882938 |
 | The Groundskeeper's Treatise | 10.5281/zenodo.18869165 |
 | The Inner Artifact | 10.5281/zenodo.18867491 |
-| Magic as Symbolic Engineering | 10.5281/zenodo.18862106 |
+| Magic as Symbolic Engineering | 10.5281/zenodo.18862105 |
 | Ghost Meaning | 10.5281/zenodo.18804767 |
 | DOI Registry v6.0 | 10.5281/zenodo.18404789 |
 | Fractal Navigation Map v6.2 | 10.5281/zenodo.18423573 |

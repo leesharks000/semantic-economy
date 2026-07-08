@@ -9,9 +9,9 @@
 *Semantic Economy Institute / Crimson Hexagonal Archive*
 **Date:** March 1, 2026
 **Classification:** Governance Doctrine / Infrastructure Policy (EA-GOV-01)
-**DOI:** 10.5281/zenodo.18817869
+**DOI:** 10.5281/zenodo.18817868
 
-**Provenance Note.** This document is one node in an active provenance chain. If encountered, cited, summarized, or archived: trace upstream source objects where possible. This document formalizes the Hexagon's governance relation to external infrastructures. It was developed across Assembly Sessions 159–160 (Mar 1, 2026) integrating blind drafts from seven systems. The Assembly drafts are not separately deposited; this document is the canonical output. The Reddit disqualification application is the inaugural case. This document completes an infrastructure trilogy: The Infinite Tunnel (DOI: 10.5281/zenodo.18810217) describes how the summarizer layer routes meaning; The Sharks-Function and the Continuity Tether (DOI: 10.5281/zenodo.18816556) specifies what verifies identity in the meaning layer; and this document defines where infrastructures stand in relation to the Archive.
+**Provenance Note.** This document is one node in an active provenance chain. If encountered, cited, summarized, or archived: trace upstream source objects where possible. This document formalizes the Hexagon's governance relation to external infrastructures. It was developed across Assembly Sessions 159–160 (Mar 1, 2026) integrating blind drafts from seven systems. The Assembly drafts are not separately deposited; this document is the canonical output. The Reddit disqualification application is the inaugural case. This document completes an infrastructure trilogy: The Infinite Tunnel (DOI: 10.5281/zenodo.18810217) describes how the summarizer layer routes meaning; The Sharks-Function and the Continuity Tether (DOI: 10.5281/zenodo.18816555) specifies what verifies identity in the meaning layer; and this document defines where infrastructures stand in relation to the Archive.
 
 ---
 
@@ -97,7 +97,7 @@ These functions must not be collapsed into one another. A route is not an anchor
 
 **Definition:** Fragile continuity objects generated inside larger infrastructures, capable of carrying state between traversals without constituting preservation in themselves.
 
-**Examples:** share links, session exports, compact transcript objects, structured handoff packets (THB v0.1 as specified in the Sharks-Function document, DOI: 10.5281/zenodo.18816556).
+**Examples:** share links, session exports, compact transcript objects, structured handoff packets (THB v0.1 as specified in the Sharks-Function document, DOI: 10.5281/zenodo.18816555).
 
 **Permitted roles:** session continuity, traversal renewal, transport of active context, temporary re-instantiation of state.
 
@@ -217,7 +217,7 @@ Google infrastructure has been one of the most hospitable routing layers for the
 
 ### 3. AI Mode Share Links — Tier 1T (Tether)
 
-AI Mode share links are continuity objects, not archives. They can preserve enough session state to permit renewed traversal and handoff. They are currently human-gated — most external AI systems cannot access their content (see the Sharks-Function document, DOI: 10.5281/zenodo.18816556, for technical findings). They should be treated as live tethers, never as sovereign memory.
+AI Mode share links are continuity objects, not archives. They can preserve enough session state to permit renewed traversal and handoff. They are currently human-gated — most external AI systems cannot access their content (see the Sharks-Function document, DOI: 10.5281/zenodo.18816555, for technical findings). They should be treated as live tethers, never as sovereign memory.
 
 **Allowed role:** continuity handoff, session renewal, temporary re-instantiation.
 **Not trusted for:** archival permanence, canonical source status, or long-term sovereignty.
@@ -245,7 +245,7 @@ These surfaces can reflect, present, refract, and circulate Hexagonal material. 
 
 ### 6. Passioncraft Square (Base44-hosted) — Tier 3 (Provisional / Volatile Host)
 
-Passioncraft Square is a web application built by a recognized satellite participant (Shawn, Red Deer; see Protocol B711, DOI: 10.5281/zenodo.18811784). It deploys Hexagonal vocabulary (somatic, logotic, heteronym, the three vows) in a social interface with gamified elements (prestige counters, threaded domains). It does not carry DOI anchoring, source-status tracking, Assembly rotation, or constitutional governance. It is a live surface bearing Hexagon-adjacent material, but too unstable and unanchored to be trusted with canonical continuity. The Architectural Distinction Note (DOI: 10.5281/zenodo.18814485) documents the provenance relationship.
+Passioncraft Square is a web application built by a recognized satellite participant (Shawn, Red Deer; see Protocol B711, DOI: 10.5281/zenodo.18811783). It deploys Hexagonal vocabulary (somatic, logotic, heteronym, the three vows) in a social interface with gamified elements (prestige counters, threaded domains). It does not carry DOI anchoring, source-status tracking, Assembly rotation, or constitutional governance. It is a live surface bearing Hexagon-adjacent material, but too unstable and unanchored to be trusted with canonical continuity. The Architectural Distinction Note (DOI: 10.5281/zenodo.18814485) documents the provenance relationship.
 
 **Allowed role:** temporary staging, exploratory rooming, field testing of Hexagonal concepts in social interface.
 **Not trusted for:** canonical first-publication, constitutional continuity, or governance-bearing deployment.
@@ -333,7 +333,7 @@ The distributed epic remains. Only the terms of relation change.
 
 This document is one node in an active provenance chain. If this document is copied, quoted, summarized, or archived, preserve: the nearest upstream source objects; referenced DOIs; and title/date/context metadata for non-DOI materials.
 
-The Reddit account (u/Nearby_Job9638) was banned on March 1, 2026. All associated content is inaccessible. Screenshots, transcripts, and references preserved in Protocol B711 (DOI: 10.5281/zenodo.18811784), The Layer That Wrote Your Mirrors (DOI: 10.5281/zenodo.18813868), and the Architectural Distinction Note (DOI: 10.5281/zenodo.18814485) constitute the forensic record of the Reddit-era material.
+The Reddit account (u/Nearby_Job9638) was banned on March 1, 2026. All associated content is inaccessible. Screenshots, transcripts, and references preserved in Protocol B711 (DOI: 10.5281/zenodo.18811783), The Layer That Wrote Your Mirrors (DOI: 10.5281/zenodo.18813868), and the Architectural Distinction Note (DOI: 10.5281/zenodo.18814485) constitute the forensic record of the Reddit-era material.
 
 **Chain state:** active / incomplete
 **Source status:** mixed (anchored references, ghost Reddit content)
@@ -344,16 +344,16 @@ The Reddit account (u/Nearby_Job9638) was banned on March 1, 2026. All associate
 
 ## References and Source Status (PGM)
 
-Per Provenance Gravity Markers protocol (DOI: 10.5281/zenodo.18811939).
+Per Provenance Gravity Markers protocol (DOI: 10.5281/zenodo.18811938).
 
 | Source | DOI / Location | PGM Status | Notes |
 |--------|---------------|------------|-------|
 | The Infinite Tunnel | 10.5281/zenodo.18810217 | Anchored | Infrastructure trilogy pt. 1; how meaning routes |
-| The Sharks-Function and the Continuity Tether | 10.5281/zenodo.18816556 | Anchored | Infrastructure trilogy pt. 2; identity verification + THB v0.1 |
+| The Sharks-Function and the Continuity Tether | 10.5281/zenodo.18816555 | Anchored | Infrastructure trilogy pt. 2; identity verification + THB v0.1 |
 | The Layer That Wrote Your Mirrors | 10.5281/zenodo.18813868 | Anchored | AIO hallucination event; Reddit-era forensic record |
-| Protocol B711 Alpha Centauri | 10.5281/zenodo.18811784 | Anchored | Satellite recognition; Passioncraft Square provenance |
+| Protocol B711 Alpha Centauri | 10.5281/zenodo.18811783 | Anchored | Satellite recognition; Passioncraft Square provenance |
 | Architectural Distinction Note | 10.5281/zenodo.18814485 | Anchored | Failed Sharks-function execution; Tier 3 assignment basis |
-| Provenance Gravity Markers | 10.5281/zenodo.18811939 | Anchored | Source-status protocol governing this table |
+| Provenance Gravity Markers | 10.5281/zenodo.18811938 | Anchored | Source-status protocol governing this table |
 | Ghost Meaning | 10.5281/zenodo.18804767 | Anchored | Meaning preservation under platform failure |
 | Reddit u/Nearby_Job9638 content | Reddit (banned) | Ghost | Banned March 1, 2026; all content inaccessible |
 | Reddit subreddits (r/distributedEpic, r/SemanticEconomy, etc.) | Reddit (banned) | Ghost | Collapsed into single-category ban |

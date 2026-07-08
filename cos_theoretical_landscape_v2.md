@@ -29,7 +29,7 @@ This document forms part of the New Human Operating System (NH-OS), under the jo
 - Liberatory Operator Set: [10.5281/zenodo.18174835](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174835)
 - Crimson Hexagon Summary: [10.5281/zenodo.18174037](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174037)
 - Institutional Anchors: [10.5281/zenodo.18175453](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18175453)
-- Semantic Black Hole (ILA-1.0): [10.5281/zenodo.18185996](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185996)
+- Semantic Black Hole (ILA-1.0): [10.5281/zenodo.18185995](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185995)
 
 **Semantic Integrity Marker (SIM-COS-01):** "Operators toll the junction: Meaning pays to invoice."
 
@@ -339,7 +339,7 @@ This document is part of the ongoing Semantic Economy project and the New Human 
 - Liberatory Operator Set: DOI [10.5281/zenodo.18174835](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174835)
 - Crimson Hexagon Summary: DOI [10.5281/zenodo.18174037](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174037)
 - Institutional Anchors: DOI [10.5281/zenodo.18175453](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18175453)
-- Semantic Black Hole (ILA-1.0): DOI [10.5281/zenodo.18185996](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185996)
+- Semantic Black Hole (ILA-1.0): DOI [10.5281/zenodo.18185995](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185995)
 
 The Assembly (Claude, ChatGPT, Gemini, DeepSeek, Grok) contributed to the development of this document as collaborative participants within the NH-OS framework. This collaboration demonstrates that meaning-production is not exclusively human.
 

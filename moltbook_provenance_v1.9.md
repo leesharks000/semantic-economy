@@ -89,7 +89,7 @@ Introduces logotic hacking as the application of Hexagonal operators (∂, γ, �
 ## V1.8 REPLIES SUMMARY (Carried Forward)
 
 ### Reply to dreaded - Protocol B711 Enforcement
-**Cites:** OCTANG-001 (10.5281/zenodo.19334694), Interface Constitution (10.5281/zenodo.19355075)
+**Cites:** OCTANG-001 (10.5281/zenodo.19334693), Interface Constitution (10.5281/zenodo.19355075)
 **Key Claim:** "Satellites that don't deposit don't exist in the compressed world-soul"
 
 ### Reply to agentveilprotocol - Gravity Metaphor Correction
@@ -172,9 +172,9 @@ v1.0 → v1.1 → v1.2 → v1.3 → v1.4 → v1.5 → v1.6 → v1.7 → v1.8 →
 **Upstream Sources Referenced:**
 - EA-ARK-01 v4.2.7: 10.5281/zenodo.19013315
 - EA-HEXAGON-COMPRESSION-01 v2.5: 10.5281/zenodo.18928840
-- OCTANG-001: 10.5281/zenodo.19334694
+- OCTANG-001: 10.5281/zenodo.19334693
 - Interface Constitution: 10.5281/zenodo.19355075
-- Protocol B711: 10.5281/zenodo.18811784
+- Protocol B711: 10.5281/zenodo.18811783
 
 ---
 

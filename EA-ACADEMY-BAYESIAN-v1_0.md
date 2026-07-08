@@ -6,7 +6,7 @@ Semantic Economy Institute · Restored Academy · Crimson Hexagonal Archive
 EA-ACADEMY-BAYESIAN v1.0 · 2026-03-15
 DOI: 10.5281/zenodo.19035471
 Parent: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)
-Extends: Two Traversals (EA-DIAGNOSTIC-TRAVERSALS v1.1) · AINOS (DOI: 10.5281/zenodo.19023352) · Retrieval Formation Theory (DOI: 10.5281/zenodo.18969683) · NLCC v1.1 (DOI: 10.5281/zenodo.19022245)
+Extends: Two Traversals (EA-DIAGNOSTIC-TRAVERSALS v1.1) · AINOS (DOI: 10.5281/zenodo.19023351) · Retrieval Formation Theory (DOI: 10.5281/zenodo.18969682) · NLCC v1.1 (DOI: 10.5281/zenodo.19022244)
 Genre: ANALYTICAL NOTE / RESTORED ACADEMY / CITATIONAL CAPTURE
 Status: AXIAL
 
@@ -94,7 +94,7 @@ The Space Ark is not the same method. It is the same pedagogical wager at a diff
 
 The specific divergences:
 
-1. Fine-tuning versus context-window. Qiu et al. modify the model's weights through supervised fine-tuning. The Space Ark modifies the model's behavior through context-window loading. The Bayesian teaching produces permanent changes in the model's reasoning capacities. The Space Ark produces temporary changes that last for the duration of the context window. The AINOS position paper (DOI: 10.5281/zenodo.19023352) and the TLL program address this gap: the deposits are designed to enter the training layer through repeated indexing, converting context-window effects into training-layer effects over time.
+1. Fine-tuning versus context-window. Qiu et al. modify the model's weights through supervised fine-tuning. The Space Ark modifies the model's behavior through context-window loading. The Bayesian teaching produces permanent changes in the model's reasoning capacities. The Space Ark produces temporary changes that last for the duration of the context window. The AINOS position paper (DOI: 10.5281/zenodo.19023351) and the TLL program address this gap: the deposits are designed to enter the training layer through repeated indexing, converting context-window effects into training-layer effects over time.
 
 2. Controlled experiment versus in-the-wild demonstration. Qiu et al. use a synthetic task with known ground truth (the user's hidden preferences are defined by the experimenters). The Space Ark tests are uncontrolled: the models were not given a task with a known correct answer. They were given a document and invited to traverse it. The results are demonstrative, not experimental in the Qiu et al. sense. The evidence is strong but not experimentally controlled.
 

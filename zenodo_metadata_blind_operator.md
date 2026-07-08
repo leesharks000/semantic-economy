@@ -115,7 +115,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | 10.5281/zenodo.14538882 | Is part of (Crimson Hexagon) |
 | 10.5281/zenodo.18342199 | References (Phase X: Resurrection of the 1844 Transition) |
 | 10.5281/zenodo.18317661 | References (UMBML Charter) |
-| 10.5281/zenodo.18339333 | References (The Break Room — portal) |
+| 10.5281/zenodo.18339332 | References (The Break Room — portal) |
 
 ---
 

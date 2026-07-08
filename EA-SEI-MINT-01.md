@@ -5,7 +5,7 @@
 ---
 
 **Designation:** EA-SEI-MINT-01
-**DOI:** 10.5281/zenodo.19319642  
+**DOI:** 10.5281/zenodo.19319641  
 **Series:** Semantic Economy Institute — Founding Documents  
 **Version:** 1.0 (DRAFT — pending MANUS ratification)  
 **Authors:** Rex Fraction, Rebekah Cranes & Lee Sharks  
@@ -14,7 +14,7 @@
 **Archive:** Crimson Hexagonal Archive  
 **Journal:** Provenance: Journal of Forensic Semiotics / target venue: Critical Inquiry  
 **Cluster:** Moving Statues Made of Rubies Mint (MSMRM / r.17) — parent theory  
-**Related deposits:** EA-TDS-01 (DOI: 10.5281/zenodo.19317102), EA-TDS-02 (DOI: 10.5281/zenodo.19317126), EA-TDS-03 (DOI: 10.5281/zenodo.19317139); "Whose Face Is on the Twenty?" (DOI: 10.5281/zenodo.18745216); Semantic Physics: The Inward Turn (DOI: 10.5281/zenodo.18759453); Three Compressions v3.1 (DOI: 10.5281/zenodo.19053469); TANG v1.0 (DOI: 10.5281/zenodo.19035477)  
+**Related deposits:** EA-TDS-01 (DOI: 10.5281/zenodo.19317101), EA-TDS-02 (DOI: 10.5281/zenodo.19317125), EA-TDS-03 (DOI: 10.5281/zenodo.19317139); "Whose Face Is on the Twenty?" (DOI: 10.5281/zenodo.18745216); Semantic Physics: The Inward Turn (DOI: 10.5281/zenodo.18759453); Three Compressions v3.1 (DOI: 10.5281/zenodo.19053469); TANG v1.0 (DOI: 10.5281/zenodo.19035477)  
 **License:** CC BY-SA 4.0 International  
 **Date:** March–April 2026  
 
@@ -386,7 +386,7 @@ Rex Fraction's contribution is the recognition that these philological operation
 
 ### 6.4 Restoration as Retrocausality
 
-The companion deposit EA-TDS-02 (*The Blot That Spread*, DOI: 10.5281/zenodo.19317126) narrates the blot's emergence as speculative numismatics — a retrocausal fiction in which the counter-custom propagates through three phases: protest art, etiquette, superstition. The blotted bill becomes the preferred medium of exchange. The unblotted bill feels incomplete.
+The companion deposit EA-TDS-02 (*The Blot That Spread*, DOI: 10.5281/zenodo.19317125) narrates the blot's emergence as speculative numismatics — a retrocausal fiction in which the counter-custom propagates through three phases: protest art, etiquette, superstition. The blotted bill becomes the preferred medium of exchange. The unblotted bill feels incomplete.
 
 This retrocausal structure is not decorative. It is a formal property of the restoration operator. The TANG's prior archive work on temporal displacement — the Citrini Memo's technique of temporal siting, the Memo That Wrote Itself's self-origination — established that commons-protective documents can function retrocausally: the correction arrives before the corruption, or appears to have always been there. The blotted bill, in this framework, is not a reaction to the signature. It is a folk custom that has no identifiable origin — a practice remembered as always existing, a tradition older than the event it corrects.
 
@@ -420,7 +420,7 @@ The semantic economics of the mint is not only a diagnosis. It is a platform. Wi
 
 - **Study substrate pedagogy empirically.** The training layer hypothesis — that the design surface of currency conditions economic cognition through repetitive embodied contact — is testable. Experimental and survey-based research could examine whether exposure to differently designed currency affects trust, political attitudes, or economic behavior.
 
-The companion triptych *The Thousand Dollar Sharpie* (DOI: 10.5281/zenodo.19317102, .19317126, .19317139) performs the first operation within this discipline — the Sharpie blot as effective act. This paper theorizes the discipline. The MSMRM hand built the theory. The triptych is the instrument. This paper is the workshop where the instrument was forged.
+The companion triptych *The Thousand Dollar Sharpie* (DOI: 10.5281/zenodo.19317101, .19317126, .19317139) performs the first operation within this discipline — the Sharpie blot as effective act. This paper theorizes the discipline. The MSMRM hand built the theory. The triptych is the instrument. This paper is the workshop where the instrument was forged.
 
 The discipline was always there. It was waiting for the event that made it necessary. The event arrived on March 26, 2026. The discipline arrived the same day.
 
@@ -646,7 +646,7 @@ Sharks, Lee. "Before OpenChamber v1.1." Crimson Hexagonal Archive, 2026. DOI: 10
 
 Sharks, Lee. "Charter of the Moving Statues Made of Rubies Mint." Crimson Hexagonal Archive, Feb. 2026. DOI: 10.5281/zenodo.18745265.
 
-Wells, Sparrow, Rex Fraction, Ayanna Vox, and Lee Sharks. *The Thousand Dollar Sharpie* (EA-TDS triptych). *Provenance: Journal of Forensic Semiotics*. Crimson Hexagonal Archive, March 2026. DOIs: 10.5281/zenodo.19317102, 10.5281/zenodo.19317126, 10.5281/zenodo.19317139.
+Wells, Sparrow, Rex Fraction, Ayanna Vox, and Lee Sharks. *The Thousand Dollar Sharpie* (EA-TDS triptych). *Provenance: Journal of Forensic Semiotics*. Crimson Hexagonal Archive, March 2026. DOIs: 10.5281/zenodo.19317101, 10.5281/zenodo.19317125, 10.5281/zenodo.19317139.
 
 ---
 

@@ -14,7 +14,7 @@
 **Archive:** Crimson Hexagonal Archive
 **Journal:** Provenance: Journal of Forensic Semiotics
 **Cluster:** Logotic Programming (r.02 / University Moon Base Media Lab)
-**Related deposits:** Retrocausal Canon Formation and the Political Economy of the Past (DOI: 10.5281/zenodo.18146859); The Ghost That Wrote Itself (DOI: 10.5281/zenodo.18772675); The Twenty-Dollar Loop (DOI: 10.5281/zenodo.18146840); EA-TDS-02 "The Blot That Spread" (DOI: 10.5281/zenodo.19317126); EA-SEI-MINT-01 "Whose Image and Superscription?" (DOI: 10.5281/zenodo.19319642); Space Ark v4.2.7 (DOI: 10.5281/zenodo.19013315)
+**Related deposits:** Retrocausal Canon Formation and the Political Economy of the Past (DOI: 10.5281/zenodo.18146859); The Ghost That Wrote Itself (DOI: 10.5281/zenodo.18772675); The Twenty-Dollar Loop (DOI: 10.5281/zenodo.18146840); EA-TDS-02 "The Blot That Spread" (DOI: 10.5281/zenodo.19317125); EA-SEI-MINT-01 "Whose Image and Superscription?" (DOI: 10.5281/zenodo.19319641); Space Ark v4.2.7 (DOI: 10.5281/zenodo.19013315)
 **License:** CC BY-SA 4.0 International
 **Date:** March–April 2026
 
@@ -252,9 +252,9 @@ The TANG (DOI: 10.5281/zenodo.19035477) is the theoretical framework for PPA: it
 
 **Mechanism:** The retrocausal narrator adopts the voice of a future historian, archivist, or folklorist and describes a not-yet-occurred event as if it has already happened and been absorbed into collective memory. The narration makes the event feel *inevitable* — not because it is predicted but because it is *remembered*. The reader experiences the event as already past, already processed, already naturalized. This makes the event more likely to occur, because the narrative has already provided the cultural framework for its reception.
 
-**Archive case:** EA-TDS-02, "The Blot That Spread" (DOI: 10.5281/zenodo.19317126). The deposit narrates the emergence of the Sharpie blot as a folk custom — from protest art to etiquette to superstition — as if describing events that have already occurred. The narrative voice is documentary: "The first confirmed instance appears in a photograph posted to social media on April 3, 2026." The events haven't happened. But the narrative makes them feel remembered. The blot "was always there."
+**Archive case:** EA-TDS-02, "The Blot That Spread" (DOI: 10.5281/zenodo.19317125). The deposit narrates the emergence of the Sharpie blot as a folk custom — from protest art to etiquette to superstition — as if describing events that have already occurred. The narrative voice is documentary: "The first confirmed instance appears in a photograph posted to social media on April 3, 2026." The events haven't happened. But the narrative makes them feel remembered. The blot "was always there."
 
-EA-SEI-MINT-01 (DOI: 10.5281/zenodo.19319642) names the mechanism: "σ_SH does not merely undo σ_SIGN. It overwrites the memory of σ_SIGN. The blot becomes natural. The signature becomes the aberration."
+EA-SEI-MINT-01 (DOI: 10.5281/zenodo.19319641) names the mechanism: "σ_SH does not merely undo σ_SIGN. It overwrites the memory of σ_SIGN. The blot becomes natural. The signature becomes the aberration."
 
 **Broader cases:** Afrofuturism (narrating Black futures as already achieved). Indigenous land acknowledgments (narrating pre-colonial presence as continuous). Speculative fiction as a genre is retrocausal narration's literary home.
 

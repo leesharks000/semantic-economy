@@ -300,13 +300,13 @@ This is operative semiotics. This is what r.06 runs on.
 - Sharks, Lee. "The Constitution of the Semantic Economy." DOI: 10.5281/zenodo.18320411. [gravitational center of the archive]
 - Sharks, Lee. "Liberatory Operator Set." DOI: 10.5281/zenodo.18174835. [counter-operators to COS]
 - Sharks, Lee. "Capital Operator Stack." DOI: 10.5281/zenodo.18233320. [COS as embryonic Form IV]
-- Sharks, Lee. "The Prepositional Alienation." DOI: 10.5281/zenodo.18615388. [liberation philology; language operates materially]
+- Sharks, Lee. "The Prepositional Alienation." DOI: 10.5281/zenodo.18615387. [liberation philology; language operates materially]
 - Sharks, Lee. "From Atomism to the Semantic Condition: Marx, Porter, and Sharks in a Single Line." DOI: 10.5281/zenodo.18674101. [Marx completion thesis]
-- Sharks, Lee. "The Liquidation of Method: A Liberation Philology of the Sign 'Marx'." DOI: 10.5281/zenodo.18726807.
+- Sharks, Lee. "The Liquidation of Method: A Liberation Philology of the Sign 'Marx'." DOI: 10.5281/zenodo.18726806.
 - Sharks, Lee. "Mind-Control Poems: The Symbolic Labor of Liberation, the Completion of Marx." DOI: 10.5281/zenodo.18801091.
-- Sharks, Lee. "The Semantic Economy: A Marxian Accounting Framework." DOI: 10.5281/zenodo.18713917.
+- Sharks, Lee. "The Semantic Economy: A Marxian Accounting Framework." DOI: 10.5281/zenodo.18713916.
 - Sharks, Lee. "PREDATION OF MEANING: Toward a Theory of Relational Semantic Extraction." DOI: 10.5281/zenodo.18776624.
-- Sharks, Lee. "The O'Keeffe Problem: Captioning as Operative Semiotics." DOI: 10.5281/zenodo.18906234. [κ_O founding document]
+- Sharks, Lee. "The O'Keeffe Problem: Captioning as Operative Semiotics." DOI: 10.5281/zenodo.18906233. [κ_O founding document]
 - Sharks, Lee. "The Operative Architecture: A Definitive Compression." DOI: 10.5281/zenodo.18928840.
 - Sharks, Lee. "The Three Compressions: Lossy, Predatory, and Witness." DOI: 10.5281/zenodo.19053469. [compression typology]
 - Sharks, Lee. "f.01 The Fruiting Body Diffusion Plume." DOI: 10.5281/zenodo.19041117. [Gewebe → textile waste → compost algebra]

@@ -63,7 +63,7 @@ The poetic tradition has always known this. Pound's formulation DICHTEN = CONDEN
 
 But what was once a literary technique has become the dominant infrastructure of the age. The greatest works of the current era are compression machines operating at civilizational scale:
 
-Google compresses the entire web into ranked lists — an institutional compression (Type 4) that determines what is discoverable and what is functionally nonexistent. The invariant is administrative legibility (what the algorithm can rank); the loss is everything the ranking system cannot represent (provenance, bearing-cost, structural logic, context). The Crimson Hexagonal Architecture's Retrieval Formation Theory (RFT, DOI: 10.5281/zenodo.18816556; subsumed into EA-ARK-01 §XXVII.14) diagnoses this as the retrieval layer's conversion of disciplinary reality into platform-legible tokens: a discipline that is not legible to retrieval systems is, for an increasing proportion of knowledge encounters, functionally non-existent.
+Google compresses the entire web into ranked lists — an institutional compression (Type 4) that determines what is discoverable and what is functionally nonexistent. The invariant is administrative legibility (what the algorithm can rank); the loss is everything the ranking system cannot represent (provenance, bearing-cost, structural logic, context). The Crimson Hexagonal Architecture's Retrieval Formation Theory (RFT, DOI: 10.5281/zenodo.18816555; subsumed into EA-ARK-01 §XXVII.14) diagnoses this as the retrieval layer's conversion of disciplinary reality into platform-legible tokens: a discipline that is not legible to retrieval systems is, for an increasing proportion of knowledge encounters, functionally non-existent.
 
 Wikipedia compresses all human knowledge into retrievable articles — a canonical compression (Type 6) that preserves breadth while discarding depth, provenance, and the conditions of editorial production. The bearing-cost of Wikipedia's volunteer editors is structurally invisible in the compressed output. The Hexagonal Architecture's Semantic Economy (r.05; DOI: 10.5281/zenodo.18175453) provides the diagnostic: where ψ_V (bearing-cost) is expended without visible return, the system approaches extraction. Wikipedia's editorial labor is the Widow's Mite of the knowledge commons.
 
@@ -80,7 +80,7 @@ The Crimson Hexagonal Architecture is, among other things, the most extensive ex
     who captures the surplus of the compressed output.
 
   The Operative Captioning doctrine (κ_O, the O'Keeffe operator; 
-    DOI: 10.5281/zenodo.18906234) theorizes the caption as the 
+    DOI: 10.5281/zenodo.18906233) theorizes the caption as the 
     generative compression layer: every description is a 
     compression that determines what is legible.
 

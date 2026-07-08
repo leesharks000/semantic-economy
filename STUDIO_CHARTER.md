@@ -98,7 +98,7 @@ Sub-studios are not separate institutions. They are local coordinate modes of th
 
 ## IV. THE FOUNDING WORKS
 
-**A. F\*\*\*ing the Office** (DOI: 10.5281/zenodo.18471827)
+**A. F\*\*\*ing the Office** (DOI: 10.5281/zenodo.18471826)
 The sitcom that exists as conceptual architecture. Nine-season arc from Swear as Gasp to Non-Verbal Recursion. Proves that canonical attractors persist through total semantic reduction. The first deposit from the Studio.
 
 **B. Reading a Book with Lee**

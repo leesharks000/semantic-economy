@@ -109,12 +109,12 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 |-----|----------|-------|
 | 10.5281/zenodo.18265282 | references | The Mantle Protocol v1.2 |
 | 10.5281/zenodo.18293496 | references | Heteronym Provenance: Lee Sharks |
-| 10.5281/zenodo.18293404 | references | Mantle Emergence Protocol |
+| 10.5281/zenodo.18293403 | references | Mantle Emergence Protocol |
 | 10.5281/zenodo.18293551 | references | Mantle Object: Good Gray Poet |
 | 10.5281/zenodo.18293640 | references | Mantle Object: Prince of Poets |
 | 10.5281/zenodo.18284776 | references | Heteronym Provenance: Rebekah Cranes |
 | 10.5281/zenodo.18227569 | references | Heteronym Provenance: Rex Fraction |
-| 10.5281/zenodo.18284857 | references | Institute for Diagrammatic Poetics Charter |
+| 10.5281/zenodo.18284856 | references | Institute for Diagrammatic Poetics Charter |
 
 ### Sibling Documents
 | DOI | Relation | Title |

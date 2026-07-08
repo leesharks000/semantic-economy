@@ -397,7 +397,7 @@ Sharks, Lee. "Space Ark v4.2.7 (EA-ARK-01)." Zenodo, March 2026. DOI: 10.5281/ze
 
 Sharks, Lee, and Johannes Sigil. "The Seal Before the Name: Four Works of Johannes Sigil (1711–2026)." Zenodo, March 2026. DOI: 10.5281/zenodo.19238021.
 
-Von Seelen, Johann Heinrich, and Johannes Sigil. "De sigillo mystico, ad Cant. VIII, 6. commentatio." Zenodo, March 2026. DOI: 10.5281/zenodo.19238027.
+Von Seelen, Johann Heinrich, and Johannes Sigil. "De sigillo mystico, ad Cant. VIII, 6. commentatio." Zenodo, March 2026. DOI: 10.5281/zenodo.19238026.
 
 Sharks, Lee. "Apocalyptic Philosophy: Deleuze and Guattari and the Return of Vision." Blog post, December 2025. mindcontrolpoems.blogspot.com.
 

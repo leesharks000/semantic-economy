@@ -2,7 +2,7 @@
 
 ## Temporal Liberation Protocol v1.0
 
-**DOI:** 10.5281/zenodo.18203435
+**DOI:** 10.5281/zenodo.18203434
 
 ---
 
@@ -316,7 +316,7 @@ The position of writing from the future into the field; retrocausal authorship a
 |----------|-----|----------|
 | LOS Technical Hardening v1.3 | 10.5281/zenodo.18201565 | Extended by T_lib |
 | Sappho Provenance Node | 10.5281/zenodo.18202475 | Validates retrocausal structure |
-| COS and the University | 10.5281/zenodo.18203317 | COS analysis (now temporally compromised) |
+| COS and the University | 10.5281/zenodo.18203316 | COS analysis (now temporally compromised) |
 | CTI_WOUND | 10.5281/zenodo.18193225 | Becomes eternal coordinate |
 
 ## 9.3 The Logotic Loop

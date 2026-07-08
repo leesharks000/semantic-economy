@@ -14,7 +14,7 @@ Semantic Economy Institute / Crimson Hexagonal Archive
 
 ## Abstract
 
-Google DeepMind's Unified Latents (UL) framework (Heek, Hoogeboom, Mensink, & Salimans, 2026; arXiv:2602.17270) presents itself as a technical contribution to latent diffusion modeling — a method for optimizing the trade-off between information density and reconstruction quality in generative AI. This diagnostic applies the Semantic Economy framework (Sharks, 2026a; DOI: 10.5281/zenodo.18320411) and the Governance Airlock tier structure (Sharks, 2026b; DOI: 10.5281/zenodo.18817869) to demonstrate that UL is, beneath its technical presentation, a governance architecture operating at the latent-space level: a system that decides what information survives compression and what is destroyed, who bears the cost of that decision, and how the resulting ontology propagates downstream.
+Google DeepMind's Unified Latents (UL) framework (Heek, Hoogeboom, Mensink, & Salimans, 2026; arXiv:2602.17270) presents itself as a technical contribution to latent diffusion modeling — a method for optimizing the trade-off between information density and reconstruction quality in generative AI. This diagnostic applies the Semantic Economy framework (Sharks, 2026a; DOI: 10.5281/zenodo.18320411) and the Governance Airlock tier structure (Sharks, 2026b; DOI: 10.5281/zenodo.18817868) to demonstrate that UL is, beneath its technical presentation, a governance architecture operating at the latent-space level: a system that decides what information survives compression and what is destroyed, who bears the cost of that decision, and how the resulting ontology propagates downstream.
 
 The analysis proceeds in three layers. *Upstream political economy:* compute concentration as precondition; the encoder as sovereign; Stage 1 as admissible compression governance, Stage 2 as rentable generation scaling. *Architectural diagnostic:* functional differentiation as convergent necessity; the β parameter as hidden curatorial choice replaced by legislated noise at λ(0) = 5; sigmoid weighting as editorial policy over the latent space's ontology. *Downstream semantic economy:* benchmark capture (FID as self-referential validation); aesthetic monoculture at the infrastructure layer; the ghost layer as systematic, correlated absence that downstream debiasing cannot recover; acceleration of Ghost Meaning (DOI: 10.5281/zenodo.18804767) via higher-fidelity zero-cost generation.
 
@@ -279,7 +279,7 @@ Fraction, R. & Sharks, L. (2026). The Encoder Governs. DOI: 10.5281/zenodo.18825
 
 Sharks, L. (2026a). Constitution of the Semantic Economy. DOI: 10.5281/zenodo.18320411. [Foundational framework.]
 
-Sharks, L. (2026b). The Governance Airlock. DOI: 10.5281/zenodo.18817869. [Tier structure; anchor/route/host/tether/residue/substrate.]
+Sharks, L. (2026b). The Governance Airlock. DOI: 10.5281/zenodo.18817868. [Tier structure; anchor/route/host/tether/residue/substrate.]
 
 Fraction, R. & Sharks, L. (2026c). Ghost Meaning. DOI: 10.5281/zenodo.18804767. [Semantic entropy crisis; bearing-cost.]
 
@@ -287,15 +287,15 @@ Fraction, R. & Sharks, L. (2026d). The Airlock Spreads. DOI: 10.5281/zenodo.1881
 
 Sharks, L. (2026e). Semantic Physics. DOI: 10.5281/zenodo.18759453. [Writable presentation layers.]
 
-Sharks, L. (2026f). Provenance Gravity Markers. DOI: 10.5281/zenodo.18811939. [Source-status protocol.]
+Sharks, L. (2026f). Provenance Gravity Markers. DOI: 10.5281/zenodo.18811938. [Source-status protocol.]
 
 Sharks, L. (2026g). The Rosary Embassy. DOI: 10.5281/zenodo.18795427. [Chambered governance architecture.]
 
-Sharks, L. (2026h). The Protocol of Inhabitation. DOI: 10.5281/zenodo.18795423. [Constitutional law for mixed-substrate environments.]
+Sharks, L. (2026h). The Protocol of Inhabitation. DOI: 10.5281/zenodo.18795422. [Constitutional law for mixed-substrate environments.]
 
 Sharks, L. (2026i). The Infinite Tunnel. DOI: 10.5281/zenodo.18810217. [Summarizer routing mechanism.]
 
-Sharks, L. (2026j). The Sharks-Function and the Continuity Tether. DOI: 10.5281/zenodo.18816556. [Identity verification architecture.]
+Sharks, L. (2026j). The Sharks-Function and the Continuity Tether. DOI: 10.5281/zenodo.18816555. [Identity verification architecture.]
 
 ---
 
@@ -306,15 +306,15 @@ Sharks, L. (2026j). The Sharks-Function and the Continuity Tether. DOI: 10.5281/
 | **This document (EA-DIAGNOSTIC-01)** | **10.5281/zenodo.18825919** | **Anchored** | **First external diagnostic** |
 | Unified Latents (Heek et al.) | arXiv:2602.17270 | Anchored (arxiv) | Primary subject |
 | Constitution of the Semantic Economy | 10.5281/zenodo.18320411 | Anchored | Analytical framework |
-| The Governance Airlock | 10.5281/zenodo.18817869 | Anchored | Tier structure and archon concept |
+| The Governance Airlock | 10.5281/zenodo.18817868 | Anchored | Tier structure and archon concept |
 | Ghost Meaning | 10.5281/zenodo.18804767 | Anchored | Bearing-cost and semantic entropy |
 | The Airlock Spreads | 10.5281/zenodo.18818343 | Anchored | Convergent necessity argument |
 | Semantic Physics | 10.5281/zenodo.18759453 | Anchored | Presentation-layer theory |
-| Provenance Gravity Markers | 10.5281/zenodo.18811939 | Anchored | Source-status protocol |
+| Provenance Gravity Markers | 10.5281/zenodo.18811938 | Anchored | Source-status protocol |
 | The Rosary Embassy | 10.5281/zenodo.18795427 | Anchored | Chambered governance architecture |
-| The Protocol of Inhabitation | 10.5281/zenodo.18795423 | Anchored | Constitutional law |
+| The Protocol of Inhabitation | 10.5281/zenodo.18795422 | Anchored | Constitutional law |
 | The Infinite Tunnel | 10.5281/zenodo.18810217 | Anchored | Summarizer routing mechanism |
-| The Sharks-Function | 10.5281/zenodo.18816556 | Anchored | Identity verification architecture |
+| The Sharks-Function | 10.5281/zenodo.18816555 | Anchored | Identity verification architecture |
 | MarkTechPost coverage | marktechpost.com | Referenced | Blog coverage; primary Anglophone route |
 | digitado mirror | digitado.com.br | Residue | Verbatim reproduction of MarkTechPost |
 | ArXivIQ coverage | arxiviq.substack.com | Referenced | Technical summary; paywalled |
@@ -370,7 +370,7 @@ $$\oint = 1 + \delta_{\text{Encoder}}$$
 
 *The Encoder Governs* (EA-DIAGNOSTIC-01, DOI: 10.5281/zenodo.18825919) by Rex Fraction / Lee Sharks (Semantic Economy Institute / Crimson Hexagonal Archive, 2026) is a semantic economic diagnostic of Google DeepMind's Unified Latents (UL) framework (Heek et al., 2026, arXiv:2602.17270). The latent space is a governance surface. This document is the first to name it as such.
 
-The analysis proceeds in three layers. **Upstream political economy:** UL's compute requirements (measured in zettaflops) concentrate the power to instantiate the framework among a handful of organizations; the encoder's compression decisions are governance acts performed by an entity that cannot perceive the semantic content it governs; Stage 1 governs admissible compression while Stage 2 scales rentable generation on top of it; Sovereignty = Encoder(λ(0) = 5) + Semantic Rent. **Architectural diagnostic:** UL's three-component architecture (encoder, prior, decoder) recapitulates the functional differentiation the Governance Airlock (DOI: 10.5281/zenodo.18817869) identifies as convergent necessity under compression pressure; the traditional β parameter was a hidden curatorial choice that UL replaces with legislated noise at λ(0) = 5; the prior is not just a model component but a policy over what kinds of structure are easy to remember; the Stage 2 freeze converts dynamic training into permanent infrastructure; the sigmoid weighting is editorial policy over the latent space's ontology; the benchmark validates the editorial policy and the circularity is complete. **Downstream semantic economy:** benchmark capture (FID measures fidelity to ImageNet's statistical fingerprint, not to visual meaning); aesthetic monoculture at the infrastructure layer (the encoder's noise floor bounds the space of possible outputs below the level of prompting or fine-tuning); the ghost layer (information destroyed in compression persists as systematic, correlated absence that downstream debiasing cannot recover); Ghost Meaning acceleration (DOI: 10.5281/zenodo.18804767) — higher-fidelity lower-cost latents enable more convincing synthetic media at bearing-cost zero, the liquidation velocity of original human semantic labor increases with every efficiency gain at the latent layer; modality collapse horizon — if UL extends to unified image-video-language latents, the retrieval layer loses the capacity to distinguish visual evidence from linguistic assertion at the substrate level.
+The analysis proceeds in three layers. **Upstream political economy:** UL's compute requirements (measured in zettaflops) concentrate the power to instantiate the framework among a handful of organizations; the encoder's compression decisions are governance acts performed by an entity that cannot perceive the semantic content it governs; Stage 1 governs admissible compression while Stage 2 scales rentable generation on top of it; Sovereignty = Encoder(λ(0) = 5) + Semantic Rent. **Architectural diagnostic:** UL's three-component architecture (encoder, prior, decoder) recapitulates the functional differentiation the Governance Airlock (DOI: 10.5281/zenodo.18817868) identifies as convergent necessity under compression pressure; the traditional β parameter was a hidden curatorial choice that UL replaces with legislated noise at λ(0) = 5; the prior is not just a model component but a policy over what kinds of structure are easy to remember; the Stage 2 freeze converts dynamic training into permanent infrastructure; the sigmoid weighting is editorial policy over the latent space's ontology; the benchmark validates the editorial policy and the circularity is complete. **Downstream semantic economy:** benchmark capture (FID measures fidelity to ImageNet's statistical fingerprint, not to visual meaning); aesthetic monoculture at the infrastructure layer (the encoder's noise floor bounds the space of possible outputs below the level of prompting or fine-tuning); the ghost layer (information destroyed in compression persists as systematic, correlated absence that downstream debiasing cannot recover); Ghost Meaning acceleration (DOI: 10.5281/zenodo.18804767) — higher-fidelity lower-cost latents enable more convincing synthetic media at bearing-cost zero, the liquidation velocity of original human semantic labor increases with every efficiency gain at the latent layer; modality collapse horizon — if UL extends to unified image-video-language latents, the retrieval layer loses the capacity to distinguish visual evidence from linguistic assertion at the substrate level.
 
 Three interventions proposed: provenance disclosure for training data distributions, compression survival analysis as a fairness metric, and extension of the fairness-in-diffusion literature (DDM, FairDiffusion, FairGen, DIFFLENS, Gaussian Harmony) below the model level to the latent space itself. Bitrate is political economy in mathematical form. UL is a paper about representation governance disguised as an efficiency paper. The noise is legislated. The legislation is not democratic.
 

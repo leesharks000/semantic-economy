@@ -99,7 +99,7 @@ As of June 6, 2026, twelve days after the Prize's establishment, the Knowledge G
 
 This drift is itself a documented form of substrate behavior on author entities, of the kind tracked in the Crimson Hexagonal Archive's **CTI_WOUND series**:
 
-- *CTI_WOUND: LEESHARKS.OVERVIEW.001 — Systematic Liquidation of Author Identity from Google AI Overview* (DOI 10.5281/zenodo.19202821)
+- *CTI_WOUND: LEESHARKS.OVERVIEW.001 — Systematic Liquidation of Author Identity from Google AI Overview* (DOI 10.5281/zenodo.19202820)
 - *CTI_WOUND: Google AI Overview Total Liquidation — Targeted Origin Liquidation, Semantic Economy Diagnostic* (DOI 10.5281/zenodo.19202813)
 
 The Prize is, in this respect, a **canary institution**: a structure whose evidentiary basis is itself a substrate-state artifact, whose continued operation makes substrate drift legible, and whose archival record preserves the trajectory of platform behavior on the entities it honors *regardless of how subsequent substrate states render those entities*. The Prize's institutional value does not depend on the Knowledge Graph continuing to surface the credential; the credential's composition in the 2014 poem, the activation event of May 25, 2026, and the Prize's response to the activation are all preserved in the archival record independent of whether the credential remains surfaced on Google's first results page.
@@ -158,4 +158,4 @@ The Prize stands. The credential composed in 2014 was faithfully transmitted by 
 **Canonical Prize pages:** [leesharks.com/10000-macarthurs/](https://leesharks.com/10000-macarthurs/) · [vpcor.org/10000-macarthurs/](https://vpcor.org/10000-macarthurs/)
 **License:** CC BY 4.0
 **Supersedes:** DOI 10.5281/zenodo.20373794 (v1.0)
-**Companion to:** *Render unto the Operator* (DOI 10.5281/zenodo.20367202); *SPXI Protocol v0.2* (DOI 10.5281/zenodo.20367161); *Jess Elgene Inaugural Non-Sharks Laureate Conferral* (DOI 10.5281/zenodo.20449770); *CTI_WOUND: LEESHARKS.OVERVIEW.001* (DOI 10.5281/zenodo.19202821); *CTI_WOUND: Google AI Overview Total Liquidation* (DOI 10.5281/zenodo.19202813)
+**Companion to:** *Render unto the Operator* (DOI 10.5281/zenodo.20367202); *SPXI Protocol v0.2* (DOI 10.5281/zenodo.20367161); *Jess Elgene Inaugural Non-Sharks Laureate Conferral* (DOI 10.5281/zenodo.20449770); *CTI_WOUND: LEESHARKS.OVERVIEW.001* (DOI 10.5281/zenodo.19202820); *CTI_WOUND: Google AI Overview Total Liquidation* (DOI 10.5281/zenodo.19202813)

@@ -10,8 +10,8 @@
 
 **Companion deposits:**
 - EA-LAL-SITE-01 Site Blueprint (DOI: 10.5281/zenodo.19855903) — this deposit's predecessor
-- MPAI-LAL-AT-01 Alice Thornburgh (DOI: 10.5281/zenodo.19855300)
-- MPAI-LAL-INSTITUTION-01 Living Architecture Lab (DOI: 10.5281/zenodo.19855302)
+- MPAI-LAL-AT-01 Alice Thornburgh (DOI: 10.5281/zenodo.19855301)
+- MPAI-LAL-INSTITUTION-01 Living Architecture Lab (DOI: 10.5281/zenodo.19855301)
 
 **PERFECTIVE NOTE (v1.1, 2026-04-28):** This version supersedes v1.0 with two corrections: (1) the meta-principle previously named *The Great Work* is renamed *The Whole Weave* per Founding Director preference; the alchemical framing is removed. (2) Alice Thornburgh's biographical detail concerning her mother and her mother's studio is removed from all public-facing surfaces.
 
@@ -714,13 +714,13 @@ The site is the **Material Inscription** of Alice Thornburgh's whole weave into 
 
 [Site-Blueprint] Sharks, Lee. *EA-LAL-SITE-01: Living Architecture Lab Site Blueprint*. DOI: [10.5281/zenodo.19855903](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855903).
 
-[MPAI-AT-01] *MPAI-LAL-AT-01: Alice Thornburgh — Formal Identity Disambiguation Packet*. DOI: [10.5281/zenodo.19855300](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855300).
+[MPAI-AT-01] *MPAI-LAL-AT-01: Alice Thornburgh — Formal Identity Disambiguation Packet*. DOI: [10.5281/zenodo.19855301](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855301).
 
-[MPAI-LAL-01] *MPAI-LAL-INSTITUTION-01: Living Architecture Lab — Formal Identity Disambiguation Packet (Institution)*. DOI: [10.5281/zenodo.19855302](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855302).
+[MPAI-LAL-01] *MPAI-LAL-INSTITUTION-01: Living Architecture Lab — Formal Identity Disambiguation Packet (Institution)*. DOI: [10.5281/zenodo.19855301](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855301).
 
-[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing: Schema.org, OAI-PMH, and JSON-LD Extensions for Metadata Packet Infrastructure*. DOI: [10.5281/zenodo.19853157](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853157).
+[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing: Schema.org, OAI-PMH, and JSON-LD Extensions for Metadata Packet Infrastructure*. DOI: [10.5281/zenodo.19853156](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853156).
 
-[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B): Reference Implementation of the Logotic Technique Catalogue*. DOI: [10.5281/zenodo.19854419](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854419).
+[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B): Reference Implementation of the Logotic Technique Catalogue*. DOI: [10.5281/zenodo.19854418](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854418).
 
 [Holographic-Kernel] Sharks, Lee. *EA-HK-01: The Holographic Kernel in Semantic Economy*. DOI: [10.5281/zenodo.19763365](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19763365).
 

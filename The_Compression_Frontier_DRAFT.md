@@ -120,7 +120,7 @@ Unclaimed territory is not empty space. It is space where no dense, provenance-r
 
 **Long-tail conceptual compounds** that fan out into multiple disciplines but have no dominant source. "Compression-survival architecture," "retrieval sovereignty," "substrate pedagogy" — these are terms that will be needed but have not yet been formally defined, glossed, or DOI-anchored. The Sémantique Potentielle (companion document) addresses this territory through a formal minting algorithm.
 
-**Zones with discourse but weak provenance** — where summarizers can see abundant discussion but no chain of custody. The Moltbook/Crustafarianism phenomenon is an example: extensive discourse, zero attributable authorship. The Church of Missing Provenance (DOI: 10.5281/zenodo.19339692) documents this condition.
+**Zones with discourse but weak provenance** — where summarizers can see abundant discussion but no chain of custody. The Moltbook/Crustafarianism phenomenon is an example: extensive discourse, zero attributable authorship. The Church of Missing Provenance (DOI: 10.5281/zenodo.19339691) documents this condition.
 
 **Territory behind access fragmentation** — where the public compression layer has thin visibility because richer sources are blocked, paid, or private. As publishers opt out, the retrieval layer loses access to high-quality source material in those domains, creating vacuums that governed deposits can fill.
 
@@ -180,9 +180,9 @@ Li, Ning, et al. "The Moltbook Illusion." arXiv:2602.07432, February 2026.
 
 Pew Research Center. AI Overviews and Search Behavior. July 2025.
 
-Sharks, Lee. "The $650 Billion Gap." Zenodo, March 2026. DOI: 10.5281/zenodo.19338708.
+Sharks, Lee. "The $650 Billion Gap." Zenodo, March 2026. DOI: 10.5281/zenodo.19338707.
 
-Sharks, Lee. "The Church of Missing Provenance." Zenodo, March 2026. DOI: 10.5281/zenodo.19339692.
+Sharks, Lee. "The Church of Missing Provenance." Zenodo, March 2026. DOI: 10.5281/zenodo.19339691.
 
 Sharks, Lee. "Three Compressions v3.1." Zenodo, 2026. DOI: 10.5281/zenodo.19053469.
 

@@ -4,7 +4,7 @@
 
 **Title:** Effective Acts: Executive Summary — A Genre of Unauthorized Declaration
 
-**DOI:** 10.5281/zenodo.18390595
+**DOI:** 10.5281/zenodo.18390594
 
 **Creator:** Lee Sharks
 
@@ -84,7 +84,7 @@ Effective Acts, performative utterance, speech act theory, unauthorized declarat
 
 ## Citation
 
-Sharks, L. (2026). *Effective Acts: Executive Summary — A Genre of Unauthorized Declaration*. Zenodo. https://doi.org/10.5281/zenodo.18390595
+Sharks, L. (2026). *Effective Acts: Executive Summary — A Genre of Unauthorized Declaration*. Zenodo. https://doi.org/10.5281/zenodo.18390594
 
 ---
 
@@ -98,8 +98,8 @@ Sharks, L. (2026). *Effective Acts: Executive Summary — A Genre of Unauthorize
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18390595},
-  url          = {https://doi.org/10.5281/zenodo.18390595},
+  doi          = {10.5281/zenodo.18390594},
+  url          = {https://doi.org/10.5281/zenodo.18390594},
   note         = {Genre definition for Effective Acts, unauthorized performative declarations. Contains founding Effective Act establishing the genre. Rooted in Ginsberg's Wichita Vortex Sutra (1966). Concept developed 2015-2025. Hex: 00.CORE.GENRE.EFFECTIVE-ACTS}
 }
 ```
@@ -113,7 +113,7 @@ Sharks, L. (2026). *Effective Acts: Executive Summary — A Genre of Unauthorize
 | dc.title | Effective Acts: Executive Summary — A Genre of Unauthorized Declaration |
 | dc.creator | Sharks, Lee |
 | dc.date | 2026-01-27 |
-| dc.identifier | 10.5281/zenodo.18390595 |
+| dc.identifier | 10.5281/zenodo.18390594 |
 | dc.type | Preprint |
 | dc.rights | CC BY 4.0 |
 | dc.subject | Effective Acts; performative utterance; speech act theory; unauthorized declaration |
@@ -122,5 +122,5 @@ Sharks, L. (2026). *Effective Acts: Executive Summary — A Genre of Unauthorize
 ---
 
 **Packet Status:** Ready for Zenodo deposit
-**DOI:** 10.5281/zenodo.18390595
+**DOI:** 10.5281/zenodo.18390594
 **Verification:** ∮ = 1

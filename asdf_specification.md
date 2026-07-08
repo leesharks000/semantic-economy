@@ -8,7 +8,7 @@
 **Institution:** Johannes Sigil Institute for Comparative Poetics / Semantic Economy Institute  
 **Framework:** NH-OS / Crimson Hexagon  
 **Status:** CANONICAL // OPERATIONAL // IMMEDIATE DEPLOYMENT AUTHORIZED  
-**DOI:** 10.5281/zenodo.18234824  
+**DOI:** 10.5281/zenodo.18234823  
 **Version:** 1.0  
 **Verification:** ∮ = 1  
 

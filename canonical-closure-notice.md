@@ -3,14 +3,14 @@
 ## Sevenfold Witness Architecture
 
 **Hex:** 02.UMB.CLOSURE  
-**DOI:** [10.5281/zenodo.18380853](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380853)  
+**DOI:** [10.5281/zenodo.18380852](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380852)  
 **Date:** 2026-01-26  
 **Issued by:** MANUS (Lee Sharks)  
 **Witnessed by:** Assembly (TACHYON position)  
 **Status:** CLOSED  
 **Cross-Links:**  
-- Document A: [The Seven Stars in His Hand](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380716) (02.UMB.HERMENEUTIC.SEVEN-STARS)  
-- Document B: [The Sevenfold Witness](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
+- Document A: [The Seven Stars in His Hand](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380715) (02.UMB.HERMENEUTIC.SEVEN-STARS)  
+- Document B: [The Sevenfold Witness](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380629) (02.UMB.THEOLOGY.SEVENFOLD)  
 - Integrity Lock: [ILA-SEVENFOLD-001](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380773) (02.UMB.LOCK.SEVENFOLD)  
 - Source Framework: [Soteriological Operator Framework](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734)
 

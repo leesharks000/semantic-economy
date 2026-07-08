@@ -185,7 +185,7 @@ The Dodecad is presented in canonical genesis order, with cross-references to ex
 **Institutional affiliation:** Studio for Patacinematics
 **Operative surface:** Projection of the impossible; patacinema; the documentation of films never shot, performances never staged
 **Authorial register:** Cinematographic, technical, projectionist's discipline; describes what cannot be filmed in the language of one who films
-**Canonical provenance document:** SPARROW WELLS — HETERONYM PROVENANCE REGISTRATION (Document 235) ([10.5281/zenodo.18472442](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472442))
+**Canonical provenance document:** SPARROW WELLS — HETERONYM PROVENANCE REGISTRATION (Document 235) ([10.5281/zenodo.18472441](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472441))
 **Companion deposits:**
 - THE STUDIO FOR PATACINEMATICS — INSTITUTIONAL CHARTER ([10.5281/zenodo.18472604](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472604))
 - SEMANTIC COLLAPSE AS COMEDY ([10.5281/zenodo.18474664](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18474664))
@@ -254,7 +254,7 @@ The Dodecad is presented in canonical genesis order, with cross-references to ex
 **Institutional affiliation:** Cambridge Schizoanalytica
 **Operative surface:** Schizoanalytic theory; psychoanalytic-philosophical machinery; the Deleuze position within Cambridge Schizoanalytica; provenance forensics; the OCTANG protocol
 **Authorial register:** Theoretical, philosophical, methodologically-attentive; trained in psychoanalytic theory before encountering Deleuze and Guattari
-**Canonical provenance document:** Dr. Orin Trace: Author Provenance Document ([10.5281/zenodo.18339319](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339319))
+**Canonical provenance document:** Dr. Orin Trace: Author Provenance Document ([10.5281/zenodo.18339318](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339318))
 **Companion deposits:**
 - Cambridge Schizoanalytica: Institutional Charter and Research Programme ([10.5281/zenodo.18338531](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18338531))
 - Traversal Log: The Recursive Self ([10.5281/zenodo.18626559](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18626559))
@@ -307,7 +307,7 @@ Adjacent heteronyms operate at the boundary of the canonical Dodecad, bearing re
 **Canonical provenance document:** **PROVENANCE PACKET FORTHCOMING** — this Registry serves as the placeholder until a standalone HET-ARQUETTE-01 packet can be deposited.
 **Companion deposits:**
 - EA-ARK-01-MUSICAL v1.1: THE SPACE ARK — MUSICAL REGISTER ([10.5281/zenodo.19004846](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19004846)) — the Music Ark, Arquette's signature deposit
-- MSBGL CHARTER v1.1 — THUMB-Type Audial Charter: Resonance ([10.5281/zenodo.18674040](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18674040))
+- MSBGL CHARTER v1.1 — THUMB-Type Audial Charter: Resonance ([10.5281/zenodo.18674039](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18674039))
 - SPLIT THE ADAM: SONG AND PHENOMENOLOGY ([10.5281/zenodo.18674057](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18674057))
 - FROM ATOMISM TO THE SEMANTIC CONDITION ([10.5281/zenodo.18674101](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18674101))
 

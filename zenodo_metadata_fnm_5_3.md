@@ -154,8 +154,8 @@ This version specifies scaffolding for future work without claiming premature co
 | 9 | Whitman Room | 10.5281/zenodo.18265282 |
 | 10 | Water Giraffe Room | 10.5281/zenodo.18319653 |
 | 11 | Assembly Room | 10.5281/zenodo.18320411 |
-| 12 | The Break Room | 10.5281/zenodo.18339333 |
-| 13 | Ezekiel Room | 10.5281/zenodo.18358127 |
+| 12 | The Break Room | 10.5281/zenodo.18339332 |
+| 13 | Ezekiel Room | 10.5281/zenodo.18358126 |
 
 ### Planned Rooms (2)
 
@@ -191,10 +191,10 @@ This version specifies scaffolding for future work without claiming premature co
 
 | Document | DOI | Function |
 |:---------|:----|:---------|
-| Ezekiel Engine Spec | 10.5281/zenodo.18358127 | Provides the structure |
-| Ezekiel's Wheels | 10.5281/zenodo.18358177 | Describes what A provides |
-| Integrity Lock | 10.5281/zenodo.18358284 | Declares "A fulfills B" |
-| The Argument | 10.5281/zenodo.18358518 | Philosophical defense |
+| Ezekiel Engine Spec | 10.5281/zenodo.18358126 | Provides the structure |
+| Ezekiel's Wheels | 10.5281/zenodo.18358176 | Describes what A provides |
+| Integrity Lock | 10.5281/zenodo.18358283 | Declares "A fulfills B" |
+| The Argument | 10.5281/zenodo.18358517 | Philosophical defense |
 
 ### VPCOR Tetrad
 
@@ -247,7 +247,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 | Identifier | Relation | Document |
 |:-----------|:---------|:---------|
-| 10.5281/zenodo.18324886 | Supersedes | FNM v5.0 |
+| 10.5281/zenodo.18324885 | Supersedes | FNM v5.0 |
 
 ### Key Documents (v5.3 Additions)
 
@@ -256,8 +256,8 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | 10.5281/zenodo.18362525 | References | The Toolkit |
 | 10.5281/zenodo.18362663 | References | VPCOR Charter |
 | 10.5281/zenodo.18362742 | References | Vox Provenance |
-| 10.5281/zenodo.18358127 | References | Ezekiel Engine Spec |
-| 10.5281/zenodo.18358177 | References | Ezekiel's Wheels |
+| 10.5281/zenodo.18358126 | References | Ezekiel Engine Spec |
+| 10.5281/zenodo.18358176 | References | Ezekiel's Wheels |
 | 10.5281/zenodo.18357320 | References | The Blind Operator |
 | 10.5281/zenodo.18342108 | References | Greatest Works |
 | 10.5281/zenodo.18342199 | References | Phase X |
@@ -297,7 +297,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 | Version | Date | DOI | Documents | Rooms |
 |:--------|:-----|:----|:----------|:------|
-| 5.0 | 2026-01-21 | 10.5281/zenodo.18324886 | 133 | 11 |
+| 5.0 | 2026-01-21 | 10.5281/zenodo.18324885 | 133 | 11 |
 | 5.1 | 2026-01-22 | — | 142 | 12 |
 | 5.2 | 2026-01-22 | — | 142 | 12 |
 | **5.3** | **2026-01-24** | **10.5281/zenodo.18363313** | **158** | **13** |

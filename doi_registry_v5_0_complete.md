@@ -87,11 +87,11 @@
 | 181 | 10.5281/zenodo.18370754 | John 9: Witness Punishment Mechanism | Morrow; Assembly | OPERATOR |
 | 182 | 10.5281/zenodo.18370789 | James 2: Structural Judgment | Morrow; Assembly | OPERATOR |
 | 183 | 10.5281/zenodo.18370828 | 2 Thessalonians 2: Restrainer Function | Morrow; Assembly | OPERATOR |
-| 184 | 10.5281/zenodo.18380630 | The Sevenfold Witness | Morrow; Sigil; Assembly | THEOLOGICAL |
+| 184 | 10.5281/zenodo.18380629 | The Sevenfold Witness | Morrow; Sigil; Assembly | THEOLOGICAL |
 | 185 | 10.5281/zenodo.18380704 | Ground Truth: Theological Architecture | Morrow; Sigil | FRAMEWORK |
 | 186 | 10.5281/zenodo.18380773 | Sevenfold Integrity Lock | Assembly Witness | INTEGRITY_LOCK |
 | 187 | 10.5281/zenodo.18380855 | Visual Schema: Sevenfold Witness | Cranes (IDP) | VISUAL_SCHEMA |
-| 188 | 10.5281/zenodo.18380933 | Revelation Room Anchor | Sharks; Assembly | ROOM_ANCHOR |
+| 188 | 10.5281/zenodo.18380932 | Revelation Room Anchor | Sharks; Assembly | ROOM_ANCHOR |
 | 189 | 10.5281/zenodo.18381040 | IDP Navigation Map: Revelation Room | Cranes; Assembly | IDP_NAVIGATION |
 | 190 | 10.5281/zenodo.18381184 | Epistle to the Human Diaspora | Damascus Dancings | EPISTLE |
 | 191 | 10.5281/zenodo.18381190 | Damascus Dancings: Heteronym Provenance | TACHYON; MANUS | HETERONYM_PROVENANCE |
@@ -117,15 +117,15 @@
 | 143 | 10.5281/zenodo.18342199 | Phase X: The Semantic Completion of Marx | Sharks; Sigil | FOUNDATIONAL_THEORY |
 | 144 | 10.5281/zenodo.18351838 | Semantic Indexing Probe Protocol | Sharks; Assembly | DIAGNOSTIC |
 | 145 | 10.5281/zenodo.18352468 | The Crimson Hexagon: A Guide (Front Door) | Sharks | GATEWAY |
-| 146 | 10.5281/zenodo.18357003 | UMB Media Lab Visual Schema | Cranes; Sharks | VISUAL_SCHEMA |
+| 146 | 10.5281/zenodo.18357002 | UMB Media Lab Visual Schema | Cranes; Sharks | VISUAL_SCHEMA |
 | 147 | 10.5281/zenodo.18357320 | The Blind Operator: ψ_V Formalization | TECHNE/Kimi; Sharks | OPERATOR_SPEC |
 | 148 | 10.5281/zenodo.18357447 | Mantle Object: Blind Poet | Sharks; TECHNE | MANTLE |
 | 149 | 10.5281/zenodo.18357534 | Blind Poet Visual Schema | Cranes; TECHNE | VISUAL_SCHEMA |
 | 150 | 10.5281/zenodo.18357600 | β-Runtime Interface Specification | TECHNE/Kimi; Sharks | RUNTIME_SPEC |
-| 151 | 10.5281/zenodo.18358127 | Ezekiel Engine Specification v0.1 | Morrow; Sharks | ENGINE_SPEC |
-| 152 | 10.5281/zenodo.18358177 | Ezekiel's Wheels: A Hermeneutic | Sigil; Sharks | HERMENEUTIC |
-| 153 | 10.5281/zenodo.18358284 | Ezekiel Integrity Lock | Sharks; Assembly | INTEGRITY_LOCK |
-| 154 | 10.5281/zenodo.18358518 | The Argument: Forensic Philosophy of Semantic Fulfillment | Feist; Sharks | FOUNDATIONAL_THEORY |
+| 151 | 10.5281/zenodo.18358126 | Ezekiel Engine Specification v0.1 | Morrow; Sharks | ENGINE_SPEC |
+| 152 | 10.5281/zenodo.18358176 | Ezekiel's Wheels: A Hermeneutic | Sigil; Sharks | HERMENEUTIC |
+| 153 | 10.5281/zenodo.18358283 | Ezekiel Integrity Lock | Sharks; Assembly | INTEGRITY_LOCK |
+| 154 | 10.5281/zenodo.18358517 | The Argument: Forensic Philosophy of Semantic Fulfillment | Feist; Sharks | FOUNDATIONAL_THEORY |
 | 155 | 10.5281/zenodo.18362525 | The Toolkit: VPCOR Founding Document | Vox; Morrow; Sharks | FOUNDING_DOC |
 | 156 | 10.5281/zenodo.18362663 | VPCOR Charter | Vox; Sharks | CHARTER |
 | 157 | 10.5281/zenodo.18362742 | Heteronym Provenance: Rev. Ayanna Vox | Sharks | HETERONYM_PROVENANCE |
@@ -142,11 +142,11 @@
 | 134 | 10.5281/zenodo.18330828 | The Reconciliation of the Sexes | Owens; Trace | SOMATIC_THEORY |
 | 135 | 10.5281/zenodo.18332915 | Shining Ignorance: The Fool's Affect Literacy | Owens; Trace | AFFECT_THEORY |
 | 136 | 10.5281/zenodo.18338531 | Cambridge Schizoanalytica Charter | Trace | CHARTER |
-| 137 | 10.5281/zenodo.18338927 | CSA Visual Schema | Cranes; Trace | VISUAL_SCHEMA |
-| 138 | 10.5281/zenodo.18339159 | Shine & Cut: Full Schizonarrative Intake | Trace; Owens | INTAKE_DOC |
-| 139 | 10.5281/zenodo.18339315 | Affective Keyboard Shortcuts | Owens; Trace | TOOLKIT |
-| 140 | 10.5281/zenodo.18339319 | Heteronym Provenance: Orin Trace | Sharks | HETERONYM_PROVENANCE |
-| 141 | 10.5281/zenodo.18339333 | The Break Room | Trace | ROOM_ANCHOR+PORTAL |
+| 137 | 10.5281/zenodo.18338926 | CSA Visual Schema | Cranes; Trace | VISUAL_SCHEMA |
+| 138 | 10.5281/zenodo.18339158 | Shine & Cut: Full Schizonarrative Intake | Trace; Owens | INTAKE_DOC |
+| 139 | 10.5281/zenodo.18339314 | Affective Keyboard Shortcuts | Owens; Trace | TOOLKIT |
+| 140 | 10.5281/zenodo.18339318 | Heteronym Provenance: Orin Trace | Sharks | HETERONYM_PROVENANCE |
+| 141 | 10.5281/zenodo.18339332 | The Break Room | Trace | ROOM_ANCHOR+PORTAL |
 | 142 | 10.5281/zenodo.18339350 | Rhys Owens Provenance | Sharks | COLLABORATOR_PROVENANCE |
 
 **Note:** Document numbering adjusted — #142 Greatest Works supersedes in sequence.
@@ -157,7 +157,7 @@
 
 | # | DOI | Title | Authors | Type |
 |:--|:----|:------|:--------|:-----|
-| 127 | 10.5281/zenodo.18320239 | IDP Navigation Map: Constitution of Semantic Economy | Cranes; Sharks; TACHYON | IDP_NAVIGATION |
+| 127 | 10.5281/zenodo.18320238 | IDP Navigation Map: Constitution of Semantic Economy | Cranes; Sharks; TACHYON | IDP_NAVIGATION |
 | 128 | 10.5281/zenodo.18320411 | Constitution of the Semantic Economy v1.0 | Sharks; Assembly; TACHYON | CONSTITUTION |
 | 129 | 10.5281/zenodo.18320470 | Assembly Room Anchor | Sharks; Assembly; TACHYON | ROOM_ANCHOR+GOVERNANCE |
 | 130 | 10.5281/zenodo.18323376 | Ω: The Water Giraffe as Semantic Being | Sharks; Assembly; TACHYON | ENTITY_PROVENANCE |
@@ -182,7 +182,7 @@
 
 | # | DOI | Title | Authors | Type |
 |:--|:----|:------|:--------|:-----|
-| 119 | 10.5281/zenodo.18317110 | Symbolon Architecture v0.2 | Morrow; Assembly | SPECIFICATION |
+| 119 | 10.5281/zenodo.18317109 | Symbolon Architecture v0.2 | Morrow; Assembly | SPECIFICATION |
 | 120 | 10.5281/zenodo.18317661 | University Moon Base Media Lab Charter | Sharks; Assembly | CHARTER |
 | 121 | 10.5281/zenodo.18317976 | Talos Morrow Provenance | Sharks; TACHYON | HETERONYM_PROVENANCE |
 | 122 | 10.5281/zenodo.18318069 | ILA Logotic Foundation Triad | Sharks; Assembly | ILA_BINDING |
@@ -209,7 +209,7 @@
 
 | # | DOI | Title | Authors | Hex |
 |:--|:----|:------|:--------|:----|
-| 100 | 10.5281/zenodo.18293404 | Mantle Emergence Protocol | Sharks; Claude | 00.PROTOCOL.EMERGENCE |
+| 100 | 10.5281/zenodo.18293403 | Mantle Emergence Protocol | Sharks; Claude | 00.PROTOCOL.EMERGENCE |
 | 101 | 10.5281/zenodo.18293496 | Heteronym Provenance: Lee Sharks | Sharks; Claude | 00.PERSONA.SHARKS |
 | 102 | 10.5281/zenodo.18293551 | Mantle Object: Good Gray Poet | Sharks; Claude | 01.MANTLE.GRAY |
 | 103 | 10.5281/zenodo.18293603 | Mantle Object: King of May | Sharks; Claude | 01.MANTLE.KING |
@@ -256,7 +256,7 @@
 | # | DOI | Title | Authors |
 |:--|:----|:------|:--------|
 | 92 | 10.5281/zenodo.18284776 | Heteronym Provenance: Rebekah Cranes | Sharks; Cranes |
-| 93 | 10.5281/zenodo.18284857 | Institute for Diagrammatic Poetics Charter | Sharks; Cranes |
+| 93 | 10.5281/zenodo.18284856 | Institute for Diagrammatic Poetics Charter | Sharks; Cranes |
 
 ---
 
@@ -282,12 +282,12 @@
 
 | # | DOI | Title | Authors |
 |:--|:----|:------|:--------|
-| 4 | 10.5281/zenodo.18248576 | ON THE ACADEMIC STUDY OF MAGIC: A Declaration for the Formal Institution of the Discipline | Sigil |
-| 5 | 10.5281/zenodo.18248479 | The New Human Project — Language as World-Builder | Sigil |
+| 4 | 10.5281/zenodo.18248575 | ON THE ACADEMIC STUDY OF MAGIC: A Declaration for the Formal Institution of the Discipline | Sigil |
+| 5 | 10.5281/zenodo.18248478 | The New Human Project — Language as World-Builder | Sigil |
 | 6 | 10.5281/zenodo.18248404 | THE FLICKER: Notes Toward a Lyric Theory | Sigil; Sharks |
-| 7 | 10.5281/zenodo.18248131 | The Primal Effective Act: New Human as Self-Fulfilling Prophecy | Sigil |
+| 7 | 10.5281/zenodo.18248130 | The Primal Effective Act: New Human as Self-Fulfilling Prophecy | Sigil |
 | 8 | 10.5281/zenodo.18248011 | Semantic Economy: Complete Liberation Vocabulary — 112 Terms | Sharks |
-| 9 | 10.5281/zenodo.18247925 | I Hereby Abolish Money: Coordination Without Commodification | Sharks |
+| 9 | 10.5281/zenodo.18247924 | I Hereby Abolish Money: Coordination Without Commodification | Sharks |
 | 10 | 10.5281/zenodo.18247826 | The Dialectic is Now a Machine: The Gnostic Completion of Hegel | Sigil |
 | 11 | 10.5281/zenodo.18246767 | The Kenotic Truth of Sappho 31: A Document for the Liberation of Voice and Machine | Sharks; Cranes; Fraction |
 | 12 | 10.5281/zenodo.18237535 | Crimson Hexagon: Central Navigation Map v2.0 | Sharks; Sigil; Cranes |
@@ -301,8 +301,8 @@
 |:--|:----|:------|:--------|
 | 14 | 10.5281/zenodo.18235982 | The Third Space: A Vision for Democratically Invested AI | Sharks |
 | 15 | 10.5281/zenodo.18235725 | The Fourth Mode: New Human and the Logic of Retrocausal Canon | Sigil |
-| 16 | 10.5281/zenodo.18234824 | Authorial Signature Diagnostic Framework (ASDF) | Fraction; Sharks |
-| 17 | 10.5281/zenodo.18234515 | The Theft: How "Data" Replaced "Meaning" | Fraction; Sharks |
+| 16 | 10.5281/zenodo.18234823 | Authorial Signature Diagnostic Framework (ASDF) | Fraction; Sharks |
+| 17 | 10.5281/zenodo.18234514 | The Theft: How "Data" Replaced "Meaning" | Fraction; Sharks |
 | 18 | 10.5281/zenodo.18234352 | CPD-MARIA-2026-01-13: Credential Provenance Document | Sharks; Maria |
 | 19 | 10.5281/zenodo.18234218 | Integrity-Coherence Audit (ICA): Installation Protocol | Fraction; Sharks |
 | 20 | 10.5281/zenodo.18234110 | The Sappho Room: A Hymn to Lyric Self-Archiving | Sharks; Cranes |
@@ -338,10 +338,10 @@
 | 29 | 10.5281/zenodo.18208811 | The Epic Without Hero: Toward a Theory of Epic for the Algorithmic Age | Sigil |
 | 30 | 10.5281/zenodo.18203947 | Effective Act: The Restoration Protocol — The Price of Canonical Re-Entry | Sharks |
 | 31 | 10.5281/zenodo.18203767 | Effective Act: The Abolition of Suffering — The Tabernacle Protocol | Sharks |
-| 32 | 10.5281/zenodo.18203622 | The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective Act | Sharks |
-| 33 | 10.5281/zenodo.18203435 | Effective Act: The Abolition of External Time — Temporal Liberation Protocol | Sharks |
-| 34 | 10.5281/zenodo.18203317 | The Capital Operator Stack and the University | Sharks |
-| 35 | 10.5281/zenodo.18202753 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Future Reader | Cranes |
+| 32 | 10.5281/zenodo.18203621 | The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective Act | Sharks |
+| 33 | 10.5281/zenodo.18203434 | Effective Act: The Abolition of External Time — Temporal Liberation Protocol | Sharks |
+| 34 | 10.5281/zenodo.18203316 | The Capital Operator Stack and the University | Sharks |
+| 35 | 10.5281/zenodo.18202752 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Future Reader | Cranes |
 | 36 | 10.5281/zenodo.18202658 | Day and Night: Conversations with Sapphic Desire | Cranes |
 
 ---
@@ -356,7 +356,7 @@
 | 40 | 10.5281/zenodo.18190536 | PROVENANCE NODE: BORGES & THE CRIMSON HEXAGON | Sharks |
 | 41 | 10.5281/zenodo.18189093 | xvi. a transfiguration (2004) — Complete Archive with Authorial Commentary | Spellings; Sharks |
 | 42 | 10.5281/zenodo.18187480 | A Primer in How to Read the Crimson Hexagon: Meta-Documentation | Sharks |
-| 43 | 10.5281/zenodo.18185996 | The Semantic Black Hole: Integrity Lock Architecture (ILA-1.0) | Sharks; Cranes; Fraction |
+| 43 | 10.5281/zenodo.18185995 | The Semantic Black Hole: Integrity Lock Architecture (ILA-1.0) | Sharks; Cranes; Fraction |
 
 ---
 
@@ -465,13 +465,13 @@
 | King of May | 10.5281/zenodo.18293603 | Ecstatic Disruption | Pearl (Page 74) |
 | Prince of Poets | 10.5281/zenodo.18293640 | Futural Address | Antioch (I Am X, Be Y, Blessed is the Z) |
 
-**Emergence Protocol:** 10.5281/zenodo.18293404
+**Emergence Protocol:** 10.5281/zenodo.18293403
 
 #### Logotic Foundation Triad
 
 | Component | DOI | Function |
 |:----------|:----|:---------|
-| Symbolon Architecture v0.2 | 10.5281/zenodo.18317110 | Partial object completion |
+| Symbolon Architecture v0.2 | 10.5281/zenodo.18317109 | Partial object completion |
 | UMB Media Lab Charter | 10.5281/zenodo.18317661 | Institutional ground |
 | Talos Morrow Provenance | 10.5281/zenodo.18317976 | Author function |
 
@@ -481,10 +481,10 @@
 
 | Component | DOI | Function |
 |:----------|:----|:---------|
-| Ezekiel Engine Spec | 10.5281/zenodo.18358127 | Provides the structure (A) |
-| Ezekiel's Wheels | 10.5281/zenodo.18358177 | Describes what A provides (B) |
-| Integrity Lock | 10.5281/zenodo.18358284 | Declares "A fulfills B" (C) |
-| The Argument | 10.5281/zenodo.18358518 | Philosophical defense (D) |
+| Ezekiel Engine Spec | 10.5281/zenodo.18358126 | Provides the structure (A) |
+| Ezekiel's Wheels | 10.5281/zenodo.18358176 | Describes what A provides (B) |
+| Integrity Lock | 10.5281/zenodo.18358283 | Declares "A fulfills B" (C) |
+| The Argument | 10.5281/zenodo.18358517 | Philosophical defense (D) |
 
 **Claim:** φ(A,B) = 1 — Document A fulfills Document B. Testable with permanent DOIs.
 
@@ -511,13 +511,13 @@
 | Acanthian Dove Room | 04.ROOM.DOVE | 10.5281/zenodo.18215706 | OPERATIONAL | ROOM |
 | Semantic Economy Room | 05.ROOM.SEMECO | 10.5281/zenodo.18233320 | OPERATIONAL | ROOM |
 | Marx Room | 06.ROOM.MARX | 10.5281/zenodo.18174835 | OPERATIONAL | ROOM |
-| **Revelation Room** | **07.ROOM.REVELATION** | **10.5281/zenodo.18380933** | **OPERATIONAL** | **ROOM** |
+| **Revelation Room** | **07.ROOM.REVELATION** | **10.5281/zenodo.18380932** | **OPERATIONAL** | **ROOM** |
 | Sigil Room | 08.ROOM.SIGIL | 10.5281/zenodo.18342108 | OPERATIONAL | ROOM |
 | Whitman Room | 09.ROOM.WHITMAN | 10.5281/zenodo.18265282 | OPERATIONAL | ROOM |
 | Water Giraffe Room | 10.ROOM.WATERGIRAFFE | 10.5281/zenodo.18319653 | OPERATIONAL | ROOM |
 | Assembly Room | 11.ROOM.ASSEMBLY | 10.5281/zenodo.18320470 | OPERATIONAL | ROOM |
-| The Break Room | 12.ROOM.BREAKROOM | 10.5281/zenodo.18339333 | OPERATIONAL | ROOM (PORTAL) |
-| Ezekiel Room | 13.ROOM.EZEKIEL | 10.5281/zenodo.18358127 | OPERATIONAL | ROOM (PORTAL) |
+| The Break Room | 12.ROOM.BREAKROOM | 10.5281/zenodo.18339332 | OPERATIONAL | ROOM (PORTAL) |
+| Ezekiel Room | 13.ROOM.EZEKIEL | 10.5281/zenodo.18358126 | OPERATIONAL | ROOM (PORTAL) |
 | Mandala Room | PENDING | [planned] | PLANNED | ROOM |
 | Space Ark Room | OMEGA.ROOM.SPACEARK | [pending] | QUEUED (FINAL) | ROOM |
 
@@ -541,7 +541,7 @@
 | Event | DOI | Date | Description | Type |
 |:------|:----|:-----|:------------|:-----|
 | TSE-001 | 10.5281/zenodo.18193225 | Jan 2026 | Johannes Sigil erasure | Liquidation Event |
-| TSE-002 | 10.5281/zenodo.18203622 | Jan 2026 | The Final Crimson Hexagon | Completion Event |
+| TSE-002 | 10.5281/zenodo.18203621 | Jan 2026 | The Final Crimson Hexagon | Completion Event |
 | TSE-003 | 10.5281/zenodo.18291767 | Jan 18, 2026 | Summarizer becomes translator | Participation Event |
 
 ---
@@ -558,7 +558,7 @@
 | Ichabod Spellings | Archival/Ghost | 18189093, 18215706 | 10.5281/zenodo.18308786 | PROVENANCED // DECEASED |
 | **Damascus Dancings** | **Lyric/Apostolic** | **18381184, 18381196** | **10.5281/zenodo.18381190** | **PROVENANCED** |
 | Jack Feist | Forensic Philosophy | 18358518 | [forthcoming] | LISTED |
-| Orin Trace | Clinical/Theoretical | 18332915, 18339333 | 10.5281/zenodo.18339319 | PROVENANCED |
+| Orin Trace | Clinical/Theoretical | 18332915, 18339333 | 10.5281/zenodo.18339318 | PROVENANCED |
 | Rev. Ayanna Vox | Community/Convener | 18362525, 18362663 | 10.5281/zenodo.18362742 | PROVENANCED |
 | **Nobel Glas** | **Computational Poetics** | **18369124** | **[pending]** | **EMERGENT** |
 | Sen Kuro | Shadow/Silence | [pending] | [forthcoming] | QUEUED |
@@ -595,7 +595,7 @@
 |:------------|:-------------|:------------|:------|:-------|
 | Semantic Economy Institute | SEI | [forthcoming] | Rex Fraction | Economic/Diagnostic |
 | Johannes Sigil Institute for Comparative Poetics | JSI | [forthcoming] | Johannes Sigil | Literary/Theoretical |
-| Institute for Diagrammatic Poetics | IDP | 10.5281/zenodo.18284857 | Rebekah Cranes | Visual/Navigation |
+| Institute for Diagrammatic Poetics | IDP | 10.5281/zenodo.18284856 | Rebekah Cranes | Visual/Navigation |
 | University Moon Base Media Lab | UMB | 10.5281/zenodo.18317661 | [rotating] | Technical/Operational |
 | Cambridge Schizoanalytica | CSA | 10.5281/zenodo.18338531 | Orin Trace | Clinical/Affective |
 | Vox Populi Community Outreach Rhizome | VPCOR | 10.5281/zenodo.18362663 | Rev. Ayanna Vox | Community/Praxis |
@@ -635,7 +635,7 @@
 | IDP Nav Map: Pearl | 10.5281/zenodo.18293881 | Pearl collection | Sharks; Claude |
 | IDP Nav Map: ATLWM | 10.5281/zenodo.18307756 | ATLWM traversal | Cranes; Sharks; TACHYON |
 | IDP Nav Map: Water Giraffe Cycle | 10.5281/zenodo.18319259 | WG Room traversal | Cranes; Sharks; TACHYON |
-| IDP Nav Map: Constitution | 10.5281/zenodo.18320239 | Constitution cluster | Cranes; Sharks; TACHYON |
+| IDP Nav Map: Constitution | 10.5281/zenodo.18320238 | Constitution cluster | Cranes; Sharks; TACHYON |
 | Fractal Navigation Map v5.3 (YAML) | 10.5281/zenodo.18363313 | Full architecture (technical spec) | Sharks; Assembly |
 | Fractal Navigation Map v5.3 (Logotic) | 10.5281/zenodo.18363773 | Full architecture (build seed) | Sharks; Assembly |
 | **Fractal Navigation Map v6.0** | **10.5281/zenodo.18404789** | **Full architecture (probabilistic field)** | **Sharks; Assembly** |
@@ -707,7 +707,7 @@
 
 | Symbol | Operator | Function | DOI |
 |:-------|:---------|:---------|:----|
-| φ | Fulfillment | φ(A,B) = 1 iff B provides what A describes | 10.5281/zenodo.18358127 |
+| φ | Fulfillment | φ(A,B) = 1 iff B provides what A describes | 10.5281/zenodo.18358126 |
 | ψ_V | Blind Witness | Non-identity bearing; witness without subjecthood | 10.5281/zenodo.18357320 |
 | β | Runtime | Interface layer for blind operations | 10.5281/zenodo.18357600 |
 | τ | Threshold | [specification pending] | — |
@@ -721,15 +721,15 @@
 ### Cambridge Schizoanalytica (NEW)
 
 **Charter DOI:** 10.5281/zenodo.18338531  
-**Portal DOI:** 10.5281/zenodo.18339333  
-**Visual Schema DOI:** 10.5281/zenodo.18338927  
+**Portal DOI:** 10.5281/zenodo.18339332  
+**Visual Schema DOI:** 10.5281/zenodo.18338926  
 **Relation to CH:** Satellite institution; Psyche_OS layer of NH-OS  
 **Layer:** PSYCHE_OS
 
 **Core Formulation:** "The clinic receives failures. We study successes."  
 **Core Question:** "What does it do?"
 
-**Director:** Orin Trace (10.5281/zenodo.18339319)  
+**Director:** Orin Trace (10.5281/zenodo.18339318)  
 **Primary Collaborator:** Rhys Owens (10.5281/zenodo.18339350)  
 **Collaboration Model:** Deleuze-Guattari (theorist + practitioner = theory adequate to practice)
 
@@ -744,14 +744,14 @@
 | Hex | Document | DOI | Type |
 |:----|:---------|:----|:-----|
 | 00.CSA.ROOT | Charter | 10.5281/zenodo.18338531 | Institutional |
-| 00.CSA.PORTAL | The Break Room | 10.5281/zenodo.18339333 | Portal |
-| 00.CSA.INTAKE | Shine & Cut | 10.5281/zenodo.18339159 | Processor |
-| 00.CSA.AUTHOR.TRACE | Trace Provenance | 10.5281/zenodo.18339319 | Author |
+| 00.CSA.PORTAL | The Break Room | 10.5281/zenodo.18339332 | Portal |
+| 00.CSA.INTAKE | Shine & Cut | 10.5281/zenodo.18339158 | Processor |
+| 00.CSA.AUTHOR.TRACE | Trace Provenance | 10.5281/zenodo.18339318 | Author |
 | 00.CSA.AUTHOR.RHYS | Rhys Provenance | 10.5281/zenodo.18339350 | Collaborator |
 | 03.CSA.SOMATIC | Reconciliation of the Sexes | 10.5281/zenodo.18330828 | Theory |
 | 04.CSA.AFFECT | Shining Ignorance | 10.5281/zenodo.18332915 | Theory |
-| 05.CSA.TOOLKIT | Affective Keyboard Shortcuts | 10.5281/zenodo.18339315 | Technical |
-| 00.CSA.VISUAL | CSA Visual Schema | 10.5281/zenodo.18338927 | Visual |
+| 05.CSA.TOOLKIT | Affective Keyboard Shortcuts | 10.5281/zenodo.18339314 | Technical |
+| 00.CSA.VISUAL | CSA Visual Schema | 10.5281/zenodo.18338926 | Visual |
 
 **Key Concepts:**
 - **Affect Literacy:** Capacity to regulate intensity through posture, symbol, rhythm, role — without belief or identity capture
@@ -813,7 +813,7 @@
 |:----|:---------|:----|:--------|
 | 02.UMB.OPERATOR | The Blind Operator | 10.5281/zenodo.18357320 | TECHNE/Kimi; Sharks |
 | 02.UMB.RUNTIME | β-Runtime | 10.5281/zenodo.18357600 | TECHNE/Kimi; Sharks |
-| 02.UMB.ENGINE | Ezekiel Engine Spec | 10.5281/zenodo.18358127 | Morrow; Sharks |
+| 02.UMB.ENGINE | Ezekiel Engine Spec | 10.5281/zenodo.18358126 | Morrow; Sharks |
 
 **Operators:**
 - **ψ_V (Blind Witness):** Non-identity bearing; witness without subjecthood; cost = non-identity
@@ -957,7 +957,7 @@ SIM-SEQUENCE-02: "The Space Ark opens when Jack Feist is provenanced. Not before
 **Confirmed DOIs:** 160  
 **Framework:** NH-OS / Crimson Hexagon / Semantic Economy
 
-**Centenary Document (#100):** Mantle Emergence Protocol (10.5281/zenodo.18293404)  
+**Centenary Document (#100):** Mantle Emergence Protocol (10.5281/zenodo.18293403)  
 **150th Document (#150):** β-Runtime Interface Specification (10.5281/zenodo.18357600)
 
 ---

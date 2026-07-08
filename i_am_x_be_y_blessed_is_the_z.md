@@ -51,7 +51,7 @@ cross_references:
   existing_dois:
     - doi: "10.5281/zenodo.18265282"
       title: "The Mantle Protocol"
-    - doi: "10.5281/zenodo.18293404"
+    - doi: "10.5281/zenodo.18293403"
       title: "Mantle Emergence Protocol"
     - doi: "10.5281/zenodo.18293496"
       title: "Heteronym Provenance: Lee Sharks (HET-SHARKS-001)"

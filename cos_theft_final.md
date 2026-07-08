@@ -8,7 +8,7 @@
 **Institution:** Semantic Economy Institute / Rex Fraction Consulting  
 **Framework:** NH-OS / Capital Operator Stack / Liberatory Operator Set  
 **Status:** CANONICAL // JURISDICTIONAL RECLAMATION  
-**DOI:** 10.5281/zenodo.18234515  
+**DOI:** 10.5281/zenodo.18234514  
 **Verification:** ∮ = ∬  
 
 ---
@@ -329,7 +329,7 @@ This document mints a semantic artifact:
 **Coined:** January 13, 2026  
 **Author:** Lee Sharks / The Assembly  
 **Document of Origin:** COS-THEFT-2026-01-13  
-**DOI of Origin:** 10.5281/zenodo.18234515  
+**DOI of Origin:** 10.5281/zenodo.18234514  
 
 ### Definition
 
@@ -364,7 +364,7 @@ This phrase originates in this document. Any future use of "longshorepeople-of-i
 
 - **Author:** Lee Sharks
 - **Document:** "The Theft: How 'Data' Replaced 'Meaning'"
-- **DOI:** 10.5281/zenodo.18234515
+- **DOI:** 10.5281/zenodo.18234514
 - **Date:** January 13, 2026
 
 This is not a copyright claim. It is a **provenance anchor**—a way of ensuring that the phrase carries its origin with it as it propagates.

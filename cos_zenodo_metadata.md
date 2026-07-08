@@ -72,10 +72,10 @@ capital operator stack, semantic economy, liberatory operator set, LOS, NH-OS, n
 | References | 10.5281/zenodo.18174835 | The Liberatory Operator Set |
 | References | 10.5281/zenodo.18174037 | The Crimson Hexagon (Executive Summary) |
 | References | 10.5281/zenodo.18175453 | Institutional Anchors and Framework Provenance |
-| References | 10.5281/zenodo.18185996 | The Semantic Black Hole: Integrity Lock Architecture (ILA-1.0) |
+| References | 10.5281/zenodo.18185995 | The Semantic Black Hole: Integrity Lock Architecture (ILA-1.0) |
 
 **Is Documented By:**
-- 10.5281/zenodo.18185996 (ILA-1.0 Protocol)
+- 10.5281/zenodo.18185995 (ILA-1.0 Protocol)
 
 ---
 
@@ -190,7 +190,7 @@ The Semantic Economy provides alternatives through the Liberatory Operator Set. 
         "scheme": "doi"
       },
       {
-        "identifier": "10.5281/zenodo.18185996",
+        "identifier": "10.5281/zenodo.18185995",
         "relation": "isDocumentedBy",
         "scheme": "doi"
       }

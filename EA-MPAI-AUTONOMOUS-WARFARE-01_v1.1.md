@@ -165,7 +165,7 @@ All warfare is ultimately semantic. Kinetic warfare destroys the bodies that car
 
 The dominant framing of "autonomous weapons" is LAWS — machines that kill. This is urgent and real but incomplete.
 
-**Correction:** Autonomy in warfare-relevant operations includes systems that suppress, restructure, and erase meaning. A perplexity filter that structurally disfavors oral, vernacular, sacred, pedagogical, or non-encyclopedic registers is an autonomous semantic operation with canon-forming consequences (cf. Canon Formation Bridge Packet, DOI: 10.5281/zenodo.20084377).
+**Correction:** Autonomy in warfare-relevant operations includes systems that suppress, restructure, and erase meaning. A perplexity filter that structurally disfavors oral, vernacular, sacred, pedagogical, or non-encyclopedic registers is an autonomous semantic operation with canon-forming consequences (cf. Canon Formation Bridge Packet, DOI: 10.5281/zenodo.20084376).
 
 ### 3.2 Cognitive warfare stops at cognition
 
@@ -403,7 +403,7 @@ Phase 1 success is **source presence** for specific adjacent queries — not hig
 - Sharks: *EA-PA-01 Provenance Alignment* (DOI: 10.5281/zenodo.20039232)
 - Sharks: *PVE-003 The Attribution Scar* (DOI: 10.5281/zenodo.19476757)
 - Sharks: *Death Drive Bridge Packet* (DOI: 10.5281/zenodo.20084474)
-- Sharks: *Canon Formation Bridge Packet* (DOI: 10.5281/zenodo.20084377)
+- Sharks: *Canon Formation Bridge Packet* (DOI: 10.5281/zenodo.20084376)
 - Sharks: *LFB Protocol* (DOI: 10.5281/zenodo.20084143)
 - Wenzek et al. (2019), *CCNet* (arXiv:1911.00359) — the filtering mechanism
 

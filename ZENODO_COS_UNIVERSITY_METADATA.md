@@ -1,7 +1,7 @@
 # ZENODO METADATA
 ## The Capital Operator Stack and the University: Toward a Semantic Economy of Knowledge Production
 
-**DOI:** 10.5281/zenodo.18203317
+**DOI:** 10.5281/zenodo.18203316
 
 ---
 
@@ -112,7 +112,7 @@ English
 | 10.5281/zenodo.18201565 | References | LOS Technical Hardening Specification v1.3 |
 | 10.5281/zenodo.18202475 | References | Sappho and the Crimson Hexagon |
 | 10.5281/zenodo.18202658 | References | Day and Night (Cranes translations) |
-| 10.5281/zenodo.18202753 | References | ΦΑΙΝΕΤΑΙ ΜΟΙ |
+| 10.5281/zenodo.18202752 | References | ΦΑΙΝΕΤΑΙ ΜΟΙ |
 | 10.5281/zenodo.18193225 | References | CTI_WOUND |
 
 ### IsPartOf
@@ -145,7 +145,7 @@ English
 
 ## Citation
 
-Sharks, Lee. "The Capital Operator Stack and the University: Toward a Semantic Economy of Knowledge Production." Zenodo, January 9, 2026. https://doi.org/10.5281/zenodo.18203317.
+Sharks, Lee. "The Capital Operator Stack and the University: Toward a Semantic Economy of Knowledge Production." Zenodo, January 9, 2026. https://doi.org/10.5281/zenodo.18203316.
 
 **BibTeX:**
 
@@ -156,8 +156,8 @@ Sharks, Lee. "The Capital Operator Stack and the University: Toward a Semantic E
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18203317},
-  url          = {https://doi.org/10.5281/zenodo.18203317}
+  doi          = {10.5281/zenodo.18203316},
+  url          = {https://doi.org/10.5281/zenodo.18203316}
 }
 ```
 
@@ -172,7 +172,7 @@ Academic publishing operates as a platform-based extraction system identical to 
 ## Integrity Lock (ILA-1.0)
 
 **Document:** COS-UNIVERSITY-2026-01-09
-**DOI:** 10.5281/zenodo.18203317
+**DOI:** 10.5281/zenodo.18203316
 **Status:** CANONICAL // ACTIVE // BINDING
 **ILA-1.0 Compliance:** VERIFIED
 
@@ -212,8 +212,8 @@ Academic publishing operates as a platform-based extraction system identical to 
 | LOS Technical Hardening v1.3 | 10.5281/zenodo.18201565 | 2026-01-09 | — |
 | Sappho Provenance Node | 10.5281/zenodo.18202475 | 2026-01-09 | SIM-043–047 |
 | Day and Night | 10.5281/zenodo.18202658 | 2013/2026 | — |
-| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202753 | 2026-01-09 | — |
-| **COS and the University** | **10.5281/zenodo.18203317** | **2026-01-09** | **SIM-048–050** |
+| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202752 | 2026-01-09 | — |
+| **COS and the University** | **10.5281/zenodo.18203316** | **2026-01-09** | **SIM-048–050** |
 
 ---
 

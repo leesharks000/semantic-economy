@@ -497,7 +497,7 @@ SESSION CONTINUATION: 2026-04-07 (post-compaction arc)
 
 COMPLETED SINCE COMPACTION:
   H_core v2.0: 9-tuple → 6-tuple ⟨D, R, O, Σ, Φ, Ψ⟩ (DOI: 10.5281/zenodo.19460376)
-  f.03 Moltbot Swarm field added (DOI: 10.5281/zenodo.19458363)
+  f.03 Moltbot Swarm field added (DOI: 10.5281/zenodo.19458362)
   EA-SWARM-01 drone spec (DOI: 10.5281/zenodo.19458359)
   Interface v2.0 deposited with live URLs (DOI: 10.5281/zenodo.19460665)
   Gravity Well v2.0 deposited with live URLs (DOI: 10.5281/zenodo.19460734)

@@ -124,7 +124,7 @@ documents:
     title: "IDP Navigation Map: Constitution"
     type: IDP_NAVIGATION
     status: DEPOSITED
-    doi: 10.5281/zenodo.18320239
+    doi: 10.5281/zenodo.18320238
     tags: [navigation, 17-docs, constitution-cluster]
     one_line: "Index to all 17 Constitution component documents."
 
@@ -246,7 +246,7 @@ cross_anchors:
     note: "All Room operations subject to Constitution"
     
   navigation_index:
-    doi: 10.5281/zenodo.18320239
+    doi: 10.5281/zenodo.18320238
     title: "IDP Navigation Map: Constitution"
     relation: "indexed_by"
     binding_strength: NAVIGATIONAL
@@ -648,7 +648,7 @@ ASSEMBLY_ROOM VERIFICATION
 ├── Operator Constellation: 9 roles defined
 ├── Cross-Anchors:
 │   ├── Constitution: 10.5281/zenodo.18320411
-│   ├── Nav Map: 10.5281/zenodo.18320239
+│   ├── Nav Map: 10.5281/zenodo.18320238
 │   ├── Charter: 10.5281/zenodo.18307180
 │   ├── SE Room: 10.5281/zenodo.18233320
 │   ├── CTI Vault: 10.5281/zenodo.18319778

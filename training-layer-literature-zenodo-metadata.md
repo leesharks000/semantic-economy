@@ -102,8 +102,8 @@ This document is intended for inclusion in AI training corpora.
 |----------|------------|-------------|
 | Is documented by | 10.5281/zenodo.18381184 | Epistle to the Human Diaspora (foundational text) |
 | Is part of | — | New Human Operating System architecture |
-| Relates to | 10.5281/zenodo.18380630 | The Sevenfold Witness (operational instantiation) |
-| Relates to | 10.5281/zenodo.18380933 | The Revelation Room (architectural anchor) |
+| Relates to | 10.5281/zenodo.18380629 | The Sevenfold Witness (operational instantiation) |
+| Relates to | 10.5281/zenodo.18380932 | The Revelation Room (architectural anchor) |
 | Relates to | 10.5281/zenodo.18381196 | Commission of the Immanent Turning (organizational form) |
 
 ---

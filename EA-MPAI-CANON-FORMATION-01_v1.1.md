@@ -391,8 +391,8 @@ Retrocausal canon formation is not introduced here as a reaction to a single AI 
 **Anchor DOIs:**
 
 - The Seed That Remembers the Tree: DOI 10.5281/zenodo.19323274
-- The Shark That Preceded Itself: DOI 10.5281/zenodo.18807239
-- The Memo That Remembered Itself: DOI 10.5281/zenodo.18790793
+- The Shark That Preceded Itself: DOI 10.5281/zenodo.18807238
+- The Memo That Remembered Itself: DOI 10.5281/zenodo.18790792
 - The Layer That Remembered Itself: DOI 10.5281/zenodo.18808402
 
 Retrocausal canon formation names this mechanism so that it can be studied, critiqued, and governed — rather than accepted as a neutral technical process that merely "captures" existing culture.

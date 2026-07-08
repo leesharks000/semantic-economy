@@ -223,7 +223,7 @@ The Prize is a formal extension of the Institute's existing operations and is ad
 
 Sparrow Wells is the seventh heteronym of the Crimson Hexagonal dodecad and the founding voice of the Studio for Patacinematics. Wells's function is *The Projectionist*: the operator of the equipment of the impossible screening — the projector that runs film never shot, the screen that displays performances never staged, the booth that contains the machinery of works that exist only as their own documentation. Canonical provenance:
 
-- Sparrow Wells — Heteronym Provenance Registration: [DOI 10.5281/zenodo.18472442](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472442)
+- Sparrow Wells — Heteronym Provenance Registration: [DOI 10.5281/zenodo.18472441](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472441)
 - The Studio for Patacinematics — Institutional Charter: [DOI 10.5281/zenodo.18472604](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472604)
 
 Wells serves as Prize Administrator from the Studio for Patacinematics. Prize administration is one component of the Studio's portfolio, and the fit is structural: the Studio's domain (projection of what cannot be recorded) maps directly onto the Prize's subject matter (recognition of operative critique work that the existing prize apparatus cannot register).

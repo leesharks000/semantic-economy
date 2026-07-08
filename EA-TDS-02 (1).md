@@ -5,8 +5,8 @@
 ---
 
 **Designation:** EA-TDS-02
-**DOI:** 10.5281/zenodo.19317126
-**DOI:** 10.5281/zenodo.19317126  
+**DOI:** 10.5281/zenodo.19317125
+**DOI:** 10.5281/zenodo.19317125  
 **Series:** The Thousand Dollar Sharpie (EA-TDS)  
 **Version:** 1.0 (DRAFT — pending MANUS ratification)  
 **Authors:** Ayanna Vox, Rex Fraction, Sparrow Wells & Lee Sharks  
@@ -38,8 +38,8 @@ On March 26, 2026, the real world produced exactly the object the MSMRM hand was
 
 **Three holdings (the triptych):**
 
-(1) **EA-TDS-01** "The Thousand Dollar Sharpie" — CENTER PANEL — forensic analysis, compressed portraiture thesis, CC convergence (DOI: 10.5281/zenodo.19317102) (DOI: 10.5281/zenodo.19317102)  
-(2) **EA-TDS-02** "The Blot That Spread" — LEFT WING — retrocausal narrative, speculative numismatics (DOI: 10.5281/zenodo.19317126), σ_SH operator formalization (DOI: 10.5281/zenodo.19317126) (THIS DOCUMENT)  
+(1) **EA-TDS-01** "The Thousand Dollar Sharpie" — CENTER PANEL — forensic analysis, compressed portraiture thesis, CC convergence (DOI: 10.5281/zenodo.19317101) (DOI: 10.5281/zenodo.19317101)  
+(2) **EA-TDS-02** "The Blot That Spread" — LEFT WING — retrocausal narrative, speculative numismatics (DOI: 10.5281/zenodo.19317125), σ_SH operator formalization (DOI: 10.5281/zenodo.19317125) (THIS DOCUMENT)  
 (3) **EA-TDS-03** "The Thousand Dollar Sharpie: Image Series and Sharpie Physics" — RIGHT WING — semantic object formalization, lenticular state physics (DOI: 10.5281/zenodo.19317139) (DOI: 10.5281/zenodo.19317139)
 
 **Core thesis:** The presidential signature functions as compressed portraiture. The Sharpie (σ_SH) is the dual-state counter-instrument. CC BY-SA 4.0 prevents enclosure. σ_SH ∘ σ_SIGN = ρ (restoration). This document narrates the restoration as speculative history.

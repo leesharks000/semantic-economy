@@ -106,7 +106,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | 10.5281/zenodo.18357320 | Implements (The Blind Operator) |
 | 10.5281/zenodo.18357447 | References (Mantle of the Blind Poet) |
 | 10.5281/zenodo.18342199 | References (Phase X — theoretical foundation) |
-| 10.5281/zenodo.18339333 | References (The Break Room — portal) |
+| 10.5281/zenodo.18339332 | References (The Break Room — portal) |
 
 ---
 

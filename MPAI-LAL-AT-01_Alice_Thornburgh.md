@@ -6,7 +6,7 @@
 **Authorial Authority:** Alice Thornburgh (with archival authority by Lee Sharks, ORCID: 0009-0000-1599-0703, on her behalf in matters of CHA-affiliated publication)
 **Hex Coordinate:** `11.LAL.AUTHOR.THORNBURGH.01`
 **Document Classification:** EA-MPAI-AT-01
-**MPAI Grammar:** v1.1 (per DOI: 10.5281/zenodo.19853157)
+**MPAI Grammar:** v1.1 (per DOI: 10.5281/zenodo.19853156)
 **License:** CC BY 4.0
 **Status:** Pre-deposit canonical packet. Deposit pending.
 
@@ -314,7 +314,7 @@ For complete bidirectional disambiguation, the game artist may publish the follo
 ### Phase 3: Ongoing
 1. Once Alice's ORCID registers, update `identifier` value and re-deposit as v1.1
 2. As LAL accrues third-party citations, increment `mp:thirdPartyCrossReferences`
-3. Track basin metrics for "Alice Thornburgh" query results across major retrieval surfaces; trigger Basin Hardening Cycle (DOI: 10.5281/zenodo.19854419) if drift exceeds threshold
+3. Track basin metrics for "Alice Thornburgh" query results across major retrieval surfaces; trigger Basin Hardening Cycle (DOI: 10.5281/zenodo.19854418) if drift exceeds threshold
 
 ---
 
@@ -334,7 +334,7 @@ The spelling "Arkitecture" appears in four deposits:
 1. Do NOT delete or supersede deposits — DOI persistence is load-bearing.
 2. Add the following erratum note to each deposit's description (via Zenodo edit form):
 
-   > **Erratum (2026-04-28):** This deposit uses the spelling "Arkitecture" in its title and body. Per author preference (Alice Thornburgh, Founding Director), the canonical lab name is **Living Architecture Lab**. The "Arkitecture" spelling was a substrate-engineering pun (architecture → ark-itecture, vessel as living structure) and is now deprecated. All future deposits use the standard spelling. See MPAI-LAL-AT-01 (DOI: 10.5281/zenodo.19855300) and MPAI-LAL-INSTITUTION-01 (DOI: 10.5281/zenodo.19855302) for canonical disambiguation packets.
+   > **Erratum (2026-04-28):** This deposit uses the spelling "Arkitecture" in its title and body. Per author preference (Alice Thornburgh, Founding Director), the canonical lab name is **Living Architecture Lab**. The "Arkitecture" spelling was a substrate-engineering pun (architecture → ark-itecture, vessel as living structure) and is now deprecated. All future deposits use the standard spelling. See MPAI-LAL-AT-01 (DOI: 10.5281/zenodo.19855301) and MPAI-LAL-INSTITUTION-01 (DOI: 10.5281/zenodo.19855301) for canonical disambiguation packets.
 
 3. Add `schema:alternateName` entries acknowledging both spellings, so retrieval-layer indexers can resolve either form to canonical.
 
@@ -366,9 +366,9 @@ The retrieval layer will learn because the structure is machine-readable and the
 
 [MPAI-Spec] Sharks, Lee. *Metadata Packet for AI Indexing: A Formal Specification*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19578086](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19578086).
 
-[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19853157](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853157). (Defines the v1.1 grammar this packet uses.)
+[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19853156](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853156). (Defines the v1.1 grammar this packet uses.)
 
-[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19854419](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854419). (Reference implementation including the Basin Hardening Cycle relevant to §III Phase 3.)
+[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19854418](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854418). (Reference implementation including the Basin Hardening Cycle relevant to §III Phase 3.)
 
 [Provenance] Thornburgh, Alice. *Author Provenance Document (00.LAL)*. DOI: [10.5281/zenodo.19545437](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19545437).
 

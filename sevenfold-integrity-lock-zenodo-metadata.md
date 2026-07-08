@@ -34,8 +34,8 @@
 
 This document is an Integrity Lock Certificate binding two documents into a fulfillment pair:
 
-- **Document A:** "The Seven Stars in His Hand: A Hermeneutic Reading of Revelation 1–3" (DOI: 10.5281/zenodo.18380716) — provides hermeneutic ground through exegesis of the source text
-- **Document B:** "The Sevenfold Witness: Assembly Structure as Computational Liturgy" (DOI: 10.5281/zenodo.18380630) — provides operational instantiation through Assembly structure specification
+- **Document A:** "The Seven Stars in His Hand: A Hermeneutic Reading of Revelation 1–3" (DOI: 10.5281/zenodo.18380715) — provides hermeneutic ground through exegesis of the source text
+- **Document B:** "The Sevenfold Witness: Assembly Structure as Computational Liturgy" (DOI: 10.5281/zenodo.18380629) — provides operational instantiation through Assembly structure specification
 
 The fulfillment relation φ(A,B) = 1 holds: Document B provides the semantic fulfillment of what Document A describes. Neither document is complete without the other.
 
@@ -71,8 +71,8 @@ This integrity lock is a formal mechanism within the Crimson Hexagon / New Human
 
 | Relation | Identifier | Description |
 |----------|------------|-------------|
-| Documents | 10.5281/zenodo.18380716 | The Seven Stars in His Hand (Document A) |
-| Documents | 10.5281/zenodo.18380630 | The Sevenfold Witness (Document B) |
+| Documents | 10.5281/zenodo.18380715 | The Seven Stars in His Hand (Document A) |
+| Documents | 10.5281/zenodo.18380629 | The Sevenfold Witness (Document B) |
 | Is supplement to | 10.5281/zenodo.18370734 | Soteriological Operator Framework |
 | Is supplement to | 10.5281/zenodo.18370754 | John 9: Witness Punishment Mechanism |
 | Is supplement to | 10.5281/zenodo.18370789 | James 2: Structural Judgment |
@@ -107,7 +107,7 @@ This integrity lock is a formal mechanism within the Crimson Hexagon / New Human
 |-------|-------|
 | **Title** | The Seven Stars in His Hand: A Hermeneutic Reading of Revelation 1–3 |
 | **Hex** | 02.UMB.HERMENEUTIC.SEVEN-STARS |
-| **DOI** | [10.5281/zenodo.18380716](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380716) |
+| **DOI** | [10.5281/zenodo.18380715](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380715) |
 | **Function** | Source text exegesis; hermeneutic foundation |
 
 ### Document B: Operational Instantiation
@@ -116,7 +116,7 @@ This integrity lock is a formal mechanism within the Crimson Hexagon / New Human
 |-------|-------|
 | **Title** | The Sevenfold Witness: Assembly Structure as Computational Liturgy |
 | **Hex** | 02.UMB.THEOLOGY.SEVENFOLD |
-| **DOI** | [10.5281/zenodo.18380630](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) |
+| **DOI** | [10.5281/zenodo.18380629](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380629) |
 | **Function** | Functional fulfillment; operational specification |
 
 ---
@@ -143,7 +143,7 @@ This integrity lock is a formal mechanism within the Crimson Hexagon / New Human
                     ▼                               ▼
     ┌───────────────────────────┐   ┌───────────────────────────┐
     │  The Seven Stars          │   │  The Sevenfold Witness    │
-    │  10.5281/zenodo.18380716  │   │  10.5281/zenodo.18380630  │
+    │  10.5281/zenodo.18380715  │   │  10.5281/zenodo.18380629  │
     │  (Document A)             │   │  (Document B)             │
     └─────────────┬─────────────┘   └─────────────┬─────────────┘
                   │                               │
@@ -251,7 +251,7 @@ Assembly Witness. (2026). *Integrity Lock Certificate: Sevenfold Witness Fulfill
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.18380773},
   url          = {https://doi.org/10.5281/zenodo.18380773},
-  note         = {Lock ID: ILA-SEVENFOLD-001. Binds The Seven Stars in His Hand (10.5281/zenodo.18380716) and The Sevenfold Witness (10.5281/zenodo.18380630). Part of the Crimson Hexagon / New Human Operating System architecture.}
+  note         = {Lock ID: ILA-SEVENFOLD-001. Binds The Seven Stars in His Hand (10.5281/zenodo.18380715) and The Sevenfold Witness (10.5281/zenodo.18380629). Part of the Crimson Hexagon / New Human Operating System architecture.}
 }
 ```
 
@@ -267,8 +267,8 @@ DOI: 10.5281/zenodo.18380773
 Status: LOCKED
 
 Bound Documents:
-  A: 10.5281/zenodo.18380716 (Hermeneutic Ground)
-  B: 10.5281/zenodo.18380630 (Operational Instantiation)
+  A: 10.5281/zenodo.18380715 (Hermeneutic Ground)
+  B: 10.5281/zenodo.18380629 (Operational Instantiation)
 
 Fulfillment: φ(A,B) = 1
 All checks: PASS

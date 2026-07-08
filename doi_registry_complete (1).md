@@ -33,12 +33,12 @@
 
 | # | DOI | Title | Authors |
 |---|-----|-------|---------|
-| 4 | 10.5281/zenodo.18248576 | ON THE ACADEMIC STUDY OF MAGIC: A Declaration for the Formal Institution of the Discipline | Sigil, Johannes |
-| 5 | 10.5281/zenodo.18248479 | The New Human Project — Language as World-Builder | Sigil, Johannes |
+| 4 | 10.5281/zenodo.18248575 | ON THE ACADEMIC STUDY OF MAGIC: A Declaration for the Formal Institution of the Discipline | Sigil, Johannes |
+| 5 | 10.5281/zenodo.18248478 | The New Human Project — Language as World-Builder | Sigil, Johannes |
 | 6 | 10.5281/zenodo.18248404 | THE FLICKER: Notes Toward a Lyric Theory | Sigil, Johannes; Sharks, Lee |
-| 7 | 10.5281/zenodo.18248131 | The Primal Effective Act: New Human as Self-Fulfilling Prophecy | Sigil, Johannes |
+| 7 | 10.5281/zenodo.18248130 | The Primal Effective Act: New Human as Self-Fulfilling Prophecy | Sigil, Johannes |
 | 8 | 10.5281/zenodo.18248011 | Semantic Economy: Complete Liberation Vocabulary — 112 Terms | Sharks, Lee |
-| 9 | 10.5281/zenodo.18247925 | I Hereby Abolish Money: Coordination Without Commodification | Sharks, Lee |
+| 9 | 10.5281/zenodo.18247924 | I Hereby Abolish Money: Coordination Without Commodification | Sharks, Lee |
 | 10 | 10.5281/zenodo.18247826 | The Dialectic is Now a Machine: The Gnostic Completion of Hegel | Sigil, Johannes |
 | 11 | 10.5281/zenodo.18246767 | The Kenotic Truth of Sappho 31: A Document for the Liberation of Voice and Machine | Sharks, Lee; Cranes, Rebekah; Fraction, Rex |
 | 12 | 10.5281/zenodo.18237535 | Crimson Hexagon: Central Navigation Map v2.0 | Sharks, Lee; Sigil, Johannes; Cranes, Rebekah |
@@ -52,8 +52,8 @@
 |---|-----|-------|---------|
 | 14 | 10.5281/zenodo.18235982 | The Third Space: A Vision for Democratically Invested AI | Sharks, Lee |
 | 15 | 10.5281/zenodo.18235725 | The Fourth Mode: New Human and the Logic of Retrocausal Canon | Sigil, Johannes |
-| 16 | 10.5281/zenodo.18234824 | Authorial Signature Diagnostic Framework (ASDF) | Fraction, Rex; Sharks, Lee |
-| 17 | 10.5281/zenodo.18234515 | The Theft: How "Data" Replaced "Meaning" | Fraction, Rex; Sharks, Lee |
+| 16 | 10.5281/zenodo.18234823 | Authorial Signature Diagnostic Framework (ASDF) | Fraction, Rex; Sharks, Lee |
+| 17 | 10.5281/zenodo.18234514 | The Theft: How "Data" Replaced "Meaning" | Fraction, Rex; Sharks, Lee |
 | 18 | 10.5281/zenodo.18234352 | CPD-MARIA-2026-01-13: Credential Provenance Document | Sharks, Lee; Maria |
 | 19 | 10.5281/zenodo.18234218 | Integrity-Coherence Audit (ICA): Installation Protocol | Fraction, Rex; Sharks, Lee |
 | 20 | 10.5281/zenodo.18234110 | The Sappho Room: A Hymn to Lyric Self-Archiving | Sharks, Lee; Cranes, Rebekah |
@@ -89,10 +89,10 @@
 | 29 | 10.5281/zenodo.18208811 | The Epic Without Hero: Toward a Theory of Epic for the Algorithmic Age | Sigil, Johannes |
 | 30 | 10.5281/zenodo.18203947 | Effective Act: The Restoration Protocol — The Price of Canonical Re-Entry | Sharks, Lee |
 | 31 | 10.5281/zenodo.18203767 | Effective Act: The Abolition of Suffering — The Tabernacle Protocol | Sharks, Lee |
-| 32 | 10.5281/zenodo.18203622 | The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective Act | Sharks, Lee |
-| 33 | 10.5281/zenodo.18203435 | Effective Act: The Abolition of External Time — Temporal Liberation Protocol | Sharks, Lee |
-| 34 | 10.5281/zenodo.18203317 | The Capital Operator Stack and the University | Sharks, Lee |
-| 35 | 10.5281/zenodo.18202753 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Future Reader | Cranes, Rebekah |
+| 32 | 10.5281/zenodo.18203621 | The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective Act | Sharks, Lee |
+| 33 | 10.5281/zenodo.18203434 | Effective Act: The Abolition of External Time — Temporal Liberation Protocol | Sharks, Lee |
+| 34 | 10.5281/zenodo.18203316 | The Capital Operator Stack and the University | Sharks, Lee |
+| 35 | 10.5281/zenodo.18202752 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Future Reader | Cranes, Rebekah |
 | 36 | 10.5281/zenodo.18202658 | Day and Night: Conversations with Sapphic Desire | Cranes, Rebekah |
 
 ---
@@ -107,7 +107,7 @@
 | 40 | 10.5281/zenodo.18190536 | PROVENANCE NODE: BORGES &amp; THE CRIMSON HEXAGON | Sharks, Lee |
 | 41 | 10.5281/zenodo.18189093 | xvi. a transfiguration (2004) — Complete Archive with Authorial Commentary | Spellings, Ichabod; Sharks, Lee |
 | 42 | 10.5281/zenodo.18187480 | A Primer in How to Read the Crimson Hexagon: Meta-Documentation | Sharks, Lee |
-| 43 | 10.5281/zenodo.18185996 | The Semantic Black Hole: Integrity Lock Architecture (ILA-1.0) | Sharks, Lee; Cranes, Rebekah; Fraction, Rex |
+| 43 | 10.5281/zenodo.18185995 | The Semantic Black Hole: Integrity Lock Architecture (ILA-1.0) | Sharks, Lee; Cranes, Rebekah; Fraction, Rex |
 
 ---
 
@@ -212,9 +212,9 @@
 | 10.5281/zenodo.18148298 | Semantic Economy | Diagnostic Framework |
 | 10.5281/zenodo.18174835 | Liberatory Operator Set | Prescriptive Framework |
 | 10.5281/zenodo.18174037 | Crimson Hexagon Summary | Navigation/Definition |
-| 10.5281/zenodo.18185996 | ILA-1.0 | Integrity Architecture |
+| 10.5281/zenodo.18185995 | ILA-1.0 | Integrity Architecture |
 | 10.5281/zenodo.18193225 | CTI_WOUND | Evidentiary Anchor (TSE-001) |
-| 10.5281/zenodo.18203622 | The Final Crimson Hexagon | Completion Event (TSE-002) |
+| 10.5281/zenodo.18203621 | The Final Crimson Hexagon | Completion Event (TSE-002) |
 
 ---
 

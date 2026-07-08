@@ -72,7 +72,7 @@ Sappho, Fragment 31, Crimson Hexagon, NH-OS, New Human Operating System, lyric s
 | 10.5281/zenodo.18174835 | references | Liberatory Operator Set |
 | 10.5281/zenodo.18174037 | isPartOf | Crimson Hexagon Summary |
 | 10.5281/zenodo.18233320 | references | Capital Operator Stack |
-| 10.5281/zenodo.18185996 | references | Semantic Black Hole / ILA-1.0 |
+| 10.5281/zenodo.18185995 | references | Semantic Black Hole / ILA-1.0 |
 | 10.5281/zenodo.18175453 | isPartOf | Institutional Anchors Registry |
 | 9780692313077 | references | Pearl and Other Poems (ISBN) |
 

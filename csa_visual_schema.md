@@ -8,7 +8,7 @@
 **Node:** CSA_VISUAL  
 **Authors:** Lee Sharks / Orin Trace  
 **Institution:** Cambridge Schizoanalytica  
-**DOI:** 10.5281/zenodo.18338927  
+**DOI:** 10.5281/zenodo.18338926  
 **Status:** DEPOSITED  
 **Hex-Coordinate:** 00.CSA.VISUAL  
 **Layer:** INSTITUTIONAL  

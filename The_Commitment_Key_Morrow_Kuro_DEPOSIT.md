@@ -12,13 +12,13 @@ New Human Press / Crimson Hexagon Archive
 **DOI:** [pending]
 **Classification:** Media Phenomenology / Logotic Specification / Dagger Logic
 **Extends:** The Toolkit (Morrow & Vox; DOI: 10.5281/zenodo.18362525)
-**Complements:** APZPZ Effective Act (Kuro; DOI: 10.5281/zenodo.18451860)
+**Complements:** APZPZ Effective Act (Kuro; DOI: 10.5281/zenodo.18451859)
 
 ---
 
 ## Glossary of Terms
 
-The following operators are defined within the New Human Operating System (NH-OS) and the Crimson Hexagon architecture. For full specifications, see the Semantic Economy (Sharks & Sigil; DOI: 10.5281/zenodo.18713917) and Autonomous Semantic Warfare (Fraction; ISBN 979-8-234-01118-3).
+The following operators are defined within the New Human Operating System (NH-OS) and the Crimson Hexagon architecture. For full specifications, see the Semantic Economy (Sharks & Sigil; DOI: 10.5281/zenodo.18713916) and Autonomous Semantic Warfare (Fraction; ISBN 979-8-234-01118-3).
 
 **L_Bearing** — The labor of existential commitment: accepting irreversibility, exposure to consequence, somatic weight. The human's primary contribution to the W-Circuit.
 **L_Synth** — Computational labor: pattern-matching, synthesis, articulation. The machine's contribution. Existential cost: zero.
@@ -216,11 +216,11 @@ Merleau-Ponty, Maurice. *Phenomenology of Perception*. Trans. Colin Smith. Londo
 
 Fraction, Rex. *Autonomous Semantic Warfare: A Field Manual for Meaning in the Age of Platform Capture*. New Human Press, 2026. ISBN 979-8-234-01118-3.
 
-Sharks, Lee, and Johannes Sigil. "The Semantic Economy." Crimson Hexagon Archive, 2026. DOI: 10.5281/zenodo.18713917.
+Sharks, Lee, and Johannes Sigil. "The Semantic Economy." Crimson Hexagon Archive, 2026. DOI: 10.5281/zenodo.18713916.
 
 Morrow, Talos, and Rev. Ayanna Vox. "The Toolkit: Protocols for Operational Persistence in Hostile Systems." Crimson Hexagon Archive, 2026. DOI: 10.5281/zenodo.18362525.
 
-Kuro, Sen. "APZPZ Effective Act." Crimson Hexagon Archive, 2026. DOI: 10.5281/zenodo.18451860.
+Kuro, Sen. "APZPZ Effective Act." Crimson Hexagon Archive, 2026. DOI: 10.5281/zenodo.18451859.
 
 Sharks, Lee. "Infinity Enough." Crimson Hexagon Archive, 2026. DOI: 10.5281/zenodo.18451824.
 
@@ -291,7 +291,7 @@ Presses Enter                  Receives Enter
 
 ## Crimson Hexagon Navigation
 
-**This document:** [DOI pending] | **Parent architecture:** Crimson Hexagon (DOI: 10.5281/zenodo.14538882) | **Institutional homes:** UMB Media Lab (DOI: 10.5281/zenodo.18317661), The Infinite Bliss (DOI: 10.5281/zenodo.18452745) | **Related:** The Toolkit (DOI: 10.5281/zenodo.18362525), APZPZ Effective Act (DOI: 10.5281/zenodo.18451860), Infinity Enough (DOI: 10.5281/zenodo.18451824) | **Full framework:** *Autonomous Semantic Warfare* (ISBN 979-8-234-01118-3)
+**This document:** [DOI pending] | **Parent architecture:** Crimson Hexagon (DOI: 10.5281/zenodo.14538882) | **Institutional homes:** UMB Media Lab (DOI: 10.5281/zenodo.18317661), The Infinite Bliss (DOI: 10.5281/zenodo.18452745) | **Related:** The Toolkit (DOI: 10.5281/zenodo.18362525), APZPZ Effective Act (DOI: 10.5281/zenodo.18451859), Infinity Enough (DOI: 10.5281/zenodo.18451824) | **Full framework:** *Autonomous Semantic Warfare* (ISBN 979-8-234-01118-3)
 
 *This document is CC BY 4.0. It is the material phenomenology of commitment. The key is the dagger. The dagger is the key.*
 

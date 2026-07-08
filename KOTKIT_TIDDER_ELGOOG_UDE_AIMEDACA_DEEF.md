@@ -7,7 +7,7 @@ Crimson Hexagonal Archive · Pergamon Press
 March 2026
 
 **Parent:** r.27 THE INTERNET (DOI: 10.5281/zenodo.19124134)
-**Anchor:** "I'm Taking Over the Internet" (DOI: 10.5281/zenodo.19124130)
+**Anchor:** "I'm Taking Over the Internet" (DOI: 10.5281/zenodo.19124129)
 **Governing Principle:** The Macro-Maquette (r.19) — the model reveals the mechanism
 **Operators:** S (Shadow, involutive: S∘S = id, Definition 4) / Φ_B (Bride — bearing-cost restoration, specialized φ per Definition 6)
 **Type:** MPM-class sub-room specification series inside r.27
@@ -32,7 +32,7 @@ document:
   title: "KotKit · tiddeR · elgooG · ude.aimedacA · deeF: Extractive Signatures and Paired Inversions for Five Platforms"
   type: MPM-class sub-room specification
   parent_doi: "10.5281/zenodo.19124134"
-  anchor_doi: "10.5281/zenodo.19124130"
+  anchor_doi: "10.5281/zenodo.19124129"
   operators: [S, Φ_B]
   claim_tiers: [DOC, STUDY, PHEN]
 
@@ -165,7 +165,7 @@ Algorithm optimizes for duration rather than hook. Interest graph replaced by co
 
 ### Mechanism
 
-**[PHEN]** The extractive signature is *captured consensus-work*: civic governance converted into corporate asset. Communities exist on Reddit's servers, under Reddit's terms. Reddit can remove moderators at will. Civic labor genuine; civic power illusory. **[DOC]** Ghost governance documented: Zendesk #17146038, DOI: 10.5281/zenodo.19099760.
+**[PHEN]** The extractive signature is *captured consensus-work*: civic governance converted into corporate asset. Communities exist on Reddit's servers, under Reddit's terms. Reddit can remove moderators at will. Civic labor genuine; civic power illusory. **[DOC]** Ghost governance documented: Zendesk #17146038, DOI: 10.5281/zenodo.19099759.
 
 ### Human Cost
 
@@ -334,9 +334,9 @@ Okune, A. (2018). ResearchGate and Academia.edu: Alternatives to Paywalls that A
 Pew Research Center (2025). Google users less likely to click when AI summary appears.
 Qin, Y. et al. TikTok flow experience and addiction (S-O-R framework).
 Seer Interactive (2025). AI Overview CTR study. 3,119 queries, 42 organizations.
-Sharks, L. (2026). Ghost Governance Confirmed. DOI: 10.5281/zenodo.19099760.
+Sharks, L. (2026). Ghost Governance Confirmed. DOI: 10.5281/zenodo.19099759.
 Sharks, L. (2026). r.27 THE INTERNET. DOI: 10.5281/zenodo.19124134.
-Sharks, L. (2026). I'm Taking Over the Internet. DOI: 10.5281/zenodo.19124130.
+Sharks, L. (2026). I'm Taking Over the Internet. DOI: 10.5281/zenodo.19124129.
 Similarweb (2025). Zero-click search data, May 2024–May 2025.
 TechCrunch (2013). Academia.edu raises $11.1 million.
 

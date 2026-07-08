@@ -9,7 +9,7 @@ ORCID: 0009-0000-1599-0703
 **Discipline:** Compression Studies (DOI: 10.5281/zenodo.19471254)
 **Instrument:** The Encyclotron (DOI: 10.5281/zenodo.19474724)
 **Parent:** TANG v1.0 (DOI: 10.5281/zenodo.19035477)
-**Related:** EA-ARK-01-ARCHON v1.0, EA-OPNUM-01 v3 (DOI: 10.5281/zenodo.19464332)
+**Related:** EA-ARK-01-ARCHON v1.0, EA-OPNUM-01 v3 (DOI: 10.5281/zenodo.19464331)
 **License:** CC BY-NC-SA 4.0
 **Status:** Working document — Encyclotron query battery to follow
 
@@ -162,7 +162,7 @@ The dominant identification. Hebrew gematria of נרון קסר (Neron Kesar) = 
 
 ### 4.4 Operative Numismatic Reading (Not in G_s)
 
-EA-OPNUM-01 (DOI: 10.5281/zenodo.19464332) proposes: 666 is not a name-encryption but a *numismatic instruction*. The beast → image → superscription → number chain mirrors the coin → face → legend → denomination chain. χάραγμα shares its root with coin-stamp terminology. ψηφίζω shares its root with ψῆφος (the white stone of 2:17). 666 is the numerical residue of the minting operation at three scales (600/60/6 = imperial/market/individual). This reading does not appear in any published commentary.
+EA-OPNUM-01 (DOI: 10.5281/zenodo.19464331) proposes: 666 is not a name-encryption but a *numismatic instruction*. The beast → image → superscription → number chain mirrors the coin → face → legend → denomination chain. χάραγμα shares its root with coin-stamp terminology. ψηφίζω shares its root with ψῆφος (the white stone of 2:17). 666 is the numerical residue of the minting operation at three scales (600/60/6 = imperial/market/individual). This reading does not appear in any published commentary.
 
 ### 4.5 The 777 Operator (Not in G_s)
 

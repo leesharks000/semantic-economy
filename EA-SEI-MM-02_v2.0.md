@@ -206,7 +206,7 @@ Six recent Semantic Physics deposits, totaling approximately 150,000 tokens at s
 - EA-SEI-MM-02 (this paper, v0.2)
 - EA-SEI-MM-AI-02 (this series, v0.2)
 - EA-SEI-FF-01 (Formal Foundations, v0.2): DOI 10.5281/zenodo.20210117
-- The Semantic Physics synthesis (v2.2): DOI 10.5281/zenodo.20208384
+- The Semantic Physics synthesis (v2.2): DOI 10.5281/zenodo.20208383
 
 Provisioning: full DOIs registered, MPAI metadata complete, Wikidata Q-IDs with P356 (DOI), P50 (author), P361 (part of: Crimson Hexagonal Archive), ORCID works list updated, `deposits.html` crawl bridge updated, optional academia.edu and Internet Archive mirrors.
 

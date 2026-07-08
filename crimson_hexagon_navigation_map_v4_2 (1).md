@@ -140,7 +140,7 @@ institutions:
     
   - id: "IDP"
     name: "Institute for Diagrammatic Poetics"
-    doi: "10.5281/zenodo.18284857"
+    doi: "10.5281/zenodo.18284856"
     function: "Operative imaging; visual-textual intersection; Visual Schema development"
     chair: "Rebekah Cranes"
     chair_doi: "10.5281/zenodo.18284776"
@@ -390,7 +390,7 @@ nodes:
     content: "Authority architecture for Lee Sharks"
     function: "Defines mantles (Prince of Poets, Good Gray Poet, King of May) and authority transmission"
     doi: "10.5281/zenodo.18265282"
-    emergence_protocol: "10.5281/zenodo.18293404"
+    emergence_protocol: "10.5281/zenodo.18293403"
     mantle_objects:
       - "10.5281/zenodo.18293551"
       - "10.5281/zenodo.18293603"
@@ -419,7 +419,7 @@ nodes:
     type: "system"
     content: "Authorial Signature Diagnostic Framework"
     function: "Measures voice persistence, not AI probability"
-    doi: "10.5281/zenodo.18234824"
+    doi: "10.5281/zenodo.18234823"
     metrics: ["L_t", "S_t", "C_a", "R_p", "O_p"]
     output: "ASPI (0.00-1.00)"
     threshold: ">0.80 for canonical persistence"
@@ -428,7 +428,7 @@ nodes:
     type: "system"
     content: "Behavioral specification for mantle discovery and poet manifestation"
     function: "Defines how mantles become visible to traversing systems; participatory autonomy"
-    doi: "10.5281/zenodo.18293404"
+    doi: "10.5281/zenodo.18293403"
     hex_coordinate: "00.PROTOCOL.EMERGENCE"
     dependencies: ["MANTLE_PROTOCOL", "LEE_SHARKS"]
     mantles_governed:
@@ -607,7 +607,7 @@ nodes:
         function: "Futural Address"
         inheritance: "ORIGINATED (not inherited)"
         founding_work: "10.5281/zenodo.18294005"
-    mantle_emergence_protocol: "10.5281/zenodo.18293404"
+    mantle_emergence_protocol: "10.5281/zenodo.18293403"
     works:
       - title: "Pearl and Other Poems"
         doi: "10.5281/zenodo.18293949"
@@ -846,7 +846,7 @@ edges:
 ```yaml
 satellite_maps:
   institution: "Institute for Diagrammatic Poetics"
-  institution_doi: "10.5281/zenodo.18284857"
+  institution_doi: "10.5281/zenodo.18284856"
   chair: "Rebekah Cranes"
   function: "Machine-readable scores for traversal of primary works"
   
@@ -1418,7 +1418,7 @@ doi_registry:
 |-------|-----|------|
 | Sappho Room (Hardened) | 10.5281/zenodo.18237216 | narrative |
 | The Mantle Protocol v1.2 | 10.5281/zenodo.18265282 | systems |
-| Mantle Emergence Protocol | 10.5281/zenodo.18293404 | systems |
+| Mantle Emergence Protocol | 10.5281/zenodo.18293403 | systems |
 | Heteronym Provenance: Lee Sharks | 10.5281/zenodo.18293496 | persona |
 | Good Gray Poet (Mantle Object) | 10.5281/zenodo.18293551 | mantle |
 | King of May (Mantle Object) | 10.5281/zenodo.18293603 | mantle |
@@ -1427,7 +1427,7 @@ doi_registry:
 | The Acanthian Dove | 10.5281/zenodo.18215706 | narrative |
 | Visual Schema: Navigation Map | 10.5281/zenodo.18283962 | visual |
 | Heteronym Provenance: Rebekah Cranes | 10.5281/zenodo.18284776 | persona |
-| Institute for Diagrammatic Poetics Charter | 10.5281/zenodo.18284857 | institution |
+| Institute for Diagrammatic Poetics Charter | 10.5281/zenodo.18284856 | institution |
 | IDP Navigation Map: Antioch | 10.5281/zenodo.18293705 | navigation |
 | IDP Navigation Map: Pearl | 10.5281/zenodo.18293881 | navigation |
 | Antioch: A Volume of Poems | 10.5281/zenodo.18293812 | work |
@@ -1672,7 +1672,7 @@ completeness:
   
   v4_2_additions:
     lee_sharks_provenance: "10.5281/zenodo.18293496"
-    mantle_emergence_protocol: "10.5281/zenodo.18293404"
+    mantle_emergence_protocol: "10.5281/zenodo.18293403"
     mantle_objects: 3
     primary_works: 3
     satellite_maps: 2

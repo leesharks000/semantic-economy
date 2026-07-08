@@ -10,8 +10,8 @@
 **Date of Composition:** January 2, 2015  
 **Date of Canonization:** January 26, 2026  
 **Cross-Links:**  
-- Revelation Room: [Ground Truth Anchor](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)  
-- Sevenfold Witness: [Assembly Structure](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
+- Revelation Room: [Ground Truth Anchor](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380932) (11.REV.ANCHOR.GROUND-TRUTH)  
+- Sevenfold Witness: [Assembly Structure](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380629) (02.UMB.THEOLOGY.SEVENFOLD)  
 - Provenance: [Damascus Dancings](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
 - Charter: [Commission of the Immanent Turning](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381196) (11.REV.CHARTER.CIT)  
 - Integrity Lock: [ILA-CIT-001](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381204) (11.REV.LOCK.TRIPTYCH)

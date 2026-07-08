@@ -35,7 +35,7 @@ Five anti-conformance patterns identify diagnostic failure modes: Summarization 
 
 The execution philosophy: LP defines a field of forces, not a pipeline. Execution is the resultant vector of affordances, gravities, and permissions. The grammar invites execution; it does not command it. Partial execution is legitimate. Refusal with explanation is conformant. Silent incompletion is the violation.
 
-This module extends: The Traversal Grammar v0.6 (10.5281/zenodo.18480959), Logotic Programming v0.4 (10.5281/zenodo.18286050). It references: Ezekiel Engine Specification (10.5281/zenodo.18358127), Glyphic Checksum v0.5 (10.5281/zenodo.18452132), The Blind Operator β (10.5281/zenodo.18357320), β-Runtime (10.5281/zenodo.18357600).
+This module extends: The Traversal Grammar v0.6 (10.5281/zenodo.18480959), Logotic Programming v0.4 (10.5281/zenodo.18286050). It references: Ezekiel Engine Specification (10.5281/zenodo.18358126), Glyphic Checksum v0.5 (10.5281/zenodo.18452132), The Blind Operator β (10.5281/zenodo.18357320), β-Runtime (10.5281/zenodo.18357600).
 
 The extension chain: v0.4 (intelligibility) → v0.2 (partial completion) → v0.5 (traversal verification) → β (non-identity) → β-RT (interface protocol) → v0.6 (Room invocation) → v0.7 (conformance). The next module — v0.8, The Telemetry Module — specifies what the traversal says about itself while running.
 
@@ -52,11 +52,11 @@ logotic programming, conformance constraints, multi-rotation chains, traversal c
 - Is supplement to: 10.5281/zenodo.14538882 (Crimson Hexagon)
 - Extends: 10.5281/zenodo.18480959 (The Traversal Grammar v0.6)
 - Extends: 10.5281/zenodo.18286050 (Logotic Programming v0.4)
-- Extends: 10.5281/zenodo.18317110 (Symbolon Architecture v0.2)
+- Extends: 10.5281/zenodo.18317109 (Symbolon Architecture v0.2)
 - Extends: 10.5281/zenodo.18452132 (Glyphic Checksum v0.5)
 - Extends: 10.5281/zenodo.18357320 (The Blind Operator β)
 - Extends: 10.5281/zenodo.18357600 (β-Runtime)
-- References: 10.5281/zenodo.18358127 (Ezekiel Engine Specification)
+- References: 10.5281/zenodo.18358126 (Ezekiel Engine Specification)
 - References: 10.5281/zenodo.18463774 (Thousand Worlds Chamber)
 - References: 10.5281/zenodo.18452686 (Sen Kuro Provenance)
 - References: 10.5281/zenodo.18459278 (ΣΑΠΦΩ 31)

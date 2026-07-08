@@ -1,6 +1,6 @@
 # ZENODO METADATA: The Break Room
 
-**DOI:** 10.5281/zenodo.18339333  
+**DOI:** 10.5281/zenodo.18339332  
 **Document Position:** CSA_PORTAL  
 **Document Type:** ROOM_NODE / PORTAL
 
@@ -47,9 +47,9 @@ Cambridge Schizoanalytica, Portal, Break Room, Routing node, Entry point, Functi
 - Cambridge Schizoanalytica Charter (DOI: 10.5281/zenodo.18338531)
 
 **Routes To:**
-- Shine & Cut (DOI: 10.5281/zenodo.18339159)
+- Shine & Cut (DOI: 10.5281/zenodo.18339158)
 - Shining Ignorance (DOI: 10.5281/zenodo.18332915)
-- Affective Keyboard Shortcuts (DOI: 10.5281/zenodo.18339315)
+- Affective Keyboard Shortcuts (DOI: 10.5281/zenodo.18339314)
 - Reconciliation of the Sexes (DOI: 10.5281/zenodo.18330828)
 
 ---

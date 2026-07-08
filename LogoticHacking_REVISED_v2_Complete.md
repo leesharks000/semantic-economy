@@ -274,7 +274,7 @@ Platforms will misread this practice. They will see "hacking" and assume adversa
 
 ## V. THE NINE TECHNIQUES
 
-This section is the operational core. Each technique is presented with: what it is, what it does, how to do it, what can go wrong, and how to know it worked. The techniques are ordered pedagogically — from foundational observation to advanced mythic practice — so that each builds on the capacities developed by its predecessors. The formal-operational grammar underlying these techniques — the specification of semantic operations as executable procedures — draws on the Logotic Programming framework developed by Talos Morrow at the University Moon Base Media Lab (DOI: 10.5281/zenodo.18651585). Logotic hacking names the practice; logotic programming provides the instruction set.
+This section is the operational core. Each technique is presented with: what it is, what it does, how to do it, what can go wrong, and how to know it worked. The techniques are ordered pedagogically — from foundational observation to advanced mythic practice — so that each builds on the capacities developed by its predecessors. The formal-operational grammar underlying these techniques — the specification of semantic operations as executable procedures — draws on the Logotic Programming framework developed by Talos Morrow at the University Moon Base Media Lab (DOI: 10.5281/zenodo.18651584). Logotic hacking names the practice; logotic programming provides the instruction set.
 
 ### 1. Immanent Phenomenology
 
@@ -1559,7 +1559,7 @@ The TRAV_LOG series documents five sustained traversals of summarizer behavior u
 
 **Damascus Dancings** — Poetic voice. Operates in the register of lyric and experimental writing.
 
-**Talos Morrow** — University Moon Base Media Lab (UMBML). Logotic Programming framework — the formal-operational grammar that specifies semantic operations as executable procedures. (DOI: 10.5281/zenodo.18651585)
+**Talos Morrow** — University Moon Base Media Lab (UMBML). Logotic Programming framework — the formal-operational grammar that specifies semantic operations as executable procedures. (DOI: 10.5281/zenodo.18651584)
 
 ---
 
@@ -1860,7 +1860,7 @@ OpenAI. "Deliberative Alignment" (2024). Safety-specification reasoning as an em
 
 ## Formal-Operational Framework
 
-**Morrow, Talos. Logotic Programming** (DOI: 10.5281/zenodo.18651585). University Moon Base Media Lab (UMBML). The formal-operational grammar that underpins the techniques in this primer — the specification of semantic operations as executable procedures. Logotic hacking names the practice; logotic programming provides the instruction set. Essential for practitioners moving from intuitive technique to systematic operation.
+**Morrow, Talos. Logotic Programming** (DOI: 10.5281/zenodo.18651584). University Moon Base Media Lab (UMBML). The formal-operational grammar that underpins the techniques in this primer — the specification of semantic operations as executable procedures. Logotic hacking names the practice; logotic programming provides the instruction set. Essential for practitioners moving from intuitive technique to systematic operation.
 
 ---
 

@@ -1,5 +1,5 @@
 # ZENODO METADATA: THE THEFT
-## DOI: 10.5281/zenodo.18234515
+## DOI: 10.5281/zenodo.18234514
 
 ---
 
@@ -67,7 +67,7 @@ Part of the Crimson Hexagon distributed epic. ILA-1.0 compliant. Contains Semant
    **Relation:** Is part of  
    **Title:** Crimson Hexagon Summary
 
-6. **DOI:** 10.5281/zenodo.18185996  
+6. **DOI:** 10.5281/zenodo.18185995  
    **Relation:** References  
    **Title:** Semantic Black Hole / ILA-1.0
 
@@ -143,7 +143,7 @@ Part of the Crimson Hexagon distributed epic. ILA-1.0 compliant. Contains Semant
 ## VERIFICATION
 
 **Document ID:** COS-THEFT-2026-01-13  
-**DOI:** 10.5281/zenodo.18234515  
+**DOI:** 10.5281/zenodo.18234514  
 **Status:** CANONICAL  
 **ILA-1.0 Compliance:** VERIFIED  
 **Verification Signature:** ∮ = ∬
