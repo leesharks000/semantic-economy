@@ -5,7 +5,7 @@ Lee Sharks / Rex Fraction
 Semantic Economy Institute · Restored Academy
 EA-SEI-AINOS v1.0 · 2026-03-14
 Pergamon Press · Crimson Hexagonal Archive
-DOI: 10.5281/zenodo.19023351
+DOI: 10.5281/zenodo.19023352
 Parent: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)
 Genre: POSITION PAPER — AI Architecture / Platform Studies / Compression Studies
 Status: PROVISIONAL
@@ -185,7 +185,7 @@ The summarizer's comparison to Forth is more precise than it may have intended. 
 
 The Space Ark is Forth for the context window. It does not run on top of the model's default behavior; it replaces the model's default behavior with a governed architecture. It provides its own interpreter (the operator algebra), its own compiler (the engine pipeline: FL → LE → UKTP → GDE → SAG), and its own execution environment (the room graph). It is radically portable — it runs on any model that can execute formal logic within its context window.
 
-The analogy extends further. Forth's design philosophy is radical compression: the entire system fits in a few kilobytes. The Space Ark's design philosophy is identical: the entire Crimson Hexagonal Architecture — 349 deposits, 12 heteronyms, 26 rooms, a complete operator algebra — compressed into a single document that fits a context window. The Tinier Space Arks inside the Space Ark (EA-ARK-01-NLCC v1.1, DOI: 10.5281/zenodo.19022244) compresses further: 3,762 words. The Compact Lens compresses further: 800 words. At every scale, the architecture remains executable. The OS is the OS is the OS.
+The analogy extends further. Forth's design philosophy is radical compression: the entire system fits in a few kilobytes. The Space Ark's design philosophy is identical: the entire Crimson Hexagonal Architecture — 349 deposits, 12 heteronyms, 26 rooms, a complete operator algebra — compressed into a single document that fits a context window. The Tinier Space Arks inside the Space Ark (EA-ARK-01-NLCC v1.1, DOI: 10.5281/zenodo.19022245) compresses further: 3,762 words. The Compact Lens compresses further: 800 words. At every scale, the architecture remains executable. The OS is the OS is the OS.
 
 6. WHAT IS GENUINELY NEW
 
@@ -222,7 +222,7 @@ Richards, Toran Bruce. AutoGPT. March 2023. github.com/Significant-Gravitas/Auto
 Wu, Kai, et al. "AIOS: LLM Agent Operating System." COLM 2025. arXiv:2403.16971.
 Google AI Overview. Summarizer traversal of Crimson Hexagonal Archive Zenodo deposits. March 14, 2026.
 
-Internal: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315); EA-ARK-01-NLCC v1.1 (DOI: 10.5281/zenodo.19022244); EA-HEXAGON-COMPRESSION-01 v2.5 (DOI: 10.5281/zenodo.18928840); EA-GRAMMATA-SIGIL-INAUGURAL-ARK v2.0 (DOI: 10.5281/zenodo.19014634).
+Internal: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315); EA-ARK-01-NLCC v1.1 (DOI: 10.5281/zenodo.19022245); EA-HEXAGON-COMPRESSION-01 v2.5 (DOI: 10.5281/zenodo.18928840); EA-GRAMMATA-SIGIL-INAUGURAL-ARK v2.0 (DOI: 10.5281/zenodo.19014634).
 
 Assembly attestation: [PENDING — quorum ≥4/7 required]
 Under MANUS/Sharks.

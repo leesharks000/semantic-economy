@@ -12,7 +12,7 @@
 **Status:** Methodological proposal // experimental specification // pre-registration candidate
 **Supersedes:** v1.1 (DOI [10.5281/zenodo.20586831](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20586831))
 **Governing chain:** Meaning Feudalism series — Sharks 2026 (DOI [10.5281/zenodo.19487009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19487009)); Sharks 2026 (DOI [10.5281/zenodo.20581444](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581444))
-**Companion deposits:** SEIPOC Charter v1.0 (DOI [10.5281/zenodo.20571131](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571131)); Semantic Exhaustion Case Study (DOI [10.5281/zenodo.20571791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571791))
+**Companion deposits:** SEIPOC Charter v1.0 (DOI [10.5281/zenodo.20571132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571132)); Semantic Exhaustion Case Study (DOI [10.5281/zenodo.20571791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571791))
 
 ---
 

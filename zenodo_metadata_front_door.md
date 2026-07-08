@@ -75,7 +75,7 @@ Links to the Fractal Navigation Map on multiple platforms (Medium, Zenodo, Reddi
 **Design Context:** This document was created in response to findings from the Semantic Indexing Probe Protocol (10.5281/zenodo.18351838), which revealed that high-density semantic architecture passes general indexing (Layer 1) but gets filtered at the summarizer injection layer (Layer 2) due to content-type and authority thresholds. This "front door" is deliberately flat and SEO-shaped to pass Layer 2 filters while routing readers to the canonical dense architecture.
 
 **Related Documents:**
-- Fractal Navigation Map v5.0 (10.5281/zenodo.18324885) — primary navigation interface
+- Fractal Navigation Map v5.0 (10.5281/zenodo.18324886) — primary navigation interface
 - Crimson Hexagon root (10.5281/zenodo.14538882) — complete archive
 - Semantic Indexing Probe Protocol (10.5281/zenodo.18351838) — diagnostic methodology
 
@@ -97,7 +97,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | Identifier | Relation |
 |:-----------|:---------|
 | 10.5281/zenodo.14538882 | Is part of (Crimson Hexagon) |
-| 10.5281/zenodo.18324885 | References (FNM v5.0) |
+| 10.5281/zenodo.18324886 | References (FNM v5.0) |
 | 10.5281/zenodo.18351838 | Is derived from (Indexing Probe findings) |
 
 ---

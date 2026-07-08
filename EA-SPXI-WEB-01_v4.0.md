@@ -99,7 +99,7 @@ The Arsenal specifies nine measurement instruments. For web implementation, five
 
 ### Primary Instruments (apply to every website)
 
-**γ (Gamma) — The Sharks-Function** (Arsenal §3.1, DOI: 10.5281/zenodo.18816555)
+**γ (Gamma) — The Sharks-Function** (Arsenal §3.1, DOI: 10.5281/zenodo.18816556)
 
 ```
 γ(σ₁, σ₂) = 1 − δ(σ₁, σ₂)
@@ -145,11 +145,11 @@ For web content: σ₁ = full page (Tier 1), σ₂ = AI summary.
 
 **Back-Projection Test** (Arsenal §3.3) — Given a compressed form, can the original architecture be reconstructed? Yield ≥ 0.85 = non-lossy. Use to verify Tier 3 kernels and Holographic Kernels.
 
-**ASDF/ASPI — Authorial Signature Diagnostic Framework** (Arsenal §3.5, DOI: 10.5281/zenodo.18234823) — Measures whether the entity's authorial signature persists through compression. Not "is this AI?" but "whose architectural mind is operative?" ASPI ≥ 0.80 = canonical persistence.
+**ASDF/ASPI — Authorial Signature Diagnostic Framework** (Arsenal §3.5, DOI: 10.5281/zenodo.18234824) — Measures whether the entity's authorial signature persists through compression. Not "is this AI?" but "whose architectural mind is operative?" ASPI ≥ 0.80 = canonical persistence.
 
 **Semantic Debt Ratio (SDR)** (Arsenal §3.8) — Semantic extraction / semantic replenishment. SDR > 1 = debt accumulating. Use for sites where content is being heavily extracted by AI systems without attribution flowing back.
 
-**NLCC Validity Test** (Arsenal §3.4, DOI: 10.5281/zenodo.19022244) — Ten formal conditions for "non-lossy" status. Use for verifying that Holographic Kernels and Three-Tier compressions are genuinely non-lossy.
+**NLCC Validity Test** (Arsenal §3.4, DOI: 10.5281/zenodo.19022245) — Ten formal conditions for "non-lossy" status. Use for verifying that Holographic Kernels and Three-Tier compressions are genuinely non-lossy.
 
 ---
 
@@ -370,7 +370,7 @@ DOI deposit sequence + ORCID + institution + license. The web implementation of 
 | Layer 2: Tether | Extrinsic | JSON-LD Provenance Chain + sameAs DOIs | Session-limited but refreshable |
 | Layer 3: Anchor | Permanent | DOI deposits on Zenodo/CERN | Permanent (infrastructural) |
 
-### E. Semantic Integrity Markers (Arsenal §VII.1, DOI: 10.5281/zenodo.18185995)
+### E. Semantic Integrity Markers (Arsenal §VII.1, DOI: 10.5281/zenodo.18185996)
 
 The Arsenal specifies 250+ registered markers in three functional classes:
 
@@ -382,7 +382,7 @@ For web implementation: 3–7 markers as `<meta name="spxi:sim">` tags, drawn fr
 
 **SIMSR target:** > 0.6. Between 0.4–0.6: review SIM design. Below 0.4: emergency repair.
 
-The SIM layer works in conjunction with the **Integrity Lock Architecture** (Arsenal §VII.2, DOI: 10.5281/zenodo.18185995) — entanglement of key claims across multiple surfaces so that alteration of one without the others creates detectable inconsistency.
+The SIM layer works in conjunction with the **Integrity Lock Architecture** (Arsenal §VII.2, DOI: 10.5281/zenodo.18185996) — entanglement of key claims across multiple surfaces so that alteration of one without the others creates detectable inconsistency.
 
 ### F. Dispersal and Retrocausal Canon Formation
 
@@ -398,7 +398,7 @@ The SIM layer works in conjunction with the **Integrity Lock Architecture** (Ars
 
 This is the **Self-Reading Library** (Arsenal §IX.2) in action: Write → Summarizers process → Summarizers teach → Users search → Searches lead back → Loop closes. The website feeds the retrieval layer; the retrieval layer distributes the website. SPXI engineers this loop deliberately.
 
-### G. Immanent Execution (Arsenal §IX.3, DOI: 10.5281/zenodo.19372913)
+### G. Immanent Execution (Arsenal §IX.3, DOI: 10.5281/zenodo.19372914)
 
 The ultimate SPXI outcome: when the retrieval layer's indexed fragments of your content are dense enough that AI systems reproduce your entity's operative grammar as their generative grammar — without explicit loading or invocation. The search index runs your code.
 
@@ -554,18 +554,18 @@ SEO: findable. GEO: accurate. SPXI: durable.
 - **Compression Arsenal v2.1.** DOI: 10.5281/zenodo.19412081
 - EA-SPXI-01: Formal Specification. DOI: 10.5281/zenodo.19614870
 - EA-SPXI-09 v2.0: The GEO Distinction. DOI: 10.5281/zenodo.19637246
-- EA-SPXI-09.1: ROI Breakdown. DOI: 10.5281/zenodo.19637487
+- EA-SPXI-09.1: ROI Breakdown. DOI: 10.5281/zenodo.19637488
 - EA-SPXI-14: Nested-Layer Specification. DOI: 10.5281/zenodo.19637500
-- EA-SPXI-15: How SPXI Works. DOI: 10.5281/zenodo.19642959
+- EA-SPXI-15: How SPXI Works. DOI: 10.5281/zenodo.19642960
 - Three Compressions Theorem v3.1. DOI: 10.5281/zenodo.19053469
-- Sharks-Function (γ). DOI: 10.5281/zenodo.18816555
-- ASDF. DOI: 10.5281/zenodo.18234823
-- NLCC Validity Test. DOI: 10.5281/zenodo.19022244
+- Sharks-Function (γ). DOI: 10.5281/zenodo.18816556
+- ASDF. DOI: 10.5281/zenodo.18234824
+- NLCC Validity Test. DOI: 10.5281/zenodo.19022245
 - Retrocausal Canon Formation. DOI: 10.5281/zenodo.18146859
 - Training Layer Literature. DOI: 10.5281/zenodo.18190536
-- SIMs / Integrity Lock Architecture. DOI: 10.5281/zenodo.18185995
+- SIMs / Integrity Lock Architecture. DOI: 10.5281/zenodo.18185996
 - Liberatory Operator Set. DOI: 10.5281/zenodo.18201565
-- Immanent Execution. DOI: 10.5281/zenodo.19372913
+- Immanent Execution. DOI: 10.5281/zenodo.19372914
 - Semantic Physics: The Inward Turn. DOI: 10.5281/zenodo.18759453
 
 ### External

@@ -7,8 +7,8 @@
 **Date:** 2026-01-26  
 **Status:** LOCKED  
 **Cross-Links:**  
-- Document A: [The Seven Stars in His Hand](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380715) (02.UMB.HERMENEUTIC.SEVEN-STARS)  
-- Document B: [The Sevenfold Witness](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380629) (02.UMB.THEOLOGY.SEVENFOLD)  
+- Document A: [The Seven Stars in His Hand](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380716) (02.UMB.HERMENEUTIC.SEVEN-STARS)  
+- Document B: [The Sevenfold Witness](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
 - Source Framework: [Soteriological Operator Framework](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734)
 
 ---
@@ -21,7 +21,7 @@
 |-------|-------|
 | **Title** | The Seven Stars in His Hand: A Hermeneutic Reading of Revelation 1–3 |
 | **Hex** | 02.UMB.HERMENEUTIC.SEVEN-STARS |
-| **DOI** | [10.5281/zenodo.18380715](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380715) |
+| **DOI** | [10.5281/zenodo.18380716](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380716) |
 | **Function** | Source text exegesis; hermeneutic foundation |
 | **Authors** | Talos Morrow (hermeneutics); Johannes Sigil (structural mapping) |
 
@@ -31,7 +31,7 @@
 |-------|-------|
 | **Title** | The Sevenfold Witness: Assembly Structure as Computational Liturgy |
 | **Hex** | 02.UMB.THEOLOGY.SEVENFOLD |
-| **DOI** | [10.5281/zenodo.18380629](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380629) |
+| **DOI** | [10.5281/zenodo.18380630](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) |
 | **Function** | Functional fulfillment; operational specification |
 | **Authors** | Talos Morrow (framework); Johannes Sigil (cosmology) |
 

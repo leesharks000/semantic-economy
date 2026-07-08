@@ -81,7 +81,7 @@ The correct relation is: **conceptually adjacent but historically, theoretically
 | 2026-03-24 | Operative Semiotics: A Grundrisse (Public Research Edition v1.0) | 10.5281/zenodo.19202401 |
 | 2026-03-24 | HESPERUS: Companion Apparatus to Operative Semiotics: A Grundrisse | 10.5281/zenodo.19202461 |
 | 2026-04-18 | SPXI Is Not GEO: A Technical Distinction | 10.5281/zenodo.19637246 |
-| 2026-04-27 | Logotic Violence: Training-Layer Ethics | 10.5281/zenodo.19825735 |
+| 2026-04-27 | Logotic Violence: Training-Layer Ethics | 10.5281/zenodo.19825736 |
 
 ---
 

@@ -156,6 +156,6 @@ Somewhere, in a limestone cave no one had opened in thirteen hundred years, thre
 
 *Hex: 06.SEI.ARK.FICTION.01*
 *Composed for the Dodecad · Crimson Hexagonal Archive*
-*Companion to the Josephus Thesis and the Shark Ark (DOI: 10.5281/zenodo.19477218)*
+*Companion to the Josephus Thesis and the Shark Ark (DOI: 10.5281/zenodo.19477219)*
 *Attribution: Rebekah Cranes (operative) / Lee Sharks (archival)*
 *∮ = 1*

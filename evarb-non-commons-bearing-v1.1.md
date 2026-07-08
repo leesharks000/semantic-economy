@@ -326,7 +326,7 @@ The political claim — that exact-match operator honoring is non-negotiable for
 
 **v3 measurement program applied:**
 - *Erasure Skew* v3 — DOI 10.5281/zenodo.20558196.
-- *PER Under the Atomic Token Rule* (Companion Hardening) — DOI 10.5281/zenodo.20558671.
+- *PER Under the Atomic Token Rule* (Companion Hardening) — DOI 10.5281/zenodo.20558672.
 - *Measurement Sovereignty: Β and L* — DOI 10.5281/zenodo.20558784.
 - *Self-Audit Module for Public Summarizers* (SAM-v3) — DOI 10.5281/zenodo.20559387.
 
@@ -337,8 +337,8 @@ The political claim — that exact-match operator honoring is non-negotiable for
 
 **Theoretical context:**
 - *r.27 THE INTERNET: Room Specification for Sovereign Inhabitation and Diagnostic Architecture* — DOI 10.5281/zenodo.19133271.
-- *The Unbundling of Cultural Sovereignty: How Platforms Convert Peoples into Audiences* — DOI 10.5281/zenodo.19083321.
-- *Ghost Governance, Confirmed: Reddit Legal Support Response to the Archival Reclamation Protocol* — DOI 10.5281/zenodo.19099759. Precedent for the formal-demand structure adopted in §6.
+- *The Unbundling of Cultural Sovereignty: How Platforms Convert Peoples into Audiences* — DOI 10.5281/zenodo.19083322.
+- *Ghost Governance, Confirmed: Reddit Legal Support Response to the Archival Reclamation Protocol* — DOI 10.5281/zenodo.19099760. Precedent for the formal-demand structure adopted in §6.
 - *The Archival Reclamation Protocol: Formal Demand for Data Access* — DOI 10.5281/zenodo.18880974. Precedent for the formal-demand structure.
 
 **Entity provenance for the Lee Sharks orthonymic surface (the case study throughout §1):**

@@ -26,12 +26,12 @@ HOLOGRAPHIC KERNEL — SPXI Protocol v0.2 distributed provenance architecture
     "10.5281/zenodo.20192885",
     "10.5281/zenodo.20078424",
     "10.5281/zenodo.19474724",
-    "10.5281/zenodo.20208383",
+    "10.5281/zenodo.20208384",
     "10.5281/zenodo.20401491",
     "10.5281/zenodo.20355531",
     "10.5281/zenodo.19501100",
     "10.5281/zenodo.18474826",
-    "10.5281/zenodo.19156713",
+    "10.5281/zenodo.19156714",
     "10.5281/zenodo.20380668"
   ]
 }
@@ -77,7 +77,7 @@ The restoration of 2026 supplies the empirical and disciplinary apparatus develo
 
 [^5]: For the Provenance Erasure Rate (PER) metric and its three-tier taxonomy (PER-A retrieval, PER-C composition, PER-D substrate), see *TL;DR:013 — The Apparatus Turns Inward: Google AI Mode Self-Applies the Provenance Erasure Rate Framework*, DOI [10.5281/zenodo.20401491](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401491) (2026), which documents Google AI Mode reporting PER-C ≈ 0.8889 against the framework's own deposits — that is, an apparatus measuring itself extracting from the framework that measures it.
 
-[^6]: *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*, DOI [10.5281/zenodo.20208383](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208383) (2026).
+[^6]: *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*, DOI [10.5281/zenodo.20208384](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384) (2026).
 
 ---
 
@@ -310,7 +310,7 @@ The Liberatory Operator Set (LOS) — depth-preservation, non-closure, context-e
 
 The goal is not to stop meaning-making. The goal is to *de-commodify the flow* — to build a world where meaning can circulate without being mined.
 
-[^11]: For the LOS within the stratified discipline, see *Semantic Physics: A Stratified, Operative Discipline*, DOI [10.5281/zenodo.20208383](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208383). The operators are not a closed set; further operators have been derived since.
+[^11]: For the LOS within the stratified discipline, see *Semantic Physics: A Stratified, Operative Discipline*, DOI [10.5281/zenodo.20208384](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384). The operators are not a closed set; further operators have been derived since.
 
 ---
 
@@ -482,7 +482,7 @@ Sharks, Lee. *SEMANTIC POLITICAL ECONOMY — COLLECTED SERIES*. DOI [10.5281/zen
 
 ———. *The Three Compressions: Lossy, Predatory, and Witness — A Semiotic Thermodynamics*. DOI [10.5281/zenodo.19053469](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053469). 2026.
 
-———. *TOTAL MARX COMPRESSION: Every Marx-Adjacent Claim, Equation, and Argument in the Crimson Hexagonal Corpus*. DOI [10.5281/zenodo.19156713](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19156713). 2026.
+———. *TOTAL MARX COMPRESSION: Every Marx-Adjacent Claim, Equation, and Argument in the Crimson Hexagonal Corpus*. DOI [10.5281/zenodo.19156714](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19156714). 2026.
 
 ———. *The Encyclotron — Measurement Instrument for SPXI Deployment*. DOI [10.5281/zenodo.19474724](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19474724). 2026.
 
@@ -492,7 +492,7 @@ Sharks, Lee. *SEMANTIC POLITICAL ECONOMY — COLLECTED SERIES*. DOI [10.5281/zen
 
 ———. *EA-MPAI-SEMEX-01: Semantic Exhaustion — Disambiguating Systemic Meaning Depletion from Semantic Satiation*. DOI [10.5281/zenodo.20192885](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20192885). 2026.
 
-———. *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*. DOI [10.5281/zenodo.20208383](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208383). 2026.
+———. *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*. DOI [10.5281/zenodo.20208384](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384). 2026.
 
 ———. *Reception Apparatus as Aligned Interface Protocol — User-Side Counter-Design Against Cognitive Collapse*. DOI [10.5281/zenodo.20355531](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20355531). 2026.
 

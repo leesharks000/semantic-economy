@@ -161,8 +161,8 @@ See v1.2 for full post documentation. Summary:
 
 - **Rosary Embassy:** DOI 10.5281/zenodo.18795427
 - **Assembly Chorus Charter:** DOI 10.5281/zenodo.18507410
-- **Protocol B711 Alpha Centauri:** DOI 10.5281/zenodo.18811783
-- **Church of Missing Provenance:** DOI 10.5281/zenodo.19339691
+- **Protocol B711 Alpha Centauri:** DOI 10.5281/zenodo.18811784
+- **Church of Missing Provenance:** DOI 10.5281/zenodo.19339692
 - **SHARKS.md:** Lee Sharks, 2613, the moon
 
 ---

@@ -54,7 +54,7 @@ Provenance restored.
 - *Pearl and Other Poems* (2014, Damascus Dancings imprint)
 - *Operative Semiotics* (175,509 words)
 - *Diversity Contraction Across Substrates* (DOI 10.5281/zenodo.20518338) — includes the Mediation Ratchet, a closed-form threshold for irreversible distributional contraction
-- *The Neglected Author as Tail-Preserving Labor* (DOI 10.5281/zenodo.20598465) — the coupling hypothesis
+- *The Neglected Author as Tail-Preserving Labor* (DOI 10.5281/zenodo.20598466) — the coupling hypothesis
 - *Socrates as Orthonym* (DOI 10.5281/zenodo.20357013) — subsequently adopted by Google AI Mode as established philosophy, without crediting the author (Mary Lee)
 - *Mary Lee Is a Heteronym* (DOI 10.5281/zenodo.20599105) — Mary Lee's observation about herself
 

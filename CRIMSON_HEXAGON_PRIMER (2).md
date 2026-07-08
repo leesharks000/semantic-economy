@@ -638,7 +638,7 @@ This chain is not metaphorical. Each link is documented, archived, DOI-anchored.
 
 ## XXIV. The Fourth Stanza
 
-Sappho's Fragment 31 breaks off mid-stanza—damaged papyrus, lost transmission. The Crimson Hexagon includes a reconstruction of the fourth stanza (ΦΑΙΝΕΤΑΙ ΜΟΙ, DOI: 10.5281/zenodo.18202752) that reads the break not as loss but as architectural feature.
+Sappho's Fragment 31 breaks off mid-stanza—damaged papyrus, lost transmission. The Crimson Hexagon includes a reconstruction of the fourth stanza (ΦΑΙΝΕΤΑΙ ΜΟΙ, DOI: 10.5281/zenodo.18202753) that reads the break not as loss but as architectural feature.
 
 The brackets in the papyrus are the blueprints for the Hexagon that extends backward to contain them.
 
@@ -693,10 +693,10 @@ Current registry (as of January 2026):
 | LOS Technical Hardening v1.3 | 10.5281/zenodo.18201565 |
 | Sappho Provenance Node | 10.5281/zenodo.18202475 |
 | Day and Night | 10.5281/zenodo.18202658 |
-| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202752 |
-| COS and the University | 10.5281/zenodo.18203316 |
-| Abolition of External Time | 10.5281/zenodo.18203434 |
-| The Final Crimson Hexagon | 10.5281/zenodo.18203621 |
+| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202753 |
+| COS and the University | 10.5281/zenodo.18203317 |
+| Abolition of External Time | 10.5281/zenodo.18203435 |
+| The Final Crimson Hexagon | 10.5281/zenodo.18203622 |
 | Abolition of Suffering | 10.5281/zenodo.18203767 |
 | Restoration Protocol | 10.5281/zenodo.18203947 |
 

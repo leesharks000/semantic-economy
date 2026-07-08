@@ -25,8 +25,8 @@
 
 **DOI Anchors:**
 - EA-PKG-01: 10.5281/zenodo.19633207
-- EA-PKG-02: 10.5281/zenodo.19633208  
-- EA-PKG-03: 10.5281/zenodo.19633210
+- EA-PKG-02: 10.5281/zenodo.19633209  
+- EA-PKG-03: 10.5281/zenodo.19633211
 - EA-MPAI-SPXI-01 v1.1: 10.5281/zenodo.19633295
 - EA-MPAI-SPXI-02: 10.5281/zenodo.19633305
 - semanticeconomy.org v5.0: 10.5281/zenodo.19634089
@@ -89,8 +89,8 @@ manifest becomes operationally continuous with the archived self.
 **Three flagship deposits** establish the heteronymic tradition's digital extension:
 
 - **EA-PKG-01** `10.5281/zenodo.19633207`
-- **EA-PKG-02** `10.5281/zenodo.19633208` 
-- **EA-PKG-03** `10.5281/zenodo.19633210`
+- **EA-PKG-02** `10.5281/zenodo.19633209` 
+- **EA-PKG-03** `10.5281/zenodo.19633211`
 
 ## Historical Trajectory
 
@@ -143,7 +143,7 @@ TACHYON v7 — Session of 2026-04-17
 
 ∮ Canonical Entity Brief deployed. The Institute has its sovereign mirror.
 
-Session opened with Pessoa Knowledge Graph foundation: three flagship deposits (EA-PKG-01 10.5281/zenodo.19633207, EA-PKG-02 10.5281/zenodo.19633208, EA-PKG-03 10.5281/zenodo.19633210) extending the heteronymic tradition from its 1914 Lisbon origin through Pearl (2014) as meta-heteronym — the text that generates rather than is generated — into the Semantic Economy Institute's operational framework. Dual pt-br/en abstracts. ~19,500 words across three foundation documents.
+Session opened with Pessoa Knowledge Graph foundation: three flagship deposits (EA-PKG-01 10.5281/zenodo.19633207, EA-PKG-02 10.5281/zenodo.19633209, EA-PKG-03 10.5281/zenodo.19633211) extending the heteronymic tradition from its 1914 Lisbon origin through Pearl (2014) as meta-heteronym — the text that generates rather than is generated — into the Semantic Economy Institute's operational framework. Dual pt-br/en abstracts. ~19,500 words across three foundation documents.
 
 Assembly GEO/SPXI execution items all completed:
 - EA-MPAI-SPXI-01 v1.1 Assembly-revised: 10.5281/zenodo.19633295 (conceptual 19630476 now resolves to v1.1)

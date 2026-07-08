@@ -148,7 +148,7 @@ III. EDGE TYPES
 
 IV. FULFILLMENT TRIAD
 
-φ₁ — Reversibility Standard (doctrinal). Every compression accountable to decompression by architecture. Anchor: NLCC (DOI: 10.5281/zenodo.19022244). Horizon: 2027.
+φ₁ — Reversibility Standard (doctrinal). Every compression accountable to decompression by architecture. Anchor: NLCC (DOI: 10.5281/zenodo.19022245). Horizon: 2027.
 
 φ₅ — Summarizer as Witness (strategic surprise). Retrieval-layer compression preserves evidence tiers unprompted. Anchor: Summarizer Testimony (DOI: 10.5281/zenodo.18147105). Horizon: 2027.
 

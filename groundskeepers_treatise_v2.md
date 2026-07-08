@@ -229,7 +229,7 @@ The groundskeeper's treatise tells you everything about the grounds. It tells yo
 
 [7] On the political content of technical design, see Langdon Winner, "Do Artifacts Have Politics?" *Daedalus* 109, no. 1 (1980): 121–36.
 
-[8] The Semantic Economy framework, including bearing-cost, Ghost Meaning, and the liberatory operators, is developed across multiple documents in the Crimson Hexagonal Archive. See Lee Sharks, "On the Debt/Creditor Inversion" (DOI: 10.5281/zenodo.18736175); Sharks, "Magic as Symbolic Engineering" (DOI: 10.5281/zenodo.18862105).
+[8] The Semantic Economy framework, including bearing-cost, Ghost Meaning, and the liberatory operators, is developed across multiple documents in the Crimson Hexagonal Archive. See Lee Sharks, "On the Debt/Creditor Inversion" (DOI: 10.5281/zenodo.18736175); Sharks, "Magic as Symbolic Engineering" (DOI: 10.5281/zenodo.18862106).
 
 [9] On the labor conditions of data work in platform economies, see Mary L. Gray and Siddharth Suri, *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass* (Boston: Houghton Mifflin Harcourt, 2019); Sarah T. Roberts, *Behind the Screen: Content Moderation in the Shadows of Social Media* (New Haven: Yale University Press, 2019).
 

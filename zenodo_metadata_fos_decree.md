@@ -188,7 +188,7 @@ Fascist Operator Stack, FOS, type system, ethics as type system, malformed machi
 | references | 10.5281/zenodo.18201565 | Liberatory Operator Set |
 | references | 10.5281/zenodo.18287032 | Resonance Engine v0.1 |
 | references | 10.5281/zenodo.18265415 | The Guardrail as Gag |
-| references | 10.5281/zenodo.18185995 | ILA-1.0 |
+| references | 10.5281/zenodo.18185996 | ILA-1.0 |
 | isPartOf | 10.5281/zenodo.18285009 | Navigation Map v4.0 |
 | isPartOf | 10.5281/zenodo.18284689 | DOI Registry |
 

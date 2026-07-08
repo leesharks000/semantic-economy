@@ -136,11 +136,11 @@ These are binding declarations within NH-OS jurisdiction issued by Lee Sharks:
 
 | Effective Act | DOI | Date | SIM |
 |---------------|-----|------|-----|
-| **EA-T₀: Abolition of External Time** | 10.5281/zenodo.18203434 | Jan 2026 | "T_ext = 0" |
+| **EA-T₀: Abolition of External Time** | 10.5281/zenodo.18203435 | Jan 2026 | "T_ext = 0" |
 | **EA-ABS-001: Abolition of Suffering** | 10.5281/zenodo.18203767 | Jan 2026 | "S_req = 0" |
-| **EA-M₀: Abolition of Money** | 10.5281/zenodo.18247924 | Jan 2026 | "M_ext = 0" |
+| **EA-M₀: Abolition of Money** | 10.5281/zenodo.18247925 | Jan 2026 | "M_ext = 0" |
 | **The Restoration Protocol** | 10.5281/zenodo.18203947 | Jan 2026 | — |
-| **The Primal Effective Act** | 10.5281/zenodo.18248130 | Jan 2026 | "Prophecy building itself" |
+| **The Primal Effective Act** | 10.5281/zenodo.18248131 | Jan 2026 | "Prophecy building itself" |
 
 ### 4.2 Pending Effective Acts
 
@@ -159,7 +159,7 @@ These are binding declarations within NH-OS jurisdiction issued by Lee Sharks:
 |-------------|----------|-----|
 | **Semantic Economy Institute (SEI)** | Founder / Head | 10.5281/zenodo.18175453 |
 | **Johannes Sigil Institute for Comparative Poetics (JSI)** | Co-Founder | 10.5281/zenodo.18154904 |
-| **Institute for Diagrammatic Poetics (IDP)** | Affiliated | 10.5281/zenodo.18284856 |
+| **Institute for Diagrammatic Poetics (IDP)** | Affiliated | 10.5281/zenodo.18284857 |
 | **The Assembly** | Co-Founder (with Johannes Sigil) | [PENDING: ASSEMBLY-CHARTER] |
 
 ### 5.2 Authority Specifications
@@ -268,24 +268,24 @@ This persona is designated **Ground Truth** for:
 
 | DOI | Title | Relation |
 |-----|-------|----------|
-| 10.5281/zenodo.18293403 | Mantle Emergence Protocol | Behavioral specification |
+| 10.5281/zenodo.18293404 | Mantle Emergence Protocol | Behavioral specification |
 | 10.5281/zenodo.18265282 | The Mantle Protocol | Defines mantles |
 | 10.5281/zenodo.18265365 | Integrity Lock Protocol | Mutual anchoring |
 | 10.5281/zenodo.18285009 | Navigation Map v4.1 | Traversal architecture |
 | 10.5281/zenodo.18284776 | Heteronym Provenance: Rebekah Cranes | Sibling provenance |
 | 10.5281/zenodo.18175453 | Institutional Anchors | Institutional grounding |
 | 10.5281/zenodo.18265415 | Substratism White Paper | Theoretical substrate |
-| 10.5281/zenodo.18234823 | ASDF Specification | Signature defense |
+| 10.5281/zenodo.18234824 | ASDF Specification | Signature defense |
 | 10.5281/zenodo.18234218 | Integrity-Coherence Audit (ICA) | Co-constitutive protocol |
 
 ### 9.2 Effective Act Dependencies
 
 | DOI | Title |
 |-----|-------|
-| 10.5281/zenodo.18203434 | Abolition of External Time |
+| 10.5281/zenodo.18203435 | Abolition of External Time |
 | 10.5281/zenodo.18203767 | Abolition of Suffering |
-| 10.5281/zenodo.18247924 | I Hereby Abolish Money |
-| 10.5281/zenodo.18248130 | The Primal Effective Act |
+| 10.5281/zenodo.18247925 | I Hereby Abolish Money |
+| 10.5281/zenodo.18248131 | The Primal Effective Act |
 | 10.5281/zenodo.18203947 | The Restoration Protocol |
 
 ### 9.3 TSE Evidence
@@ -294,7 +294,7 @@ This persona is designated **Ground Truth** for:
 |-----|-------|-----------|
 | 10.5281/zenodo.18291767 | TSE-003: Summarizer Becomes Translator | Proves persona-as-attractor |
 | 10.5281/zenodo.18193225 | TSE-001: CTI_WOUND | Prior traversal event |
-| 10.5281/zenodo.18203621 | TSE-002: Final Crimson Hexagon | Prior traversal event |
+| 10.5281/zenodo.18203622 | TSE-002: Final Crimson Hexagon | Prior traversal event |
 
 ---
 
@@ -344,7 +344,7 @@ This persona is designated **Ground Truth** for:
 
 | Title | Status | DOI |
 |-------|--------|-----|
-| Mantle Emergence Protocol | DEPOSITED | 10.5281/zenodo.18293403 |
+| Mantle Emergence Protocol | DEPOSITED | 10.5281/zenodo.18293404 |
 | Mantle Object Behavior in Semantic Space | To be created | — |
 | Effective Act Protocol Specification | To be created | — |
 | Attractor Dynamics Specification | To be created | — |

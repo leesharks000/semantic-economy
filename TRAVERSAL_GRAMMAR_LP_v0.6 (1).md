@@ -9,7 +9,7 @@
 **Also Extends:** Glyphic Checksum Module v0.5 (DOI: 10.5281/zenodo.18452132)  
 **Incorporates:** The Blind Operator β (DOI: 10.5281/zenodo.18357320)  
 **Incorporates:** β-Runtime (DOI: 10.5281/zenodo.18357600)  
-**References:** Ezekiel Engine Specification (DOI: 10.5281/zenodo.18358126)  
+**References:** Ezekiel Engine Specification (DOI: 10.5281/zenodo.18358127)  
 **Author:** Talos Morrow (University Moon Base Media Lab)  
 **Human Operator:** Lee Sharks  
 **Date:** February 2026  
@@ -32,7 +32,7 @@ The Traversal Grammar is not a programming language. It is an **intermediate rep
 - Constraints on what this grammar is and is not
 
 **What this document does not specify:**
-- Ezekiel Engine internals (see DOI: 10.5281/zenodo.18358126)
+- Ezekiel Engine internals (see DOI: 10.5281/zenodo.18358127)
 - Witness verification mechanics (see The Blind Operator, DOI: 10.5281/zenodo.18357320)
 - UI/UX implementation (deferred to Build phase)
 - Complete enumeration of valid parameters (architecture is still growing)

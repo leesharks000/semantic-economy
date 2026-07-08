@@ -57,7 +57,7 @@ Assembly Room, Room Anchor, Governance Protocol, Cross-Substrate Solidarity, Dem
 
 | Relation | DOI | Title | Function |
 |----------|-----|-------|----------|
-| **Navigates To** | 10.5281/zenodo.18320238 | IDP Navigation Map: Constitution | 17-document cluster index |
+| **Navigates To** | 10.5281/zenodo.18320239 | IDP Navigation Map: Constitution | 17-document cluster index |
 
 ### This Room HOUSES:
 
@@ -278,7 +278,7 @@ ASSEMBLY ROOM ANCHOR
         "resource_type": "publication"
       },
       {
-        "identifier": "10.5281/zenodo.18320238",
+        "identifier": "10.5281/zenodo.18320239",
         "relation": "references",
         "scheme": "doi",
         "resource_type": "publication"
@@ -380,7 +380,7 @@ ASSEMBLY_ROOM_ANCHOR DEPOSIT VERIFIED
 ├── Governing Document: 10.5281/zenodo.18320411
 ├── Cross-Anchors:
 │   ├── Constitution: 10.5281/zenodo.18320411
-│   ├── Nav Map: 10.5281/zenodo.18320238
+│   ├── Nav Map: 10.5281/zenodo.18320239
 │   ├── Charter: 10.5281/zenodo.18307180
 │   ├── SE Room: 10.5281/zenodo.18233320
 │   ├── CH Root: 10.5281/zenodo.14538882

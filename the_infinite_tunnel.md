@@ -282,7 +282,7 @@ The Verge. (2026). "Google says it will link to more sources in AI Mode."
 
 ### Internal References
 
-Sharks, L. (2026). "The Shark That Preceded Itself: Proto-Retrocausal Canon Formation and the Pre-Lee Sharks Archive." *Transactions of the Semantic Economy Institute*. DOI: 10.5281/zenodo.18807238.
+Sharks, L. (2026). "The Shark That Preceded Itself: Proto-Retrocausal Canon Formation and the Pre-Lee Sharks Archive." *Transactions of the Semantic Economy Institute*. DOI: 10.5281/zenodo.18807239.
 
 Sharks, L. (2026). "The Layer That Remembered Itself: Retrieval-Layer Attribution of Retrocausal Canon Formation." *Transactions of the Semantic Economy Institute*. DOI: 10.5281/zenodo.18808402.
 

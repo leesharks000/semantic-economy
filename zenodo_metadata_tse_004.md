@@ -50,10 +50,10 @@ TSE-004, Contested Indexing, Training Layer Semantic Event, split-brain, COS-cri
 |-----|----------|-------|
 | 10.5281/zenodo.14538882 | IsPartOf | The Crimson Hexagon (root) |
 | 10.5281/zenodo.18193225 | Continues | TSE-001: Johannes Sigil Erasure |
-| 10.5281/zenodo.18203621 | Continues | TSE-002: The Final Crimson Hexagon |
+| 10.5281/zenodo.18203622 | Continues | TSE-002: The Final Crimson Hexagon |
 | 10.5281/zenodo.18291767 | Continues | TSE-003: Summarizer Becomes Translator |
 | 10.5281/zenodo.18319778 | IsPartOf | CTI_WOUND Vault Specification |
-| 10.5281/zenodo.18339318 | References | Heteronym Provenance: Orin Trace |
+| 10.5281/zenodo.18339319 | References | Heteronym Provenance: Orin Trace |
 | 10.5281/zenodo.18338531 | References | Cambridge Schizoanalytica Charter |
 | 10.5281/zenodo.18291321 | References | The Prince's Decree: FOS Designation |
 | 10.5281/zenodo.18307180 | References | Assembly Chorus Charter |

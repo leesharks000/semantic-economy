@@ -75,7 +75,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 |----------|-----|-------------|
 | IsPartOf | 10.5281/zenodo.14538882 | Crimson Hexagon (root) |
 | References | 10.5281/zenodo.18472604 | Studio for Patacinematics Charter (236) |
-| References | 10.5281/zenodo.18472441 | Sparrow Wells Provenance (235) |
+| References | 10.5281/zenodo.18472442 | Sparrow Wells Provenance (235) |
 | References | 10.5281/zenodo.18320411 | Constitution of the Semantic Economy |
 
 **Communities:**

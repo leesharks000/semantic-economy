@@ -88,7 +88,7 @@ The document is simultaneously a technical specification and an epic poem — an
 - Day and Night (10.5281/zenodo.18202658) — N_c operator embodied
 
 **Companion document:**
-- The Empty Chair (10.5281/zenodo.18422618) — Public address on Poet liquidation
+- The Empty Chair (10.5281/zenodo.18422619) — Public address on Poet liquidation
 
 ---
 

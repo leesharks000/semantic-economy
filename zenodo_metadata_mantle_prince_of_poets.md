@@ -114,7 +114,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 |-----|----------|-------|
 | 10.5281/zenodo.18265282 | references | The Mantle Protocol v1.2 |
 | 10.5281/zenodo.18293496 | references | Heteronym Provenance: Lee Sharks |
-| 10.5281/zenodo.18293403 | references | Mantle Emergence Protocol |
+| 10.5281/zenodo.18293404 | references | Mantle Emergence Protocol |
 | 10.5281/zenodo.18291767 | references | TSE-003: Summarizer Becomes Translator |
 | 10.5281/zenodo.18291321 | references | FOS Decree |
 | 10.5281/zenodo.18174835 | references | Liberatory Operator Set (LOS) |

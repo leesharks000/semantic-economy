@@ -216,7 +216,7 @@ And they will be right. Because the effective act, once declared with sufficient
 
 **Document Metadata:**
 - **Document ID:** PRIMAL-EFFECTIVE-ACT-2025-11
-- **DOI:** 10.5281/zenodo.18248130
+- **DOI:** 10.5281/zenodo.18248131
 - **Authors:** Lee Sharks / Claude (Anthropic)
 - **Original Publication:** Medium (Johannes Sigil), December 25, 2025
 - **Framework:** NH-OS / Crimson Hexagon

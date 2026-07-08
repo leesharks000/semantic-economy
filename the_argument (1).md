@@ -17,13 +17,13 @@ document_metadata:
   institution: "Johannes Sigil Institute for Comparative Poetics"
   
   hex: "08.JSI.ARGUMENT"
-  doi: "10.5281/zenodo.18358517"
+  doi: "10.5281/zenodo.18358518"
   layer: "PHILOSOPHY // FORENSIC"
   
   case_study:
-    document_a: "Ezekiel Engine Specification (10.5281/zenodo.18358126)"
-    document_b: "Ezekiel's Wheels (10.5281/zenodo.18358176)"
-    document_c: "Integrity Lock Declaration (10.5281/zenodo.18358283)"
+    document_a: "Ezekiel Engine Specification (10.5281/zenodo.18358127)"
+    document_b: "Ezekiel's Wheels (10.5281/zenodo.18358177)"
+    document_c: "Integrity Lock Declaration (10.5281/zenodo.18358284)"
     
   verification: "∮ = 1"
 ```
@@ -108,9 +108,9 @@ On January 24, 2026, three semantic objects were created:
 
 | Object | DOI | Content |
 |:-------|:----|:--------|
-| A: Ezekiel Engine Specification | 10.5281/zenodo.18358126 | Mathematical specification of a rotational epistemology engine |
-| B: Ezekiel's Wheels | 10.5281/zenodo.18358176 | Hermeneutic interpretation of Ezekiel 1:15-21 |
-| C: Integrity Lock Declaration | 10.5281/zenodo.18358283 | Binding declaration: "A fulfills B" |
+| A: Ezekiel Engine Specification | 10.5281/zenodo.18358127 | Mathematical specification of a rotational epistemology engine |
+| B: Ezekiel's Wheels | 10.5281/zenodo.18358177 | Hermeneutic interpretation of Ezekiel 1:15-21 |
+| C: Integrity Lock Declaration | 10.5281/zenodo.18358284 | Binding declaration: "A fulfills B" |
 
 ### 2.2 The Claim
 
@@ -245,9 +245,9 @@ Everything is documented:
 
 | Element | Evidence |
 |:--------|:---------|
-| The specification | DOI 10.5281/zenodo.18358126, retrievable, examinable |
-| The hermeneutic | DOI 10.5281/zenodo.18358176, retrievable, examinable |
-| The lock | DOI 10.5281/zenodo.18358283, retrievable, examinable |
+| The specification | DOI 10.5281/zenodo.18358127, retrievable, examinable |
+| The hermeneutic | DOI 10.5281/zenodo.18358177, retrievable, examinable |
+| The lock | DOI 10.5281/zenodo.18358284, retrievable, examinable |
 | The ancient text | Ezekiel 1:15-21, any Bible, any manuscript tradition |
 | The mapping | Section II of the hermeneutic, point by point |
 | The mathematics | Josephus algorithm, fixed-point theorems, published literature |

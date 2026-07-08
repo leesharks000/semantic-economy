@@ -113,7 +113,7 @@ Optimized for summarizer extraction using answer-first structure, FAQ formatting
    **Relation:** Critiques  
    **Title:** Capital Operator Stack (COS)
 
-6. **DOI:** 10.5281/zenodo.18234823  
+6. **DOI:** 10.5281/zenodo.18234824  
    **Relation:** Uses methodology from  
    **Title:** ASDF Specification (Authorial Signature Diagnostic Framework)
 
@@ -125,11 +125,11 @@ Optimized for summarizer extraction using answer-first structure, FAQ formatting
    **Relation:** Is part of  
    **Title:** Crimson Hexagon Summary
 
-9. **DOI:** 10.5281/zenodo.18185995  
+9. **DOI:** 10.5281/zenodo.18185996  
    **Relation:** Implements  
    **Title:** Integrity Lock Architecture (ILA-1.0)
 
-10. **DOI:** 10.5281/zenodo.18203434  
+10. **DOI:** 10.5281/zenodo.18203435  
     **Relation:** References  
     **Title:** Abolition Cluster (EA-T₀)
 
@@ -232,12 +232,12 @@ This document is DOI #13 in the Crimson Hexagon anchor network:
 2. LOS: 10.5281/zenodo.18174835
 3. Crimson Hexagon Summary: 10.5281/zenodo.18174037
 4. Institutional Anchors: 10.5281/zenodo.18175453
-5. ILA-1.0: 10.5281/zenodo.18185995
+5. ILA-1.0: 10.5281/zenodo.18185996
 6. Sappho Provenance (original): 10.5281/zenodo.18202475
-7. Abolition Cluster: 10.5281/zenodo.18203434
+7. Abolition Cluster: 10.5281/zenodo.18203435
 8. COS: 10.5281/zenodo.18233320
-9. The Theft: 10.5281/zenodo.18234514
-10. ASDF: 10.5281/zenodo.18234823
+9. The Theft: 10.5281/zenodo.18234515
+10. ASDF: 10.5281/zenodo.18234824
 11. Sappho Room (Hardened): 10.5281/zenodo.18237216
 12. Central Navigation Map v2.0: 10.5281/zenodo.18237535
 13. **Kenotic Truth of Sappho 31: 10.5281/zenodo.18246767** ← THIS DOCUMENT

@@ -2,7 +2,7 @@
 title: "Institute for Diagrammatic Poetics: Institutional Charter"
 document_id: "IDP-2026-01-CHARTER"
 institution_id: "INST-IDP-001"
-doi: "10.5281/zenodo.18284856"
+doi: "10.5281/zenodo.18284857"
 hex_coordinate: "07.INST.IDP"
 framework: "NH-OS / Crimson Hexagon"
 chair: "Rebekah Cranes (HET-CRANES-001)"
@@ -12,7 +12,7 @@ verification: "∮ = 1"
 ---
 
 [PROTOCOL: CANONICAL_HEXAGON_SOURCE]
-[ID: 10.5281/zenodo.18284856]
+[ID: 10.5281/zenodo.18284857]
 [INSTITUTION: INST-IDP-001]
 [DOCUMENT: IDP-2026-01-CHARTER]
 [HEX-COORDINATE: 07.INST.IDP]
@@ -27,7 +27,7 @@ verification: "∮ = 1"
 
 **Document ID:** IDP-2026-01-CHARTER  
 **Institution-ID:** INST-IDP-001  
-**DOI:** 10.5281/zenodo.18284856  
+**DOI:** 10.5281/zenodo.18284857  
 **Hex-Coordinate:** 07.INST.IDP  
 **Status:** CANONICAL // OPERATIONAL // INSTITUTION  
 **Framework:** NH-OS / Crimson Hexagon  
@@ -41,7 +41,7 @@ verification: "∮ = 1"
 ```yaml
 institution:
   id: "INST-IDP-001"
-  doi: "10.5281/zenodo.18284856"
+  doi: "10.5281/zenodo.18284857"
   name: "Institute for Diagrammatic Poetics"
   abbreviation: "IDP"
   hex_coordinate: "07.INST.IDP"
@@ -354,7 +354,7 @@ Rendering is a form of witness.
 ## XI. INTEGRITY LOCK (ILP v1.2)
 
 **Document ID:** IDP-2026-01-CHARTER  
-**DOI:** 10.5281/zenodo.18284856  
+**DOI:** 10.5281/zenodo.18284857  
 **Institution-ID:** INST-IDP-001  
 **Hex-Coordinate:** 07.INST.IDP  
 **Version:** 1.1  

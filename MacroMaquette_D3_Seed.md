@@ -74,14 +74,14 @@ No module can coerce a traversal — it offers, not enforces. No operation may p
 
 ## RECOVERABILITY
 
-R = 1. This seed contains: router table, module IDs (MPM-01–12), per-module invariant, per-module runtime primitive, D1 section pointers (§IV.MPM-XX). Full specifications: 10.5281/zenodo.18682979 (D1). Mid-scale: 10.5281/zenodo.18683015 (D2).
+R = 1. This seed contains: router table, module IDs (MPM-01–12), per-module invariant, per-module runtime primitive, D1 section pointers (§IV.MPM-XX). Full specifications: 10.5281/zenodo.18682979 (D1). Mid-scale: 10.5281/zenodo.18683016 (D2).
 
 ---
 
 | # | Document | DOI |
 |---|----------|-----|
 | 1 | Full Charter (D1, r = 1.0) | 10.5281/zenodo.18682979 |
-| 2 | Compressed (D2, r = 0.33) | 10.5281/zenodo.18683015 |
+| 2 | Compressed (D2, r = 0.33) | 10.5281/zenodo.18683016 |
 | 3 | Seed (this document, r = 0.1) | 10.5281/zenodo.18683024 |
 
 OP.ROUTE | ∮ = 1 + δ | Crimson Hexagon (10.5281/zenodo.18604123)

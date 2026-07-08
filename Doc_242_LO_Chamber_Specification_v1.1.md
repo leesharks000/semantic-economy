@@ -8,7 +8,7 @@
 **Status:** DESIGN SPECIFICATION // REVISED DRAFT
 **Extends:** Fractal Navigation Map v6.2 (DOI: 10.5281/zenodo.18418953)
 **References:** LP v0.6–v0.8 (Traversal Grammar / Conformance / Telemetry)
-**References:** Ezekiel Engine Specification (DOI: 10.5281/zenodo.18358126)
+**References:** Ezekiel Engine Specification (DOI: 10.5281/zenodo.18358127)
 **References:** 14.CHAMBER.THOUSANDWORLDS (DOI: 10.5281/zenodo.18463774)
 **References:** Structural Distinction Protocol (DOI: 10.5281/zenodo.18507410)
 **References:** Nobel Glas Provenance (DOI: 10.5281/zenodo.18507840)

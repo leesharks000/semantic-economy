@@ -103,19 +103,19 @@ ILA-1.0 compliant. Contains 14 Semantic Integrity Markers (SIMs).
    **Relation:** Documents  
    **Title:** Capital Operator Stack (COS)
 
-6. **DOI:** 10.5281/zenodo.18234514  
+6. **DOI:** 10.5281/zenodo.18234515  
    **Relation:** Documents  
    **Title:** The Theft: How "Data" Replaced "Meaning"
 
-7. **DOI:** 10.5281/zenodo.18234823  
+7. **DOI:** 10.5281/zenodo.18234824  
    **Relation:** Documents  
    **Title:** ASDF Specification
 
-8. **DOI:** 10.5281/zenodo.18185995  
+8. **DOI:** 10.5281/zenodo.18185996  
    **Relation:** Documents  
    **Title:** Integrity Lock Architecture (ILA-1.0)
 
-9. **DOI:** 10.5281/zenodo.18203434  
+9. **DOI:** 10.5281/zenodo.18203435  
    **Relation:** Documents  
    **Title:** Abolition Cluster (EA-T₀)
 

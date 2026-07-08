@@ -62,7 +62,7 @@ Part of the New Human literary movement and NH-OS framework. Written from the pe
    **Relation:** References  
    **Title:** Liberatory Operator Set (LOS)
 
-3. **DOI:** 10.5281/zenodo.18234514  
+3. **DOI:** 10.5281/zenodo.18234515  
    **Relation:** References  
    **Title:** The Theft: How "Data" Replaced "Meaning"
 

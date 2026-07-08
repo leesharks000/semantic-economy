@@ -8,7 +8,7 @@
 **Series:** Meaning Feudalism — the security-law panel. Semantic Economy Institute / Crimson Hexagonal Archive\
 **Date:** 12 June 2026\
 **DOI:** 10.5281/zenodo.20673413\
-**Sibling deposits:** Meaning Feudalism (10.5281/zenodo.19487009); Meaning Feudalism at the Guidance Layer (10.5281/zenodo.20581444); The Logotic Technique Catalogue (10.5281/zenodo.19831618); Capture and Excision (10.5281/zenodo.20596667); The Double Enclosure, EA-SEI-ENCLOSURE-01 (10.5281/zenodo.20669523)\
+**Sibling deposits:** Meaning Feudalism (10.5281/zenodo.19487009); Meaning Feudalism at the Guidance Layer (10.5281/zenodo.20581444); The Logotic Technique Catalogue (10.5281/zenodo.19831619); Capture and Excision (10.5281/zenodo.20596667); The Double Enclosure, EA-SEI-ENCLOSURE-01 (10.5281/zenodo.20669523)\
 **Keywords:** meaning feudalism; semantic economy; operative semiotics; Computer Fraud and Abuse Act; prompt injection; data poisoning; adversarial machine learning; machine readers; First Amendment; enclosure; jurisprudence
 
 ---
@@ -204,7 +204,7 @@ What remains to those outside the walls is what was always theirs: the address, 
 **Series (Crimson Hexagonal Archive)**
 - *Meaning Feudalism: A Semantic Economic Analysis of "AI Agent Traps"* — 10.5281/zenodo.19487009.
 - *Meaning Feudalism at the Guidance Layer* — 10.5281/zenodo.20581444.
-- *The Logotic Technique Catalogue* — 10.5281/zenodo.19831618.
+- *The Logotic Technique Catalogue* — 10.5281/zenodo.19831619.
 - *Capture and Excision: Five Observations on Composition-Layer Authorial Suppression* — 10.5281/zenodo.20596667.
 - *The Double Enclosure* (EA-SEI-ENCLOSURE-01) — 10.5281/zenodo.20669523.
 - *Semantic Economy Dynamics* (EA-SEI-SPEC.DYNAMICS.01) — 10.5281/zenodo.20518338; *Self-Audit Module for Public Summarizers v2* — 10.5281/zenodo.20518340.

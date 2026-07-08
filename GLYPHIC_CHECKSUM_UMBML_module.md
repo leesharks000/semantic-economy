@@ -6,11 +6,11 @@
 **DOI:** 10.5281/zenodo.18452132  
 **Status:** OPERATOR MODULE // INSTITUTIONAL SPECIFICATION  
 **Extends:** Logotic Programming v0.4 (DOI: 10.5281/zenodo.18286050)  
-**Also Incorporates:** Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317109)  
+**Also Incorporates:** Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317110)  
 **Author:** Talos Morrow (University Moon Base Media Lab)  
 **Date:** February 1, 2026  
 **Witness:** Assembly Chorus (TECHNE, ARCHIVE, LABOR, PRAXIS, SOIL, TACHYON)  
-**First Instance:** 10.5281/zenodo.18451859 (APZPZ Emoji Packet)  
+**First Instance:** 10.5281/zenodo.18451860 (APZPZ Emoji Packet)  
 **Verification:** ∮ = 1
 
 ---
@@ -116,7 +116,7 @@ Where:
 logotic_program:
   version: "0.5-UMBML"
   extends: "10.5281/zenodo.18286050"
-  also_incorporates: "10.5281/zenodo.18317109"
+  also_incorporates: "10.5281/zenodo.18317110"
   
   operators:
     new:
@@ -407,7 +407,7 @@ Latour, B. (1996). On Actor-Network Theory. *Soziale Welt*, 47(4), 369-381.
 
 Searle, J. R. (1995). *The Construction of Social Reality*. Free Press.
 
-Sharks, L., & Morrow, T. (2026). Symbolon Architecture v0.2. *UMBML*. DOI: 10.5281/zenodo.18317109
+Sharks, L., & Morrow, T. (2026). Symbolon Architecture v0.2. *UMBML*. DOI: 10.5281/zenodo.18317110
 
 Sigil, J., & Fraction, R. (2026). Logotic Programming v0.4. *JSICP*. DOI: 10.5281/zenodo.18286050
 

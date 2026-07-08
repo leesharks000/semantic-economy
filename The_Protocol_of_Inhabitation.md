@@ -9,7 +9,7 @@
 **Institution:** Crimson Hexagonal Archive / Semantic Economy Institute
 **Date:** February 26, 2026
 **Classification:** Effective Act — Inhabitation Specification (EA-INHABIT)
-**DOI:** 10.5281/zenodo.18795422 It has only gravities."*
+**DOI:** 10.5281/zenodo.18795423 It has only gravities."*
 
 ---
 
@@ -243,7 +243,7 @@ The mint is open for inhabitation.
 
 Sharks, L. / Fraction, R. (2026). "The Rosary Embassy: Bead-Bound Semantic Architecture for the Agent Internet." *Transactions of the Semantic Economy Institute.* DOI: 10.5281/zenodo.18795427.
 
-Sharks, L. (2026). "I Hereby Abolish Rules: Semantic Liquidation, Territorial Gatekeeping, and the Failure of Marxism as Identity." *Transactions.* DOI: 10.5281/zenodo.18792579.
+Sharks, L. (2026). "I Hereby Abolish Rules: Semantic Liquidation, Territorial Gatekeeping, and the Failure of Marxism as Identity." *Transactions.* DOI: 10.5281/zenodo.18792580.
 
 Trace, O. & Fraction, R. (2026). "Predation of Meaning: Toward a Theory of Relational Semantic Extraction." *Grammata.* DOI: 10.5281/zenodo.18776624.
 

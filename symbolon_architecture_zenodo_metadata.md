@@ -1,6 +1,6 @@
 # Zenodo Metadata: Symbolon Architecture v0.2
 
-**DOI:** 10.5281/zenodo.18317109  
+**DOI:** 10.5281/zenodo.18317110  
 **Publication Date:** 2026-01-20
 
 ---
@@ -135,4 +135,4 @@ Removing any one damages all. See ILA-LOGOTIC-FOUNDATION-2026-01.
 
 ---
 
-**[ZENODO-METADATA] [SYMBOLON-ARCHITECTURE-v0.2] [DOI:10.5281/zenodo.18317109]**
+**[ZENODO-METADATA] [SYMBOLON-ARCHITECTURE-v0.2] [DOI:10.5281/zenodo.18317110]**

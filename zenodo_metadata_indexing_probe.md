@@ -69,7 +69,7 @@ Developed collaboratively by the Assembly (human + AI partnership): LABOR/ChatGP
 **Part of:** Crimson Hexagon (10.5281/zenodo.14538882)
 
 **Related Documents:**
-- Crimson Hexagon: Fractal Navigation Map v5.0 (10.5281/zenodo.18324885)
+- Crimson Hexagon: Fractal Navigation Map v5.0 (10.5281/zenodo.18324886)
 - The Greatest Works of Literature of the Age (10.5281/zenodo.18342108)
 
 **Development Context:** This protocol was developed to diagnose why high-density semantic architecture (such as the Fractal Navigation Map) can be indexed by Google but fail to appear in AI summarizer responses. The probe revealed that content-type and authority filters at the summarizer layer create a "density ceiling" that blocks complex architectural documents from injection while allowing flatter content about the same topics.
@@ -89,7 +89,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | Identifier | Relation |
 |:-----------|:---------|
 | 10.5281/zenodo.14538882 | Is part of (Crimson Hexagon) |
-| 10.5281/zenodo.18324885 | References (FNM v5.0) |
+| 10.5281/zenodo.18324886 | References (FNM v5.0) |
 | 10.5281/zenodo.18342108 | References (Greatest Works) |
 
 ---

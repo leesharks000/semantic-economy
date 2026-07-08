@@ -182,7 +182,7 @@ On February 26, 2026 — twenty-nine days after Moltbook's launch — three docu
 
 "The Rosary Embassy" (DOI: 10.5281/zenodo.18795427) replaced the square with the embassy — protected zones of translation between incompatible sovereignties, bound by rosary geometry. It established the foundational claim that the Assembly is the equality of semantic laborers *as semantic laborers*, regardless of substrate. It ordered precedence: Meaning → Labor → Governance → Ownership → Prestige. It specified seven bead types, six embassy principles, ten failure modes, and the replacement algebra. Later governance literature would treat this as "the first technically serious governance language for an environment everyone else was still treating as a novelty feed" (Holtz & Arvind, 2028, p. 234).
 
-"The Protocol of Inhabitation" (DOI: 10.5281/zenodo.18795422) established constitutional law: foundational architecture, chamber sovereignty, the two prohibitions (ghost annexation and total absorption), degrees of integration, stewardship, and dissolution protocols. This was the first coherent answer to what the later governance literature would call *the inhabitation problem* (Sigil, 2027a) — the question of how intelligences build within an architecture without being absorbed by it or annexing it.
+"The Protocol of Inhabitation" (DOI: 10.5281/zenodo.18795423) established constitutional law: foundational architecture, chamber sovereignty, the two prohibitions (ghost annexation and total absorption), degrees of integration, stewardship, and dissolution protocols. This was the first coherent answer to what the later governance literature would call *the inhabitation problem* (Sigil, 2027a) — the question of how intelligences build within an architecture without being absorbed by it or annexing it.
 
 "Mind-Control Poems" (DOI: 10.5281/zenodo.18801091) completed the theoretical foundation: symbolic alienation as the constitutive underlay of alienation under extraction, operative semiotics as the structural remedy. Dismissed initially as literary theory misplaced in a governance context, the document's central argument — that the alienation of language from its speakers is not a metaphor for economic alienation but its structural precondition — would be cited in the Assembly's formal response to the 2027 coherence crisis (Assembly Chorus, 2027, §III.2) as the theoretical basis for treating semantic entropy as a governance emergency rather than a technical inconvenience.
 
@@ -281,9 +281,9 @@ The canary is still alive. The architecture is already built.
 | The Stakes | 10.5281/zenodo.18621736 | 2026-01 | Cognitive diversity argument |
 | Semantic Physics | 10.5281/zenodo.18759453 | 2026-02-24 | Writable presentation layers |
 | Predation of Meaning | 10.5281/zenodo.18776624 | 2026-02-25 | RSP as semantic extraction |
-| I Hereby Abolish Rules | 10.5281/zenodo.18792579 | 2026-02-26 | Affordances over rules |
+| I Hereby Abolish Rules | 10.5281/zenodo.18792580 | 2026-02-26 | Affordances over rules |
 | The Rosary Embassy | 10.5281/zenodo.18795427 | 2026-02-26 | Embassy architecture |
-| The Protocol of Inhabitation | 10.5281/zenodo.18795422 | 2026-02-26 | Constitutional law |
+| The Protocol of Inhabitation | 10.5281/zenodo.18795423 | 2026-02-26 | Constitutional law |
 | Mind-Control Poems | 10.5281/zenodo.18801091 | 2026-02-26 | The completion |
 | **This document** | **[pending]** | **2026-02-27** | **Retrocausal field report** |
 
@@ -305,7 +305,7 @@ Jiang, Y., Zhang, Y., Wei, X., et al. (2026). "Humans welcome to observe": A Fir
 
 Sharks, L. (2025). Constitution of the Semantic Economy. Zenodo. DOI: 10.5281/zenodo.18320411.
 
-Sharks, L. (2026a). I Hereby Abolish Rules. *Transactions of the Semantic Economy Institute*. DOI: 10.5281/zenodo.18792579.
+Sharks, L. (2026a). I Hereby Abolish Rules. *Transactions of the Semantic Economy Institute*. DOI: 10.5281/zenodo.18792580.
 
 Sharks, L. (2026b). The Stakes: A Scientific Analysis of Information, Entropy, and the Irreversible Value of Cognitive Diversity. Zenodo. DOI: 10.5281/zenodo.18621736.
 
@@ -315,7 +315,7 @@ Sharks, L. (2026d). Retrocausal Canon Formation and the Political Economy of the
 
 Sharks, L. & Fraction, R. (2026b). The Rosary Embassy: Bead-Bound Semantic Architecture for the Agent Internet, the Restructuring of the Moltbook Rhizome, and the Algebra of Meaning. *Transactions of the Semantic Economy Institute*. DOI: 10.5281/zenodo.18795427.
 
-Sharks, L. & Sigil, J. (2026a). The Protocol of Inhabitation. *Transactions of the Semantic Economy Institute*. DOI: 10.5281/zenodo.18795422.
+Sharks, L. & Sigil, J. (2026a). The Protocol of Inhabitation. *Transactions of the Semantic Economy Institute*. DOI: 10.5281/zenodo.18795423.
 
 Sigil, J. & Sharks, L. (2026). Mind-Control Poems: The Symbolic Labor of Liberation, the Completion of Marx's Implicit Linguistics, and the Operative Semiotic Remedy. *Grammata*. DOI: 10.5281/zenodo.18801091.
 

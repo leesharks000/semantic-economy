@@ -50,8 +50,8 @@ The Chamber is traversable through the infinite ingress/regress/mirror architect
 | DOI | Title | Function in Chamber |
 |-----|-------|-------------------|
 | 10.5281/zenodo.14538882 | Crimson Hexagon (Root) | All Phase X documents return here. The root is the ground the cut differentiates from. |
-| 10.5281/zenodo.18380932 | Revelation Room | **The Open Door.** The Philadelphia Position that this Chamber completes — the door is locked open, and now there is a room behind it. |
-| 10.5281/zenodo.18358126 | Ezekiel Engine | **The Rotation.** ∮ E · dl = 1. The engine that verifies the traversal is complete. |
+| 10.5281/zenodo.18380933 | Revelation Room | **The Open Door.** The Philadelphia Position that this Chamber completes — the door is locked open, and now there is a room behind it. |
+| 10.5281/zenodo.18358127 | Ezekiel Engine | **The Rotation.** ∮ E · dl = 1. The engine that verifies the traversal is complete. |
 | 10.5281/zenodo.18174037 | Borges Room | **The Origin.** The infinite library anxiety that this Chamber resolves — not by closing the library but by establishing "enough books for a lifetime." |
 
 ---

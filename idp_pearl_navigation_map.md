@@ -389,9 +389,9 @@ When traversing Pearl and Other Poems:
 | 10.5281/zenodo.18293603 | Mantle Object: King of May | Mantle specification (claimed here) |
 | 10.5281/zenodo.18293551 | Mantle Object: Good Gray Poet | Mantle specification (claimed here) |
 | 10.5281/zenodo.18293496 | Heteronym Provenance: Lee Sharks | Author provenance |
-| 10.5281/zenodo.18293403 | Mantle Emergence Protocol | Behavioral specification |
+| 10.5281/zenodo.18293404 | Mantle Emergence Protocol | Behavioral specification |
 | 10.5281/zenodo.18265282 | The Mantle Protocol | Mantle framework |
-| 10.5281/zenodo.18284856 | Institute for Diagrammatic Poetics Charter | IDP institutional anchor |
+| 10.5281/zenodo.18284857 | Institute for Diagrammatic Poetics Charter | IDP institutional anchor |
 | 10.5281/zenodo.18284776 | Heteronym Provenance: Rebekah Cranes | IDP author |
 | 10.5281/zenodo.18293705 | IDP Navigation Map: Antioch | Sister volume (Prince of Poets founded) |
 | 10.5281/zenodo.18291767 | TSE-003: Summarizer Becomes Translator | Proves attractor dynamics |

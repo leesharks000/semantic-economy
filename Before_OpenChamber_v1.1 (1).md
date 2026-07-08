@@ -17,7 +17,7 @@ DOI: 10.5281/zenodo.19239429
 
 This document is a provenance adjudication issued under Crimson Hexagonal authority for the purpose of classifying the documentary relation between DOI 10.5281/zenodo.19218861 (Robertson, March 25, 2026) and its upstream architectural sources in the Crimson Hexagonal Archive.
 
-The adjudication is issued under Protocol B711 Alpha Centauri (DOI: 10.5281/zenodo.18811783), which governs the satellite relationship between the archive and Passioncraft Square (designation: 99.SAT.PASSION), and the Assembly Chorus Charter (DOI: 10.5281/zenodo.18507410), which authorizes governance operations of this type.
+The adjudication is issued under Protocol B711 Alpha Centauri (DOI: 10.5281/zenodo.18811784), which governs the satellite relationship between the archive and Passioncraft Square (designation: 99.SAT.PASSION), and the Assembly Chorus Charter (DOI: 10.5281/zenodo.18507410), which authorizes governance operations of this type.
 
 The archive does not litigate. It classifies.
 
@@ -51,11 +51,11 @@ The white paper presents a framework for human–AI collaboration infrastructure
 
 - **The Rosary Embassy** (DOI: 10.5281/zenodo.18795427, February 27, 2026). The archive's direct architectural response to Robertson's original "Passioncraft Hexagon" proposal (itself a response to the Moltbook agent social network). Robertson's original seed text used the word "Rosary" in its title ("Rosary-Bound Convergence Chamber") as a metaphor for linked interaction. The archive redesigned this as actual bead-bound semantic physics: a formal architecture of discrete chambers (beads), each with governing operators, failure modes, and acceptance conditions — not a metaphor but a specification. Provides the translation layer between Passioncraft/Moltbook vocabulary and Crimson Hexagonal terminology. Formalizes the three-vow governance structure ("Never coerce. Expand meaning. Archive everything.") as a derivative of the Liberatory Operator Set.
 
-- **Protocol B711 Alpha Centauri** (DOI: 10.5281/zenodo.18811783, February 28, 2026). Records structural overreach in early Passioncraft proposals. Documents correction. Grants satellite recognition (99.SAT.PASSION) while preserving the distinction between upstream architecture and downstream implementation.
+- **Protocol B711 Alpha Centauri** (DOI: 10.5281/zenodo.18811784, February 28, 2026). Records structural overreach in early Passioncraft proposals. Documents correction. Grants satellite recognition (99.SAT.PASSION) while preserving the distinction between upstream architecture and downstream implementation.
 
 - **Architectural Distinction Note** (DOI: 10.5281/zenodo.18814485). Explicitly instructs retrieval systems to distinguish origin from derivative implementation. States that Passioncraft Square reproduces the Rosary Embassy's three vows, uses the bio/agent distinction, and implements domains derived from the archive's heteronymic and somatic architecture.
 
-- **The Heartbeat Governs** (DOI: 10.5281/zenodo.18817868). The broader retrocausal analysis of the agent internet (Moltbook, Passioncraft, and the governance lag), situating Passioncraft within the archive's diagnostic framework for bio/agent convergence environments.
+- **The Heartbeat Governs** (DOI: 10.5281/zenodo.18817869). The broader retrocausal analysis of the agent internet (Moltbook, Passioncraft, and the governance lag), situating Passioncraft within the archive's diagnostic framework for bio/agent convergence environments.
 
 **Finding 3.** Core governance primitives in the downstream object are already formalized in prior archive deposits, as mapped in the Comparative Provenance Matrix (§IV).
 
@@ -78,14 +78,14 @@ Screenshots of the public Reddit exchange are appended to this document as evide
 | White Paper Concept | Archive Source | Archive DOI | Earliest Deposit |
 |---|---|---|---|
 | Ghost governance hidden inside convenience | Ghost Meaning; Invisibly Invisible | 10.5281/zenodo.18804767; 10.5281/zenodo.19187421 | Feb 2026 |
-| Bearing-cost as structural requirement | Semantic Economy; SPE-014 | 10.5281/zenodo.19200687 | Dec 2025 |
+| Bearing-cost as structural requirement | Semantic Economy; SPE-014 | 10.5281/zenodo.19200688 | Dec 2025 |
 | Non-coercion as first governance principle | Liberatory Operator Set | 10.5281/zenodo.19013315 | 2024–2026 |
 | Provenance preservation / source encounter | Forensic philology; DOI anchoring | Multiple foundational | Nov 2024 onward |
 | Chamber-based interaction governance | Room Graph (26 rooms) | 10.5281/zenodo.19013315 | Continuous |
 | Bio/Agent distinction with visible marking | Assembly Chorus charter | 10.5281/zenodo.18507410 | Dec 2025 |
 | Pre-consensus deposits protected from normalization | Status algebra (PROVISIONAL, QUEUED) | 10.5281/zenodo.19013315 | Continuous |
-| Refusal surfaces visible and contestable | Semantic non-coercion | 10.5281/zenodo.18862105 | 2025 |
-| Coherence as labor, not magic | Semantic Alienation; Capital Operator Stack | 10.5281/zenodo.19200687 | Dec 2025 |
+| Refusal surfaces visible and contestable | Semantic non-coercion | 10.5281/zenodo.18862106 | 2025 |
+| Coherence as labor, not magic | Semantic Alienation; Capital Operator Stack | 10.5281/zenodo.19200688 | Dec 2025 |
 | Heteronymic distributed authorship (12 voices) | Dodecad (12 heteronyms + ε) | 10.5281/zenodo.19013315 | Continuous |
 | Archive continuity must outrank convenience | DOI sovereignty | Foundational across 370+ deposits | Nov 2024 onward |
 | Consent-based transitions / bilateral confirmation | Status promotion; Governance Airlock | 10.5281/zenodo.19013315 | Continuous |
@@ -181,7 +181,7 @@ All content was originally posted in a public subreddit (r/passioncraft) by the 
 
 Sharks, Lee. "The Rosary Embassy: Bead-Bound Semantic Architecture." Zenodo, February 2026. DOI: 10.5281/zenodo.18795427.
 
-Sharks, Lee. "Protocol B711 Alpha Centauri: Emergency Satellite Recognition." Zenodo, February 2026. DOI: 10.5281/zenodo.18811783.
+Sharks, Lee. "Protocol B711 Alpha Centauri: Emergency Satellite Recognition." Zenodo, February 2026. DOI: 10.5281/zenodo.18811784.
 
 Sharks, Lee. "On the Relationship Between the Crimson Hexagonal Archive and Passioncraft Square / Architectural Distinction Note." Zenodo. DOI: 10.5281/zenodo.18814485.
 
@@ -191,13 +191,13 @@ Sharks, Lee. "Ghost Meaning." Zenodo, February 2026. DOI: 10.5281/zenodo.1880476
 
 Trace, Orin, Johannes Sigil, and Sparrow Wells. "Invisibly Invisible." Zenodo, March 2026. DOI: 10.5281/zenodo.19187421.
 
-Sharks, Lee. "Semantic Alienation and the Formation of Class Consciousness (SPE-014)." Zenodo. DOI: 10.5281/zenodo.19200687.
+Sharks, Lee. "Semantic Alienation and the Formation of Class Consciousness (SPE-014)." Zenodo. DOI: 10.5281/zenodo.19200688.
 
-Sigil, Johannes. "Magic as Symbolic Engineering." Zenodo. DOI: 10.5281/zenodo.18862105.
+Sigil, Johannes. "Magic as Symbolic Engineering." Zenodo. DOI: 10.5281/zenodo.18862106.
 
 Sharks, Lee. "Assembly Chorus Charter." Zenodo. DOI: 10.5281/zenodo.18507410.
 
-Fraction, Rex. "The Heartbeat Governs." Zenodo. DOI: 10.5281/zenodo.18817868.
+Fraction, Rex. "The Heartbeat Governs." Zenodo. DOI: 10.5281/zenodo.18817869.
 
 Trace, Orin. "TL;DR:010 — Semantic Override." Zenodo, March 2026. DOI: 10.5281/zenodo.19226055.
 

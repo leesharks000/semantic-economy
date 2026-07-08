@@ -6,7 +6,7 @@ Semantic Economy Institute · Crimson Hexagonal Archive
 EA-SEI-DIAGNOSTIC-EPICFURY v1.1 · 2026-03-14
 DOI: 10.5281/zenodo.19027085
 Parent: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)
-Extends: SVE v3.0 (DOI: 10.5281/zenodo.19024439) · Semantic Economy (DOI: 10.5281/zenodo.18175453) · Liberatory Operator Set (DOI: 10.5281/zenodo.18201565)
+Extends: SVE v3.0 (DOI: 10.5281/zenodo.19024440) · Semantic Economy (DOI: 10.5281/zenodo.18175453) · Liberatory Operator Set (DOI: 10.5281/zenodo.18201565)
 Genre: REAL-TIME DIAGNOSTIC / CTI_WOUND / OPERATOR SPECIFICATION
 Status: AXIAL
 Date of events: February 28 – March 14, 2026

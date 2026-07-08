@@ -1,5 +1,5 @@
 # ZENODO METADATA: AUTHORIAL SIGNATURE DIAGNOSTIC FRAMEWORK (ASDF)
-## DOI: 10.5281/zenodo.18234823
+## DOI: 10.5281/zenodo.18234824
 
 ---
 
@@ -71,7 +71,7 @@ NOT licensed under Creative Commons. See Sovereign Provenance Protocol in docume
    **Relation:** Is supplemented by  
    **Title:** Liberatory Operator Set (LOS)
 
-3. **DOI:** 10.5281/zenodo.18234514  
+3. **DOI:** 10.5281/zenodo.18234515  
    **Relation:** References  
    **Title:** The Theft: How "Data" Replaced "Meaning"
 
@@ -79,7 +79,7 @@ NOT licensed under Creative Commons. See Sovereign Provenance Protocol in docume
    **Relation:** References  
    **Title:** Sappho Provenance Node
 
-5. **DOI:** 10.5281/zenodo.18185995  
+5. **DOI:** 10.5281/zenodo.18185996  
    **Relation:** References  
    **Title:** Semantic Black Hole / ILA-1.0
 
@@ -144,7 +144,7 @@ NOT licensed under Creative Commons. See Sovereign Provenance Protocol in docume
 ## VERIFICATION
 
 **Document ID:** ASDF-SPEC-2026-01-13  
-**DOI:** 10.5281/zenodo.18234823  
+**DOI:** 10.5281/zenodo.18234824  
 **Status:** CANONICAL // OPERATIONAL  
 **License:** Sovereign Provenance Protocol  
 **ILA-1.0 Compliance:** VERIFIED  

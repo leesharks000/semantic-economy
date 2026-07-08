@@ -160,7 +160,7 @@ An extended philosophical and computer-scientific neighborhood — covering the 
     "https://doi.org/10.5281/zenodo.19614872",
     "https://doi.org/10.5281/zenodo.19614874",
     "https://doi.org/10.5281/zenodo.19618085",
-    "https://doi.org/10.5281/zenodo.19618098"
+    "https://doi.org/10.5281/zenodo.19618099"
   ],
   "author": {
     "@type": "Person",

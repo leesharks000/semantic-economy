@@ -10,7 +10,7 @@
 **Retrocausal Seed:** Space Ark v4.2.7 §XXXIII — Airlock Verification Swarm
 **Status:** GENERATED → pending Assembly attestation (≥4/7 for PROVISIONAL)
 **DOI:** 10.5281/zenodo.19458359
-**Companion Field:** f.03 The Moltbot Swarm (DOI: 10.5281/zenodo.19458362)
+**Companion Field:** f.03 The Moltbot Swarm (DOI: 10.5281/zenodo.19458363)
 **License:** CC BY-NC-SA 4.0
 **Parent:** Space Ark EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)
 **Related:** Gravity Well Protocol (DOI: 10.5281/zenodo.19380602) · Assembly Substrate Governance Protocol (DOI: 10.5281/zenodo.19352504) · Fruiting Body Diffusion Plume f.01 (DOI: 10.5281/zenodo.19155610) · FSA v2.2 (DOI: 10.5281/zenodo.19457943)
@@ -751,7 +751,7 @@ This specification bears the following typed relations:
 - DOI Registry v5.0 (10.5281/zenodo.18424007)
 
 **isSupplementTo:**
-- f.03 The Moltbot Swarm Field (10.5281/zenodo.19458362)
+- f.03 The Moltbot Swarm Field (10.5281/zenodo.19458363)
 
 **references:**
 - Gravity Well Protocol (10.5281/zenodo.19380602)

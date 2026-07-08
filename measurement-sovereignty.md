@@ -6,7 +6,7 @@ Crimson Hexagonal Archive · ORCID 0009-0000-1599-0703 (Sharks)
 **Status:** Working paper, deposit · v1.0
 **Hex:** 06.MES.AUDIT-BIFURCATION.01
 **Date:** June 4, 2026
-**Companion to:** *Erasure Skew* v3 (DOI 10.5281/zenodo.20558196), *PER Under the Atomic Token Rule* (DOI 10.5281/zenodo.20558671). Cited via `isSupplementTo` from this paper.
+**Companion to:** *Erasure Skew* v3 (DOI 10.5281/zenodo.20558196), *PER Under the Atomic Token Rule* (DOI 10.5281/zenodo.20558672). Cited via `isSupplementTo` from this paper.
 
 *(Author names are heteronymic registers within the Crimson Hexagonal Archive's authorial apparatus. Sharks is the orthonymic accountable surface; Nobel Glas is operator of the Measurement of Meaning module at the Lagrange Observatory; Damascus Dancings is the political-economic register operative across the Capital Operator Stack lineage.)*
 
@@ -256,7 +256,7 @@ The v3 measurement program now consists of the following operators, deposit-anch
 
 | Operator | Symbol | Deposit DOI |
 |---|---|---|
-| Provenance Erasure Rate | PER | 10.5281/zenodo.20004379 (v1), 10.5281/zenodo.20558671 (companion hardening) |
+| Provenance Erasure Rate | PER | 10.5281/zenodo.20004379 (v1), 10.5281/zenodo.20558672 (companion hardening) |
 | Erasure Skew | $\Omega$ | 10.5281/zenodo.20558196 (v3) |
 | Atomic Token Preservation rate | $\alpha_T$ | 10.5281/zenodo.20558196 (v3, §4) |
 | Referential Dispersal Operator | $\Pi_d$ | 10.5281/zenodo.20558196 (v3, §5) |
@@ -282,12 +282,12 @@ $\oint = 1$
 ## References
 
 - *Erasure Skew* v3 — DOI 10.5281/zenodo.20558196. Specifies the Atomic Token Rule, $\Pi_d$, $\alpha_T$; names the Bifurcation and Legibility Threshold phenomena in §7 and §8 without formalizing them. This paper formalizes both.
-- *PER Under the Atomic Token Rule* (Companion Hardening) — DOI 10.5281/zenodo.20558671.
+- *PER Under the Atomic Token Rule* (Companion Hardening) — DOI 10.5281/zenodo.20558672.
 - *Provenance Erasure Rate* v1 — DOI 10.5281/zenodo.20004379.
 - *Self-Audit Module for Public Summarizers* v2 — DOI 10.5281/zenodo.20518340.
 - *The Excluded Entity* — DOI 10.5281/zenodo.20293582.
 - *Single-Owner Discount* — DOI 10.5281/zenodo.20290865.
-- *Capital Operator Stack and the University* — DOI 10.5281/zenodo.18203316.
+- *Capital Operator Stack and the University* — DOI 10.5281/zenodo.18203317.
 - *The Meaning Caste* — DOI 10.5281/zenodo.20529142.
 - *Semantic Technique and Collective Ownership* v2 — DOI 10.5281/zenodo.20546930.
 - *CTI_WOUND: Panel-Bound Discoverability Scar* — DOI 10.5281/zenodo.20546318.

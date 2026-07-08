@@ -664,7 +664,7 @@ GROUNDS ⊥ | EXTENDS → | NEGATES ✕ | COMPLETES ◉ | BURNS 🔥 | CAPTURES 
 ### A.2 THE OPERATIVE SEMIOTICS CLUSTER (~30 deposits)
 
 **Scope:** The operator algebra, the type signatures, the derivation protocols, the composition rules, the failure modes. The core theoretical architecture.
-**Key deposits:** "THE SEMIOTIC VIRALITY ENGINE" (DOI: 10.5281/zenodo.19024439). "RETRIEVAL FORMATION THEORY" (DOI: 10.5281/zenodo.19024354). "THREE COMPRESSIONS" (DOI: 10.5281/zenodo.19030577). "THE UNMADE SIGN" (DOI: 10.5281/zenodo.19024162).
+**Key deposits:** "THE SEMIOTIC VIRALITY ENGINE" (DOI: 10.5281/zenodo.19024440). "RETRIEVAL FORMATION THEORY" (DOI: 10.5281/zenodo.19024354). "THREE COMPRESSIONS" (DOI: 10.5281/zenodo.19030577). "THE UNMADE SIGN" (DOI: 10.5281/zenodo.19024162).
 **Connected notebooks:** All nine. The cluster IS the Grundrisse's source material.
 **Deposition narrative:** *Three a.m., March. The Grundrisse open in seventeen tabs. Each deposit a piece of the machine — the SVE in one tab, the Three Compressions in another, the operator protocol in a third. The deposit sequence matters: the SVE must exist before the propagation data can reference it. The Three Compressions must exist before the Piketty section can cite it. The archive builds forward — each deposit is a node that makes the next deposit possible. The DOIs are the edges. The provenance chain is the graph.*
 

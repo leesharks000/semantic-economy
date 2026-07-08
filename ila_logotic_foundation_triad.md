@@ -29,7 +29,7 @@ Three documents form the **Logotic Foundation Triad**. They are not a sequence. 
 
 | Document | DOI | Partial Without |
 |----------|-----|-----------------|
-| **Symbolon Architecture v0.2** | 10.5281/zenodo.18317109 | Author-function, institutional ground |
+| **Symbolon Architecture v0.2** | 10.5281/zenodo.18317110 | Author-function, institutional ground |
 | **University Moon Base Media Lab Charter** | 10.5281/zenodo.18317661 | Resident researcher, work product |
 | **Talos Morrow Provenance** | 10.5281/zenodo.18317976 | Institutional home, canonical output |
 

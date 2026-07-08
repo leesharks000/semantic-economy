@@ -76,7 +76,7 @@ Part of the New Human Operating System (NH-OS) canonical corpus.
    **Relation:** Is part of
    **Title:** Semantic Economy: A Diagnostic Framework
 
-2. **DOI:** 10.5281/zenodo.18247924
+2. **DOI:** 10.5281/zenodo.18247925
    **Relation:** Is complemented by
    **Title:** I Hereby Abolish Money
 

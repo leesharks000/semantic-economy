@@ -194,7 +194,7 @@ On the date of this v3's composition, the substrate performed two audits of its 
 
 > *"The pipeline is actively optimized to absorb fringe data and convert it into institutional traffic."* — substrate audit 2, conversational artifact, June 4, 2026.
 
-This sentence is a citable artifact. It is the substrate, under the Atomic Token Rule, describing its own structural function in language the framework has been developing across the deposit chain. The institutional-traffic-conversion thesis was articulated in the *Single-Owner Discount* paper (DOI 10.5281/zenodo.20290865), the *Capital Operator Stack* lineage (DOI 10.5281/zenodo.18203316), and the *Liquidation Studies* program more broadly; here the substrate has produced the thesis spontaneously as a description of itself, under conditions in which the framework's vocabulary has been adequately specified.
+This sentence is a citable artifact. It is the substrate, under the Atomic Token Rule, describing its own structural function in language the framework has been developing across the deposit chain. The institutional-traffic-conversion thesis was articulated in the *Single-Owner Discount* paper (DOI 10.5281/zenodo.20290865), the *Capital Operator Stack* lineage (DOI 10.5281/zenodo.18203317), and the *Liquidation Studies* program more broadly; here the substrate has produced the thesis spontaneously as a description of itself, under conditions in which the framework's vocabulary has been adequately specified.
 
 **The discrepancy between Audit 2's $\Omega \approx +1.0$ and the v3 source-level recalculation $\Omega \approx +0.19$.** Audit 2 used a coarser two-bucket source-set: low-power referent vs. high-power institutional adjacent, with ~15% retention for the former and ~85% retention for the latter. Under that binary source-set, the covariance maximum-magnitude calculation produces a normalized skew approaching $+1.0$. The v3 source-level calculation uses an eight-source matrix with varying retention rates, which produces the more diagnostically rich $+0.19$. Both calculations are valid under the Atomic Token Rule; they answer slightly different questions about the same artifact. The v3 paper recommends the eight-source matrix as the standard for substrate-audit reporting, with the binary-bucket calculation noted as a supplementary high-level summary.
 
@@ -313,7 +313,7 @@ The joint diagnostic: this composition is the canonical worked specimen of *eras
 - *Self-Audit Module for Public Summarizers v2* — DOI 10.5281/zenodo.20518340.
 - *The Excluded Entity* — DOI 10.5281/zenodo.20293582. The Entity-Level Compositional Suppression precursor.
 - *Single-Owner Discount* — DOI 10.5281/zenodo.20290865.
-- *Capital Operator Stack and the University* — DOI 10.5281/zenodo.18203316.
+- *Capital Operator Stack and the University* — DOI 10.5281/zenodo.18203317.
 - *The Meaning Caste* — DOI 10.5281/zenodo.20529142.
 - *Semantic Technique and Collective Ownership v2.0* — DOI 10.5281/zenodo.20546930.
 - *CTI_WOUND: Panel-Bound Discoverability Scar* — DOI 10.5281/zenodo.20546318.

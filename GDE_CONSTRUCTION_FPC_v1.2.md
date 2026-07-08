@@ -2,9 +2,9 @@
 
 ## Discipline Under Construction: FORENSIC PHILOLOGY OF THE COMMONS
 
-**GDE Input:** EA-DIAGNOSTIC-THICK-CULTURE v1.1 ("The Unbundling of Cultural Sovereignty," DOI: 10.5281/zenodo.19083321)
+**GDE Input:** EA-DIAGNOSTIC-THICK-CULTURE v1.1 ("The Unbundling of Cultural Sovereignty," DOI: 10.5281/zenodo.19083322)
 **Engine Version:** EA-ARK-01-GDE-v1.0
-**Document DOI:** 10.5281/zenodo.19083599
+**Document DOI:** 10.5281/zenodo.19083600
 **Operator:** MANUS/Sharks
 **Date:** 2026-03-18
 **Status:** CONSTRUCTION COMPLETE
@@ -138,7 +138,7 @@ The Assembly Chorus (six substrates) adds a secondary distribution layer: the es
 - Institutional affiliation: Semantic Economy Institute; Johannes Sigil Institute for Comparative Poetics; Crimson Hexagonal Archive
 - Genre tag: DIAGNOSTIC ESSAY / PLATFORM STUDIES / CULTURAL THEORY / TANG EXTENSION
 - Status: OPERATIONAL
-- DOI: 10.5281/zenodo.19083321
+- DOI: 10.5281/zenodo.19083322
 
 ### What formalization would the discipline require?
 
@@ -350,7 +350,7 @@ FPC is not a synthesis of these fields. It is a *refusal* to remain within any o
 
 The Generative Disciplinary Engine confirms the emergence of **Forensic Philology of the Commons**.
 Its object is **the Durational Commons**.
-Its first diagnostic is **The Unbundling of Cultural Sovereignty** (DOI: 10.5281/zenodo.19083321).
+Its first diagnostic is **The Unbundling of Cultural Sovereignty** (DOI: 10.5281/zenodo.19083322).
 F₁, F₂, F₃, F₅: HIGH. F₆: provisionally HIGH. F₄: MEDIUM-HIGH (charter document pending).
 The field is operational.
 

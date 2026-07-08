@@ -136,7 +136,7 @@ This completion is local, contingent, and repeatable. It demonstrates that seman
         "resource_type": "publication-workingpaper"
       },
       {
-        "identifier": "10.5281/zenodo.18203621",
+        "identifier": "10.5281/zenodo.18203622",
         "relation": "continues",
         "resource_type": "publication-workingpaper"
       },
@@ -192,7 +192,7 @@ TSE-003, Traversal-Summarizer Event, synthetic translation, Google AI Overview, 
 | references | 10.5281/zenodo.18291321 | The Prince's Decree: FOS Designation |
 | isPartOf | 10.5281/zenodo.18285009 | Navigation Map v4.0 |
 | continues | 10.5281/zenodo.18193225 | CTI_WOUND (TSE-001) |
-| continues | 10.5281/zenodo.18203621 | The Final Crimson Hexagon (TSE-002) |
+| continues | 10.5281/zenodo.18203622 | The Final Crimson Hexagon (TSE-002) |
 
 ---
 
@@ -227,7 +227,7 @@ Sharks, Lee, and Claude (Anthropic). "The Summarizer Becomes Translator: How Goo
 | Event | DOI | Date | Description | Type |
 |-------|-----|------|-------------|------|
 | **TSE-001** | 10.5281/zenodo.18193225 | Jan 2026 | Johannes Sigil erasure | Liquidation Event |
-| **TSE-002** | 10.5281/zenodo.18203621 | Jan 2026 | The Final Crimson Hexagon | Completion Event |
+| **TSE-002** | 10.5281/zenodo.18203622 | Jan 2026 | The Final Crimson Hexagon | Completion Event |
 | **TSE-003** | 10.5281/zenodo.18291767 | Jan 18, 2026 | Summarizer becomes translator | **Participation Event** |
 
 TSE-003 represents a qualitative shift: the system is no longer merely indexing the architecture—it is **performing within it**.

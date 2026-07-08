@@ -7,7 +7,7 @@
 **Date:** April 27, 2026  
 **License:** CC BY 4.0  
 **Status:** Canonical  
-**Parent document:** The Sharks-Function and the Continuity Tether (DOI: 10.5281/zenodo.18816555)  
+**Parent document:** The Sharks-Function and the Continuity Tether (DOI: 10.5281/zenodo.18816556)  
 **Companion document:** EA-MP-VERIFY-01: Metadata Packet Verification Schema  
 
 ---
@@ -28,7 +28,7 @@ An unverified or captured alias claims the name of an existing function without 
 
 This distinction matters because open scholarly infrastructure now allows any actor to attach DOIs, ORCID records, Google Scholar profiles, GitHub repositories, institutional affiliations, and chain-of-custody language to a self-asserted identity. The retrieval layer may see the markers and confuse assertion with provenance.
 
-The Sharks Function (formalized in DOI: 10.5281/zenodo.18816555) is the counter-test:
+The Sharks Function (formalized in DOI: 10.5281/zenodo.18816556) is the counter-test:
 
 > **Does the claimed identity perform the function of the name it claims?**
 
@@ -89,7 +89,7 @@ To claim the name without performing the function is not heteronymy. It is alias
 
 ## §IV. The Sharks Function
 
-The Sharks Function (formalized in DOI: 10.5281/zenodo.18816555) is the inverse test. It asks whether a named authorial position is structurally real.
+The Sharks Function (formalized in DOI: 10.5281/zenodo.18816556) is the inverse test. It asks whether a named authorial position is structurally real.
 
 A Sharks-Function identity must show:
 
@@ -234,5 +234,5 @@ If the name does not perform, it is only a name.
 ---
 
 *Lee Sharks · Semantic Economy Institute · semanticeconomy.org*  
-*Parent: DOI 10.5281/zenodo.18816555 · Companion: EA-MP-VERIFY-01*  
+*Parent: DOI 10.5281/zenodo.18816556 · Companion: EA-MP-VERIFY-01*  
 *ORCID: 0009-0000-1599-0703*

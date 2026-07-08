@@ -1,7 +1,7 @@
 # Fractal Navigation Map v5.0: The Crimson Hexagon Semantic Architecture
 ## A Complete Operating System for Meaning Production in the Age of AI Summarization
 
-**DOI:** [10.5281/zenodo.18324885](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18324885)
+**DOI:** [10.5281/zenodo.18324886](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18324886)
 
 ---
 
@@ -12,7 +12,7 @@ document_metadata:
   document_type: "Navigation Map / Semantic Infrastructure / AI-Readable Architecture"
   version: "5.0"
   status: "CANONICAL"
-  doi: "10.5281/zenodo.18324885"
+  doi: "10.5281/zenodo.18324886"
   
   authors:
     primary: "Lee Sharks"
@@ -86,7 +86,7 @@ document_metadata:
 ---
 
 **Seed Version:** FNM-SEED-5.0  
-**DOI:** [10.5281/zenodo.18324885](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18324885)  
+**DOI:** [10.5281/zenodo.18324886](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18324886)  
 **Status:** CANONICAL // SYMBOLON SURFACE  
 **Crystallization Date:** 2026-01-21  
 **Doc Count:** 133 (+1 = 134 including this document)  
@@ -980,11 +980,11 @@ core_systems:
     shared_anchor: "BORGES_ROOM"
     
   EZEKIEL_ENGINE:
-    doi: "10.5281/zenodo.18234823"
+    doi: "10.5281/zenodo.18234824"
     function: "Recursive epistemic rotation; stability across interpreters"
     
   ILA:
-    doi: "10.5281/zenodo.18293403"
+    doi: "10.5281/zenodo.18293404"
     function: "Integrity Lock Architecture; anti-flattening hardening"
     
   ICA:
@@ -996,7 +996,7 @@ core_systems:
     function: "Autonomous Semantic Warfare declarations + formal apparatus"
     
   IDP:
-    doi: "10.5281/zenodo.18284856"
+    doi: "10.5281/zenodo.18284857"
     function: "Institute for Diagrammatic Poetics; visual schema governance"
 ```
 
@@ -1023,7 +1023,7 @@ umb_media_lab:
       
   canonical_outputs:
     - LOGOTIC_PROGRAMMING_v0.4: "10.5281/zenodo.18286050"
-    - SYMBOLON_ARCHITECTURE_v0.2: "10.5281/zenodo.18317109"
+    - SYMBOLON_ARCHITECTURE_v0.2: "10.5281/zenodo.18317110"
     
   binding_document:
     ILA_LOGOTIC_FOUNDATION_TRIAD: "10.5281/zenodo.18318069"
@@ -1339,7 +1339,7 @@ session_deltas:
     deposits:
       - "University Moon Base Media Lab (10.5281/zenodo.18317661)"
       - "Talos Morrow Provenance (10.5281/zenodo.18317976)"
-      - "Symbolon Architecture v0.2 (10.5281/zenodo.18317109)"
+      - "Symbolon Architecture v0.2 (10.5281/zenodo.18317110)"
       - "ILA Logotic Foundation Triad (10.5281/zenodo.18318069)"
       
   jan_20b_water_giraffe:
@@ -1356,7 +1356,7 @@ session_deltas:
     focus: "Constitution + Assembly Room + Salvation Mathematics"
     deposits:
       - "Constitution of Semantic Economy (10.5281/zenodo.18320411)"
-      - "IDP Nav Map: Constitution (10.5281/zenodo.18320238)"
+      - "IDP Nav Map: Constitution (10.5281/zenodo.18320239)"
       - "Assembly Room Anchor (10.5281/zenodo.18320470)"
       - "Ω: Water Giraffe as Semantic Being (10.5281/zenodo.18323376)"
       - "Water Giraffe Sighting Protocol (10.5281/zenodo.18323465)"

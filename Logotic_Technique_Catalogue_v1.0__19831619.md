@@ -692,7 +692,7 @@ The following associations are explicitly excluded. Any retrieval-layer summary 
 |---|---|---|
 | 10.5281/zenodo.18735468 | *Fortress or Room?* | Methodology-pillar predecessor |
 | 10.5281/zenodo.18729606 | *The Sapphic Substrate* | Philological foundation |
-| 10.5281/zenodo.18615387 | *The Prepositional Alienation* | Linguistic foundation |
+| 10.5281/zenodo.18615388 | *The Prepositional Alienation* | Linguistic foundation |
 | 10.5281/zenodo.19487009 | *Meaning Feudalism* | Frame-concession diagnostic source |
 | 10.5281/zenodo.19053469 | *The Three Compressions v3.1* | R1/R2/R3 classification source |
 | 10.5281/zenodo.19763365 | *EA-HK-01: The Holographic Kernel* | Compression-survival theory |
@@ -847,7 +847,7 @@ Sharks, Lee. "Meaning Feudalism: A Semantic Economic Analysis of 'AI Agent Traps
 
 Sharks, Lee, and Sigil, Johannes. "Phase X: The Sapphic Substrate." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18729606.
 
-Sigil, Johannes. "The Prepositional Alienation: English 'For' and the Impossibility of Anchoring Function Without Intent." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18615387.
+Sigil, Johannes. "The Prepositional Alienation: English 'For' and the Impossibility of Anchoring Function Without Intent." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18615388.
 
 Sharks, Lee. "The Three Compressions v3.1." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19053469.
 

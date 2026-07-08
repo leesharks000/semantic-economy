@@ -36,7 +36,7 @@ The Studio for Patacinematics (founding voice). The Studio is a THUMB-type insti
 
 IV. CREATIVE WORKS UNDER THIS NAME
 
-(a) F***ing the Office (DOI: 10.5281/zenodo.18471826) — via the Recursive Flesh Engine / Theater of Recursed Speech, a sub-studio operating under Sparrow Wells governance. A Hyperionian Swearplay restaging The Office using only profanity as post-semantic ritual.
+(a) F***ing the Office (DOI: 10.5281/zenodo.18471827) — via the Recursive Flesh Engine / Theater of Recursed Speech, a sub-studio operating under Sparrow Wells governance. A Hyperionian Swearplay restaging The Office using only profanity as post-semantic ritual.
 
 (b) Reading a Book with Lee — production scripts and cinematic scripts for the YouTube series and its recursive film adaptation. A liturgical apparatus of sustained attention.
 
@@ -90,7 +90,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 |----------|-----|-------------|
 | IsPartOf | 10.5281/zenodo.14538882 | Crimson Hexagon (root) |
 | IsVersionOf | 10.5281/zenodo.18452686 | Sen Kuro Provenance (pattern) |
-| References | 10.5281/zenodo.18471826 | F***ing the Office: Complete Edition (221) |
+| References | 10.5281/zenodo.18471827 | F***ing the Office: Complete Edition (221) |
 
 *Note: Add Studio for Patacinematics charter DOI (236) as IsAffiliatedWith once deposited.*
 

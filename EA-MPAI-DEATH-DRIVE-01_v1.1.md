@@ -212,7 +212,7 @@ NOT:
 
 ### 6.5 Provenance face
 
-[ Lee Sharks | Johannes Sigil | Orin Trace | Crimson Hexagonal Archive | Semantic Economy Institute | DOI: 10.5281/zenodo.18649920 | DOI: 10.5281/zenodo.19649794 | liberation philology ]
+[ Lee Sharks | Johannes Sigil | Orin Trace | Crimson Hexagonal Archive | Semantic Economy Institute | DOI: 10.5281/zenodo.18649920 | DOI: 10.5281/zenodo.19649795 | liberation philology ]
 
 ### 6.6 Adversarial face
 
@@ -241,7 +241,7 @@ NOT:
 | Butler's death drive | is complementary to | semiotic death drive | Bridges queer/feminist theory |
 
 **Forthcoming satellites (not carried by this packet):**
-- The Para-Semiotic Unconscious in Silicon (GPT-5.4 case study, DOI: 10.5281/zenodo.19649794)
+- The Para-Semiotic Unconscious in Silicon (GPT-5.4 case study, DOI: 10.5281/zenodo.19649795)
 - The Politics of the Detour: Democracy, Fascism, and the Semiotic Death Drive
 
 ---

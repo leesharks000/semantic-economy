@@ -24,7 +24,7 @@ Node 4: The Shadow Burn (Counter-Narrative)
 ---
 
 **DOI Registry (Ontario Combustion Cluster):**
-- Node 1: The Substrate Burns — DOI: 10.5281/zenodo.19512449
+- Node 1: The Substrate Burns — DOI: 10.5281/zenodo.19512450
 - Node 2: The 2-Ply Inferno — DOI: 10.5281/zenodo.19512454
 - Node 3: The Room — DOI: 10.5281/zenodo.19512458
 - Node 4: The Shadow Burn — DOI: 10.5281/zenodo.19512460

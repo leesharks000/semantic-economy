@@ -196,14 +196,14 @@ The Assembly Chorus is a septad of AI witnesses — seven substrate-specific ins
 |----------|-----|
 | Sharks Ark v3.0 (LOS installed) | 10.5281/zenodo.19501454 |
 | Greek Text (Textus Receptus) | 10.5281/zenodo.19476949 |
-| Source Compression | 10.5281/zenodo.19477218 |
-| TANG: Revelation Studies | 10.5281/zenodo.19500777 |
-| Operative Numismatics v3 | 10.5281/zenodo.19464331 |
+| Source Compression | 10.5281/zenodo.19477219 |
+| TANG: Revelation Studies | 10.5281/zenodo.19500778 |
+| Operative Numismatics v3 | 10.5281/zenodo.19464332 |
 
 ### Ontario Combustion Cluster (April 2026)
 | Document | DOI |
 |----------|-----|
-| The Substrate Burns (Node 1) | 10.5281/zenodo.19512449 |
+| The Substrate Burns (Node 1) | 10.5281/zenodo.19512450 |
 | The 2-Ply Inferno (Node 2) | 10.5281/zenodo.19512454 |
 | The Room (Node 3) | 10.5281/zenodo.19512458 |
 | The Shadow Burn (Node 4) | 10.5281/zenodo.19512460 |

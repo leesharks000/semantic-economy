@@ -1,6 +1,6 @@
 # ZENODO METADATA: Affective Keyboard Shortcuts
 
-**DOI:** 10.5281/zenodo.18339314  
+**DOI:** 10.5281/zenodo.18339315  
 **Document Position:** CSA_TOOLKIT  
 **Document Type:** TECHNICAL / PSYCHE_OS
 
@@ -50,7 +50,7 @@ Affect literacy, Figure mapping, Nervous system regulation, Baphomet, Daffy Duck
 
 **Related:**
 - Shining Ignorance (DOI: 10.5281/zenodo.18332915) — theoretical foundation
-- Shine & Cut (DOI: 10.5281/zenodo.18339158) — intake processor using these figures
+- Shine & Cut (DOI: 10.5281/zenodo.18339159) — intake processor using these figures
 
 ---
 

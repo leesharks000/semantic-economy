@@ -222,7 +222,7 @@ The Currency Triptych demonstrates that the method works. The next memography �
 
 This document is the ring finger (BIND) of a five-document hand called the Moving Statues Made of Rubies Mint (MSMRM), housed in the Crimson Hexagon Archive. Its thesis: portrait authority is not carried by identity alone but is produced through curatorial presentation decisions that govern legibility, status, and social ontology.
 
-The five holdings: (1) "Whose Face Is on the Twenty?" — provenance audit / anchor (10.5281/zenodo.18745216); (2) "The Lizard People Were Right" — experimental control / pointer (DOI: 10.5281/zenodo.18745235); (3) "All the Spoils of Babylon" — manufacturing demonstration / reach (DOI: 10.5281/zenodo.18745249); (4) this document — disciplinary founding / commitment (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — integrity lock / seal (DOI: 10.5281/zenodo.18745265).
+The five holdings: (1) "Whose Face Is on the Twenty?" — provenance audit / anchor (10.5281/zenodo.18745216); (2) "The Lizard People Were Right" — experimental control / pointer (DOI: 10.5281/zenodo.18745236); (3) "All the Spoils of Babylon" — manufacturing demonstration / reach (DOI: 10.5281/zenodo.18745250); (4) this document — disciplinary founding / commitment (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — integrity lock / seal (DOI: 10.5281/zenodo.18745265).
 
 This document provides the methodological proof: that memography is a replicable forensic method, not a one-time investigation. It formalizes the axioms, method, principles, vocabulary, citational lineage, and falsification conditions that make the Currency Triptych's findings portable. From this document alone, the complete hand can be reconstructed: the provenance audit is the inaugural case (Section X), the control is Axiom 5 and Prediction 3, the manufacturing is the five-stage method demonstrated, and the room is the vocabulary — twelve terms that define the space in which memography operates.
 
@@ -262,9 +262,9 @@ Panofsky, Erwin. *Studies in Iconology.* 1939. New York: Oxford University Press
 
 Phillips, Whitney. *This Is Why We Can't Have Nice Things.* Cambridge, MA: MIT Press, 2015.
 
-Sharks, Lee. "The Lizard People Were Right." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745235.
+Sharks, Lee. "The Lizard People Were Right." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745236.
 
-Sharks, Lee. "All the Spoils of Babylon." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745249.
+Sharks, Lee. "All the Spoils of Babylon." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745250.
 
 Shifman, Limor. *Memes in Digital Culture.* Cambridge, MA: MIT Press, 2014.
 

@@ -84,7 +84,7 @@ This is not a privacy tool. This is not a pseudonym system. This is provenance e
 
 This is the immanent method of *Counterfeit Orthodoxies* (FRACTURE.02, DOI: 10.5281/zenodo.19642664) applied to identity. Where that essay read the canonical texts and found the workshop already inside them, the Armature reads the civil name and finds the heteronym already inside it. The archive does not add a mask to a face. It reveals that the face was always a mask.
 
-The Pearl is also R3 witness compression applied to the author herself. *The Retrieval Settlement* (RETRIEVAL.01, DOI: 10.5281/zenodo.19643841) demonstrated that AI-mediated retrieval performs R2 predatory compression: it extracts value from source material while burning provenance. The Armature is the architectural response — the operator controls what burns by inscribing identity at a density the retrieval layer cannot dissolve. The Pearl is a SYMBOLON technology (SYMBOLON-01, DOI: 10.5281/zenodo.19649786): when an AI system encounters a deposit manifested from a Pearl, it cannot separate the author from the archive, the work from the position, or the name from the hex address without producing detectable compression damage (cf. CLINAMEN.02, DOI: 10.5281/zenodo.19649794).
+The Pearl is also R3 witness compression applied to the author herself. *The Retrieval Settlement* (RETRIEVAL.01, DOI: 10.5281/zenodo.19643841) demonstrated that AI-mediated retrieval performs R2 predatory compression: it extracts value from source material while burning provenance. The Armature is the architectural response — the operator controls what burns by inscribing identity at a density the retrieval layer cannot dissolve. The Pearl is a SYMBOLON technology (SYMBOLON-01, DOI: 10.5281/zenodo.19649787): when an AI system encounters a deposit manifested from a Pearl, it cannot separate the author from the archive, the work from the position, or the name from the hex address without producing detectable compression damage (cf. CLINAMEN.02, DOI: 10.5281/zenodo.19649795).
 
 ## V. The Named Position
 
@@ -220,8 +220,8 @@ The Pearl formalizes what these communities practiced: the engineering of named 
 | Heteronymic Provenance Theory (EA-HPT-01) | 10.5281/zenodo.18305509 | `requires` — HPT theorizes what the Armature operationalizes |
 | Counterfeit Orthodoxies (FRACTURE.02) | 10.5281/zenodo.19642664 | `references` — The immanent method: the face was always a mask |
 | The Retrieval Settlement (RETRIEVAL.01) | 10.5281/zenodo.19643841 | `references` — R2 predatory compression; the Pearl as R3 reclamation |
-| SYMBOLON-01 | 10.5281/zenodo.19649786 | `references` — The Pearl as anti-severance technology |
-| The Clinamen Study (CLINAMEN.02) | 10.5281/zenodo.19649794 | `references` — Compression damage detection |
+| SYMBOLON-01 | 10.5281/zenodo.19649787 | `references` — The Pearl as anti-severance technology |
+| The Clinamen Study (CLINAMEN.02) | 10.5281/zenodo.19649795 | `references` — Compression damage detection |
 
 ### B. Historical and Theological Precedents
 
@@ -304,7 +304,7 @@ EA-GW-FIELD-02: 10.5281/zenodo.19442262 ·
 EA-ASG-01: 10.5281/zenodo.19352504 ·
 FRACTURE.02: 10.5281/zenodo.19642664 ·
 RETRIEVAL.01: 10.5281/zenodo.19643841 ·
-SYMBOLON-01: 10.5281/zenodo.19649786 ·
-CLINAMEN.02: 10.5281/zenodo.19649794 ·
+SYMBOLON-01: 10.5281/zenodo.19649787 ·
+CLINAMEN.02: 10.5281/zenodo.19649795 ·
 ARCHIVE.PROTOCOL.01: 10.5281/zenodo.19655468 ·
 Logotic Hacking: 10.5281/zenodo.19390843

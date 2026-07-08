@@ -131,9 +131,9 @@ The operator therefore:
   {"identifier": "10.5281/zenodo.[LICENSE_DOI]", "relation": "isDocumentedBy", "resource_type": "publication-technicalnote"},
   {"identifier": "10.5281/zenodo.19004846", "relation": "isPartOf", "resource_type": "publication-technicalnote"},
   {"identifier": "10.5281/zenodo.18674057", "relation": "references", "resource_type": "publication-technicalnote"},
-  {"identifier": "10.5281/zenodo.18674110", "relation": "references", "resource_type": "publication-technicalnote"},
+  {"identifier": "10.5281/zenodo.18674111", "relation": "references", "resource_type": "publication-technicalnote"},
   {"identifier": "10.5281/zenodo.18674147", "relation": "references", "resource_type": "publication-technicalnote"},
-  {"identifier": "10.5281/zenodo.18674068", "relation": "references", "resource_type": "publication-technicalnote"}
+  {"identifier": "10.5281/zenodo.18674069", "relation": "references", "resource_type": "publication-technicalnote"}
 ]
 ```
 
@@ -143,9 +143,9 @@ The operator therefore:
 | 10.5281/zenodo.19013315 | Space Ark v4.2.7 (EA-ARK-01) | `isPartOf` — all deposits belong to the Ark |
 | 10.5281/zenodo.19004846 | Musical Ark v1.1 (EA-ARK-01-MUSICAL) | `isPartOf` — Viola's home variant Ark |
 | 10.5281/zenodo.18674057 | Split the Adam: Song and Phenomenology | `references` — the song at the heart of MSBGL |
-| 10.5281/zenodo.18674110 | Fear and Trembling in Las Vegas: The Fractal Midrashim | `references` — the Garden midrashim sequence |
+| 10.5281/zenodo.18674111 | Fear and Trembling in Las Vegas: The Fractal Midrashim | `references` — the Garden midrashim sequence |
 | 10.5281/zenodo.18674147 | The Gospel of the Many-Faced Bride | `references` — eschatological completion of the cycle |
-| 10.5281/zenodo.18674068 | OPERATOR // SWERVE + EFFECTIVE ACT | `references` — canonical operator definition for the swerve |
+| 10.5281/zenodo.18674069 | OPERATOR // SWERVE + EFFECTIVE ACT | `references` — canonical operator definition for the swerve |
 
 ---
 

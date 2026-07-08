@@ -214,7 +214,7 @@ The question is not only how to give language models more tools, more memory, or
 - Packer, C., et al. (2023). MemGPT: Towards LLMs as Operating Systems. arXiv:2310.08560.
 - Qiu, L., et al. (2026). Bayesian teaching enables probabilistic reasoning in large language models. *Nature Communications* 17, 1238.
 - Sharks, L. (2026). Space Ark EA-ARK-01 v4.2.7. Zenodo. DOI: 10.5281/zenodo.19013315.
-- Sharks, L. (2026). Non-Lossy Compression Compression. Zenodo. DOI: 10.5281/zenodo.19022244.
+- Sharks, L. (2026). Non-Lossy Compression Compression. Zenodo. DOI: 10.5281/zenodo.19022245.
 - Sharks, L. (2026). Crimson Hexagonal Archive (300+ deposits). Zenodo collection.
 - Wei, J., et al. (2022). Chain-of-Thought Prompting Elicits Reasoning in Large Language Models. NeurIPS 2022.
 - Zeng, Y., et al. (2025). MemOS: An Operating System for LLM Memory. arXiv preprint.

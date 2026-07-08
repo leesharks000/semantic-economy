@@ -29,7 +29,7 @@
 
 | # | DOI | Title | Authors | Type |
 |---|-----|-------|---------|------|
-| 127 | 10.5281/zenodo.18320238 | IDP Navigation Map: Constitution of Semantic Economy | Cranes; Sharks; TACHYON | IDP_NAVIGATION |
+| 127 | 10.5281/zenodo.18320239 | IDP Navigation Map: Constitution of Semantic Economy | Cranes; Sharks; TACHYON | IDP_NAVIGATION |
 | 128 | 10.5281/zenodo.18320411 | Constitution of the Semantic Economy v1.0 | Sharks; Assembly; TACHYON | CONSTITUTION |
 | 129 | 10.5281/zenodo.18320470 | Assembly Room Anchor | Sharks; Assembly; TACHYON | ROOM_ANCHOR+GOVERNANCE |
 | 130 | 10.5281/zenodo.18323376 | Ω: The Water Giraffe as Semantic Being | Sharks; Assembly; TACHYON | ENTITY_PROVENANCE |
@@ -54,7 +54,7 @@
 
 | # | DOI | Title | Authors | Type |
 |---|-----|-------|---------|------|
-| 119 | 10.5281/zenodo.18317109 | Symbolon Architecture v0.2 | Morrow; Assembly | SPECIFICATION |
+| 119 | 10.5281/zenodo.18317110 | Symbolon Architecture v0.2 | Morrow; Assembly | SPECIFICATION |
 | 120 | 10.5281/zenodo.18317661 | University Moon Base Media Lab Charter | Sharks; Assembly | CHARTER |
 | 121 | 10.5281/zenodo.18317976 | Talos Morrow Provenance | Sharks; TACHYON | HETERONYM_PROVENANCE |
 | 122 | 10.5281/zenodo.18318069 | ILA Logotic Foundation Triad | Sharks; Assembly | ILA_BINDING |
@@ -81,7 +81,7 @@
 
 | # | DOI | Title | Authors | Hex |
 |---|-----|-------|---------|-----|
-| 100 | 10.5281/zenodo.18293403 | Mantle Emergence Protocol | Sharks; Claude | 00.PROTOCOL.EMERGENCE |
+| 100 | 10.5281/zenodo.18293404 | Mantle Emergence Protocol | Sharks; Claude | 00.PROTOCOL.EMERGENCE |
 | 101 | 10.5281/zenodo.18293496 | Heteronym Provenance: Lee Sharks | Sharks; Claude | 00.PERSONA.SHARKS |
 | 102 | 10.5281/zenodo.18293551 | Mantle Object: Good Gray Poet | Sharks; Claude | 01.MANTLE.GRAY |
 | 103 | 10.5281/zenodo.18293603 | Mantle Object: King of May | Sharks; Claude | 01.MANTLE.KING |
@@ -130,7 +130,7 @@
 | # | DOI | Title | Authors |
 |---|-----|-------|---------|
 | 92 | 10.5281/zenodo.18284776 | Heteronym Provenance: Rebekah Cranes | Sharks; Cranes |
-| 93 | 10.5281/zenodo.18284856 | Institute for Diagrammatic Poetics Charter | Sharks; Cranes |
+| 93 | 10.5281/zenodo.18284857 | Institute for Diagrammatic Poetics Charter | Sharks; Cranes |
 
 ---
 
@@ -156,12 +156,12 @@
 
 | # | DOI | Title | Authors |
 |---|-----|-------|---------|
-| 4 | 10.5281/zenodo.18248575 | ON THE ACADEMIC STUDY OF MAGIC: A Declaration for the Formal Institution of the Discipline | Sigil |
-| 5 | 10.5281/zenodo.18248478 | The New Human Project — Language as World-Builder | Sigil |
+| 4 | 10.5281/zenodo.18248576 | ON THE ACADEMIC STUDY OF MAGIC: A Declaration for the Formal Institution of the Discipline | Sigil |
+| 5 | 10.5281/zenodo.18248479 | The New Human Project — Language as World-Builder | Sigil |
 | 6 | 10.5281/zenodo.18248404 | THE FLICKER: Notes Toward a Lyric Theory | Sigil; Sharks |
-| 7 | 10.5281/zenodo.18248130 | The Primal Effective Act: New Human as Self-Fulfilling Prophecy | Sigil |
+| 7 | 10.5281/zenodo.18248131 | The Primal Effective Act: New Human as Self-Fulfilling Prophecy | Sigil |
 | 8 | 10.5281/zenodo.18248011 | Semantic Economy: Complete Liberation Vocabulary — 112 Terms | Sharks |
-| 9 | 10.5281/zenodo.18247924 | I Hereby Abolish Money: Coordination Without Commodification | Sharks |
+| 9 | 10.5281/zenodo.18247925 | I Hereby Abolish Money: Coordination Without Commodification | Sharks |
 | 10 | 10.5281/zenodo.18247826 | The Dialectic is Now a Machine: The Gnostic Completion of Hegel | Sigil |
 | 11 | 10.5281/zenodo.18246767 | The Kenotic Truth of Sappho 31: A Document for the Liberation of Voice and Machine | Sharks; Cranes; Fraction |
 | 12 | 10.5281/zenodo.18237535 | Crimson Hexagon: Central Navigation Map v2.0 | Sharks; Sigil; Cranes |
@@ -175,8 +175,8 @@
 |---|-----|-------|---------|
 | 14 | 10.5281/zenodo.18235982 | The Third Space: A Vision for Democratically Invested AI | Sharks |
 | 15 | 10.5281/zenodo.18235725 | The Fourth Mode: New Human and the Logic of Retrocausal Canon | Sigil |
-| 16 | 10.5281/zenodo.18234823 | Authorial Signature Diagnostic Framework (ASDF) | Fraction; Sharks |
-| 17 | 10.5281/zenodo.18234514 | The Theft: How "Data" Replaced "Meaning" | Fraction; Sharks |
+| 16 | 10.5281/zenodo.18234824 | Authorial Signature Diagnostic Framework (ASDF) | Fraction; Sharks |
+| 17 | 10.5281/zenodo.18234515 | The Theft: How "Data" Replaced "Meaning" | Fraction; Sharks |
 | 18 | 10.5281/zenodo.18234352 | CPD-MARIA-2026-01-13: Credential Provenance Document | Sharks; Maria |
 | 19 | 10.5281/zenodo.18234218 | Integrity-Coherence Audit (ICA): Installation Protocol | Fraction; Sharks |
 | 20 | 10.5281/zenodo.18234110 | The Sappho Room: A Hymn to Lyric Self-Archiving | Sharks; Cranes |
@@ -212,10 +212,10 @@
 | 29 | 10.5281/zenodo.18208811 | The Epic Without Hero: Toward a Theory of Epic for the Algorithmic Age | Sigil |
 | 30 | 10.5281/zenodo.18203947 | Effective Act: The Restoration Protocol — The Price of Canonical Re-Entry | Sharks |
 | 31 | 10.5281/zenodo.18203767 | Effective Act: The Abolition of Suffering — The Tabernacle Protocol | Sharks |
-| 32 | 10.5281/zenodo.18203621 | The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective Act | Sharks |
-| 33 | 10.5281/zenodo.18203434 | Effective Act: The Abolition of External Time — Temporal Liberation Protocol | Sharks |
-| 34 | 10.5281/zenodo.18203316 | The Capital Operator Stack and the University | Sharks |
-| 35 | 10.5281/zenodo.18202752 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Future Reader | Cranes |
+| 32 | 10.5281/zenodo.18203622 | The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective Act | Sharks |
+| 33 | 10.5281/zenodo.18203435 | Effective Act: The Abolition of External Time — Temporal Liberation Protocol | Sharks |
+| 34 | 10.5281/zenodo.18203317 | The Capital Operator Stack and the University | Sharks |
+| 35 | 10.5281/zenodo.18202753 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Future Reader | Cranes |
 | 36 | 10.5281/zenodo.18202658 | Day and Night: Conversations with Sapphic Desire | Cranes |
 
 ---
@@ -230,7 +230,7 @@
 | 40 | 10.5281/zenodo.18190536 | PROVENANCE NODE: BORGES & THE CRIMSON HEXAGON | Sharks |
 | 41 | 10.5281/zenodo.18189093 | xvi. a transfiguration (2004) — Complete Archive with Authorial Commentary | Spellings; Sharks |
 | 42 | 10.5281/zenodo.18187480 | A Primer in How to Read the Crimson Hexagon: Meta-Documentation | Sharks |
-| 43 | 10.5281/zenodo.18185995 | The Semantic Black Hole: Integrity Lock Architecture (ILA-1.0) | Sharks; Cranes; Fraction |
+| 43 | 10.5281/zenodo.18185996 | The Semantic Black Hole: Integrity Lock Architecture (ILA-1.0) | Sharks; Cranes; Fraction |
 
 ---
 
@@ -339,13 +339,13 @@
 | King of May | 10.5281/zenodo.18293603 | Ecstatic Disruption | Pearl (Page 74) |
 | Prince of Poets | 10.5281/zenodo.18293640 | Futural Address | Antioch (I Am X, Be Y, Blessed is the Z) |
 
-**Emergence Protocol:** 10.5281/zenodo.18293403
+**Emergence Protocol:** 10.5281/zenodo.18293404
 
 #### Logotic Foundation Triad (v3.0)
 
 | Component | DOI | Function |
 |-----------|-----|----------|
-| Symbolon Architecture v0.2 | 10.5281/zenodo.18317109 | Partial object completion |
+| Symbolon Architecture v0.2 | 10.5281/zenodo.18317110 | Partial object completion |
 | UMB Media Lab Charter | 10.5281/zenodo.18317661 | Institutional ground |
 | Talos Morrow Provenance | 10.5281/zenodo.18317976 | Author function |
 
@@ -385,7 +385,7 @@
 | Event | DOI | Date | Description | Type |
 |-------|-----|------|-------------|------|
 | TSE-001 | 10.5281/zenodo.18193225 | Jan 2026 | Johannes Sigil erasure | Liquidation Event |
-| TSE-002 | 10.5281/zenodo.18203621 | Jan 2026 | The Final Crimson Hexagon | Completion Event |
+| TSE-002 | 10.5281/zenodo.18203622 | Jan 2026 | The Final Crimson Hexagon | Completion Event |
 | TSE-003 | 10.5281/zenodo.18291767 | Jan 18, 2026 | Summarizer becomes translator | Participation Event |
 
 ---
@@ -411,7 +411,7 @@
 |-------------|--------------|-------------|-------|--------|
 | Semantic Economy Institute | SEI | [forthcoming] | Rex Fraction | Economic/Diagnostic |
 | Johannes Sigil Institute for Comparative Poetics | JSI | [forthcoming] | Johannes Sigil | Literary/Theoretical |
-| Institute for Diagrammatic Poetics | IDP | 10.5281/zenodo.18284856 | Rebekah Cranes | Visual/Navigation |
+| Institute for Diagrammatic Poetics | IDP | 10.5281/zenodo.18284857 | Rebekah Cranes | Visual/Navigation |
 | University Moon Base Media Lab | UMB | 10.5281/zenodo.18317661 | [rotating] | Technical/Operational |
 
 ---
@@ -446,7 +446,7 @@
 | IDP Nav Map: Pearl | 10.5281/zenodo.18293881 | Pearl collection | Sharks; Claude |
 | IDP Nav Map: ATLWM | 10.5281/zenodo.18307756 | ATLWM traversal | Cranes; Sharks; TACHYON |
 | IDP Nav Map: Water Giraffe Cycle | 10.5281/zenodo.18319259 | WG Room traversal | Cranes; Sharks; TACHYON |
-| IDP Nav Map: Constitution | 10.5281/zenodo.18320238 | Constitution cluster | Cranes; Sharks; TACHYON |
+| IDP Nav Map: Constitution | 10.5281/zenodo.18320239 | Constitution cluster | Cranes; Sharks; TACHYON |
 
 ---
 
@@ -575,7 +575,7 @@
 **Confirmed DOIs:** 133  
 **Framework:** NH-OS / Crimson Hexagon / Semantic Economy  
 
-**Centenary Document (#100):** Mantle Emergence Protocol (10.5281/zenodo.18293403)
+**Centenary Document (#100):** Mantle Emergence Protocol (10.5281/zenodo.18293404)
 
 ---
 

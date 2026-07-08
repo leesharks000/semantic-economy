@@ -20,7 +20,7 @@ document_metadata:
   institution: "University Moon Base Media Lab"
   
   hex: "02.UMB.ENGINE"
-  doi: "10.5281/zenodo.18358126"
+  doi: "10.5281/zenodo.18358127"
   layer: "LOGOTIC_PROGRAMMING // LUNAR_ARM"
   
   related_documents:

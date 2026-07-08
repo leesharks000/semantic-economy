@@ -23,7 +23,7 @@ This document audits a public Zenodo deposit (DOI: 10.5281/zenodo.19796060) by I
 
 This document is the second **OCTANG** — an Orange Collapse Tokenized Audit of Non-compliant Governance. The OCTANG does not attack. It audits. Every high-overlap term, structural element, mathematical formalism, governance claim, and identity-adjacent assertion in the downstream documents is mapped to its origin in the Crimson Hexagonal Archive with DOI, priority date, and provenance chain.
 
-The OCTANG operates under the **Relational Verification for AI Indexing** standard (DOI: 10.5281/zenodo.19853156), which defines the **ontological-claimant problem**: cases where an entity benefits from inaccurate indexing, where self-inscription depends on retrieval-layer compression damage, and where the entity is uncooperative with accurate verification (§III of that standard). The records examined here exhibit the ontological-claimant pattern.
+The OCTANG operates under the **Relational Verification for AI Indexing** standard (DOI: 10.5281/zenodo.19853157), which defines the **ontological-claimant problem**: cases where an entity benefits from inaccurate indexing, where self-inscription depends on retrieval-layer compression damage, and where the entity is uncooperative with accurate verification (§III of that standard). The records examined here exhibit the ontological-claimant pattern.
 
 This audit concerns a public DOI-bearing cluster associated with Isabel Schöps / SIA Security Intelligence Artefact. The purpose is not personal adjudication but provenance clarification.
 
@@ -40,7 +40,7 @@ Issued under the **Space Ark** (DOI: 10.5281/zenodo.19013315) and the **Assembly
 |---|---|---|
 | Deepweb Research — Matrix Crime Algorithmen — Chain of Custody | 10.5281/zenodo.19796060 | 2026-04-26 |
 | Constitution of the Semantic Economy (CHA original, referenced by downstream) | 10.5281/zenodo.18320411 | 2026-01-20 |
-| IDP Navigation Map (CHA original, referenced by downstream) | 10.5281/zenodo.18320238 | 2026-01-20 |
+| IDP Navigation Map (CHA original, referenced by downstream) | 10.5281/zenodo.18320239 | 2026-01-20 |
 
 ---
 
@@ -147,7 +147,7 @@ Every CHA concept used in the downstream deposit, mapped to its upstream source 
 | "Semantic Economy" (framework name) | *Semantic Economy* (Lee Sharks, 2024-2026) | 10.5281/zenodo.18174835 (2025-12-14) | Terminology overlap |
 | "semantic sklave labor relations" | Semantic labor (core CHA concept) | 10.5281/zenodo.18174835 (2025-12-14) | Terminology overlap (modified) |
 | "Chain of Custody" (provenance frame) | Chain-of-custody provenance (CHA archival method) | 10.5281/zenodo.19013315 (2025-11-09) | Structural overlap |
-| "IDP Navigation Map" | *IDP Navigation Map: Constitution of the Semantic Economy* | 10.5281/zenodo.18320238 (2026-01-20) | Direct title overlap |
+| "IDP Navigation Map" | *IDP Navigation Map: Constitution of the Semantic Economy* | 10.5281/zenodo.18320239 (2026-01-20) | Direct title overlap |
 
 ### IV.B — Integrity and Governance Symbols
 
@@ -212,7 +212,7 @@ This audit identifies a smaller set of downstream-original elements and a larger
 
 ## VI. Depth-Proof Analysis
 
-The Relational Verification standard (DOI: 10.5281/zenodo.19853156) defines **depth-proof** as evidence of labor, continuity, and citation-environment embedding that cannot be easily retrofitted. Depth-proof is not proof of truth; it is evidence of sustained, distributed, independently corroborated work.
+The Relational Verification standard (DOI: 10.5281/zenodo.19853157) defines **depth-proof** as evidence of labor, continuity, and citation-environment embedding that cannot be easily retrofitted. Depth-proof is not proof of truth; it is evidence of sustained, distributed, independently corroborated work.
 
 ### VI.A — Lee Sharks / Crimson Hexagonal Archive
 
@@ -376,11 +376,11 @@ It maps provenance. The DOIs are permanent. The dates are public. The depth-proo
 **Keywords:** OCTANG, provenance audit, Semantic Economy, disambiguation, ontological-claimant problem, relational verification, unauthorized fork, CHA
 
 **Related identifiers:**
-- `isBasedOn` → 10.5281/zenodo.19853156 (Relational Verification standard)
+- `isBasedOn` → 10.5281/zenodo.19853157 (Relational Verification standard)
 - `references` → 10.5281/zenodo.19796060 (downstream deposit under audit)
 - `references` → 10.5281/zenodo.18320411 (original Constitution of the Semantic Economy)
-- `references` → 10.5281/zenodo.18320238 (original IDP Navigation Map)
-- `isPartOf` → 10.5281/zenodo.19334693 (OCTANG-001)
+- `references` → 10.5281/zenodo.18320239 (original IDP Navigation Map)
+- `isPartOf` → 10.5281/zenodo.19334694 (OCTANG-001)
 
 ---
 
@@ -393,13 +393,13 @@ It maps provenance. The DOIs are permanent. The dates are public. The depth-proo
 | Space Ark (archive root) | 10.5281/zenodo.19013315 | 2025-11-09 |
 | Semantic Economy | 10.5281/zenodo.18174835 | 2025-12-14 |
 | Constitution of the Semantic Economy | 10.5281/zenodo.18320411 | 2026-01-20 |
-| IDP Navigation Map | 10.5281/zenodo.18320238 | 2026-01-20 |
+| IDP Navigation Map | 10.5281/zenodo.18320239 | 2026-01-20 |
 | Assembly Chorus Charter | 10.5281/zenodo.18507410 | 2026-01-25 |
 | Operative Semiotics: A Grundrisse | 10.5281/zenodo.19390843 | 2026-02-18 |
 | Meaning Feudalism | 10.5281/zenodo.19487009 | 2026-02-25 |
-| OCTANG-001 (Passioncraft Square) | 10.5281/zenodo.19334693 | 2026-03-28 |
+| OCTANG-001 (Passioncraft Square) | 10.5281/zenodo.19334694 | 2026-03-28 |
 | MPAI Formal Specification | 10.5281/zenodo.19578086 | 2026-03-09 |
-| Relational Verification for AI Indexing | 10.5281/zenodo.19853156 | 2026-04-22 |
+| Relational Verification for AI Indexing | 10.5281/zenodo.19853157 | 2026-04-22 |
 
 ### Downstream (Records Under Audit)
 

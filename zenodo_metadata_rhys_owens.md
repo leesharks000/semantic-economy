@@ -47,7 +47,7 @@ Rhys Owens, Cambridge Schizoanalytica, Author provenance, Guattari, Lunar Arm, P
 - Cambridge Schizoanalytica Charter (DOI: 10.5281/zenodo.18338531)
 
 **Related:**
-- Orin Trace Provenance (DOI: 10.5281/zenodo.18339318) — collaborator document
+- Orin Trace Provenance (DOI: 10.5281/zenodo.18339319) — collaborator document
 - Shining Ignorance (DOI: 10.5281/zenodo.18332915) — primary authored work
 - Reconciliation of the Sexes (DOI: 10.5281/zenodo.18330828) — primary authored work
 

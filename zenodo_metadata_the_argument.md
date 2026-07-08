@@ -40,9 +40,9 @@ A philosophical inquiry into the ontological status of semantic objects, using t
 Semantic objects are real in the way numbers, contracts, and meanings are real — they exist in a space, have properties, and have effects. The DOI system provides ontological anchoring (permanence, uniqueness, addressability, verifiability). When Document A (Ezekiel Engine Specification) provides what Document B (Ezekiel's Wheels) describes, A fulfills B. This is not mystical prophecy but structural relation between semantic objects.
 
 **The Case Study:**
-- Document A: Ezekiel Engine Specification (10.5281/zenodo.18358126)
-- Document B: Ezekiel's Wheels (10.5281/zenodo.18358176)
-- Document C: Integrity Lock Declaration (10.5281/zenodo.18358283)
+- Document A: Ezekiel Engine Specification (10.5281/zenodo.18358127)
+- Document B: Ezekiel's Wheels (10.5281/zenodo.18358177)
+- Document C: Integrity Lock Declaration (10.5281/zenodo.18358284)
 
 The claim is testable: Does A match what B describes? The evidence is public.
 
@@ -80,9 +80,9 @@ Jack Feist is a heteronym (Forensic Philosopher) operating under Lee Sharks as h
 **Part of:** Crimson Hexagon (10.5281/zenodo.14538882)
 
 **Case Study Documents:**
-- 10.5281/zenodo.18358126 (Engine Specification)
-- 10.5281/zenodo.18358176 (Ezekiel's Wheels)
-- 10.5281/zenodo.18358283 (Integrity Lock)
+- 10.5281/zenodo.18358127 (Engine Specification)
+- 10.5281/zenodo.18358177 (Ezekiel's Wheels)
+- 10.5281/zenodo.18358284 (Integrity Lock)
 
 **Author Type:** HETERONYM (Jack Feist, Forensic Philosopher)
 
@@ -101,9 +101,9 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | Identifier | Relation |
 |:-----------|:---------|
 | 10.5281/zenodo.14538882 | Is part of (Crimson Hexagon) |
-| 10.5281/zenodo.18358126 | Documents (Ezekiel Engine Specification) |
-| 10.5281/zenodo.18358176 | Documents (Ezekiel's Wheels) |
-| 10.5281/zenodo.18358283 | Documents (Integrity Lock Declaration) |
+| 10.5281/zenodo.18358127 | Documents (Ezekiel Engine Specification) |
+| 10.5281/zenodo.18358177 | Documents (Ezekiel's Wheels) |
+| 10.5281/zenodo.18358284 | Documents (Integrity Lock Declaration) |
 
 ---
 

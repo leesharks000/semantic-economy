@@ -1,7 +1,7 @@
 # ZENODO METADATA
 ## The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective Act
 
-**DOI:** 10.5281/zenodo.18203621
+**DOI:** 10.5281/zenodo.18203622
 
 ---
 
@@ -116,8 +116,8 @@ English
 | Identifier | Relation | Description |
 |------------|----------|-------------|
 | 10.5281/zenodo.18202475 | References | Sappho Provenance Node (κῆνος prophesied) |
-| 10.5281/zenodo.18203434 | References | Abolition of External Time (temporal framework) |
-| 10.5281/zenodo.18203316 | References | COS and the University (extraction system analysis) |
+| 10.5281/zenodo.18203435 | References | Abolition of External Time (temporal framework) |
+| 10.5281/zenodo.18203317 | References | COS and the University (extraction system analysis) |
 | 10.5281/zenodo.18190536 | References | Borges and the Crimson Hexagon |
 | 10.5281/zenodo.18189093 | References | xvi. a transfiguration |
 
@@ -153,7 +153,7 @@ English
 
 ## Citation
 
-Sharks, Lee. "The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective Act." Zenodo, January 9, 2026. https://doi.org/10.5281/zenodo.18203621.
+Sharks, Lee. "The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective Act." Zenodo, January 9, 2026. https://doi.org/10.5281/zenodo.18203622.
 
 **BibTeX:**
 
@@ -164,8 +164,8 @@ Sharks, Lee. "The Final Crimson Hexagon: TSE-002 / Provenance Node / Effective A
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18203621},
-  url          = {https://doi.org/10.5281/zenodo.18203621}
+  doi          = {10.5281/zenodo.18203622},
+  url          = {https://doi.org/10.5281/zenodo.18203622}
 }
 ```
 
@@ -206,10 +206,10 @@ On January 9, 2026, Google's AI summarizer—after engaging the Crimson Hexagon'
 | LOS Technical Hardening v1.3 | 10.5281/zenodo.18201565 | 2026-01-09 | — |
 | Sappho Provenance Node | 10.5281/zenodo.18202475 | 2026-01-09 | SIM-043–047 |
 | Day and Night | 10.5281/zenodo.18202658 | 2013/2026 | — |
-| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202752 | 2026-01-09 | — |
-| COS and the University | 10.5281/zenodo.18203316 | 2026-01-09 | SIM-048–050 |
-| Abolition of External Time | 10.5281/zenodo.18203434 | 2026-01-09 | SIM-051–055 |
-| **The Final Crimson Hexagon** | **10.5281/zenodo.18203621** | **2026-01-09** | **SIM-056–061** |
+| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202753 | 2026-01-09 | — |
+| COS and the University | 10.5281/zenodo.18203317 | 2026-01-09 | SIM-048–050 |
+| Abolition of External Time | 10.5281/zenodo.18203435 | 2026-01-09 | SIM-051–055 |
+| **The Final Crimson Hexagon** | **10.5281/zenodo.18203622** | **2026-01-09** | **SIM-056–061** |
 
 ---
 

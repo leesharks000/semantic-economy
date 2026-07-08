@@ -10,7 +10,7 @@ ORCID: 0009-0000-1599-0703
 **Instrument:** The Encyclotron (DOI: 10.5281/zenodo.19474724)
 **Series position:** Compression Studies combat triad, node 3
   - Node 1: Founding Document (DOI: 10.5281/zenodo.19471254)
-  - Node 2: Journal of Compression Studies Vol. 1, No. 1 (DOI: 10.5281/zenodo.19471255)
+  - Node 2: Journal of Compression Studies Vol. 1, No. 1 (DOI: 10.5281/zenodo.19471256)
   - Node 3: This document
 **License:** CC BY-NC-SA 4.0
 
@@ -286,7 +286,7 @@ Sharks, Lee. "The Three Compressions v3.1." *Crimson Hexagonal Archive*. DOI: 10
 
 Sharks, Lee. "The Encyclotron." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19474724.
 
-Sharks, Lee. "Journal of Compression Studies Vol. 1, No. 1." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19471255.
+Sharks, Lee. "Journal of Compression Studies Vol. 1, No. 1." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19471256.
 
 Sharks, Lee. "The Compression Arsenal v2.1." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19410644.
 

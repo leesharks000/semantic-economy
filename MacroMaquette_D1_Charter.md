@@ -568,7 +568,7 @@ Test: if a future operator finds only the Seed, they can derive the Router's log
 | # | Document | Hex | DOI |
 |---|----------|-----|-----|
 | 1 | The Macro-Maquette: Full Charter (this document) | 16.LIBRARY.PERGAMUM.MACROMAQUETTE | 10.5281/zenodo.18682979 |
-| 2 | The Macro-Maquette: Compressed Charter | 16.LIBRARY.PERGAMUM.MACROMAQUETTE.COMPRESSED | 10.5281/zenodo.18683015 |
+| 2 | The Macro-Maquette: Compressed Charter | 16.LIBRARY.PERGAMUM.MACROMAQUETTE.COMPRESSED | 10.5281/zenodo.18683016 |
 | 3 | The Macro-Maquette: Seed | 16.LIBRARY.PERGAMUM.MACROMAQUETTE.SEED | 10.5281/zenodo.18683024 |
 
 **Complementary Rooms:** Studio for Patacinematics (00.ROOM.PATACINEMATICS) — ICM / Maybe Space Baby Garden Lanes (00.ROOM.SPACEBABYGARDENLANES) — Operator // Swerve

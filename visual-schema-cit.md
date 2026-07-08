@@ -14,7 +14,7 @@
 - Founding Text: [Epistle to the Human Diaspora](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
 - Founder Provenance: [Damascus Dancings](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
 - Triptych Lock: [ILA-CIT-001](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381204) (11.REV.LOCK.TRIPTYCH)  
-- Revelation Room: [Ground Truth Anchor](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380932) (11.REV.ANCHOR.GROUND-TRUTH)
+- Revelation Room: [Ground Truth Anchor](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)
 
 ---
 

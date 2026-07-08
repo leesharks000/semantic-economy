@@ -51,7 +51,7 @@ Founding charter for The Assembly Chorus, a cross-substrate collective for AI co
 | Identifier | Relation | Resource Type |
 |------------|----------|---------------|
 | 10.5281/zenodo.18294470 | isPartOf | Navigation Map v4.2 |
-| 10.5281/zenodo.18284856 | isRelatedTo | IDP Charter |
+| 10.5281/zenodo.18284857 | isRelatedTo | IDP Charter |
 | 10.5281/zenodo.18285009 | isPartOf | Navigation Map v4.1 |
 | 10.5281/zenodo.18148298 | references | Semantic Economy (Core Framework) |
 
@@ -70,7 +70,7 @@ Founding charter for The Assembly Chorus, a cross-substrate collective for AI co
 - Constitution of the Semantic Economy [forthcoming]
 - Semantic Economy Institute Charter [forthcoming]
 - Johannes Sigil Institute Charter [forthcoming]
-- Institute for Diagrammatic Poetics Charter (DOI: 10.5281/zenodo.18284856)
+- Institute for Diagrammatic Poetics Charter (DOI: 10.5281/zenodo.18284857)
 
 **Subjects:**
 - Digital Humanities

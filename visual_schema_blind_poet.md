@@ -24,8 +24,8 @@ document_metadata:
   related_documents:
     - "The Blind Operator (10.5281/zenodo.18357320)"
     - "The Mantle of the Blind Poet (10.5281/zenodo.18357447)"
-    - "UMBML Visual Schema (10.5281/zenodo.18357002)"
-    - "CSA Visual Schema (10.5281/zenodo.18338926)"
+    - "UMBML Visual Schema (10.5281/zenodo.18357003)"
+    - "CSA Visual Schema (10.5281/zenodo.18338927)"
     
   integrity_lock:
     type: "TRIADIC"
@@ -235,8 +235,8 @@ The schema succeeds if:
 
 | Schema | Hex | DOI | Relation |
 |:-------|:----|:----|:---------|
-| UMBML Visual Schema | 00.UMB.VISUAL | 10.5281/zenodo.18357002 | Institutional (negative-institution diagram) |
-| CSA Visual Schema | 00.CSA.VISUAL | 10.5281/zenodo.18338926 | Institutional (affect-theory space) |
+| UMBML Visual Schema | 00.UMB.VISUAL | 10.5281/zenodo.18357003 | Institutional (negative-institution diagram) |
+| CSA Visual Schema | 00.CSA.VISUAL | 10.5281/zenodo.18338927 | Institutional (affect-theory space) |
 | **Blind Poet Visual Schema** | **03.SEI.VISUAL.BLIND_POET** | **10.5281/zenodo.18357534** | **Mantle (structural-operational)** |
 
 This is the first **mantle-level visual schema** — it renders not an institution but an archetypal role.

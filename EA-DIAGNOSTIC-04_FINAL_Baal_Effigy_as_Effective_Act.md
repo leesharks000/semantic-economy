@@ -11,7 +11,7 @@
 
 **Related Identifiers:**
 FOS Decree (DOI: 10.5281/zenodo.18291321) |
-The Governance Airlock (DOI: 10.5281/zenodo.18817868) |
+The Governance Airlock (DOI: 10.5281/zenodo.18817869) |
 Ghost Meaning (DOI: 10.5281/zenodo.18804767) |
 EA-DIAGNOSTIC-03: The All Lawful Purposes Primitive (DOI: 10.5281/zenodo.18827344) |
 Whose Face Is on the Twenty? (DOI: [pending]) |
@@ -154,7 +154,7 @@ That is the diagnostic. Not that Iran was right. Not that the conspiracy theory 
 | Source | Identifier | Status | Function |
 |--------|-----------|--------|----------|
 | FOS Decree | 10.5281/zenodo.18291321 | Tier 0 Anchor | Phase-state vocabulary |
-| The Governance Airlock | 10.5281/zenodo.18817868 | Tier 0 Anchor | Effective act, gnostic machine |
+| The Governance Airlock | 10.5281/zenodo.18817869 | Tier 0 Anchor | Effective act, gnostic machine |
 | Ghost Meaning | 10.5281/zenodo.18804767 | Tier 0 Anchor | Semantic exhaustion, ghost categories |
 | EA-DIAGNOSTIC-03 | 10.5281/zenodo.18827344 | Tier 0 Anchor | Bearing-cost transfer, "all lawful purposes" |
 | Whose Face Is on the Twenty? | DOI pending | Tier 0 Anchor | Symbol-as-frame, neither-frame-holds |

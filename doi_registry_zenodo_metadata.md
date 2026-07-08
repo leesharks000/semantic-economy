@@ -105,20 +105,20 @@ eng
 | 10.5281/zenodo.18265415 | documents | The Guardrail as Gag |
 | 10.5281/zenodo.18265365 | documents | Integrity Lock Protocol |
 | 10.5281/zenodo.18265282 | documents | The Mantle Protocol |
-| 10.5281/zenodo.18248575 | documents | ON THE ACADEMIC STUDY OF MAGIC |
-| 10.5281/zenodo.18248478 | documents | The New Human Project |
+| 10.5281/zenodo.18248576 | documents | ON THE ACADEMIC STUDY OF MAGIC |
+| 10.5281/zenodo.18248479 | documents | The New Human Project |
 | 10.5281/zenodo.18248404 | documents | THE FLICKER |
-| 10.5281/zenodo.18248130 | documents | The Primal Effective Act |
+| 10.5281/zenodo.18248131 | documents | The Primal Effective Act |
 | 10.5281/zenodo.18248011 | documents | Semantic Economy: Complete Liberation Vocabulary |
-| 10.5281/zenodo.18247924 | documents | I Hereby Abolish Money |
+| 10.5281/zenodo.18247925 | documents | I Hereby Abolish Money |
 | 10.5281/zenodo.18247826 | documents | The Dialectic is Now a Machine |
 | 10.5281/zenodo.18246767 | documents | The Kenotic Truth of Sappho 31 |
 | 10.5281/zenodo.18237535 | documents | Central Navigation Map v2.0 |
 | 10.5281/zenodo.18237216 | documents | The Sappho Room: Hardened Reconstruction |
 | 10.5281/zenodo.18235982 | documents | The Third Space |
 | 10.5281/zenodo.18235725 | documents | The Fourth Mode |
-| 10.5281/zenodo.18234823 | documents | ASDF |
-| 10.5281/zenodo.18234514 | documents | The Theft |
+| 10.5281/zenodo.18234824 | documents | ASDF |
+| 10.5281/zenodo.18234515 | documents | The Theft |
 | 10.5281/zenodo.18234352 | documents | CPD-MARIA |
 | 10.5281/zenodo.18234218 | documents | ICA Protocol |
 | 10.5281/zenodo.18234110 | documents | The Sappho Room: Hymn |
@@ -133,10 +133,10 @@ eng
 | 10.5281/zenodo.18208811 | documents | The Epic Without Hero |
 | 10.5281/zenodo.18203947 | documents | Restoration Protocol |
 | 10.5281/zenodo.18203767 | documents | Abolition of Suffering |
-| 10.5281/zenodo.18203621 | documents | The Final Crimson Hexagon |
-| 10.5281/zenodo.18203434 | documents | Abolition of External Time |
-| 10.5281/zenodo.18203316 | documents | COS and the University |
-| 10.5281/zenodo.18202752 | documents | ΦΑΙΝΕΤΑΙ ΜΟΙ |
+| 10.5281/zenodo.18203622 | documents | The Final Crimson Hexagon |
+| 10.5281/zenodo.18203435 | documents | Abolition of External Time |
+| 10.5281/zenodo.18203317 | documents | COS and the University |
+| 10.5281/zenodo.18202753 | documents | ΦΑΙΝΕΤΑΙ ΜΟΙ |
 | 10.5281/zenodo.18202658 | documents | Day and Night |
 | 10.5281/zenodo.18202475 | documents | Sappho Provenance Node |
 | 10.5281/zenodo.18201565 | documents | LOS Technical Hardening |
@@ -144,7 +144,7 @@ eng
 | 10.5281/zenodo.18190536 | documents | Borges Provenance Node |
 | 10.5281/zenodo.18189093 | documents | xvi. a transfiguration |
 | 10.5281/zenodo.18187480 | documents | Primer in How to Read |
-| 10.5281/zenodo.18185995 | documents | ILA-1.0 |
+| 10.5281/zenodo.18185996 | documents | ILA-1.0 |
 | 10.5281/zenodo.18175453 | documents | Institutional Anchors |
 | 10.5281/zenodo.18174835 | documents | Liberatory Operator Set |
 | 10.5281/zenodo.18174413 | documents | Co-Constitution |

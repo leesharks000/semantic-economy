@@ -156,7 +156,7 @@ The retirement of "user" draws from:
   - The Blind Operator (DOI: 10.5281/zenodo.18357320): the 
     β-operator requires interpretive labor expenditure (ψ_V); a 
     "user" does not expend labor — a "user" consumes.
-  - Liberation Philology (DOI: 10.5281/zenodo.18615387): T.1 
+  - Liberation Philology (DOI: 10.5281/zenodo.18615388): T.1 
     (Prepositional Alienation) diagnoses the extraction concealed 
     in prepositional structure.
 

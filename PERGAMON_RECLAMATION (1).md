@@ -213,9 +213,9 @@ Nature, 2026. "Epstein Files Reveal Deeper Ties to Scientists Than Previously Kn
 
 Snopes, November 2025. "Was Ghislaine Maxwell's Dad Responsible for Putting Scientific Research Behind Paywalls?"
 
-Sharks, Lee. "The Unbundling of Cultural Sovereignty." DOI: 10.5281/zenodo.19083321.
+Sharks, Lee. "The Unbundling of Cultural Sovereignty." DOI: 10.5281/zenodo.19083322.
 
-Sharks, Lee. "GDE Construction Sequence: Forensic Philology of the Commons." DOI: 10.5281/zenodo.19083599.
+Sharks, Lee. "GDE Construction Sequence: Forensic Philology of the Commons." DOI: 10.5281/zenodo.19083600.
 
 Sharks, Lee. "The Three Compressions: Lossy, Predatory, and Witness." Crimson Hexagonal Archive.
 

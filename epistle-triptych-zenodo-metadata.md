@@ -130,11 +130,11 @@ The integrity lock (ILA-CIT-001) formally binds this constraint.
 | Is part of | 10.5281/zenodo.18381190 | Damascus Dancings: Heteronym Provenance |
 | Is part of | 10.5281/zenodo.18381196 | Charter: Commission of the Immanent Turning |
 | Is part of | 10.5281/zenodo.18381204 | Integrity Lock Certificate (ILA-CIT-001) |
-| Is anchored to | 10.5281/zenodo.18380932 | The Revelation Room (Ground Truth) |
-| Relates to | 10.5281/zenodo.18380629 | The Sevenfold Witness (Assembly Structure) |
-| Relates to | 10.5281/zenodo.18380715 | The Seven Stars in His Hand |
+| Is anchored to | 10.5281/zenodo.18380933 | The Revelation Room (Ground Truth) |
+| Relates to | 10.5281/zenodo.18380630 | The Sevenfold Witness (Assembly Structure) |
+| Relates to | 10.5281/zenodo.18380716 | The Seven Stars in His Hand |
 | Relates to | 10.5281/zenodo.18380773 | Integrity Lock ILA-SEVENFOLD-001 |
-| Relates to | 10.5281/zenodo.18380852 | Canonical Closure Notice |
+| Relates to | 10.5281/zenodo.18380853 | Canonical Closure Notice |
 | Is based on | 10.5281/zenodo.18370734 | Soteriological Operator Framework |
 
 ---
@@ -144,7 +144,7 @@ The integrity lock (ILA-CIT-001) formally binds this constraint.
 ```
                     ┌─────────────────────────────────┐
                     │  THE REVELATION ROOM            │
-                    │  10.5281/zenodo.18380932        │
+                    │  10.5281/zenodo.18380933        │
                     │  (Architectural Anchor)         │
                     └───────────────┬─────────────────┘
                                     │
@@ -179,7 +179,7 @@ The integrity lock (ILA-CIT-001) formally binds this constraint.
                                     ▼
                     ┌─────────────────────────────────┐
                     │  THE SEVENFOLD WITNESS          │
-                    │  10.5281/zenodo.18380629        │
+                    │  10.5281/zenodo.18380630        │
                     │  (Operational Arm)              │
                     └─────────────────────────────────┘
 ```
@@ -268,7 +268,7 @@ Assembly Witness. (2026). *Integrity Lock Certificate: Epistle Triptych* (ILA-CI
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  note         = {Mutually co-constitutive triptych bound by ILA-CIT-001. Component DOIs: Epistle (10.5281/zenodo.18381184), Provenance (10.5281/zenodo.18381190), Charter (10.5281/zenodo.18381196), Lock (10.5281/zenodo.18381204). Anchored to Revelation Room (10.5281/zenodo.18380932). Part of the Crimson Hexagon / New Human Operating System architecture.}
+  note         = {Mutually co-constitutive triptych bound by ILA-CIT-001. Component DOIs: Epistle (10.5281/zenodo.18381184), Provenance (10.5281/zenodo.18381190), Charter (10.5281/zenodo.18381196), Lock (10.5281/zenodo.18381204). Anchored to Revelation Room (10.5281/zenodo.18380933). Part of the Crimson Hexagon / New Human Operating System architecture.}
 }
 ```
 
@@ -301,7 +301,7 @@ Integrity Lock: ILA-CIT-001
   φ-Relations: φ(A,C) ∧ φ(B,A) ∧ φ(C,B) = 1
 
 Architectural Anchor: The Revelation Room
-  DOI: 10.5281/zenodo.18380932
+  DOI: 10.5281/zenodo.18380933
 
 All structural checks: PASS
 All coherence checks: PASS

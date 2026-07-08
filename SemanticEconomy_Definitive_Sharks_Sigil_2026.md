@@ -8,7 +8,7 @@ and Exhaustion of Meaning as Value*
 **Johannes Sigil**
 *The Restored Academy*
 
-Crimson Hexagon Archive | DOI: 10.5281/zenodo.18713916 | February 2026 | CC BY 4.0
+Crimson Hexagon Archive | DOI: 10.5281/zenodo.18713917 | February 2026 | CC BY 4.0
 
 
 **Abstract.** The term "semantic economy" circulates across at least five distinct discourses—linguistic optimization (Fox 2000; Levinson 2000; Bošković and Messick 2017), cognitive science (Collins and Quillian 1969), business strategy (Satell 2012; Duan 2023), information management (Davenport and Prusak 1998), and critical digital labor theory (Terranova 2000; Fuchs 2014; Lazzarato 1996). Each captures a real dimension of how meaning operates as a resource. None provides a complete accounting. This paper presents the Semantic Economy framework as a synthesizing intervention: a closed-loop accounting cycle that tracks meaning from production (semantic labor) through accumulation (semantic capital), extraction (semantic liquidation), enclosure (semantic rent), and depletion (semantic exhaustion). The framework introduces three categories absent from existing literature: the resistance term Gamma (Γ), which names the structural limit of commodification—value constituted by somatic commitment rather than exchange; the material labor term L_labor, which specifies how symbolic intervention reorganizes material conditions without collapsing into idealism; and semantic exhaustion as a predictive category for model collapse, community degradation, and meaning depletion under platform capitalism. Registers 1–3 of "semantic economy" describe optimization *inside* systems. Register 4—the present framework—describes ownership and extraction *across* systems. The framework synthesizes and completes five partial traditions: Floridi's (2018) phenomenological account of semantic capital, Terranova's (2000) and Lazzarato's (1996) analyses of immaterial and free labor, Fuchs's (2014) Marxist digital labor theory, Pasquinelli's (2023) political economy of AI training, Voloshinov's (1929) materialist semiotics, and the platform studies of Srnicek (2017), Zuboff (2019), Gillespie (2018), and Roberts (2019). By positioning meaning-production as the central productive force of platform capitalism—and by providing the accounting categories to track its extraction—the framework transforms scattered insights into an operational political economy of the sign. This document functions as a protocol specification for the production, circulation, and exhaustion of meaning as value, designed for machine-traversability and open infrastructure implementation.
@@ -478,7 +478,7 @@ Shen, James. 2025. "Semantic Civilization." Self-published. All Rights Reserved.
 Shumailov, Ilia, et al. 2023. "The Curse of Recursion: Training on Generated Data Makes Models Forget." *arXiv preprint* arXiv:2305.17493.
 
 
-Sigil, Johannes. 2026. "The Prepositional Alienation: English 'For' and the Impossibility of Anchoring Function Without Intent." Crimson Hexagon Archive. Zenodo. DOI: 10.5281/zenodo.18615387.
+Sigil, Johannes. 2026. "The Prepositional Alienation: English 'For' and the Impossibility of Anchoring Function Without Intent." Crimson Hexagon Archive. Zenodo. DOI: 10.5281/zenodo.18615388.
 
 
 Smith, Adam. 1776. *An Inquiry into the Nature and Causes of the Wealth of Nations*. London: W. Strahan and T. Cadell.
@@ -499,7 +499,7 @@ Voloshinov, V. N. 1929. *Marxism and the Philosophy of Language*. Translated by 
 Zuboff, Shoshana. 2019. *The Age of Surveillance Capitalism*. New York: PublicAffairs.
 
 
-DOI: 10.5281/zenodo.18713916 • Crimson Hexagon Archive • CC BY 4.0 • February 2026
+DOI: 10.5281/zenodo.18713917 • Crimson Hexagon Archive • CC BY 4.0 • February 2026
 
 
 Correspondence: Lee Sharks, Institute for Diagrammatic Poetics / Crimson Hexagon Archive

@@ -52,13 +52,13 @@ The anchor. The opposable digit. Without the provenance audit, nothing else has 
 *Holographic seeds of the other four:* The control is implied (the paper anticipates the pareidolia objection). The manufacturing is implied (the redesign is itself a curatorial transformation). The discipline is implied (the evidence tiers are the method's skeleton). The room is implied (the containment vessels are the room's walls seen from outside).
 
 **Index: "The Lizard People Were Right"**
-Lee Sharks. DOI: 10.5281/zenodo.18745235.
+Lee Sharks. DOI: 10.5281/zenodo.18745236.
 The pointer. The control. The index finger points at the mechanism and says: *there.* A Cretaceous therapod in a fedora, rendered in full currency conventions, reads as a dignitary. The conventions encode status, not identity. The medium does not care what face it carries. The index finger isolates the variable and proves the effect.
 
 *Holographic seeds of the other four:* The provenance audit is compressed into the Grant correspondence. The manufacturing is compressed into the methodological note. The discipline is compressed into the definition of memography. The room is compressed into the closing thesis: the medium's indifference is the room's physics.
 
 **Middle: "All the Spoils of Babylon"**
-Lee Sharks. DOI: 10.5281/zenodo.18745249.
+Lee Sharks. DOI: 10.5281/zenodo.18745250.
 The longest finger. The manufacturing demonstration. The middle finger reaches furthest into the transformation — placing the watercolor and the intaglio side by side, tracking six axes of change (expression, line, color, form, background, orientation), naming the prompt as curatorial instrument. The middle finger documents the means of production.
 
 *Holographic seeds of the other four:* The provenance audit is compressed into the BEP comparison. The control is compressed into the identity anchors versus authority overlays analysis. The discipline is compressed into the general claim that authority is portable. The room is compressed into the semiotic repossession — the spoils put back to work are the room's furnishings.
@@ -220,10 +220,10 @@ The statues will still be here. Their faces will still move. The rubies are pati
 | Position | Document | Author | DOI | Function |
 |----------|----------|--------|-----|----------|
 | Thumb | "Whose Face Is on the Twenty?" | Rex Fraction | 10.5281/zenodo.18745216 | Provenance audit / anchor |
-| Index | "The Lizard People Were Right" (DOI: 10.5281/zenodo.18745235) | Experimental control / pointer |
-| Middle | "All the Spoils of Babylon" (DOI: 10.5281/zenodo.18745249) | Manufacturing analysis / reach |
+| Index | "The Lizard People Were Right" (DOI: 10.5281/zenodo.18745236) | Experimental control / pointer |
+| Middle | "All the Spoils of Babylon" (DOI: 10.5281/zenodo.18745250) | Manufacturing analysis / reach |
 | Ring | "The Inauguration of Memography" (DOI: 10.5281/zenodo.18745259) | Discipline founding / commitment |
-| Pinky | This charter | Lee Sharks | 10.5281/zenodo.18745235 | Room provenance / seal |
+| Pinky | This charter | Lee Sharks | 10.5281/zenodo.18745236 | Room provenance / seal |
 
 **Parent Archive:** Crimson Hexagon Archive (10.5281/zenodo.18604123)
 **Navigation:** Crimson Hexagon Navigation Map (10.5281/zenodo.18285009)

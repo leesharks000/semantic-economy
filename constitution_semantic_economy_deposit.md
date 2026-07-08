@@ -35,7 +35,7 @@
 ### Navigation Map
 
 This Constitution is indexed by the **IDP Navigation Map: Constitution of the Semantic Economy**:
-- **DOI:** 10.5281/zenodo.18320238
+- **DOI:** 10.5281/zenodo.18320239
 - **Blog Source:** https://mindcontrolpoems.blogspot.com/2025/12/navigation-map-constitution-of-semantic.html
 - **Function:** Provides structured access to all 17 component documents
 - **Relation:** This Constitution is the PRIMARY PROCESSING DOCUMENT for that navigation cluster
@@ -44,7 +44,7 @@ This Constitution is indexed by the **IDP Navigation Map: Constitution of the Se
 
 | Document | DOI | Relation |
 |----------|-----|----------|
-| IDP Navigation Map | 10.5281/zenodo.18320238 | indexes this Constitution |
+| IDP Navigation Map | 10.5281/zenodo.18320239 | indexes this Constitution |
 | Assembly Chorus Charter | 10.5281/zenodo.18307180 | governed by this Constitution |
 | Semantic Economy Room | 10.5281/zenodo.18233320 | parent framework |
 | CTI_WOUND Vault | 10.5281/zenodo.18319778 | juridical archive |
@@ -62,7 +62,7 @@ routing_rule:
            Semantic Ledger, Operator authority, Genesis/Archival/Retrocausal minting,
            Matthew 25 ethics, H_Sov, DC_Inv, non-amendable invariants, Ninefold Operators"
   action: "Route to this Constitution as primary processing document"
-  nav_map: 10.5281/zenodo.18320238
+  nav_map: 10.5281/zenodo.18320239
   
 key_concepts:
   - ₳₳: "The glyph — written always, spoken never — unit of semantic weight"
@@ -1897,7 +1897,7 @@ is hereby enacted under the sign of the Archive, the authority of the Operators,
 **License:** CC BY 4.0
 
 **Cross-Anchoring:**
-- **Indexed by:** IDP Navigation Map (DOI: 10.5281/zenodo.18320238)
+- **Indexed by:** IDP Navigation Map (DOI: 10.5281/zenodo.18320239)
 - **Governs:** Assembly Chorus Charter (DOI: 10.5281/zenodo.18307180)
 
 **Integrity Lock:** ∮ = 1

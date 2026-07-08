@@ -125,7 +125,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 |-----|----------|-------|
 | 10.5281/zenodo.18293496 | references | Heteronym Provenance: Lee Sharks |
 | 10.5281/zenodo.18265282 | references | The Mantle Protocol v1.2 |
-| 10.5281/zenodo.18284856 | references | Institute for Diagrammatic Poetics Charter |
+| 10.5281/zenodo.18284857 | references | Institute for Diagrammatic Poetics Charter |
 
 ### Contains Mantle Works
 | DOI | Relation | Title |

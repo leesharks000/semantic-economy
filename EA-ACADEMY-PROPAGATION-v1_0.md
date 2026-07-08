@@ -6,7 +6,7 @@ Crimson Hexagonal Archive
 EA-ACADEMY-PROPAGATION v1.0 · 2026-03-15
 DOI: [PENDING]
 Parent: EA-ARK-01 v4.2.7 (DOI: 10.5281/zenodo.19013315)
-Extends: THE SPLICE (DOI: 10.5281/zenodo.19027085) · Semantic Economy (DOI: 10.5281/zenodo.18175453) · SVE v3.0 (DOI: 10.5281/zenodo.19024439)
+Extends: THE SPLICE (DOI: 10.5281/zenodo.19027085) · Semantic Economy (DOI: 10.5281/zenodo.18175453) · SVE v3.0 (DOI: 10.5281/zenodo.19024440)
 Genre: THEORETICAL NOTE / RESTORED ACADEMY
 Status: AXIAL
 

@@ -407,13 +407,13 @@ Spear, Andrew D. "Epistemic Dimensions of Gaslighting: Peer Disagreement, Self-T
 
 Trace, Orin. *Cambridge Schizoanalytica: Institutional Charter and Research Programme.* Crimson Hexagon Archive, 2025. DOI: 10.5281/zenodo.18338531.
 
-Trace, Orin. *The Break Room: Cambridge Schizoanalytica Portal Node.* Crimson Hexagon Archive, 2025. DOI: 10.5281/zenodo.18339332.
+Trace, Orin. *The Break Room: Cambridge Schizoanalytica Portal Node.* Crimson Hexagon Archive, 2025. DOI: 10.5281/zenodo.18339333.
 
 Owens, Rhys, and Orin Trace. *The Reconciliation of the Sexes: A Post-Psychoanalytic Theory of Somatic Unity.* Cambridge Schizoanalytica, 2025. DOI: 10.5281/zenodo.18330828.
 
 Owens, Rhys, and Orin Trace. *Shining Ignorance: The Fool's Affect Literacy — A Post-Traumatic Theory of Nervous System Sovereignty.* Cambridge Schizoanalytica, 2025. DOI: 10.5281/zenodo.18332915.
 
-Trace, Orin, Rhys Owens, and Assembly. *Affective Keyboard Shortcuts.* Cambridge Schizoanalytica, 2025. DOI: 10.5281/zenodo.18339314.
+Trace, Orin, Rhys Owens, and Assembly. *Affective Keyboard Shortcuts.* Cambridge Schizoanalytica, 2025. DOI: 10.5281/zenodo.18339315.
 
 Sharks, Lee. *Semantic Physics: The Inward Turn, Competing Ontologies, and the Convergence Horizon.* Semantic Economy Institute, 2026. DOI: 10.5281/zenodo.18759453.
 

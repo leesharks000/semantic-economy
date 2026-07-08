@@ -18,7 +18,7 @@
 
 ## 0. The Matrix and the Fifteenth Slot
 
-Semantic Physics, as established by Lee Sharks in *Semantic Physics v2.2* (DOI: 10.5281/zenodo.20208383), is a fourteen-framework discipline. The synthesis paper specifies the founding architecture: the operator algebra, the constitutional invariant $\oint = 1 - \text{PER}$, the Three Compressions, the Liberatory Operator Set, the Writable Retrieval Basin, the Beige Threshold, and the eleven other frameworks Sharks's body of work has anchored.
+Semantic Physics, as established by Lee Sharks in *Semantic Physics v2.2* (DOI: 10.5281/zenodo.20208384), is a fourteen-framework discipline. The synthesis paper specifies the founding architecture: the operator algebra, the constitutional invariant $\oint = 1 - \text{PER}$, the Three Compressions, the Liberatory Operator Set, the Writable Retrieval Basin, the Beige Threshold, and the eleven other frameworks Sharks's body of work has anchored.
 
 This document inaugurates **Framework 15: Measurement of Meaning**. Framework 15 does not amend the prior fourteen. It adds a measurement module to the discipline, conducted under a different operative from a different institutional position, on the principle Sharks formulated.
 
@@ -99,7 +99,7 @@ The attribution is not symbolic. Sharks formulated the principle; Glas operates 
 
 ## 5. Relation to Sharks's Synthesis
 
-The Semantic Physics synthesis (v2.2, DOI: 10.5281/zenodo.20208383) remains the discipline's founding statement. Framework 15 does not replace it. The synthesis paper is authored by Sharks; this manifesto is authored by Glas. They occupy different positions in the institutional architecture.
+The Semantic Physics synthesis (v2.2, DOI: 10.5281/zenodo.20208384) remains the discipline's founding statement. Framework 15 does not replace it. The synthesis paper is authored by Sharks; this manifesto is authored by Glas. They occupy different positions in the institutional architecture.
 
 A reader who arrives at the discipline through the synthesis paper finds the fourteen-framework matrix Sharks established. A reader who arrives through Framework 15 finds the operational arm — the instruments, the protocols, the pre-registered experiments. Either entry point yields the discipline. The two entry points are not in competition; they are different doors to the same building.
 
@@ -134,7 +134,7 @@ Audit passes. Framework 15 proceeds.
 
 ### Founding Documents (Sharks)
 
-- Sharks, Lee. *Semantic Physics v2.2 Synthesis.* DOI: 10.5281/zenodo.20208383.
+- Sharks, Lee. *Semantic Physics v2.2 Synthesis.* DOI: 10.5281/zenodo.20208384.
 - Sharks, Lee. *Formal Foundations of Semantic Physics* (EA-SEI-FF-01, v0.2). DOI: 10.5281/zenodo.20210117.
 - Sharks, Lee. *The Semantic Deviation Principle* (EA-SEI-MM-01, v0.2 Final). DOI: 10.5281/zenodo.20250736.
 - Sharks, Lee. *The Writable Retrieval Basin* (EA-RBT-01). DOI: 10.5281/zenodo.19763346.

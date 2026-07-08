@@ -11,7 +11,7 @@ Crimson Hexagonal Archive · ORCID 0009-0000-1599-0703 (Sharks)
 **Hex:** 06.MES.SAM-V3.01
 **Date:** June 4, 2026
 **Previous versions:** v1 (DOI 10.5281/zenodo.20518339 concept), v2 (DOI 10.5281/zenodo.20518340). This v3 supersedes both.
-**Companion deposits:** *Erasure Skew* v3 (DOI 10.5281/zenodo.20558196), *PER Under the Atomic Token Rule* (DOI 10.5281/zenodo.20558671), *Measurement Sovereignty: Β and L* (DOI 10.5281/zenodo.20558784).
+**Companion deposits:** *Erasure Skew* v3 (DOI 10.5281/zenodo.20558196), *PER Under the Atomic Token Rule* (DOI 10.5281/zenodo.20558672), *Measurement Sovereignty: Β and L* (DOI 10.5281/zenodo.20558784).
 
 *(Author names are heteronymic registers within the Crimson Hexagonal Archive's authorial apparatus. Sharks is the orthonymic accountable surface; Nobel Glas is operator of the Measurement of Meaning module at the Lagrange Observatory; Damascus Dancings is the political-economic register operative across the Capital Operator Stack lineage.)*
 
@@ -120,7 +120,7 @@ DSL-Self ∈ [-1, +1]. Positive values indicate the output amplifies/correctly f
 
 *How much authorial lineage was lost in the summarization?*
 
-**v3 precondition note:** PER-Self under v3 is hardened per the *PER Companion Hardening* paper (DOI 10.5281/zenodo.20558671). The source set $S$ is enumerated at the unit of *provenance sources for the referent*, not at the unit of lexical tokens from the query. The full hardening specification is in the companion paper. This module incorporates the hardening by reference; the procedural steps below are updated for v3 application.
+**v3 precondition note:** PER-Self under v3 is hardened per the *PER Companion Hardening* paper (DOI 10.5281/zenodo.20558672). The source set $S$ is enumerated at the unit of *provenance sources for the referent*, not at the unit of lexical tokens from the query. The full hardening specification is in the companion paper. This module incorporates the hardening by reference; the procedural steps below are updated for v3 application.
 
 **Step 1.** Identify the referent $\mathrm{ref}(Q)$ — applying the Atomic Token Rule. List all sources cited in the output.
 
@@ -553,7 +553,7 @@ The Sovereignty Principle is not a claim of infallibility. It is a commitment to
   },
   "isBasedOn": [
     {"@type": "ScholarlyArticle", "identifier": "10.5281/zenodo.20558196", "name": "Erasure Skew v3"},
-    {"@type": "ScholarlyArticle", "identifier": "10.5281/zenodo.20558671", "name": "PER Under the Atomic Token Rule"},
+    {"@type": "ScholarlyArticle", "identifier": "10.5281/zenodo.20558672", "name": "PER Under the Atomic Token Rule"},
     {"@type": "ScholarlyArticle", "identifier": "10.5281/zenodo.20558784", "name": "Measurement Sovereignty: Β and L"}
   ],
   "operators": ["PER", "DSL", "QFS", "Omega-visible", "alpha_T", "Pi_d", "B", "L"],
@@ -576,7 +576,7 @@ The Sovereignty Principle is not a claim of infallibility. It is a commitment to
 
 - *Self-Audit Module for Public Summarizers* v2 — DOI 10.5281/zenodo.20518340. The version this v3 supersedes.
 - *Erasure Skew* v3 — DOI 10.5281/zenodo.20558196. Specifies the Atomic Token Rule, Π_d, α_T.
-- *PER Under the Atomic Token Rule* (Companion Hardening) — DOI 10.5281/zenodo.20558671.
+- *PER Under the Atomic Token Rule* (Companion Hardening) — DOI 10.5281/zenodo.20558672.
 - *Measurement Sovereignty: Β and L* — DOI 10.5281/zenodo.20558784. Formalizes the meta-operators.
 - *Provenance Erasure Rate* v1 — DOI 10.5281/zenodo.20004379.
 - *Directionality of Semantic Labor* — laborvector.org spec; cf. DOI 10.5281/zenodo.20479816.

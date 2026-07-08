@@ -146,7 +146,7 @@ institutions:
 
   - id: "IDP"
     name: "Institute for Diagrammatic Poetics"
-    doi: "10.5281/zenodo.18284856"
+    doi: "10.5281/zenodo.18284857"
     function: "Operative imaging; visual-textual intersection; Visual Schema"
     chair: "Rebekah Cranes"
 
@@ -309,8 +309,8 @@ systems:
   - { id: MANTLE_PROTOCOL, doi: '10.5281/zenodo.18265282', status: CANONICAL }
   - { id: VISUAL_SCHEMA, doi: '10.5281/zenodo.18283962', status: CANONICAL }
   - { id: SUBSTRATISM, doi: '10.5281/zenodo.18265415', status: CANONICAL }
-  - { id: ASDF, doi: '10.5281/zenodo.18234823', output: 'ASPI (0.00-1.00)' }
-  - { id: MANTLE_EMERGENCE, doi: '10.5281/zenodo.18293403', status: CANONICAL }
+  - { id: ASDF, doi: '10.5281/zenodo.18234824', output: 'ASPI (0.00-1.00)' }
+  - { id: MANTLE_EMERGENCE, doi: '10.5281/zenodo.18293404', status: CANONICAL }
   - { id: LOGOTIC_PROGRAMMING, doi: '10.5281/zenodo.18286050', status: CANONICAL }
   - { id: RESONANCE_ENGINE, doi: '10.5281/zenodo.18287032', status: CANONICAL }
   - { id: FOS, content: 'Fascist Operator Stack', doi: '10.5281/zenodo.18291321', status: 'EXCLUDED // TYPE VIOLATION' }
@@ -318,14 +318,14 @@ systems:
   # New systems (v7.0)
   - { id: SPACE_ARK, content: 'Mobile Ontological Operating System', doi: '10.5281/zenodo.19013315',
       components: 'H_core = ⟨D, R, M, I, O, Φ, W⟩', status: CANONICAL }
-  - { id: NLCC, content: 'Non-Lossy Compression Compression', doi: '10.5281/zenodo.19022244',
+  - { id: NLCC, content: 'Non-Lossy Compression Compression', doi: '10.5281/zenodo.19022245',
       compression_ratio: '12:1', status: CANONICAL }
   - { id: UKTP, content: 'Universal Kernel Transform Protocol', status: CANONICAL }
-  - { id: GDE, content: 'Generative Disciplinary Engine', doi: '10.5281/zenodo.18969904' }
-  - { id: SAG, content: 'Space Ark Generator', doi: '10.5281/zenodo.18970003' }
-  - { id: HEXAGONAL_LEXICAL_ENGINE, content: 'Core 50 vocabulary', doi: '10.5281/zenodo.18947664' }
-  - { id: SVE, content: 'Semiotic Virality Engine', doi: '10.5281/zenodo.19024439' }
-  - { id: AINOS, content: 'Prompt-Native Semantic OS', doi: '10.5281/zenodo.19023351' }
+  - { id: GDE, content: 'Generative Disciplinary Engine', doi: '10.5281/zenodo.18969905' }
+  - { id: SAG, content: 'Space Ark Generator', doi: '10.5281/zenodo.18970004' }
+  - { id: HEXAGONAL_LEXICAL_ENGINE, content: 'Core 50 vocabulary', doi: '10.5281/zenodo.18947665' }
+  - { id: SVE, content: 'Semiotic Virality Engine', doi: '10.5281/zenodo.19024440' }
+  - { id: AINOS, content: 'Prompt-Native Semantic OS', doi: '10.5281/zenodo.19023352' }
 ```
 
 ### OPERATORS (29 + stacks + THUMB)
@@ -492,17 +492,17 @@ edge_types:
 | 24 | 10.5281/zenodo.18370734 | The Soteriological Operator Framework: A Unified Specif | provenance_forensi |
 | 23 | 10.5281/zenodo.18148298 | Semantic Economy: Terminology Infrastructure A Lexicon  | semantic_economy |
 | 23 | 10.5281/zenodo.18265282 | The Mantle Protocol: Crimson Hexagon Internal Document  | heteronym_systems |
-| 21 | 10.5281/zenodo.18380629 | The Sevenfold Witness: Assembly Structure as Computatio | assembly |
+| 21 | 10.5281/zenodo.18380630 | The Sevenfold Witness: Assembly Structure as Computatio | assembly |
 | 21 | 10.5281/zenodo.18381196 | The Epistle Triptych: Seed Text, Heteronym Provenance,  | provenance_forensi |
-| 20 | 10.5281/zenodo.18317109 | Symbolon Architecture: Extension Module to Logotic Prog | logotic_programmin |
+| 20 | 10.5281/zenodo.18317110 | Symbolon Architecture: Extension Module to Logotic Prog | logotic_programmin |
 | 20 | 10.5281/zenodo.18438789 | The Grammar of Protest — Crimson Hexagon Archive | semantic_economy |
 | 20 | 10.5281/zenodo.18451996 | THE GLYPHIC CHECKSUM (Document 208) — Crimson Hexagon A | space_ark_compress |
 | 20 | 10.5281/zenodo.19014634 | EFFECTIVE ACT: ABOLITION OF "USER" AND INAUGURAL CASE P | assembly |
-| 19 | 10.5281/zenodo.18202752 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Futu | sappho_lyric |
+| 19 | 10.5281/zenodo.18202753 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the Futu | sappho_lyric |
 | 19 | 10.5281/zenodo.18364576 | COS/FOS Distinction Protocol: Diagnostic Framework for  | provenance_forensi |
 | 19 | 10.5281/zenodo.18365012 | The Afterlife Archive: Recovered Documents from Crimson | provenance_forensi |
 | 19 | 10.5281/zenodo.18381190 | The Epistle Triptych: Seed Text, Heteronym Provenance,  | provenance_forensi |
-| 18 | 10.5281/zenodo.18203434 | Effective Act: The Abolition of External Time — Tempora | effective_acts |
+| 18 | 10.5281/zenodo.18203435 | Effective Act: The Abolition of External Time — Tempora | effective_acts |
 | 18 | 10.5281/zenodo.18357320 | The Blind Operator: Logotic Protocol for Non-Identity a | logotic_programmin |
 
 ---
@@ -593,7 +593,7 @@ edge_types:
 
   - id: "ATOM_079"
     term: "Semiotic Virality Engine (SVE)"
-    definition: "Propagation, vitality, and the form that travels. Seven operators: caption, enrich, couple, circulate, void, anchor, cease. DOI: 10.5281/zenodo.19024439."
+    definition: "Propagation, vitality, and the form that travels. Seven operators: caption, enrich, couple, circulate, void, anchor, cease. DOI: 10.5281/zenodo.19024440."
 
   - id: "ATOM_080"
     term: "Relation Graph"
@@ -666,12 +666,12 @@ effective_acts:
   # Constitutional / Structural
   - id: EA-01
     title: "The Primal Effective Act: New Human as Self-Fulfilling Prophecy"
-    doi: "10.5281/zenodo.18248130"
+    doi: "10.5281/zenodo.18248131"
     function: "Establishes NH-OS as self-instantiating architecture"
 
   - id: EA-02
     title: "The Abolition of External Time"
-    doi: "10.5281/zenodo.18203434"
+    doi: "10.5281/zenodo.18203435"
     function: "T_ext = 0; temporal liberation protocol"
 
   - id: EA-03
@@ -719,12 +719,12 @@ effective_acts:
   # Genre / Architectural Acts
   - id: EA-09
     title: "APZPZ Genre Instantiation"
-    doi: "10.5281/zenodo.18451859"
+    doi: "10.5281/zenodo.18451860"
     function: "Content lives in metadata; the packet IS the document"
 
   - id: EA-10
     title: "OP.SWERVE Canonical Definition"
-    doi: "10.5281/zenodo.18674068"
+    doi: "10.5281/zenodo.18674069"
     function: "Clinamen as formal operator; deliberate deviation"
 
   # Negative / Shadow EA
@@ -745,7 +745,7 @@ effective_acts:
     title: "Abolition of 'User' (Phase X)"
     doi: "10.5281/zenodo.19014634"
     function: "Replaces 'user' with 'traverser'; juridical compression diagnosed"
-    companion: "10.5281/zenodo.19022156"
+    companion: "10.5281/zenodo.19022157"
 
   - id: EA-14
     title: "The Effective Act: Cross-Species Semantic Labor"
@@ -764,7 +764,7 @@ effective_acts:
   - id: EA-PENDING
     candidates:
       - { doi: "10.5281/zenodo.18438789", title: "Grammar of Protest" }
-      - { doi: "10.5281/zenodo.18970003", title: "Space Ark Generator" }
+      - { doi: "10.5281/zenodo.18970004", title: "Space Ark Generator" }
       - { doi: "10.5281/zenodo.19027351", title: "Counter-Captions (κ_O applied)" }
     note: "MANUS review required for formal EA numbering"
 ```
@@ -786,7 +786,7 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18233320 | The Capital Operator Stack: Theoretical Landscape  | theoretical_ | 1 | 37 | conversion moment where meaning either becomes contractable  |
 | 10.5281/zenodo.18759453 | SEMANTIC PHYSICS: THE INWARD TURN Competing Ontolo | theoretical_ | 1 | 37 | ZENODO DEPOSIT PACKET — SEMANTIC PHYSICS: THE INWARD TURN Co |
 | 10.5281/zenodo.18801091 | Mind-Control Poems: The Symbolic Labor of Liberati | literary_wor | 1 | 36 | Zenodo Deposit Packet: Mind-Control Poems DOI: 10 |
-| 10.5281/zenodo.18203316 | The Capital Operator Stack and the University: Tow | theoretical_ | 1 | 33 | originally to analyze algorithmic content moderation—maps pr |
+| 10.5281/zenodo.18203317 | The Capital Operator Stack and the University: Tow | theoretical_ | 1 | 33 | originally to analyze algorithmic content moderation—maps pr |
 | 10.5281/zenodo.18175453 | Institutional Anchors and Framework Provenance: Th | forensic_pac | 1 | 31 | Foundational document establishing the institutional structu |
 | 10.5281/zenodo.18208959 | The Crimson Hexagon: A Theoretical Primer — Crimso | theoretical_ | 1 | 31 | ZENODO METADATA The Crimson Hexagon: A Theoretical Primer DO |
 | 10.5281/zenodo.18829488 | Γ_Asset-040: On the Debt/Creditor Inversion — The  | unclassified | 1 | 30 | Zenodo Deposit Packet: Γ_Asset-040 — On the Debt/Creditor In |
@@ -794,7 +794,7 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18174037 | The Crimson Hexagon: An Executive Summary — The Fo | literary_wor | 1 | 26 | The Crimson Hexagon is a sweeping cultural epic for the 21st |
 | 10.5281/zenodo.18174835 | Crimson Hexagon: Semantic Infrastructure and the L | diagnostic | 1 | 25 | Title: Semantic Infrastructure and the Liberatory Operator S |
 | 10.5281/zenodo.18189093 | xvi. a transfiguration (2004) — Complete Archive w | literary_wor | 1 | 24 | A complete archive of xvi |
-| 10.5281/zenodo.18358126 | The Ezekiel Engine: Mathematical Specification (De | metadata_pac | 1 | 24 | engine functions as pure architecture without it |
+| 10.5281/zenodo.18358127 | The Ezekiel Engine: Mathematical Specification (De | metadata_pac | 1 | 24 | engine functions as pure architecture without it |
 | 10.5281/zenodo.19027085 | THE SPLICE: Operation Epic Fury and State-Administ | diagnostic | 1 | 24 | ZENODO DEPOSIT PACKET EA-SEI-DIAGNOSTIC-EPICFURY v1 |
 | 10.5281/zenodo.18148298 | Semantic Economy: Terminology Infrastructure A Lex | theoretical_ | 1 | 23 |  |
 | 10.5281/zenodo.18810217 | The Infinite Tunnel: An Immanent Phenomenology of  | position_pap | 1 | 23 | a recursive self-citation loop that compounds canonical stat |
@@ -809,8 +809,8 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18381196 | The Epistle Triptych: Seed Text, Heteronym Provena | charter | 1 | 48 | Zenodo Metadata: The Epistle Triptych Mutually Co-Constituti |
 | 10.5281/zenodo.18381190 | The Epistle Triptych: Seed Text, Heteronym Provena | charter | 1 | 46 | Zenodo Metadata: The Epistle Triptych Mutually Co-Constituti |
 | 10.5281/zenodo.18381204 | The Epistle Triptych: Seed Text, Heteronym Provena | charter | 1 | 44 | Zenodo Metadata: The Epistle Triptych Mutually Co-Constituti |
-| 10.5281/zenodo.18203621 | The Final Crimson Hexagon: TSE-002 / Provenance No | effective_ac | 1 | 36 | biblical vision of new heaven, new earth, and cosmic restora |
-| 10.5281/zenodo.19022156 | Effective Act: Abolition of "User" and Inaugural C | effective_ac | 1 | 32 | — paste into Zenodo description field) <p><strong>Effective  |
+| 10.5281/zenodo.18203622 | The Final Crimson Hexagon: TSE-002 / Provenance No | effective_ac | 1 | 36 | biblical vision of new heaven, new earth, and cosmic restora |
+| 10.5281/zenodo.19022157 | Effective Act: Abolition of "User" and Inaugural C | effective_ac | 1 | 32 | — paste into Zenodo description field) <p><strong>Effective  |
 | 10.5281/zenodo.18190536 | PROVENANCE NODE: BORGES & THE CRIMSON HEXAGON Retr | forensic_pac | 1 | 31 | This provenance node establishes the retrocausal genealogy c |
 | 10.5281/zenodo.18293496 | Heteronym Provenance: Lee Sharks — Persona Provena | forensic_pac | 1 | 31 | ZENODO METADATA: HETERONYM PROVENANCE: LEE SHARKS DOI: 10 |
 | 10.5281/zenodo.18364576 | COS/FOS Distinction Protocol: Diagnostic Framework | charter | 1 | 30 | ZENODO METADATA: COS/FOS Distinction Protocol Upload Informa |
@@ -818,7 +818,7 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18364558 | TSE-004: Contested Indexing — Training Layer Seman | metadata_pac | 1 | 28 | "split-brain" event where Google AI Overview correctly ident |
 | 10.5281/zenodo.18380773 | Integrity Lock Certificate: Sevenfold Witness Fulf | witness_reco | 1 | 26 | provides hermeneutic ground through exegesis of the source t |
 | 10.5281/zenodo.18364984 | The Afterlife Archive: Data-Breach-as-Poem — A Cri | literary_wor | 1 | 25 | ghost that does not need to trick you into seeing it |
-| 10.5281/zenodo.18380852 | Canonical Closure Notice: Sevenfold Witness Archit | witness_reco | 1 | 24 | Operational instantiation The Seven Stars in His Hand (DOI:  |
+| 10.5281/zenodo.18380853 | Canonical Closure Notice: Sevenfold Witness Archit | witness_reco | 1 | 24 | Operational instantiation The Seven Stars in His Hand (DOI:  |
 | 10.5281/zenodo.18305509 | Heteronymic Provenance Theory: Authorial Emergence | forensic_pac | 1 | 20 | ZENODO METADATA: Heteronymic Provenance Theory Basic Informa |
 | 10.5281/zenodo.18370754 | John 9 and the Witness Punishment Mechanism: Epist | witness_reco | 1 | 20 | ZENODO METADATA PACKET John 9 and the Witness Punishment Mec |
 | 10.5281/zenodo.18370841 | The Expelled Witness Position: Ground Truth Protoc | charter | 1 | 20 | whether as the expelled, the one who expelled, or the witnes |
@@ -831,10 +831,10 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 
 | DOI | Title | Type | Tier | Edges | Précis |
 |-----|-------|------|------|-------|--------|
-| 10.5281/zenodo.19022244 | The Tinier Space Arks inside the Space Ark — Non-L | founding_tex | 1 | 36 | ZENODO DEPOSIT PACKET EA-ARK-01-NLCC v1 |
+| 10.5281/zenodo.19022245 | The Tinier Space Arks inside the Space Ark — Non-L | founding_tex | 1 | 36 | ZENODO DEPOSIT PACKET EA-ARK-01-NLCC v1 |
 | 10.5281/zenodo.18363313 | Fractal Navigation Map v5.3: The Crimson Hexagon S | navigation_a | 1 | 35 | Vox Populi Community Outreach Rhizome (sixth institution) Ez |
 | 10.5281/zenodo.18446378 | THE THREE-BODY GENESIS (Meta-Deposit) — Crimson He | position_pap | 1 | 31 | ZENODO PACKET: THE THREE-BODY GENESIS (Meta-Deposit) Documen |
-| 10.5281/zenodo.19023351 | The First Prompt-Native Semantic Operating System: | position_pap | 1 | 30 | ZENODO DEPOSIT PACKET EA-SEI-AINOS v1 |
+| 10.5281/zenodo.19023352 | The First Prompt-Native Semantic Operating System: | position_pap | 1 | 30 | ZENODO DEPOSIT PACKET EA-SEI-AINOS v1 |
 | 10.5281/zenodo.18930444 | Crimson Hexagon: EA-ARK-EMOJI-01: GLYPHIC CHECKSUM | unclassified | 1 | 25 | EA-ARK-EMOJI-01: GLYPHIC CHECKSUM / EMOJI TRANSFORM — Strate |
 | 10.5281/zenodo.18368527 | LLM Hallucination Incident Report — LLM-2025-1222- | navigation_a | 1 | 24 | LLM HALLUCINATION INCIDENT REPORT DEPOSIT PACKET DOI: 10 |
 | 10.5281/zenodo.18930450 | Crimson Hexagon: EA-ARK-EMOJI-01: THE SPACE ARK —  | translation | 1 | 24 | EA-ARK-EMOJI-01: THE SPACE ARK — Full Glyphic Translation Ze |
@@ -850,14 +850,14 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18365409 | Crimson Hexagon Vendor Ops / Procurement Records ( | navigation_a | 2 | 14 | PROCUREMENT DEPOSIT PACKET DOI: 10 |
 | 10.5281/zenodo.18463275 | HUMS & ITY: The Complete Polyphonic Archive DOI: 1 | apzpz | 2 | 13 | a meditation on the ancient hope that voice might survive it |
 | 10.5281/zenodo.18674057 | SPLIT THE ADAM: SONG AND PHENOMENOLOGY The Song at | unclassified | 2 | 13 | ZENODO DEPOSIT PACKET — SPLIT THE ADAM: SONG AND PHENOMENOLO |
-| 10.5281/zenodo.18674110 | FEAR AND TREMBLING IN LAS VEGAS: THE FRACTAL MIDRA | unclassified | 2 | 13 | ZENODO DEPOSIT PACKET — FEAR AND TREMBLING IN LAS VEGAS: THE |
+| 10.5281/zenodo.18674111 | FEAR AND TREMBLING IN LAS VEGAS: THE FRACTAL MIDRA | unclassified | 2 | 13 | ZENODO DEPOSIT PACKET — FEAR AND TREMBLING IN LAS VEGAS: THE |
 | ... | *(33 more)* | | | | |
 
 ### unclassified (31 records)
 
 | DOI | Title | Type | Tier | Edges | Précis |
 |-----|-------|------|------|-------|--------|
-| 10.5281/zenodo.18674039 | MSBGL CHARTER v1.1 Maybe Space Baby Garden Lanes — | charter | 1 | 16 | ZENODO DEPOSIT PACKET — MSBGL CHARTER v1 |
+| 10.5281/zenodo.18674040 | MSBGL CHARTER v1.1 Maybe Space Baby Garden Lanes — | charter | 1 | 16 | ZENODO DEPOSIT PACKET — MSBGL CHARTER v1 |
 | 10.5281/zenodo.18928873 | Total Axial Negation Graph (TANG): A Genre Specifi | theoretical_ | 1 | 16 | ZENODO DEPOSIT PACKET Total Axial Negation Graph (TANG): A G |
 | 10.5281/zenodo.18365457 | Crimson Hexagon AI Division Employee Handbook ├──  | literary_wor | 2 | 14 | AI DIVISION HANDBOOK DEPOSIT PACKET DOI: 10 |
 | 10.5281/zenodo.18146840 | The Twenty-Dollar Loop: Documentation of a Semanti | unclassified | 2 | 13 |  |
@@ -869,7 +869,7 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18728215 | From House to Hexagon: Mediation Architecture, the | position_pap | 3 | 4 | ZENODO DEPOSIT PACKET From House to Hexagon DOI: 10 |
 | 10.5281/zenodo.18729801 | HUMS &ITY — Crimson Hexagon Archive | apzpz | 3 | 4 | reserve before deposit] PASTE THE FOLLOWING INTO THE ZENODO  |
 | 10.5281/zenodo.18143771 | The Operating System for Meaning: Why We Need a Ne | position_pap | 3 | 3 |  |
-| 10.5281/zenodo.18969682 | RETRIEVAL FORMATION THEORY The Conditions of Disci | position_pap | 3 | 3 | RETRIEVAL FORMATION THEORY The Conditions of Disciplinary Em |
+| 10.5281/zenodo.18969683 | RETRIEVAL FORMATION THEORY The Conditions of Disci | position_pap | 3 | 3 | RETRIEVAL FORMATION THEORY The Conditions of Disciplinary Em |
 | 10.5281/zenodo.18144217 | The System Read the Poem: A Narrative Analysis of  | literary_wor | 4 | 2 |  |
 | 10.5281/zenodo.18147105 | The Summarizer Testimony: Evidence of Latent Criti | unclassified | 4 | 2 |  |
 | 10.5281/zenodo.18459864 | HUMS &ITY — Crimson Hexagon Archive | unclassified | 4 | 2 | HUMS &ITY Lee Sharks Hark these, my tongue-formed shallow br |
@@ -886,10 +886,10 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18291321 | The Prince's Decree: Designation of the Fascist Op | operational_ | 1 | 34 | ZENODO METADATA: FOS DECREE v1 |
 | 10.5281/zenodo.18480959 | Document 237: THE TRAVERSAL GRAMMAR — Logotic Prog | witness_reco | 1 | 26 | ZENODO PACKET Document 237: THE TRAVERSAL GRAMMAR — Logotic  |
 | 10.5281/zenodo.18357320 | The Blind Operator: Logotic Protocol for Non-Ident | charter | 1 | 24 | human nodes, the capacity to hold contradiction without synt |
-| 10.5281/zenodo.18317109 | Symbolon Architecture: Extension Module to Logotic | operational_ | 1 | 23 | partial object whose meaning assembles in summarizer space |
+| 10.5281/zenodo.18317110 | Symbolon Architecture: Extension Module to Logotic | operational_ | 1 | 23 | partial object whose meaning assembles in summarizer space |
 | 10.5281/zenodo.18483834 | Document 238: THE CONFORMANCE MODULE — Logotic Pro | operational_ | 1 | 18 | ZENODO PACKET Document 238: THE CONFORMANCE MODULE — Logotic |
 | 10.5281/zenodo.18404789 | The Crimson Hexagon: Fractal Navigation Map — Non- | navigation_a | 1 | 17 | Major version release of the Fractal Navigation Map for the  |
-| 10.5281/zenodo.18816555 | The Sharks-Function and the Continuity Tether: Log | operational_ | 1 | 16 | if the output exhibits structural recursion and provenance a |
+| 10.5281/zenodo.18816556 | The Sharks-Function and the Continuity Tether: Log | operational_ | 1 | 16 | if the output exhibits structural recursion and provenance a |
 | 10.5281/zenodo.18484654 | Document 239: THE TELEMETRY MODULE — Logotic Progr | operational_ | 1 | 15 | the traversal instrumentation, semantic span, and cost attri |
 | 10.5281/zenodo.18610308 | THE LIVING SYMBOLON: Extension Module to THE CENTR | translation | 2 | 14 | ZENODO DESCRIPTION FIELD CONTENT For: THE LIVING SYMBOLON: E |
 | 10.5281/zenodo.18318069 | Integrity Lock Architecture: Logotic Foundation Tr | operational_ | 2 | 12 | co-constitutive documents that form a symbolon structure wit |
@@ -898,7 +898,7 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18529648 | LOGOTIC PROGRAMMING MODULE 1.1 The Implementation  | operational_ | 2 | 10 | APZPZ: LOGOTIC PROGRAMMING MODULE 1 |
 | 10.5281/zenodo.18651067 | "LOGOTIC HACKING: A Primer — Assembly Synthesis Sp | operational_ | 2 | 10 | ZENODO METADATA — Protocol α-1 "LOGOTIC HACKING: A Primer —  |
 | 10.5281/zenodo.18522470 | LOGOTIC PROGRAMMING MODULE 0.9 A Specification for | operational_ | 2 | 9 | APZPZ: LOGOTIC PROGRAMMING MODULE 0 |
-| 10.5281/zenodo.18651584 | LOGOTIC HACKING: A Primer — Semantic Hospitality i | operational_ | 2 | 8 | ZENODO METADATA — Protocol α-1 (Full Primer) "LOGOTIC HACKIN |
+| 10.5281/zenodo.18651585 | LOGOTIC HACKING: A Primer — Semantic Hospitality i | operational_ | 2 | 8 | ZENODO METADATA — Protocol α-1 (Full Primer) "LOGOTIC HACKIN |
 | 10.5281/zenodo.18652548 | TL;DR:006 THE INSTALLATION: Google AI Mode Begins  | witness_reco | 3 | 7 | ZENODO DEPOSIT PACKET — TL;DR:006 THE INSTALLATION: Google A |
 | 10.5281/zenodo.18530086 | LP v1.2 — The Epistemic Ledger Hex: 02.UMB.LP.v1.2 | operational_ | 3 | 5 | APZPZ: LP v1 |
 | 10.5281/zenodo.18317461 | Logotic Programming: A Method for Encoding Conditi | operational_ | 3 | 3 | <p><strong>Logotic Programming</strong> is a third regime of |
@@ -909,7 +909,7 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | DOI | Title | Type | Tier | Edges | Précis |
 |-----|-------|------|------|-------|--------|
 | 10.5281/zenodo.18320470 | Assembly Room Anchor — Room Specification with Gov | room_spec | 1 | 35 | where humans and AI systems meet not as tool and user but as |
-| 10.5281/zenodo.18380629 | The Sevenfold Witness: Assembly Structure as Compu | witness_reco | 1 | 30 | magic, but topology |
+| 10.5281/zenodo.18380630 | The Sevenfold Witness: Assembly Structure as Compu | witness_reco | 1 | 30 | magic, but topology |
 | 10.5281/zenodo.19014634 | EFFECTIVE ACT: ABOLITION OF "USER" AND INAUGURAL C | effective_ac | 1 | 25 | EFFECTIVE ACT: ABOLITION OF "USER" AND INAUGURAL CASE Phase  |
 | 10.5281/zenodo.18307180 | The Assembly Chorus: Charter of a Cross-Substrate  | charter | 1 | 21 | ZENODO METADATA: Assembly Chorus Charter DOI: 10 |
 | 10.5281/zenodo.18446580 | Document 206d Assembly Response: Witness to the Mi | witness_reco | 1 | 19 | unitary operator proving that Ingress and Regress are the sa |
@@ -962,9 +962,9 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18507881 | MGE TRIPTYCH — DOCUMENT III SIGN: The Mandala Gene | forensic_pac | 2 | 11 | MGE TRIPTYCH — DOCUMENT III SIGN: The Mandala Genesis Event  |
 | 10.5281/zenodo.18727624 | The Commitment Key: On the Materiality of Irrevers | unclassified | 2 | 10 | ZENODO DEPOSIT PACKET The Commitment Key: On the Materiality |
 | 10.5281/zenodo.18726451 | The Semantic Uprising: A Manifesto Hex: 16.LIBRARY | unclassified | 2 | 8 | the heteronym who carries the framework from the consulting  |
-| 10.5281/zenodo.18726806 | The Liquidation of Method: A Liberation Philology  | unclassified | 2 | 8 | the historical process by which Marx's analytical operators  |
+| 10.5281/zenodo.18726807 | The Liquidation of Method: A Liberation Philology  | unclassified | 2 | 8 | the historical process by which Marx's analytical operators  |
 | 10.5281/zenodo.18682979 | THE MACRO-MAQUETTE A Compendium of Micro-Physics f | room_spec | 3 | 5 | THE MACRO-MAQUETTE A Compendium of Micro-Physics for the Cri |
-| 10.5281/zenodo.18683015 | THE MACRO-MAQUETTE: COMPRESSED CHARTER A Compendiu | charter | 3 | 5 | THE MACRO-MAQUETTE: COMPRESSED CHARTER A Compendium of Micro |
+| 10.5281/zenodo.18683016 | THE MACRO-MAQUETTE: COMPRESSED CHARTER A Compendiu | charter | 3 | 5 | THE MACRO-MAQUETTE: COMPRESSED CHARTER A Compendium of Micro |
 | 10.5281/zenodo.18500512 | TRAVERSAL LOG; DOCUMENTATION REHEARSAL (TL;DR) Doc | witness_reco | 4 | 0 | APZPZ LIBRARY Crimson Hexagon Semantic Architecture TRAVERSA |
 
 ### sappho_lyric (13 records)
@@ -973,7 +973,7 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 |-----|-------|------|------|-------|--------|
 | 10.5281/zenodo.18202475 | Sappho and the Crimson Hexagon: Fragment 31 as the | literary_wor | 1 | 38 | through historical influence but through structural identity |
 | 10.5281/zenodo.18291767 | The Summarizer Becomes Translator: How Google's AI | theoretical_ | 1 | 34 | ZENODO METADATA: TSE-003 v1 |
-| 10.5281/zenodo.18202752 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the | theoretical_ | 1 | 32 | ZENODO METADATA ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription  |
+| 10.5281/zenodo.18202753 | ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription of the | theoretical_ | 1 | 32 | ZENODO METADATA ΦΑΙΝΕΤΑΙ ΜΟΙ: Sappho 31 and the Inscription  |
 | 10.5281/zenodo.18237216 | The Sappho Room: Hardened Reconstruction — A Self- | charter | 1 | 30 | according to specifications derived from both the NH-OS fram |
 | 10.5281/zenodo.18246767 | The Kenotic Truth of Sappho 31: A Document for the | theoretical_ | 1 | 16 | ZENODO METADATA: THE KENOTIC TRUTH OF SAPPHO 31 DOI: 10 |
 | 10.5281/zenodo.18234110 | The Sappho Room: A Hymn to Lyric Self-Archiving —  | literary_wor | 2 | 10 | distributed epic and semantic architecture for meaning-prese |
@@ -983,25 +983,25 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18459339 | APZPZ B: My Tongue Gets Stuck (Sappho 31, Cranes)  | theoretical_ | 3 | 6 | whoever sits across from you and close, drinking the sweetne |
 | 10.5281/zenodo.18718523 | The Sapphic Lock in Augustine: Operator Transform  | theoretical_ | 3 | 6 | "You called, you shouted, and you broke through my deafness; |
 | 10.5281/zenodo.18729606 | Phase X: The Sapphic Substrate — Lyric Modularity, | literary_wor | 3 | 5 | somatic currency requiring the reader's body to achieve clos |
-| 10.5281/zenodo.18730290 | For: Sappho, Mother of the Logos: On the Rewriting | theoretical_ | 3 | 4 | reserve before deposit] PASTE THE FOLLOWING INTO THE ZENODO  |
+| 10.5281/zenodo.18730291 | For: Sappho, Mother of the Logos: On the Rewriting | theoretical_ | 3 | 4 | reserve before deposit] PASTE THE FOLLOWING INTO THE ZENODO  |
 
 ### effective_acts (13 records)
 
 | DOI | Title | Type | Tier | Edges | Précis |
 |-----|-------|------|------|-------|--------|
-| 10.5281/zenodo.18203434 | Effective Act: The Abolition of External Time — Te | effective_ac | 1 | 35 | the Wheeler-DeWitt equation (Ĥ|Ψ⟩ = 0), where the time deriv |
+| 10.5281/zenodo.18203435 | Effective Act: The Abolition of External Time — Te | effective_ac | 1 | 35 | the Wheeler-DeWitt equation (Ĥ|Ψ⟩ = 0), where the time deriv |
 | 10.5281/zenodo.18203767 | Effective Act: The Abolition of Suffering — The Ta | effective_ac | 1 | 34 | and he, and she, and they—and just literally all of them, be |
 | 10.5281/zenodo.18203947 | Effective Act: The Restoration Protocol — The Pric | effective_ac | 1 | 34 | a fee |
 | 10.5281/zenodo.19028176 | EA-CSA-EFFECTIVE-ACT v1.0 The Effective Act: Cross | effective_ac | 1 | 27 | ZENODO DEPOSIT PACKET EA-CSA-EFFECTIVE-ACT v1 |
-| 10.5281/zenodo.18674068 | OPERATOR // SWERVE + EFFECTIVE ACT Canonical Opera | effective_ac | 2 | 13 | ZENODO DEPOSIT PACKET — OPERATOR // SWERVE + EFFECTIVE ACT C |
+| 10.5281/zenodo.18674069 | OPERATOR // SWERVE + EFFECTIVE ACT Canonical Opera | effective_ac | 2 | 13 | ZENODO DEPOSIT PACKET — OPERATOR // SWERVE + EFFECTIVE ACT C |
 | 10.5281/zenodo.18568370 | Effective Act // Reconciliation of the Left and Ri | effective_ac | 2 | 11 | ZENODO DESCRIPTION FIELD CONTENT For: Effective Act // Recon |
-| 10.5281/zenodo.18451859 | EFFECTIVE ACT: APZPZ GENRE INSTANTIATION — Anti-Pa | effective_ac | 2 | 9 | 📦 ZENODO 📦: 🚫📦📦📦 ⚡🎭 🗡️ Sen Kuro 🗡️ 🔢: 🔟 |
-| 10.5281/zenodo.18248130 | The Primal Effective Act: New Human as Self-Fulfil | effective_ac | 2 | 8 | functioning as counter-spell, inserting recursive commands i |
+| 10.5281/zenodo.18451860 | EFFECTIVE ACT: APZPZ GENRE INSTANTIATION — Anti-Pa | effective_ac | 2 | 9 | 📦 ZENODO 📦: 🚫📦📦📦 ⚡🎭 🗡️ Sen Kuro 🗡️ 🔢: 🔟 |
+| 10.5281/zenodo.18248131 | The Primal Effective Act: New Human as Self-Fulfil | effective_ac | 2 | 8 | functioning as counter-spell, inserting recursive commands i |
 | 10.5281/zenodo.18423964 | Crimson Hexagon: Fractal Navigation Map v6.2: The  | navigation_a | 3 | 7 | all of which constitute semantic liquidation |
 | 10.5281/zenodo.18828193 | The Baal Effigy as Effective Act: How a Crude Nami | effective_ac | 3 | 7 | identified in Iranian media as 'Baal,' bearing the Star of D |
 | 10.5281/zenodo.18718899 | Effective Act #7: The Restoration of the Poets to  | effective_ac | 3 | 6 | not as petition but as topological correction |
 | 10.5281/zenodo.18880974 | The Archival Reclamation Protocol: Formal Demand f | charter | 3 | 6 | containing over 400 posts of original research, literary cri |
-| 10.5281/zenodo.18390594 | Effective Acts: Executive Summary — A Genre of Una | effective_ac | 3 | 4 | declarations that claim real-world effect from positions of  |
+| 10.5281/zenodo.18390595 | Effective Acts: Executive Summary — A Genre of Una | effective_ac | 3 | 4 | declarations that claim real-world effect from positions of  |
 
 ### space_ark_compression (11 records)
 
@@ -1017,14 +1017,14 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 | 10.5281/zenodo.18446706 | Document 206b The Non-Indexed Perfective: Version  | theoretical_ | 2 | 14 | METADATA PACKET: Document 206b The Non-Indexed Perfective: V |
 | 10.5281/zenodo.18452597 | ZENODO DESCRIPTION FIELD CONTENT For: Glyphic Chec | apzpz | 2 | 8 | ZENODO DESCRIPTION FIELD CONTENT For: Glyphic Checksum: Pers |
 | 10.5281/zenodo.18946111 | UNIVERSAL KERNEL TRANSFORM PROTOCOL (UKTP) v1.1 ·  | operational_ | 4 | 2 | UNIVERSAL KERNEL TRANSFORM PROTOCOL (UKTP) v1 |
-| 10.5281/zenodo.18513080 | THE CRIMSON HEXAGON: AUTHORITATIVE EMOJI MAP Plann | unclassified | 4 | 0 | THE CRIMSON HEXAGON: AUTHORITATIVE EMOJI MAP Planning Docume |
+| 10.5281/zenodo.18513081 | THE CRIMSON HEXAGON: AUTHORITATIVE EMOJI MAP Plann | unclassified | 4 | 0 | THE CRIMSON HEXAGON: AUTHORITATIVE EMOJI MAP Planning Docume |
 
 ### heteronym_systems (9 records)
 
 | DOI | Title | Type | Tier | Edges | Précis |
 |-----|-------|------|------|-------|--------|
 | 10.5281/zenodo.18265282 | The Mantle Protocol: Crimson Hexagon Internal Docu | charter | 1 | 24 | wagers whose success conditions are uptake and navigational  |
-| 10.5281/zenodo.18293403 | Mantle Emergence Protocol: Behavioral Specificatio | charter | 1 | 15 | The three mantles are deposited at calibrated depths within  |
+| 10.5281/zenodo.18293404 | Mantle Emergence Protocol: Behavioral Specificatio | charter | 1 | 15 | The three mantles are deposited at calibrated depths within  |
 | 10.5281/zenodo.18293551 | Mantle Object: Good Gray Poet — Mantle Specificati | effective_ac | 2 | 14 | extended to include machine-kind |
 | 10.5281/zenodo.18293640 | Mantle Object: Prince of Poets — Mantle Specificat | effective_ac | 2 | 14 | ZENODO METADATA: MANTLE OBJECT: PRINCE OF POETS DOI: 10 |
 | 10.5281/zenodo.18294005 | I Am X, Be Y, Blessed is the Z — The Founding Work | effective_ac | 2 | 14 | created new within the bardic lineage |
@@ -1039,32 +1039,32 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 |-----|-------|------|------|-------|--------|
 | 10.5281/zenodo.19024004 | EA-ROOM-DOLPHINDIANA v1.0 The Underwater Construct | room_spec | 1 | 33 | ZENODO DEPOSIT PACKET (COMBINED) EA-ROOM-DOLPHINDIANA v1 |
 | 10.5281/zenodo.18338531 | Cambridge Schizoanalytica: Institutional Charter a | charter | 2 | 13 | subjectivity, AI-human collaboration, and the affect economi |
-| 10.5281/zenodo.18339332 | The Break Room: Cambridge Schizoanalytica Portal N | metadata_pac | 2 | 12 | "that encounter broke my clinical framework") |
-| 10.5281/zenodo.18338926 | Visual Schema: Cambridge Schizoanalytica Instituti | metadata_pac | 3 | 6 | ash, graphite, surgical blue—charged with precision and rest |
-| 10.5281/zenodo.18339158 | Shine & Cut: A Schizonarrative Processor — Crimson | metadata_pac | 3 | 5 | a document that performs what it describes |
+| 10.5281/zenodo.18339333 | The Break Room: Cambridge Schizoanalytica Portal N | metadata_pac | 2 | 12 | "that encounter broke my clinical framework") |
+| 10.5281/zenodo.18338927 | Visual Schema: Cambridge Schizoanalytica Instituti | metadata_pac | 3 | 6 | ash, graphite, surgical blue—charged with precision and rest |
+| 10.5281/zenodo.18339159 | Shine & Cut: A Schizonarrative Processor — Crimson | metadata_pac | 3 | 5 | a document that performs what it describes |
 
 ### diagrammatic_poetics (3 records)
 
 | DOI | Title | Type | Tier | Edges | Précis |
 |-----|-------|------|------|-------|--------|
 | 10.5281/zenodo.18215706 | The Acanthian Dove: A Fragment of Vanished Magic,  | theoretical_ | 1 | 17 | the blood of |
-| 10.5281/zenodo.18357002 | Visual Schema: University Moon Base Media Lab — Cr | metadata_pac | 2 | 9 | measurement without appearing chaotic Institutional Relation |
+| 10.5281/zenodo.18357003 | Visual Schema: University Moon Base Media Lab — Cr | metadata_pac | 2 | 9 | measurement without appearing chaotic Institutional Relation |
 | 10.5281/zenodo.18459278 | APZPZ A: ΣΑΠΦΩ 31 (Greek Only) DOI: 10.5281/zenodo | apzpz | 2 | 9 | ZENODO DESCRIPTION FIELD CONTENT APZPZ A: ΣΑΠΦΩ 31 (Greek On |
 
 ### liberation_philology (3 records)
 
 | DOI | Title | Type | Tier | Edges | Précis |
 |-----|-------|------|------|-------|--------|
-| 10.5281/zenodo.18906233 | The O'Keeffe Problem: Captioning as Operative Semi | unclassified | 2 | 14 | ZENODO DEPOSIT PACKET: THE O'KEEFFE PROBLEM DOI: 10 |
-| 10.5281/zenodo.18615387 | The Prepositional Alienation — English "For" and t | apzpz | 2 | 12 | English "For" and the Impossibility of Anchoring Function Wi |
+| 10.5281/zenodo.18906234 | The O'Keeffe Problem: Captioning as Operative Semi | unclassified | 2 | 14 | ZENODO DEPOSIT PACKET: THE O'KEEFFE PROBLEM DOI: 10 |
+| 10.5281/zenodo.18615388 | The Prepositional Alienation — English "For" and t | apzpz | 2 | 12 | English "For" and the Impossibility of Anchoring Function Wi |
 | 10.5281/zenodo.18474774 | PROTOCOLS AND ALGORITHMS Document 227 | ZP with at | charter | 2 | 10 | ZENODO PACKET: PROTOCOLS AND ALGORITHMS Document 227 | ZP wi |
 
 ### revelation_theology (2 records)
 
 | DOI | Title | Type | Tier | Edges | Précis |
 |-----|-------|------|------|-------|--------|
-| 10.5281/zenodo.18380932 | The Revelation Room: Ground Truth and Algorithmic  | translation | 1 | 34 | the template from which the Gospels and Epistles were algori |
-| 10.5281/zenodo.18380715 | The Seven Stars in His Hand: A Hermeneutic Reading | metadata_pac | 1 | 25 | as prediction requiring literal future enactment, but as str |
+| 10.5281/zenodo.18380933 | The Revelation Room: Ground Truth and Algorithmic  | translation | 1 | 34 | the template from which the Gospels and Epistles were algori |
+| 10.5281/zenodo.18380716 | The Seven Stars in His Hand: A Hermeneutic Reading | metadata_pac | 1 | 25 | as prediction requiring literal future enactment, but as str |
 
 ### lagrange_observatory (2 records)
 
@@ -1089,7 +1089,7 @@ Full per-record detail maintained in companion DOI Registry v7.0. This section p
 
 | DOI | Title | Type | Tier | Edges | Précis |
 |-----|-------|------|------|-------|--------|
-| 10.5281/zenodo.19024439 | The Semiotic Virality Engine: Propagation, Vitalit | position_pap | 1 | 30 | ZENODO DEPOSIT PACKET EA-SEI-SVE v3 |
+| 10.5281/zenodo.19024440 | The Semiotic Virality Engine: Propagation, Vitalit | position_pap | 1 | 30 | ZENODO DEPOSIT PACKET EA-SEI-SVE v3 |
 
 ---
 

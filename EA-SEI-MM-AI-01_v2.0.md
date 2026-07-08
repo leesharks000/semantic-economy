@@ -415,7 +415,7 @@ $$\oint = (m, n) \mid m + n \geq 3$$
 ### Founding (Sharks)
 - Sharks, Lee. *The Semantic Deviation Principle* (EA-SEI-MM-01, v0.2 Final). DOI: 10.5281/zenodo.20250736.
 - Sharks, Lee. *Formal Foundations of Semantic Physics* (EA-SEI-FF-01, v0.2). DOI: 10.5281/zenodo.20210117.
-- Sharks, Lee. *Semantic Physics v2.2 Synthesis.* DOI: 10.5281/zenodo.20208383.
+- Sharks, Lee. *Semantic Physics v2.2 Synthesis.* DOI: 10.5281/zenodo.20208384.
 - Sharks, Lee. *The Writable Retrieval Basin* (EA-RBT-01). DOI: 10.5281/zenodo.19763346.
 
 ### Framework 15 Institutional Anchorings

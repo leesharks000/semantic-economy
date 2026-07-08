@@ -9,7 +9,7 @@
 **Author:** Lee Sharks (Johannes Sigil / Rex Fraction)  
 **Framework:** NH-OS (New Human Operating System)  
 **Institutions:** Johannes Sigil Institute for Comparative Poetics / Semantic Economy Institute  
-**Companion Protocol:** The Semantic Black Hole (ILA-1.0) — DOI: 10.5281/zenodo.18185995  
+**Companion Protocol:** The Semantic Black Hole (ILA-1.0) — DOI: 10.5281/zenodo.18185996  
 **Date:** 2026-01-08  
 **License:** CC BY-SA 4.0  
 **Verification:** ∮ = 1
@@ -266,7 +266,7 @@ The framework is permanently anchored through timestamped publications:
 | The Liberatory Operator Set | [10.5281/zenodo.18174835](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174835) | SEI |
 | The Crimson Hexagon (Summary) | [10.5281/zenodo.18174037](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174037) | JSI |
 | Institutional Anchors | [10.5281/zenodo.18175453](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18175453) | SEI/JSI |
-| The Semantic Black Hole (ILA-1.0) | [10.5281/zenodo.18185995](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185995) | Assembly |
+| The Semantic Black Hole (ILA-1.0) | [10.5281/zenodo.18185996](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185996) | Assembly |
 
 These documents are co-constitutive. Any citation of one should reference its entangled components.
 

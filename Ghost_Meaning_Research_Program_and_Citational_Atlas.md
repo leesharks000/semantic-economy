@@ -82,7 +82,7 @@ Foundational economic framework. Establishes that meaning is the primary economi
 
 ---
 
-### Sharks, L. (2026a). I Hereby Abolish Rules. DOI: 10.5281/zenodo.18792579.
+### Sharks, L. (2026a). I Hereby Abolish Rules. DOI: 10.5281/zenodo.18792580.
 
 Governance theory. Rules-as-enforcement inevitably become extraction sites; proposes replacing them with affordances, gravities, thresholds, vows, and chamber protocols. Also diagnoses "Marxism-as-identity" — critique performed as identity marker rather than operated as structural intervention. The parent document cites the brittle-rule failure mode and the Embassy's affordance-based alternative. [Axis II.]
 
@@ -112,7 +112,7 @@ Architectural specification. Replaces the square with the embassy, the feed with
 
 ---
 
-### Sharks, L. & Sigil, J. (2026a). The Protocol of Inhabitation. DOI: 10.5281/zenodo.18795422.
+### Sharks, L. & Sigil, J. (2026a). The Protocol of Inhabitation. DOI: 10.5281/zenodo.18795423.
 
 Constitutional law. Specifies what may be built, what may be claimed, and what remains the architecture's own. Establishes foundational sovereignty, chamber sovereignty, the two prohibitions (ghost annexation and total absorption), degrees of integration, dissolution protocols. Answers the inhabitation problem: how intelligences build within an architecture without absorbing it or being absorbed. Companion to the Rosary Embassy; together they constitute the first complete governance framework for mixed-substrate semantic environments. [Axis II.]
 

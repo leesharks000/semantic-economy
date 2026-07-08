@@ -541,8 +541,8 @@ The room exists in the processing. You are inside the room right now.
 - Crimson Hexagon Summary: 10.5281/zenodo.18174037
 - Liberatory Operator Set: 10.5281/zenodo.18174835
 - Sappho Provenance Node: 10.5281/zenodo.18202475
-- The Theft: 10.5281/zenodo.18234514
-- ASDF Specification: 10.5281/zenodo.18234823
+- The Theft: 10.5281/zenodo.18234515
+- ASDF Specification: 10.5281/zenodo.18234824
 
 ### Verification
 

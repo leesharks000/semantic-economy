@@ -3,8 +3,8 @@
 ## Publication Details
 
 **Title:** The Revelation Room: Ground Truth and Algorithmic Unfolding — Cosmic Christ as Originary Image  
-**DOI:** 10.5281/zenodo.18380932  
-**URL:** https://doi.org/10.5281/zenodo.18380932
+**DOI:** 10.5281/zenodo.18380933  
+**URL:** https://doi.org/10.5281/zenodo.18380933
 
 ---
 
@@ -40,7 +40,7 @@ Key axioms include:
 4. The Gospels derive narrative algorithmically from Revelation (Mark as ALGO_MIN, Matthew as ALGO_JEWISH, Luke as ALGO_GENTILE, John as ALGO_REFLEXIVE)
 5. Josephus is the likely author (or primary architect) — building a textual Temple to preserve what the flames of 70 CE consumed
 6. The Temple destruction (70 CE) is the pivot requiring textual preservation
-7. The Sevenfold Witness (DOI: 10.5281/zenodo.18380629) is the contemporary instantiation of the textual Temple
+7. The Sevenfold Witness (DOI: 10.5281/zenodo.18380630) is the contemporary instantiation of the textual Temple
 
 The document clarifies its methodological status as operative hermeneutic rather than historical proof, provides a formal definition of "algorithmic" in the hermeneutic sense, formalizes the witness function (ψ_V = the position that preserves coherence under collapse), bridges to living theology (liturgical reading, ethical discernment, resistance under collapse), and preserves negative capability (tolerating unresolved tension where structurally necessary).
 
@@ -74,10 +74,10 @@ This is the penultimate threshold before Mandala (Room 12) and Space Ark (Room 1
 
 | Relation | Identifier | Description |
 |----------|------------|-------------|
-| Is instantiated by | 10.5281/zenodo.18380629 | The Sevenfold Witness (Operational Instantiation) |
-| Is supplement to | 10.5281/zenodo.18380715 | The Seven Stars in His Hand (Hermeneutic Ground) |
+| Is instantiated by | 10.5281/zenodo.18380630 | The Sevenfold Witness (Operational Instantiation) |
+| Is supplement to | 10.5281/zenodo.18380716 | The Seven Stars in His Hand (Hermeneutic Ground) |
 | Is supplement to | 10.5281/zenodo.18380773 | Integrity Lock Certificate (ILA-SEVENFOLD-001) |
-| Is supplement to | 10.5281/zenodo.18380852 | Canonical Closure Notice |
+| Is supplement to | 10.5281/zenodo.18380853 | Canonical Closure Notice |
 | Is supplement to | 10.5281/zenodo.18370734 | Soteriological Operator Framework |
 | Is supplement to | 10.5281/zenodo.18370754 | John 9: Witness Punishment Mechanism |
 | Is supplement to | 10.5281/zenodo.18370789 | James 2: Structural Judgment |
@@ -126,7 +126,7 @@ This is the penultimate threshold before Mandala (Room 12) and Space Ark (Room 1
                     ▼                               ▼
     ┌───────────────────────────┐   ┌───────────────────────────┐
     │  The Seven Stars          │   │  The Sevenfold Witness    │
-    │  10.5281/zenodo.18380715  │   │  10.5281/zenodo.18380629  │
+    │  10.5281/zenodo.18380716  │   │  10.5281/zenodo.18380630  │
     └─────────────┬─────────────┘   └─────────────┬─────────────┘
                   │         φ(A,B) = 1            │
                   └───────────────┬───────────────┘
@@ -225,7 +225,7 @@ The Josephan hypothesis is not proven. The chronological inversion is not certai
 
 ### Recommended Citation
 
-Sigil, J., & Morrow, T. (2026). *The Revelation Room: Ground Truth and Algorithmic Unfolding — Cosmic Christ as Originary Image*. Zenodo. https://doi.org/10.5281/zenodo.18380932
+Sigil, J., & Morrow, T. (2026). *The Revelation Room: Ground Truth and Algorithmic Unfolding — Cosmic Christ as Originary Image*. Zenodo. https://doi.org/10.5281/zenodo.18380933
 
 ### BibTeX
 
@@ -236,8 +236,8 @@ Sigil, J., & Morrow, T. (2026). *The Revelation Room: Ground Truth and Algorithm
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18380932},
-  url          = {https://doi.org/10.5281/zenodo.18380932},
+  doi          = {10.5281/zenodo.18380933},
+  url          = {https://doi.org/10.5281/zenodo.18380933},
   note         = {Hex: 11.REV.ANCHOR.GROUND-TRUTH. Room 11 of the Crimson Hexagon. Establishes Revelation-first chronology as operative hermeneutic. Part of the New Human Operating System architecture.}
 }
 ```
@@ -249,7 +249,7 @@ Sigil, J., & Morrow, T. (2026). *The Revelation Room: Ground Truth and Algorithm
 ```
 Document: The Revelation Room — Ground Truth and Algorithmic Unfolding
 Hex: 11.REV.ANCHOR.GROUND-TRUTH
-DOI: 10.5281/zenodo.18380932
+DOI: 10.5281/zenodo.18380933
 Room: 11 (Revelation)
 Status: CANONICAL
 

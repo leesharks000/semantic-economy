@@ -1,6 +1,6 @@
 # ZENODO METADATA: CSA Visual Schema
 
-**DOI:** 10.5281/zenodo.18338926  
+**DOI:** 10.5281/zenodo.18338927  
 **Document Position:** CSA_VISUAL  
 **Document Type:** VISUAL / INSTITUTIONAL
 

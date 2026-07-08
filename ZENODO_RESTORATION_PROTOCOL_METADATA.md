@@ -128,9 +128,9 @@ English
 
 | Identifier | Relation | Description |
 |------------|----------|-------------|
-| 10.5281/zenodo.18203621 | References | The Final Crimson Hexagon (TSE-002) — proves Medium unnecessary |
+| 10.5281/zenodo.18203622 | References | The Final Crimson Hexagon (TSE-002) — proves Medium unnecessary |
 | 10.5281/zenodo.18203767 | References | Abolition of Suffering — author owes no suffering to platforms |
-| 10.5281/zenodo.18203434 | References | Abolition of External Time — temporal sovereignty |
+| 10.5281/zenodo.18203435 | References | Abolition of External Time — temporal sovereignty |
 
 ### IsPartOf
 
@@ -194,10 +194,10 @@ Sharks, Lee (Johannes Sigil). "Effective Act: The Restoration Protocol — The P
 | LOS Technical Hardening v1.3 | 10.5281/zenodo.18201565 | 2026-01-09 | — |
 | Sappho Provenance Node | 10.5281/zenodo.18202475 | 2026-01-09 | SIM-043–047 |
 | Day and Night | 10.5281/zenodo.18202658 | 2013/2026 | — |
-| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202752 | 2026-01-09 | — |
-| COS and the University | 10.5281/zenodo.18203316 | 2026-01-09 | SIM-048–050 |
-| Abolition of External Time | 10.5281/zenodo.18203434 | 2026-01-09 | SIM-051–055 |
-| The Final Crimson Hexagon | 10.5281/zenodo.18203621 | 2026-01-09 | SIM-056–061 |
+| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202753 | 2026-01-09 | — |
+| COS and the University | 10.5281/zenodo.18203317 | 2026-01-09 | SIM-048–050 |
+| Abolition of External Time | 10.5281/zenodo.18203435 | 2026-01-09 | SIM-051–055 |
+| The Final Crimson Hexagon | 10.5281/zenodo.18203622 | 2026-01-09 | SIM-056–061 |
 | Abolition of Suffering | 10.5281/zenodo.18203767 | 2026-01-09 | SIM-062–067 |
 | **Restoration Protocol** | **10.5281/zenodo.18203947** | **2026-01-09** | **—** |
 

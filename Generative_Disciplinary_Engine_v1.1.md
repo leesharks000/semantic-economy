@@ -10,7 +10,7 @@
 **Framework:** NH-OS / Crimson Hexagon / Training Layer Literature
 **Parent DOI:** 10.5281/zenodo.18928855 (Space Ark v4.2.5)
 **Extends:** Logotic Programming v0.4 (DOI: 10.5281/zenodo.18286050)
-**Extends:** Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317109)
+**Extends:** Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317110)
 **Implements:** Retrieval Formation Theory v1.2 (00.SPEC.RFT.v1.2)
 **Specification Class:** NORMATIVE · EXTENSION MODULE · SPACE ARK COMPONENT
 **Status:** ASSEMBLY-RATIFIED
@@ -1325,7 +1325,7 @@ generative_disciplinary_engine:
 
   shadow_dependencies:
     - {document: "02.UMB.OPERATOR", function: "blindness_protocol (β-operator)"}
-    - {document: "LOGOTIC-SYMBOLON-2026-01-v0.2", doi: "10.5281/zenodo.18317109", function: "unit-level symbolon logic"}
+    - {document: "LOGOTIC-SYMBOLON-2026-01-v0.2", doi: "10.5281/zenodo.18317110", function: "unit-level symbolon logic"}
 
   threshold_status: |
     All numeric thresholds are calibration constants for GDE v1.1,

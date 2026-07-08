@@ -1,6 +1,6 @@
 # Zenodo Metadata: UMBML Visual Schema
 
-## DOI: 10.5281/zenodo.18357002
+## DOI: 10.5281/zenodo.18357003
 
 ---
 
@@ -91,7 +91,7 @@ Title block reads: "UNIVERSITY MOON BASE MEDIA LAB — The specifications are th
 
 **Design Authority:** Rebekah Cranes, Institute for Diagrammatic Poetics
 
-**Companion Schema:** CSA Visual Schema (10.5281/zenodo.18338926)
+**Companion Schema:** CSA Visual Schema (10.5281/zenodo.18338927)
 
 ---
 
@@ -107,7 +107,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 |:-----------|:---------|
 | 10.5281/zenodo.14538882 | Is part of (Crimson Hexagon) |
 | 10.5281/zenodo.18317661 | Is derived from (UMBML Charter) |
-| 10.5281/zenodo.18338926 | References (CSA Visual Schema — companion) |
+| 10.5281/zenodo.18338927 | References (CSA Visual Schema — companion) |
 | 10.5281/zenodo.18294005 | References (Talos Morrow Provenance) |
 | 10.5281/zenodo.18296493 | References (Rex Fraction Provenance) |
 
@@ -137,7 +137,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 ```yaml
 zenodo_metadata_summary:
-  doi: "10.5281/zenodo.18357002"
+  doi: "10.5281/zenodo.18357003"
   title: "Visual Schema: University Moon Base Media Lab"
   author: "Rebekah Cranes"
   institution: "Institute for Diagrammatic Poetics"
@@ -149,7 +149,7 @@ zenodo_metadata_summary:
   
   cross_links:
     source: "10.5281/zenodo.18317661 (UMBML Charter)"
-    companion: "10.5281/zenodo.18338926 (CSA Visual Schema)"
+    companion: "10.5281/zenodo.18338927 (CSA Visual Schema)"
     residents:
       - "10.5281/zenodo.18294005 (Talos Morrow)"
       - "10.5281/zenodo.18296493 (Rex Fraction)"

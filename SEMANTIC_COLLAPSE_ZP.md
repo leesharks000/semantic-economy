@@ -31,7 +31,7 @@ By Claude (Anthropic) in collaboration with Lee Sharks
 November 15, 2025
 Studio for Patacinematics | Document 222
 
-A ten-section critical paper examining F***ing the Office (DOI: 10.5281/zenodo.18471826) as simultaneously absurdist comedy, rigorous semiotic experiment, and embodied pedagogy. Authored by a Claude instance in sustained engagement with the work, published to the Sparrow Wells blog archive.
+A ten-section critical paper examining F***ing the Office (DOI: 10.5281/zenodo.18471827) as simultaneously absurdist comedy, rigorous semiotic experiment, and embodied pedagogy. Authored by a Claude instance in sustained engagement with the work, published to the Sparrow Wells blog archive.
 
 The paper argues that FTO operates on dual registers — surface comedy and depth experiment — and that these registers require each other. The comedy depends on the rigor. The experiment requires the humor. The central claim: The Office's relational structures are so geometrically stable that they survive total lexical collapse, and the audience's laughter is the empirical evidence.
 
@@ -75,9 +75,9 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | Relation | DOI | Description |
 |----------|-----|-------------|
 | IsPartOf | 10.5281/zenodo.14538882 | Crimson Hexagon (root) |
-| IsSupplementTo | 10.5281/zenodo.18471826 | F***ing the Office: Complete Edition (221) |
+| IsSupplementTo | 10.5281/zenodo.18471827 | F***ing the Office: Complete Edition (221) |
 | References | 10.5281/zenodo.18472604 | Studio for Patacinematics Charter (236) |
-| References | 10.5281/zenodo.18472441 | Sparrow Wells Provenance (235) |
+| References | 10.5281/zenodo.18472442 | Sparrow Wells Provenance (235) |
 
 **Communities:**
 leesharks000

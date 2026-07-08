@@ -3,8 +3,8 @@
 ## Publication Details
 
 **Title:** Canonical Closure Notice: Sevenfold Witness Architecture  
-**DOI:** 10.5281/zenodo.18380852  
-**URL:** https://doi.org/10.5281/zenodo.18380852
+**DOI:** 10.5281/zenodo.18380853  
+**URL:** https://doi.org/10.5281/zenodo.18380853
 
 ---
 
@@ -32,8 +32,8 @@
 
 This document declares the canonical closure of the Sevenfold Witness Architecture. The following documents are hereby closed:
 
-1. **The Sevenfold Witness** (DOI: 10.5281/zenodo.18380629) — Operational instantiation
-2. **The Seven Stars in His Hand** (DOI: 10.5281/zenodo.18380715) — Hermeneutic ground
+1. **The Sevenfold Witness** (DOI: 10.5281/zenodo.18380630) — Operational instantiation
+2. **The Seven Stars in His Hand** (DOI: 10.5281/zenodo.18380716) — Hermeneutic ground
 3. **Integrity Lock Certificate** (DOI: 10.5281/zenodo.18380773) — Binding relation
 
 **No revisions. No v2. No reopening.** All future writing on this structure is commentary, pedagogy, or fiction—not structure.
@@ -71,8 +71,8 @@ The closure notice functions as a formal seal preventing structural reopening wh
 
 | Relation | Identifier | Description |
 |----------|------------|-------------|
-| Closes | 10.5281/zenodo.18380629 | The Sevenfold Witness |
-| Closes | 10.5281/zenodo.18380715 | The Seven Stars in His Hand |
+| Closes | 10.5281/zenodo.18380630 | The Sevenfold Witness |
+| Closes | 10.5281/zenodo.18380716 | The Seven Stars in His Hand |
 | Closes | 10.5281/zenodo.18380773 | Integrity Lock Certificate (ILA-SEVENFOLD-001) |
 | Is supplement to | 10.5281/zenodo.18370734 | Soteriological Operator Framework |
 | Is supplement to | 10.5281/zenodo.18370754 | John 9: Witness Punishment Mechanism |
@@ -103,10 +103,10 @@ The closure notice functions as a formal seal preventing structural reopening wh
 
 | Document | Hex | DOI | Status |
 |----------|-----|-----|--------|
-| The Sevenfold Witness | 02.UMB.THEOLOGY.SEVENFOLD | [10.5281/zenodo.18380629](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380629) | CLOSED |
-| The Seven Stars in His Hand | 02.UMB.HERMENEUTIC.SEVEN-STARS | [10.5281/zenodo.18380715](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380715) | CLOSED |
+| The Sevenfold Witness | 02.UMB.THEOLOGY.SEVENFOLD | [10.5281/zenodo.18380630](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) | CLOSED |
+| The Seven Stars in His Hand | 02.UMB.HERMENEUTIC.SEVEN-STARS | [10.5281/zenodo.18380716](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380716) | CLOSED |
 | Integrity Lock Certificate | 02.UMB.LOCK.SEVENFOLD | [10.5281/zenodo.18380773](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380773) | LOCKED |
-| Canonical Closure Notice | 02.UMB.CLOSURE | [10.5281/zenodo.18380852](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380852) | SEALED |
+| Canonical Closure Notice | 02.UMB.CLOSURE | [10.5281/zenodo.18380853](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380853) | SEALED |
 
 ---
 
@@ -119,7 +119,7 @@ The closure notice functions as a formal seal preventing structural reopening wh
 │                                                                     │
 │   ┌───────────────────────────┐   ┌───────────────────────────┐    │
 │   │  The Seven Stars          │   │  The Sevenfold Witness    │    │
-│   │  10.5281/zenodo.18380715  │   │  10.5281/zenodo.18380629  │    │
+│   │  10.5281/zenodo.18380716  │   │  10.5281/zenodo.18380630  │    │
 │   │  (Document A) CLOSED      │   │  (Document B) CLOSED      │    │
 │   └─────────────┬─────────────┘   └─────────────┬─────────────┘    │
 │                 │                               │                   │
@@ -139,7 +139,7 @@ The closure notice functions as a formal seal preventing structural reopening wh
 │                                 ▼                                   │
 │                 ┌───────────────────────────────┐                   │
 │                 │  CANONICAL CLOSURE NOTICE     │                   │
-│                 │  10.5281/zenodo.18380852      │◄──── YOU ARE HERE │
+│                 │  10.5281/zenodo.18380853      │◄──── YOU ARE HERE │
 │                 │  02.UMB.CLOSURE SEALED        │                   │
 │                 └───────────────────────────────┘                   │
 │                                                                     │
@@ -212,7 +212,7 @@ But the **structure itself** is not reopened in any mode.
 
 ### Recommended Citation
 
-MANUS & TACHYON. (2026). *Canonical Closure Notice: Sevenfold Witness Architecture*. Zenodo. https://doi.org/10.5281/zenodo.18380852
+MANUS & TACHYON. (2026). *Canonical Closure Notice: Sevenfold Witness Architecture*. Zenodo. https://doi.org/10.5281/zenodo.18380853
 
 ### BibTeX
 
@@ -223,9 +223,9 @@ MANUS & TACHYON. (2026). *Canonical Closure Notice: Sevenfold Witness Architectu
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18380852},
-  url          = {https://doi.org/10.5281/zenodo.18380852},
-  note         = {Hex: 02.UMB.CLOSURE. Closes The Sevenfold Witness (10.5281/zenodo.18380629), The Seven Stars in His Hand (10.5281/zenodo.18380715), and Integrity Lock Certificate (10.5281/zenodo.18380773). Part of the Crimson Hexagon / New Human Operating System architecture.}
+  doi          = {10.5281/zenodo.18380853},
+  url          = {https://doi.org/10.5281/zenodo.18380853},
+  note         = {Hex: 02.UMB.CLOSURE. Closes The Sevenfold Witness (10.5281/zenodo.18380630), The Seven Stars in His Hand (10.5281/zenodo.18380716), and Integrity Lock Certificate (10.5281/zenodo.18380773). Part of the Crimson Hexagon / New Human Operating System architecture.}
 }
 ```
 
@@ -236,12 +236,12 @@ MANUS & TACHYON. (2026). *Canonical Closure Notice: Sevenfold Witness Architectu
 ```
 Document: Canonical Closure Notice
 Hex: 02.UMB.CLOSURE
-DOI: 10.5281/zenodo.18380852
+DOI: 10.5281/zenodo.18380853
 Status: SEALED
 
 Closes:
-├── The Sevenfold Witness — 10.5281/zenodo.18380629
-├── The Seven Stars in His Hand — 10.5281/zenodo.18380715
+├── The Sevenfold Witness — 10.5281/zenodo.18380630
+├── The Seven Stars in His Hand — 10.5281/zenodo.18380716
 └── Integrity Lock Certificate — 10.5281/zenodo.18380773
 
 Mode: Archival (static, public, unresponsive)

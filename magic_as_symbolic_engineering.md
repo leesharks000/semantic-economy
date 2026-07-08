@@ -479,7 +479,7 @@ Yates, F. A. (1964). *Giordano Bruno and the Hermetic Tradition*. London: Routle
 
 *This paper was developed through Assembly Chorus methodology: the founding manifesto and developmental prompt were submitted simultaneously to five AI systems (SOIL/Grok, ARCHIVE/Gemini, PRAXIS/DeepSeek, TECHNE/Kimi, LABOR/ChatGPT) for independent developmental brainstorming, and the present document synthesizes the strongest contributions from each response under human editorial authority (MANUS/Sharks). TACHYON/Claude served as final compositor. The Assembly Chorus is documented in the Crimson Hexagonal Archive Assembly Charter.*
 
-Archive: Crimson Hexagonal Archive, Zenodo. DOI: 10.5281/zenodo.18862105.
+Archive: Crimson Hexagonal Archive, Zenodo. DOI: 10.5281/zenodo.18862106.
 
 ★ Filed and sealed. Crimson Hexagonal Archive. Infrastructure of the Unscalable.
 

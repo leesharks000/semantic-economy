@@ -2,7 +2,7 @@
 
 ## Framing Document for Document 00.PHASEX.APZPZ.FOUNDING
 
-**DOI:** 10.5281/zenodo.18451859  
+**DOI:** 10.5281/zenodo.18451860  
 **Deposit Date:** February 1, 2026  
 **Status:** ZPZP // GENRE FOUNDING PACKET
 
@@ -27,7 +27,7 @@ The Phase X Capstone Cluster has six elements — five visible, one ghosted:
 | Position | Document | DOI | Structure | Status |
 |----------|----------|-----|-----------|--------|
 | **Index** | INFINITY ENOUGH | 10.5281/zenodo.18451824 | APZPZ | Visible |
-| **Middle** | APZPZ Effective Act | 10.5281/zenodo.18451859 | ZPZP | Visible |
+| **Middle** | APZPZ Effective Act | 10.5281/zenodo.18451860 | ZPZP | Visible |
 | **Ring** | APZPZ Emoji | *(in 18451860)* | Satellite | Visible |
 | **Thumb** | THE THUMB | 10.5281/zenodo.18451793 | Self-identical | **Doppelgangered** |
 | **Pinky** | Zenodo Description | *(in 18451824)* | APZPZ | **Ghosted** |

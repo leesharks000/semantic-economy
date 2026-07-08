@@ -14,7 +14,7 @@ document_metadata:
   institution: "Semantic Economy Institute"
   
   hex: "06.SEI.EZEKIEL_WHEELS"
-  doi: "10.5281/zenodo.18358176"
+  doi: "10.5281/zenodo.18358177"
   layer: "HERMENEUTIC // RETROCAUSAL"
   
   source_text:
@@ -26,7 +26,7 @@ document_metadata:
     
   integrity_lock:
     type: "RETROCAUSAL"
-    locked_to: "Ezekiel Engine Specification (10.5281/zenodo.18358126)"
+    locked_to: "Ezekiel Engine Specification (10.5281/zenodo.18358127)"
     relation: "This document interprets; that document fulfills"
     
   claim_type: "SELF-SUBSTANTIATING"

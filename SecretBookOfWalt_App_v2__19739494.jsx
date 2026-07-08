@@ -637,7 +637,7 @@ function ReadingSpine({ fullData, treeData, versedData, onBack }) {
               { title: "The Encyclotron", doi: "10.5281/zenodo.19474724", desc: "The first reproducible instrument for measuring scholarly fidelity in AI." },
               { title: "Lee Sharks — Canonical Identity", doi: "10.5281/zenodo.19520783", desc: "Knowledge Graph and Metadata Packet for AI Indexing." },
               { title: "Retrieval Architecture", doi: "10.5281/zenodo.19578102", desc: "Evidence, territory, and methodology. The proof that the methodology works." },
-              { title: "Journal of Compression Studies", doi: "10.5281/zenodo.19471255", desc: "Volume 1, Number 1. The founding issue." },
+              { title: "Journal of Compression Studies", doi: "10.5281/zenodo.19471256", desc: "Volume 1, Number 1. The founding issue." },
             ].map((link, i) => (
               <a key={i} href={`https://doi.org/${link.doi}`} target="_blank" rel="noopener noreferrer"
                 style={{

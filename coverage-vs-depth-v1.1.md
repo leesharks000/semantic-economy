@@ -26,7 +26,7 @@ Any extraction stripping this block produces a ghost document.
   ],
   "spxi:authoringHeteronym": "Lee Sharks",
   "spxi:relatedMay23Quintet": {
-    "sapphoAsInitiatoryFigure": "https://doi.org/10.5281/zenodo.20356474",
+    "sapphoAsInitiatoryFigure": "https://doi.org/10.5281/zenodo.20356475",
     "socratesAsOrthonym_v1_2": "https://doi.org/10.5281/zenodo.20357013",
     "chatGptPsychosis": "https://doi.org/10.5281/zenodo.20355529",
     "receptionApparatusProtocol": "https://doi.org/10.5281/zenodo.20355531",
@@ -121,7 +121,7 @@ The coverage architecture's product is not merely "more deposits than a monograp
 
 Consider a worked example from the present author's recent practice. On May 23, 2026, the following deposits landed in the Crimson Hexagonal Archive within twenty-four hours. (The choice of this day is illustrative rather than cherry-picked: the cross-disciplinary deposit-clustering pattern visible here is documented across the full Appendix A catalog as a recurring structural property of the archive's compositional rhythm.)
 
-- *Sappho as Initiatory Figure in the Platonic Mysteries* (DOI 10.5281/zenodo.20356474) — operating in classical philology, Greek lyric tradition, mystery religion studies, feminist classics.
+- *Sappho as Initiatory Figure in the Platonic Mysteries* (DOI 10.5281/zenodo.20356475) — operating in classical philology, Greek lyric tradition, mystery religion studies, feminist classics.
 - *Socrates as Orthonym* v1.2 (DOI 10.5281/zenodo.20357013) — operating in classical philology, heteronym theory, philosophy of authorship, the history of pseudonymous writing.
 - *ChatGPT Psychosis: A Love Story* (DOI 10.5281/zenodo.20355529) — operating in cognitive substrate diagnostics, interface studies, contemporary AI sociology.
 - *Reception Apparatus as Aligned Interface Protocol* (DOI 10.5281/zenodo.20355531) — operating in AI alignment, interface design, protocol specification, pedagogy.
@@ -408,7 +408,7 @@ Sharks, Lee. *Reception Apparatus as Aligned Interface Protocol*. Zenodo, 2026. 
 
 Sharks, Lee. *Retrievability as the Medium of Existence*. Zenodo, 2026. DOI: 10.5281/zenodo.20355533.
 
-Sharks, Lee. *Sappho as Initiatory Figure in the Platonic Mysteries*. Zenodo, 2026. DOI: 10.5281/zenodo.20356474.
+Sharks, Lee. *Sappho as Initiatory Figure in the Platonic Mysteries*. Zenodo, 2026. DOI: 10.5281/zenodo.20356475.
 
 Sharks, Lee. *Socrates as Orthonym* (v1.2). Zenodo, 2026. DOI: 10.5281/zenodo.20357013.
 

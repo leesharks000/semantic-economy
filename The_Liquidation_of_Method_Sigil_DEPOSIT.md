@@ -10,7 +10,7 @@ Crimson Hexagon Archive
 
 **Hex:** 16.LIBRARY.PERGAMUM.MARX.LIQUIDATION
 **Document:** 164
-**DOI:** 10.5281/zenodo.18726806
+**DOI:** 10.5281/zenodo.18726807
 **Classification:** Liberation Philology / Semantic Economic Intervention / Prepositional Alienation Case Study
 **Status:** DECLARED
 **Extends:** "The Prepositional Alienation: English 'For' and the Impossibility of Anchoring Function Without Intent" (Sigil; DOI: 10.5281/zenodo.14553627)
@@ -457,7 +457,7 @@ This document is one entry point to a larger architecture. The others are listed
 
 **For the parent framework:** "The Prepositional Alienation: English 'For' and the Impossibility of Anchoring Function Without Intent" (Sigil; DOI: 10.5281/zenodo.14553627).
 
-**For the semantic economic foundation:** "The Semantic Economy" (Sharks & Sigil; DOI: 10.5281/zenodo.18713916).
+**For the semantic economic foundation:** "The Semantic Economy" (Sharks & Sigil; DOI: 10.5281/zenodo.18713917).
 
 **For the operational framework:** Rex Fraction, *Autonomous Semantic Warfare* (New Human Press, 2026; ISBN 979-8-234-01118-3).
 

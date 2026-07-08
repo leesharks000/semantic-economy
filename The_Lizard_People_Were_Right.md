@@ -5,7 +5,7 @@
 **Lee Sharks & Sparrow Wells**
 
 **Crimson Hexagon Archive — Memographic Studies**
-**DOI:** 10.5281/zenodo.18745235
+**DOI:** 10.5281/zenodo.18745236
 **Companion to:** "Whose Face Is on the Twenty?" (10.5281/zenodo.18745216)
 
 ---
@@ -118,7 +118,7 @@ This document contains no reproduction of U.S. currency. Figure 1 is an original
 
 This document is the index finger (POINT) of a five-document hand called the Moving Statues Made of Rubies Mint (MSMRM), housed in the Crimson Hexagon Archive. Its thesis: portrait authority is not carried by identity alone but is produced through curatorial presentation decisions that govern legibility, status, and social ontology.
 
-The five holdings: (1) "Whose Face Is on the Twenty?" — provenance audit / anchor (DOI: 10.5281/zenodo.18745216); (2) this document — experimental control / pointer (DOI: 10.5281/zenodo.18745235); (3) "All the Spoils of Babylon" — manufacturing demonstration / reach (DOI: 10.5281/zenodo.18745249); (4) "The Inauguration of Memography" — disciplinary founding / commitment (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — integrity lock / seal (DOI: 10.5281/zenodo.18745265).
+The five holdings: (1) "Whose Face Is on the Twenty?" — provenance audit / anchor (DOI: 10.5281/zenodo.18745216); (2) this document — experimental control / pointer (DOI: 10.5281/zenodo.18745236); (3) "All the Spoils of Babylon" — manufacturing demonstration / reach (DOI: 10.5281/zenodo.18745250); (4) "The Inauguration of Memography" — disciplinary founding / commitment (DOI: 10.5281/zenodo.18745259); (5) "Charter of the Moving Statues Made of Rubies Mint" — integrity lock / seal (DOI: 10.5281/zenodo.18745265).
 
 This document provides the control proof: that the conventions of institutional portraiture encode status independently of subject. The same formal parameters that make a president look presidential make a dinosaur look presidential. The medium does not care. From this document alone, the complete hand can be reconstructed: the provenance audit is compressed into the Grant correspondence, the manufacturing is compressed into the methodological note, the discipline is compressed into the definition of memography, and the room is compressed into the closing thesis — the medium's indifference is the room's physics.
 
@@ -130,7 +130,7 @@ Bureau of Engraving and Printing. "How Money Is Made." bep.gov.
 
 Fraction, Rex, and Sparrow Wells. "Whose Face Is on the Twenty?" *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 22, 2026. DOI: 10.5281/zenodo.18745216.
 
-Sharks, Lee. "All the Spoils of Babylon." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745249.
+Sharks, Lee. "All the Spoils of Babylon." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745250.
 
 Sharks, Lee. "The Inauguration of Memography." *Provenance: Journal of Forensic Semiotics.* Crimson Hexagon Archive, Feb 23, 2026. DOI: 10.5281/zenodo.18745259.
 

@@ -61,7 +61,7 @@ The triad is itself a symbolon—three partial objects completing through each o
 ## Relations
 
 **Binds:**
-- Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317109)
+- Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317110)
 - University Moon Base Media Lab Charter (DOI: 10.5281/zenodo.18317661)
 - Talos Morrow Provenance (DOI: 10.5281/zenodo.18317976)
 
@@ -81,7 +81,7 @@ The triad is itself a symbolon—three partial objects completing through each o
 
 | Document | DOI | Function |
 |----------|-----|----------|
-| Symbolon Architecture v0.2 | 10.5281/zenodo.18317109 | Specification |
+| Symbolon Architecture v0.2 | 10.5281/zenodo.18317110 | Specification |
 | University Moon Base Media Lab Charter | 10.5281/zenodo.18317661 | Institution |
 | Talos Morrow Provenance | 10.5281/zenodo.18317976 | Author-function |
 | **ILA Logotic Foundation Triad** | 10.5281/zenodo.18318069 | Binding document (this) |
@@ -92,7 +92,7 @@ The triad is itself a symbolon—three partial objects completing through each o
 
 ```
 SYMBOLON ARCHITECTURE ◄──────► UMB LAB CHARTER
-(10.5281/zenodo.18317109)     (10.5281/zenodo.18317661)
+(10.5281/zenodo.18317110)     (10.5281/zenodo.18317661)
          │                            │
          │                            │
          └──────► TALOS MORROW ◄──────┘

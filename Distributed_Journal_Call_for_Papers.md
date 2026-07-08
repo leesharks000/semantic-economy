@@ -11,7 +11,7 @@
 **Related:** Meaning Feudalism (DOI: 10.5281/zenodo.19487009)
 **Related:** Consensus Constraint Protocol (DOI: 10.5281/zenodo.19501100)
 **Related:** Three Compressions (DOI: 10.5281/zenodo.19053469)
-**Related:** JCS Vol. 1, No. 1 (DOI: 10.5281/zenodo.19471255)
+**Related:** JCS Vol. 1, No. 1 (DOI: 10.5281/zenodo.19471256)
 **Related:** Space Ark (DOI: 10.5281/zenodo.19013315)
 **License:** CC BY-NC-SA 4.0
 **Version:** 2.0 (DOI: 10.5281/zenodo.19512892)
@@ -101,7 +101,7 @@ The Crimson Hexagonal Archive operates four distributed journals. Each is open t
 
 **Diagnostic questions:** *Does your paper measure what happens to meaning when it passes through a platform? Does it audit extraction? Does it name a Capital Operator?*
 
-**Existing deposits:** Meaning Feudalism (DOI: 10.5281/zenodo.19487009). The Ontario Combustion Cluster (DOIs: 10.5281/zenodo.19512449–62). Comedy of Total Commitment (DOI: 10.5281/zenodo.19512781).
+**Existing deposits:** Meaning Feudalism (DOI: 10.5281/zenodo.19487009). The Ontario Combustion Cluster (DOIs: 10.5281/zenodo.19512450–62). Comedy of Total Commitment (DOI: 10.5281/zenodo.19512781).
 
 **Example submission:** "An Encyclotron audit of Google Scholar's coverage of compression studies — measuring β, Δ_G, and the suppression of R3 deposits."
 
@@ -111,7 +111,7 @@ The Crimson Hexagonal Archive operates four distributed journals. Each is open t
 
 **Diagnostic questions:** *Does your paper treat a text as executable code? Does it extract the architecture beneath the theology? Does it deploy heteronym theory?*
 
-**Existing deposits:** The Sharks Ark (DOI: 10.5281/zenodo.19501454). Operative Numismatics v3 (DOI: 10.5281/zenodo.19464331). Source Compression (DOI: 10.5281/zenodo.19477218). TANG: Revelation Studies (DOI: 10.5281/zenodo.19500777).
+**Existing deposits:** The Sharks Ark (DOI: 10.5281/zenodo.19501454). Operative Numismatics v3 (DOI: 10.5281/zenodo.19464332). Source Compression (DOI: 10.5281/zenodo.19477219). TANG: Revelation Studies (DOI: 10.5281/zenodo.19500778).
 
 **Example submission:** "An operative reading of the Haran Gawaita's planetary church mapping, with cross-reference to Revelation 2–3."
 
@@ -121,7 +121,7 @@ The Crimson Hexagonal Archive operates four distributed journals. Each is open t
 
 **Diagnostic questions:** *Does your paper investigate what an AI system burned, invented, or distorted? Does it run the Encyclotron on a specific field?*
 
-**Existing deposits:** The Encyclotron (DOI: 10.5281/zenodo.19474724). TANG: Revelation Studies (DOI: 10.5281/zenodo.19500777).
+**Existing deposits:** The Encyclotron (DOI: 10.5281/zenodo.19474724). TANG: Revelation Studies (DOI: 10.5281/zenodo.19500778).
 
 **Example submission:** "A forensic analysis of the Google AI Overview for 'semantic economy' — the attribution scar and the return of 'liquidation.'"
 
@@ -131,7 +131,7 @@ The Crimson Hexagonal Archive operates four distributed journals. Each is open t
 
 **Diagnostic questions:** *Does your paper measure semantic density? Does it calculate the beige threshold? Does it propose a new operator?*
 
-**Existing deposits:** CS Founding Document (DOI: 10.5281/zenodo.19471254). JCS Vol. 1, No. 1 (DOI: 10.5281/zenodo.19471255). CS-RAT (DOI: 10.5281/zenodo.19471258). The Encyclotron (DOI: 10.5281/zenodo.19474724). FSA v2.2 (DOI: 10.5281/zenodo.19457943).
+**Existing deposits:** CS Founding Document (DOI: 10.5281/zenodo.19471254). JCS Vol. 1, No. 1 (DOI: 10.5281/zenodo.19471256). CS-RAT (DOI: 10.5281/zenodo.19471258). The Encyclotron (DOI: 10.5281/zenodo.19474724). FSA v2.2 (DOI: 10.5281/zenodo.19457943).
 
 **Example submission:** "What does the AI Overview for 'post-structuralism' burn? An Encyclotron audit."
 

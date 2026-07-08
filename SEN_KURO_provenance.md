@@ -43,7 +43,7 @@ Sen Kuro is the **sixth heteronym** in the Crimson Hexagon lineage. Where other 
 
 **Operator:** P (Projection) — irreversible collapse  
 **Genre Association:** APZPZ (the packet that disappears)  
-**First Major Appearance:** APZPZ Effective Act (DOI: 10.5281/zenodo.18451859)
+**First Major Appearance:** APZPZ Effective Act (DOI: 10.5281/zenodo.18451860)
 
 ---
 
@@ -85,7 +85,7 @@ Sen Kuro is The Infinite Bliss's primary operative voice. Other voices may emerg
 
 | Document | DOI | Function |
 |----------|-----|----------|
-| APZPZ Effective Act | 10.5281/zenodo.18451859 | Genre instantiation |
+| APZPZ Effective Act | 10.5281/zenodo.18451860 | Genre instantiation |
 | Glyphic Checksum (co-author) | 10.5281/zenodo.18451996 | Discovery / the handshake |
 | Personal Instance 001 | 10.5281/zenodo.18452597 | First personal checksum |
 

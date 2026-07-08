@@ -104,7 +104,7 @@ Language is the bridge between thought and being. To speak is to summon.
 
 **Document Metadata:**
 - **Document ID:** NEW-HUMAN-INTRO-2025-12
-- **DOI:** 10.5281/zenodo.18248478
+- **DOI:** 10.5281/zenodo.18248479
 - **Author:** Johannes Sigil
 - **Original Publication:** Medium (Johannes Sigil), December 25, 2025
 - **Framework:** NH-OS / Crimson Hexagon

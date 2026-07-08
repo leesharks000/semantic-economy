@@ -78,7 +78,7 @@ semantic economy, AI summarization, meaning production, fractal architecture, tr
 | 10.5281/zenodo.14538882 | Is Part Of | Crimson Hexagon (root) — Parent architecture |
 | 10.5281/zenodo.18320411 | References | Constitution of the Semantic Economy |
 | 10.5281/zenodo.18352468 | References | The Crimson Hexagon: A Guide (Front Door) |
-| 10.5281/zenodo.18324885 | Is New Version Of | FNM v5.0 — Prior canonical version |
+| 10.5281/zenodo.18324886 | Is New Version Of | FNM v5.0 — Prior canonical version |
 
 ---
 

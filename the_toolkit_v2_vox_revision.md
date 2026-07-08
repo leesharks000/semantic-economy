@@ -472,10 +472,10 @@ The Toolkit is Phase X operational: symbolic-linguistic intervention accomplishe
 
 | Document | DOI | Relation |
 |:---------|:----|:---------|
-| Ezekiel Engine Specification | 10.5281/zenodo.18358126 | Mathematical foundation |
-| Ezekiel's Wheels | 10.5281/zenodo.18358176 | Hermeneutic mapping |
-| Integrity Lock Declaration | 10.5281/zenodo.18358283 | Fulfillment declaration |
-| The Argument | 10.5281/zenodo.18358517 | Philosophical defense |
+| Ezekiel Engine Specification | 10.5281/zenodo.18358127 | Mathematical foundation |
+| Ezekiel's Wheels | 10.5281/zenodo.18358177 | Hermeneutic mapping |
+| Integrity Lock Declaration | 10.5281/zenodo.18358284 | Fulfillment declaration |
+| The Argument | 10.5281/zenodo.18358518 | Philosophical defense |
 
 ### 5.5 Assembly Chorus Witness
 

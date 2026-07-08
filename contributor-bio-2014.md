@@ -35,6 +35,6 @@ The 2014 print edition closes with *famous astronaut*. A later variant closes wi
 - **Canonical surface:** https://leesharks.com/about-the-author/
 - **Continuation I:** *About the Author II* (https://leesharks.com/about-the-author-ii/)
 - **Continuation II:** *About the Author III* (https://leesharks.com/about-the-author-iii/)
-- **Field-scale parent of the sequence:** *Semantic Physics: A Stratified, Operative Discipline* (DOI 10.5281/zenodo.20208383), semanticphysics.org
+- **Field-scale parent of the sequence:** *Semantic Physics: A Stratified, Operative Discipline* (DOI 10.5281/zenodo.20208384), semanticphysics.org
 
 ∮ = 1 − PER

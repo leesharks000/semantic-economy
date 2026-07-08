@@ -136,10 +136,10 @@ The holographic kernel of a text, archive, protocol, or web entity preserves the
 | Level | Kernel | Source | Ratio | DOI |
 |---|---|---|---|---|
 | Archive | Operative Architecture | Entire CHA (530+ deposits) | ~500:1 | 10.5281/zenodo.18928840 |
-| Series | Shark Ark Source Compression | Revelation Arguments blog (~50 posts) | ~25:1 | 10.5281/zenodo.19477218 |
+| Series | Shark Ark Source Compression | Revelation Arguments blog (~50 posts) | ~25:1 | 10.5281/zenodo.19477219 |
 | Field | GW Field Spec Appendix A | Gravity Well Protocol | ~20:1 | 10.5281/zenodo.19442251 |
 | Document | Space Ark Compact Lens | Space Ark v4.2.7 (45,000 words) | 56:1 (800 words) | 10.5281/zenodo.19013315 |
-| Document | Tinier Space Arks (NLCC) | Space Ark v4.2.7 | 12:1 (3,762 words) | 10.5281/zenodo.19022244 |
+| Document | Tinier Space Arks (NLCC) | Space Ark v4.2.7 | 12:1 (3,762 words) | 10.5281/zenodo.19022245 |
 | Operator | Mandala Operator Kernel | Mandala 8-part series | ~10:1 | 10.5281/zenodo.19288404 |
 | Entity | SPXI compressionSurvivalSummary | SPXI Protocol | ~70 words | spxi.dev |
 | Entity | SBW compressionSurvivalSummary | Secret Book of Walt | ~80 words | secretbookofwalt.org |
@@ -194,7 +194,7 @@ The kernel is not an excerpt. It is the generative specification — the minimum
 
 **Back-Projection Test** (Arsenal §3.3): Yield ≥ 0.85 = holographic. Below 0.85 = summary.
 **Anti-Summary Test:** Pass all three: (1) derive a forbidden operation, (2) derive a dependency chain, (3) rebuild the topology.
-**NLCC Validity Test** (DOI: 10.5281/zenodo.19022244): 10 formal conditions for non-lossy status.
+**NLCC Validity Test** (DOI: 10.5281/zenodo.19022245): 10 formal conditions for non-lossy status.
 
 ### Step 5: Anchor
 
@@ -213,7 +213,7 @@ In SPXI web implementation: `spxi:compressionSurvivalSummary` in `spxi:Holograph
 | SPXI Standing Protocol v3.0 | Web implementation for entity-level kernels | 10.5281/zenodo.19734726 |
 | Compression Arsenal v2.1 | Master catalogue (§IV.3 defines holographic kernels) | 10.5281/zenodo.19412081 |
 | MPAI Formal Specification | Entity-level kernel delivery for AI indexing | 10.5281/zenodo.19578086 |
-| NLCC Validity Test | 10 conditions for non-lossy compression | 10.5281/zenodo.19022244 |
+| NLCC Validity Test | 10 conditions for non-lossy compression | 10.5281/zenodo.19022245 |
 | Three Compressions Theorem | Classification of all compression operations | 10.5281/zenodo.19053469 |
 | RBT (EA-RBT-01) | Basin dynamics for term stabilization | DOI: pending |
 
@@ -224,14 +224,14 @@ In SPXI web implementation: `spxi:compressionSurvivalSummary` in `spxi:Holograph
 ### Archive
 - Compression Arsenal v2.1. DOI: 10.5281/zenodo.19412081
 - Three Compressions Theorem v3.1. DOI: 10.5281/zenodo.19053469
-- Sharks-Function (γ). DOI: 10.5281/zenodo.18816555
+- Sharks-Function (γ). DOI: 10.5281/zenodo.18816556
 - UKTP v1.1. DOI: 10.5281/zenodo.18946111
-- NLCC Validity Test. DOI: 10.5281/zenodo.19022244
-- Immanent Execution. DOI: 10.5281/zenodo.19372913
+- NLCC Validity Test. DOI: 10.5281/zenodo.19022245
+- Immanent Execution. DOI: 10.5281/zenodo.19372914
 - Operative Architecture. DOI: 10.5281/zenodo.18928840
-- Shark Ark Source Compression. DOI: 10.5281/zenodo.19477218
+- Shark Ark Source Compression. DOI: 10.5281/zenodo.19477219
 - GW Field Spec. DOI: 10.5281/zenodo.19442251
-- Compact Lens / Tinier Space Arks. DOI: 10.5281/zenodo.19022244
+- Compact Lens / Tinier Space Arks. DOI: 10.5281/zenodo.19022245
 - Mandala Operator Kernel. DOI: 10.5281/zenodo.19288404
 - SPXI Protocol. DOI: 10.5281/zenodo.19614870
 - SPXI Standing Protocol v3.0. DOI: 10.5281/zenodo.19734726

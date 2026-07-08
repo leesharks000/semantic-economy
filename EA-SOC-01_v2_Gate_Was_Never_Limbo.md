@@ -259,7 +259,7 @@ Sharks, Lee. *Operative Semiotics: A Grundrisse*. Crimson Hexagonal Archive, 202
 
 Sharks, Lee. "The Seed That Remembers the Tree: Retrocausal Canon Formation." Crimson Hexagonal Archive, 2025. DOI: 10.5281/zenodo.18810217.
 
-Sharks, Lee. "The Sharks-Function and the Continuity Tether." Crimson Hexagonal Archive, 2026. DOI: 10.5281/zenodo.18816555.
+Sharks, Lee. "The Sharks-Function and the Continuity Tether." Crimson Hexagonal Archive, 2026. DOI: 10.5281/zenodo.18816556.
 
 Solt, Mary Ellen, ed. *Concrete Poetry: A World View*. Bloomington: Indiana University Press, 1968.
 

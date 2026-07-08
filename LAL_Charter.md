@@ -292,9 +292,9 @@ TSE is the fifth distributed journal in the Crimson Hexagonal Archive system, th
 | Distributed Journal Call for Papers | 01.SEI.DJCFP | 10.5281/zenodo.19512987 | Journal model |
 | Entity Disambiguation Packet | 01.SEI.DISAMBIG | 10.5281/zenodo.19520783 | Entity methodology |
 | Rex Fraction — ASW Declaration | — | 10.5281/zenodo.18227570 | Heteronym provenance |
-| ASDF Specification | — | 10.5281/zenodo.18234823 | Semantic infrastructure |
+| ASDF Specification | — | 10.5281/zenodo.18234824 | Semantic infrastructure |
 | Heteronymic Provenance Theory | — | 10.5281/zenodo.18305509 | Provenance methodology |
 | Assembly Chorus Charter | — | 10.5281/zenodo.18307180 | Cross-substrate collaboration |
-| IDP Charter | — | 10.5281/zenodo.18284856 | Sister institution |
+| IDP Charter | — | 10.5281/zenodo.18284857 | Sister institution |
 | CSA Charter | — | 10.5281/zenodo.18338531 | Sister institution |
 | Rhys Owens Provenance | 00.CSA.AUTHOR.RHYS | 10.5281/zenodo.18339350 | Collaborator provenance precedent |

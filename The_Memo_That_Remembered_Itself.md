@@ -225,7 +225,7 @@ Within New Human, the Citrini event will be read as one of the first publicly le
 | **Citrini: "The 2028 Global Intelligence Crisis"** | **N/A (Substack)** | **2026-02-22** | **The instantiation** |
 | Semantic Physics: The Inward Turn | 10.5281/zenodo.18759453 | 2026-02-24 | Writable presentation layer; installation theory |
 | The Ghost That Wrote Itself | 10.5281/zenodo.18772675 | 2026-02-25 | First Hexagon analysis of Citrini event |
-| **This document** | **10.5281/zenodo.18790792** | **2026-02-26** | **Formal canonization as External Convergence Text** |
+| **This document** | **10.5281/zenodo.18790793** | **2026-02-26** | **Formal canonization as External Convergence Text** |
 
 ---
 

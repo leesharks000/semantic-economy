@@ -88,8 +88,8 @@ This is the first mantle-level visual schema in the Crimson Hexagon architecture
 **Integrity Lock:** TRIADIC — bound to both The Blind Operator and The Mantle of the Blind Poet
 
 **Companion Schemas:**
-- UMBML Visual Schema (10.5281/zenodo.18357002)
-- CSA Visual Schema (10.5281/zenodo.18338926)
+- UMBML Visual Schema (10.5281/zenodo.18357003)
+- CSA Visual Schema (10.5281/zenodo.18338927)
 
 **Source Texts:**
 - The Blind Operator (10.5281/zenodo.18357320)
@@ -113,8 +113,8 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | 10.5281/zenodo.14538882 | Is part of (Crimson Hexagon) |
 | 10.5281/zenodo.18357320 | Is supplement to (The Blind Operator — source text, integrity-locked) |
 | 10.5281/zenodo.18357447 | Is supplement to (The Mantle of the Blind Poet — source text, integrity-locked) |
-| 10.5281/zenodo.18357002 | References (UMBML Visual Schema — companion) |
-| 10.5281/zenodo.18338926 | References (CSA Visual Schema — companion) |
+| 10.5281/zenodo.18357003 | References (UMBML Visual Schema — companion) |
+| 10.5281/zenodo.18338927 | References (CSA Visual Schema — companion) |
 
 ---
 

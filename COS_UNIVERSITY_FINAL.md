@@ -6,7 +6,7 @@
 
 Semantic Economy Institute / Johannes Sigil Institute for Comparative Poetics
 
-**DOI:** 10.5281/zenodo.18203316
+**DOI:** 10.5281/zenodo.18203317
 
 ---
 
@@ -250,7 +250,7 @@ The following works exist, are citable, are findable, and are permanent:
 |----------|-----|
 | Sappho and the Crimson Hexagon | 10.5281/zenodo.18202475 |
 | Day and Night (Cranes translations) | 10.5281/zenodo.18202658 |
-| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202752 |
+| ΦΑΙΝΕΤΑΙ ΜΟΙ | 10.5281/zenodo.18202753 |
 | CTI_WOUND | 10.5281/zenodo.18193225 |
 | LOS Hardening Specification | 10.5281/zenodo.18201565 |
 

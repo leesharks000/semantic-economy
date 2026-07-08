@@ -164,9 +164,9 @@ discipline <pred> charter       : Charter of the Moving Statues Made of
 discipline <pred> companion 1   : Whose Face Is on the Twenty? (DOI
                                   10.5281/zenodo.18745216)
 discipline <pred> companion 2   : The Lizard People Were Right (DOI
-                                  10.5281/zenodo.18745235)
+                                  10.5281/zenodo.18745236)
 discipline <pred> companion 3   : All the Spoils of Babylon (DOI
-                                  10.5281/zenodo.18745249)
+                                  10.5281/zenodo.18745250)
 discipline <pred> definition    : the forensic study of how generative
                                   substrates composite latent features from
                                   culturally distinct visual traditions into

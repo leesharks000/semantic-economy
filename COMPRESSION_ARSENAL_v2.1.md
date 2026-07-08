@@ -56,7 +56,7 @@ The gap between AI inference spending ($650B) and semantic governance infrastruc
 
 ### 3.1 The Sharks-Function (γ) — [P0: MVP]
 
-DOI: 10.5281/zenodo.18816555
+DOI: 10.5281/zenodo.18816556
 
 ```
 γ : Agent × Archive → ℝ[0,1]
@@ -95,13 +95,13 @@ Given a compressed form, can the original architecture be reconstructed? Back-pr
 
 ### 3.4 The NLCC Validity Test (10 conditions) — [P1]
 
-DOI: 10.5281/zenodo.19022244
+DOI: 10.5281/zenodo.19022245
 
 Ten formal conditions for "non-lossy" status. Includes enumerable recovery registers, mode-switching preservation, operator algebra intact.
 
 ### 3.5 Authorial Signature Diagnostic Framework (ASDF) — [P2]
 
-DOI: 10.5281/zenodo.18234823
+DOI: 10.5281/zenodo.18234824
 
 ```
 ASPI = (0.15×L_t + 0.20×S_t + 0.30×C_a + 0.20×R_p + 0.15×O_p)
@@ -271,11 +271,11 @@ Folds infinite traversal into finite representation while preserving the potenti
 
 ### 7.1 Semantic Integrity Markers (SIMs) — [P1]
 
-DOI: 10.5281/zenodo.18185995. 250+ registered markers in three functional classes: provenance canaries, deliberately false claims as diagnostic canaries, and lock phrases. Metric: SIMSR (SIM Survival Rate).
+DOI: 10.5281/zenodo.18185996. 250+ registered markers in three functional classes: provenance canaries, deliberately false claims as diagnostic canaries, and lock phrases. Metric: SIMSR (SIM Survival Rate).
 
 ### 7.2 Integrity Lock Architecture (ILA-1.0) — [P1]
 
-DOI: 10.5281/zenodo.18185995. Integrity Lock Phrase (ILP), Four-Point Entanglement Sentence, terminological entanglement, keyword lattice. System-level protocol for compression resistance.
+DOI: 10.5281/zenodo.18185996. Integrity Lock Phrase (ILP), Four-Point Entanglement Sentence, terminological entanglement, keyword lattice. System-level protocol for compression resistance.
 
 ### 7.3 Integrity Knot Test (IKT) — [P2]
 
@@ -287,7 +287,7 @@ Protection against compression that strips bearing-cost. Ensures witness compres
 
 ### 7.5 OCTANG (Orange Collapse TANG) — [P2]
 
-DOI: 10.5281/zenodo.19334693. Defensive provenance-disentanglement standard. Maps every element of an unauthorized derivative to its upstream source.
+DOI: 10.5281/zenodo.19334694. Defensive provenance-disentanglement standard. Maps every element of an unauthorized derivative to its upstream source.
 
 ### 7.6 Sovereign Provenance Protocol — [P2]
 
@@ -349,7 +349,7 @@ DOI: 10.5281/zenodo.19027351. Same technology as predatory compression, opposite
 
 ### 9.1 Semantic Black Hole — [P2]
 
-DOI: 10.5281/zenodo.18185995
+DOI: 10.5281/zenodo.18185996
 
 Gravity = (Density × Coherence × Provenance) / Volatility
 Event Horizon Radius = (Mass × Cross-Reference Density) / External Link Count

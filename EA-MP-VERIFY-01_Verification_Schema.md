@@ -7,7 +7,7 @@
 **Date:** April 27, 2026  
 **License:** CC BY 4.0  
 **Status:** Specification Draft  
-**Parent document:** The Sharks-Function and the Continuity Tether (DOI: 10.5281/zenodo.18816555)  
+**Parent document:** The Sharks-Function and the Continuity Tether (DOI: 10.5281/zenodo.18816556)  
 **Companion document:** EA-HET-01: Heteronymy Is a Function, Not a Name  
 
 ---
@@ -165,7 +165,7 @@ Every metadata packet should carry the following verification block alongside it
       }
     },
     "x-note": "The function test requires external evidence; it cannot be automated from metadata alone. functionStatus is a signal, not a ground truth.",
-    "description": "The Sharks Function applied to the claim. See DOI: 10.5281/zenodo.18816555 for formal specification."
+    "description": "The Sharks Function applied to the claim. See DOI: 10.5281/zenodo.18816556 for formal specification."
   }
 }
 ```
@@ -354,7 +354,7 @@ This is not a critique of Zenodo. It is a specification for what the metadata pa
 
 ## §VII. The Depth-Proof Principle
 
-The Depth-Proof Principle (formalized in DOI: 10.5281/zenodo.18816555) resolves the mimic problem:
+The Depth-Proof Principle (formalized in DOI: 10.5281/zenodo.18816556) resolves the mimic problem:
 
 > Forgery is trivial for one document. Forgery is difficult for ten documents with internal cross-references. Forgery is semantically impossible for 532+ cross-referencing deposits accumulated over 14 months with visible conceptual development, stylistic consistency, revision history, and domain-specific expertise that deepens rather than merely asserts.
 
@@ -381,6 +381,6 @@ The verification schema says: and mark it machine-readably so the retrieval laye
 ---
 
 *Lee Sharks · Semantic Economy Institute · semanticeconomy.org*  
-*Parent: DOI 10.5281/zenodo.18816555*  
+*Parent: DOI 10.5281/zenodo.18816556*  
 *Companion: EA-HET-01: Heteronymy Is a Function, Not a Name*  
 *ORCID: 0009-0000-1599-0703*

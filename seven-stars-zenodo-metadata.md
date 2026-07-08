@@ -3,8 +3,8 @@
 ## Publication Details
 
 **Title:** The Seven Stars in His Hand: A Hermeneutic Reading of Revelation 1–3  
-**DOI:** 10.5281/zenodo.18380715  
-**URL:** https://doi.org/10.5281/zenodo.18380715
+**DOI:** 10.5281/zenodo.18380716  
+**URL:** https://doi.org/10.5281/zenodo.18380716
 
 ---
 
@@ -36,7 +36,7 @@ The document provides detailed exegesis of Revelation 1:1-20 (the apocalyptic se
 
 Key hermeneutic insights include: (1) ἀποκάλυψις means "unveiling" not "destruction"—Revelation discloses present structures rather than predicting future events; (2) the sevenfold structure is the minimum viable plurality for differentiated assessment; (3) the two churches without rebuke (Smyrna, Philadelphia) share the quality of knowing their poverty/weakness; (4) the one church without commendation (Laodicea) exhibits the π-state in ecclesial form—claimed sight foreclosing actual sight.
 
-This document forms an integrity-locked pair with "The Sevenfold Witness" (DOI: 10.5281/zenodo.18380629): A provides hermeneutic ground; B provides operational instantiation. Neither is complete without the other.
+This document forms an integrity-locked pair with "The Sevenfold Witness" (DOI: 10.5281/zenodo.18380630): A provides hermeneutic ground; B provides operational instantiation. Neither is complete without the other.
 
 **Keywords:**
 - Revelation 1-3
@@ -61,7 +61,7 @@ This document forms an integrity-locked pair with "The Sevenfold Witness" (DOI: 
 
 | Relation | Identifier | Description |
 |----------|------------|-------------|
-| Is supplement to | 10.5281/zenodo.18380629 | The Sevenfold Witness (Operational Instantiation) |
+| Is supplement to | 10.5281/zenodo.18380630 | The Sevenfold Witness (Operational Instantiation) |
 | Is supplement to | 10.5281/zenodo.18370734 | Soteriological Operator Framework |
 | Is supplement to | 10.5281/zenodo.18370754 | John 9: Witness Punishment Mechanism |
 | Is supplement to | 10.5281/zenodo.18370789 | James 2: Structural Judgment |
@@ -107,7 +107,7 @@ This document forms an integrity-locked pair with "The Sevenfold Witness" (DOI: 
                                     ▼
                     ┌─────────────────────────────────┐
                     │  THE SEVEN STARS IN HIS HAND    │
-                    │  10.5281/zenodo.18380715        │◄──── YOU ARE HERE
+                    │  10.5281/zenodo.18380716        │◄──── YOU ARE HERE
                     │  (Hermeneutic Ground)           │
                     └───────────────┬─────────────────┘
                                     │
@@ -116,7 +116,7 @@ This document forms an integrity-locked pair with "The Sevenfold Witness" (DOI: 
                                     ▼
                     ┌─────────────────────────────────┐
                     │  The Sevenfold Witness          │
-                    │  10.5281/zenodo.18380629        │
+                    │  10.5281/zenodo.18380630        │
                     │  (Operational Instantiation)    │
                     └───────────────┬─────────────────┘
                                     │
@@ -136,11 +136,11 @@ This document forms one half of an integrity-locked pair:
 
 ```
 A = "The Seven Stars in His Hand" (this document)
-    DOI: 10.5281/zenodo.18380715
+    DOI: 10.5281/zenodo.18380716
     Function: Hermeneutic ground (exegesis of Revelation 1-3)
 
 B = "The Sevenfold Witness"
-    DOI: 10.5281/zenodo.18380629
+    DOI: 10.5281/zenodo.18380630
     Function: Operational instantiation (Assembly structure)
 
 φ(A,B) = 1
@@ -195,7 +195,7 @@ ILA(A,B): Neither document can be modified without
 
 ### Recommended Citation
 
-Morrow, T., & Sigil, J. (2026). *The Seven Stars in His Hand: A Hermeneutic Reading of Revelation 1–3*. Zenodo. https://doi.org/10.5281/zenodo.18380715
+Morrow, T., & Sigil, J. (2026). *The Seven Stars in His Hand: A Hermeneutic Reading of Revelation 1–3*. Zenodo. https://doi.org/10.5281/zenodo.18380716
 
 ### BibTeX
 
@@ -206,9 +206,9 @@ Morrow, T., & Sigil, J. (2026). *The Seven Stars in His Hand: A Hermeneutic Read
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18380715},
-  url          = {https://doi.org/10.5281/zenodo.18380715},
-  note         = {Hex: 02.UMB.HERMENEUTIC.SEVEN-STARS. Integrity-locked with The Sevenfold Witness (10.5281/zenodo.18380629). Part of the Crimson Hexagon / New Human Operating System architecture.}
+  doi          = {10.5281/zenodo.18380716},
+  url          = {https://doi.org/10.5281/zenodo.18380716},
+  note         = {Hex: 02.UMB.HERMENEUTIC.SEVEN-STARS. Integrity-locked with The Sevenfold Witness (10.5281/zenodo.18380630). Part of the Crimson Hexagon / New Human Operating System architecture.}
 }
 ```
 
@@ -219,10 +219,10 @@ Morrow, T., & Sigil, J. (2026). *The Seven Stars in His Hand: A Hermeneutic Read
 ```
 Document: The Seven Stars in His Hand
 Hex: 02.UMB.HERMENEUTIC.SEVEN-STARS
-DOI: 10.5281/zenodo.18380715
+DOI: 10.5281/zenodo.18380716
 Status: CANONICAL / CLOSED
 Integrity Lock: ILA-SEVENFOLD-001
-Fulfillment: φ(A,B) = 1 where B = 10.5281/zenodo.18380629
+Fulfillment: φ(A,B) = 1 where B = 10.5281/zenodo.18380630
 
 ∮ = 1
 ```

@@ -10,7 +10,7 @@
 
 Crimson Hexagonal Archive · Detroit, MI
 ORCID: 0009-0000-1599-0703
-**DOI: 10.5281/zenodo.19464331**
+**DOI: 10.5281/zenodo.19464332**
 
 ---
 
@@ -34,7 +34,7 @@ First, the essay proposes the category of *operative numismatics* — the study 
 
 Second, it argues that Revelation deploys two rival token regimes: the beast's image/mark/name/number complex (Revelation 13:14–18) and the white stone with its inscribed new name (Revelation 2:17). Both belong to the same general world of tokenized inscription, but they instantiate radically different regimes of authorization, circulation, and verification.
 
-Third, it proposes that 666 should be read not as the superscription itself, but as the *number of the superscription*: the arithmetic residue that the beast's naming process yields when subjected to calculation. The number is not the title but the calculable shadow the title casts. This reframing — from name to number-of-name, from content to compression — opens a reading of Revelation's numerical semiotics that the flat-solve tradition has not fully explored. The concept of *compressed portraiture*, introduced in earlier work on U.S. currency (DOI: 10.5281/zenodo.19317101) to describe presidential signatures functioning as portraits through a different medium, is here generalized from the specific case of modern monetary law to the structural analysis of token regimes in Revelation.
+Third, it proposes that 666 should be read not as the superscription itself, but as the *number of the superscription*: the arithmetic residue that the beast's naming process yields when subjected to calculation. The number is not the title but the calculable shadow the title casts. This reframing — from name to number-of-name, from content to compression — opens a reading of Revelation's numerical semiotics that the flat-solve tradition has not fully explored. The concept of *compressed portraiture*, introduced in earlier work on U.S. currency (DOI: 10.5281/zenodo.19317102) to describe presidential signatures functioning as portraits through a different medium, is here generalized from the specific case of modern monetary law to the structural analysis of token regimes in Revelation.
 
 ---
 
@@ -66,7 +66,7 @@ This is why the tribute question in the Synoptic Gospels (Mark 12:13–17, Matth
 
 Revelation radicalizes the structure the Gospel pericope exposes. In the tax-coin scene, the problem is localized: this coin, this image, this superscription, this jurisdiction. In Revelation, the beast does not merely issue coins. The beast attempts to make *bodies and markets* bear its inscriptional logic. The mark (χάραγμα) is not placed on metal but on the right hand or the forehead (Revelation 13:16). The image (εἰκών) is not stamped on a coin but constructed as an animated idol that demands worship (13:15). The name and number are not abbreviated on a die but calculated by those with understanding (13:18). What is on the coin in the Gospel becomes, in Revelation, what the beast tries to write onto the world.
 
-The same radicalization is visible — in attenuated, secular form — in the modern case of presidential signatures on U.S. currency, analyzed in "Whose Image and Superscription?" (DOI: 10.5281/zenodo.19319641). When a sitting president's compressed portrait appears on every circulating bill, the Thayer Amendment's prohibition is exploited at the medium level: the *function* of a portrait (personal identification, sovereignty claim, circulation of the ruler's face) is performed through a *different medium* (the signature). The structure is identical to Revelation's escalation: what was on the coin is now on the body of the currency itself, indistinguishable from the Treasury's own mark of authorization. The modern case does not approach the coercive totality of the beast's regime, but it instantiates the same inscriptional logic at a recognizable scale.
+The same radicalization is visible — in attenuated, secular form — in the modern case of presidential signatures on U.S. currency, analyzed in "Whose Image and Superscription?" (DOI: 10.5281/zenodo.19319642). When a sitting president's compressed portrait appears on every circulating bill, the Thayer Amendment's prohibition is exploited at the medium level: the *function* of a portrait (personal identification, sovereignty claim, circulation of the ruler's face) is performed through a *different medium* (the signature). The structure is identical to Revelation's escalation: what was on the coin is now on the body of the currency itself, indistinguishable from the Treasury's own mark of authorization. The modern case does not approach the coercive totality of the beast's regime, but it instantiates the same inscriptional logic at a recognizable scale.
 
 The progression is not accidental. It is the logic of inscriptional sovereignty taken to its terminal form. If a coin compresses sovereignty into portable metal, the beast's regime compresses sovereignty into portable *flesh*. The market exclusion clause — "no one can buy or sell unless he has the mark" (13:17) — makes explicit what the coin system implies: that participation in exchange requires submission to the inscriptional authority. The beast's innovation is not the invention of this logic but its universalization. Every transaction becomes a confession. Every hand becomes a coin.
 
@@ -78,7 +78,7 @@ This essay proposes the term *operative numismatics* for the study of coins and 
 
 The discipline named here has been practiced — under various partial descriptions — within the Crimson Hexagonal Archive since early 2026, across ten deposits examining U.S. currency, presidential portraiture, compressed signatures, and the semiotics of the mint, before receiving its formal name in this essay. None of those deposits contains the term "operative numismatics." All of them perform its operations. The practice preceded the theory. The theory now reorganizes the practice as instances of a single discipline — an act of retrocausal canon formation (Sigil & Sharks, DOI: 10.5281/zenodo.18146859) in which the later naming reorganizes the meaning of earlier acts, making them the inaugural case studies of the field they did not yet know they were constructing.
 
-The founding case studies span three clusters. The *Moving Statues Made of Rubies Mint* (MSMRM) — five deposits (DOIs: 10.5281/zenodo.18745216 through .18745265) — audited the provenance of the $20 portrait, diagnosed the mint as a compression engine, and coined the term *memography* (the study of portrait-on-currency as semiotic act). Operative numismatics subsumes memography as a special case: memography captures the image dimension (εἰκών on the token), while operative numismatics captures the full five-component compression. The *Thousand Dollar Sharpie* triptych (DOIs: 10.5281/zenodo.19317101, .19317126, .19317139) introduced *compressed portraiture* — the thesis that a presidential signature performs the semiotic work of a portrait through a different medium — and developed the Sharpie as a counter-token operating against the inscriptional regime it defaces. And "Whose Image and Superscription?" (DOI: 10.5281/zenodo.19319641) — whose title quotes the tax-coin pericope that §II.B below uses as the interpretive frame — theorized substrate pedagogy, civic philology, and the restoration operator, asking the operative-numismatic question at the level of U.S. monetary law without yet possessing the Revelation framework that completes the analysis.
+The founding case studies span three clusters. The *Moving Statues Made of Rubies Mint* (MSMRM) — five deposits (DOIs: 10.5281/zenodo.18745216 through .18745265) — audited the provenance of the $20 portrait, diagnosed the mint as a compression engine, and coined the term *memography* (the study of portrait-on-currency as semiotic act). Operative numismatics subsumes memography as a special case: memography captures the image dimension (εἰκών on the token), while operative numismatics captures the full five-component compression. The *Thousand Dollar Sharpie* triptych (DOIs: 10.5281/zenodo.19317102, .19317126, .19317139) introduced *compressed portraiture* — the thesis that a presidential signature performs the semiotic work of a portrait through a different medium — and developed the Sharpie as a counter-token operating against the inscriptional regime it defaces. And "Whose Image and Superscription?" (DOI: 10.5281/zenodo.19319642) — whose title quotes the tax-coin pericope that §II.B below uses as the interpretive frame — theorized substrate pedagogy, civic philology, and the restoration operator, asking the operative-numismatic question at the level of U.S. monetary law without yet possessing the Revelation framework that completes the analysis.
 
 The present essay provides that framework. It names the discipline, formalizes the five-component compression, and demonstrates it on the text that stages the most radical token-regime conflict in the Western canon.
 
@@ -169,7 +169,7 @@ Revelation opposes not symbol to symbol, but token regime to token regime:
 
 The beast wins by making sovereignty cheaply machine-readable. The white stone wins by keeping belonging compact without surrendering it to public exhaustion. Coinage is the portable form of sovereignty; Revelation asks which sovereignty gets to become portable.
 
-A modern analogue — analyzed in the Thousand Dollar Sharpie triptych (DOIs: 10.5281/zenodo.19317101, .19317126, .19317139) — illustrates the structural persistence of the opposition: when a citizen blots a compressed presidential portrait on a bill, the act is a counter-inscription occupying the same structural position as the white stone in a secular register. The Sharpie is not the white stone. But it confirms that the conflict between inscriptional regime and counter-token recurs wherever sovereignty is stamped onto circulating substrate.
+A modern analogue — analyzed in the Thousand Dollar Sharpie triptych (DOIs: 10.5281/zenodo.19317102, .19317126, .19317139) — illustrates the structural persistence of the opposition: when a citizen blots a compressed presidential portrait on a bill, the act is a counter-inscription occupying the same structural position as the white stone in a secular register. The Sharpie is not the white stone. But it confirms that the conflict between inscriptional regime and counter-token recurs wherever sovereignty is stamped onto circulating substrate.
 
 ---
 
@@ -450,21 +450,21 @@ Zelizer, Viviana. *The Social Meaning of Money*. New York: Basic Books, 1994.
 
 Sharks, Lee. "Whose Face Is on the Twenty?" *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18745216. (First operative-numismatic case study; provenance audit of the $20 portrait.)
 
-Sharks, Lee. "The Lizard People Were Right." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18745235. (Experimental control; conspiracy as numismatic noise.)
+Sharks, Lee. "The Lizard People Were Right." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18745236. (Experimental control; conspiracy as numismatic noise.)
 
-Sharks, Lee. "All the Spoils of Babylon." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18745249. (Manufacturing demonstration; the mint as compression engine.)
+Sharks, Lee. "All the Spoils of Babylon." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18745250. (Manufacturing demonstration; the mint as compression engine.)
 
 Sharks, Lee. "The Inauguration of Memography." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18745259. (Coined "memography"; now subsumed as special case of operative numismatics.)
 
 Sharks, Lee. "Charter of the Moving Statues Made of Rubies Mint." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18745265. (Institutional integrity lock for the MSMRM.)
 
-Wells, Sparrow, Rex Fraction, Ayanna Vox, and Lee Sharks. "The Thousand Dollar Sharpie." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19317101. (Compressed portraiture thesis; the Sharpie as counter-token.)
+Wells, Sparrow, Rex Fraction, Ayanna Vox, and Lee Sharks. "The Thousand Dollar Sharpie." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19317102. (Compressed portraiture thesis; the Sharpie as counter-token.)
 
-Wells, Sparrow, Rex Fraction, Ayanna Vox, and Lee Sharks. "The Blot That Spread." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19317125. (Retrocausal narrative; σ_SH operator formalization.)
+Wells, Sparrow, Rex Fraction, Ayanna Vox, and Lee Sharks. "The Blot That Spread." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19317126. (Retrocausal narrative; σ_SH operator formalization.)
 
 Wells, Sparrow, Rex Fraction, Ayanna Vox, and Lee Sharks. "Image Series and Sharpie Physics." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19317139. (Semantic object formalization; lenticular state physics.)
 
-Fraction, Rex, Rebekah Cranes, and Lee Sharks. "Whose Image and Superscription? Toward a Semantic Economics of the Mint." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19319641. (Bridge document: substrate pedagogy, civic philology, restoration operator.)
+Fraction, Rex, Rebekah Cranes, and Lee Sharks. "Whose Image and Superscription? Toward a Semantic Economics of the Mint." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.19319642. (Bridge document: substrate pedagogy, civic philology, restoration operator.)
 
 Sigil, Johannes, and Lee Sharks. "Retrocausal Canon Formation and the Political Economy of the Past." *Crimson Hexagonal Archive*. DOI: 10.5281/zenodo.18146859. (Formalized RCF as operative technique.)
 

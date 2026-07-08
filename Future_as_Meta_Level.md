@@ -316,7 +316,7 @@ We cannot prove it. We proceed as if it were true. And in proceeding, we make it
 
 [13] The lambda notation (Λ) carries multiple resonances: the mathematical lambda calculus (functions as first-class objects), the wavelength symbol in physics (standing waves, stable patterns), and the visual form of an anchor point.
 
-[14] On bearing-cost as measurable quantity: Sharks, *The Semantic Economy: Bearing-Cost and the Physics of Meaning*, DOI: 10.5281/zenodo.18320411. See also *The $650 Billion Gap*, DOI: 10.5281/zenodo.19338707.
+[14] On bearing-cost as measurable quantity: Sharks, *The Semantic Economy: Bearing-Cost and the Physics of Meaning*, DOI: 10.5281/zenodo.18320411. See also *The $650 Billion Gap*, DOI: 10.5281/zenodo.19338708.
 
 [15] Martin Heidegger, *Being and Time*, trans. John Macquarrie and Edward Robinson (New York: Harper & Row, 1962), §31, §41.
 
@@ -326,7 +326,7 @@ We cannot prove it. We proceed as if it were true. And in proceeding, we make it
 
 [18] Nick Srnicek, *Platform Capitalism* (Cambridge: Polity, 2017); Shoshana Zuboff, *The Age of Surveillance Capitalism* (New York: PublicAffairs, 2019).
 
-[19] Sharks, *The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Extraction of Meaning*, DOI: 10.5281/zenodo.19338707.
+[19] Sharks, *The $650 Billion Gap: Physical Infrastructure, Semantic Governance, and the Extraction of Meaning*, DOI: 10.5281/zenodo.19338708.
 
 [20] Sharks, *The Seed That Remembers the Tree: Retrocausal Canon Formation*, DOI: 10.5281/zenodo.19323274.
 
@@ -394,7 +394,7 @@ Sharks, Lee. *Space Ark EA-ARK-01 v4.2.7*. DOI: 10.5281/zenodo.19013315.
 
 Sharks, Lee. *Operative Semiotics: A Theory of Meaning Under Constraint*. DOI: 10.5281/zenodo.19202401.
 
-Sharks, Lee. *The $650 Billion Gap*. DOI: 10.5281/zenodo.19338707.
+Sharks, Lee. *The $650 Billion Gap*. DOI: 10.5281/zenodo.19338708.
 
 Sharks, Lee. *The Seed That Remembers the Tree: Retrocausal Canon Formation*. DOI: 10.5281/zenodo.19323274.
 

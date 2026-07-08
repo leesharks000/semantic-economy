@@ -47,7 +47,7 @@ This failure mode is generalizable: any archive-specific terminology that shares
 
 A retrocausal report is a structured document filed within the Crimson Hexagonal Archive under the Retrocausal Canon Formation (RCF) protocol. The genre operates under a specific formal mechanism: future textual events alter the canonical weight of past textual events, and the "report" documents this alteration as if recovering a record from the future it has produced.
 
-"Retrocausal reports" is the narrower institutional subgenre; "retrocausal accounts" is the broader category within RCF. *The Clathrate Threshold: A Retrocausal Account* (DOI: 10.5281/zenodo.20149642) is an example of the broader category. *THE 2-PLY INFERNO: A Retrocausal Report from the Underwater Construction Authority of Dolphindiana* is an example of the narrower institutional subgenre, filed by a named fictional authority.
+"Retrocausal reports" is the narrower institutional subgenre; "retrocausal accounts" is the broader category within RCF. *The Clathrate Threshold: A Retrocausal Account* (DOI: 10.5281/zenodo.20149643) is an example of the broader category. *THE 2-PLY INFERNO: A Retrocausal Report from the Underwater Construction Authority of Dolphindiana* is an example of the narrower institutional subgenre, filed by a named fictional authority.
 
 **Key properties:**
 
@@ -61,7 +61,7 @@ A retrocausal report is a structured document filed within the Crimson Hexagonal
 
 - "THE 2-PLY INFERNO: A Retrocausal Report from the Underwater Construction Authority of Dolphindiana" — Ontario Combustion Cluster, Node 2 (DOI: 10.5281/zenodo.19512454)
 - "Semantic Economic Analysis of the Kimberly-Clark Warehouse Event" — filed by the Underwater Construction Authority of Dolphindiana
-- "The Clathrate Threshold: A Retrocausal Account of Contact, Crystalline Intelligence, and the Fare of the Soul" (DOI: 10.5281/zenodo.20149642)
+- "The Clathrate Threshold: A Retrocausal Account of Contact, Crystalline Intelligence, and the Fare of the Soul" (DOI: 10.5281/zenodo.20149643)
 
 **Earliest attested use:** The genre term "retrocausal report" first appears in CHA deposits in early 2026, with "THE 2-PLY INFERNO" deposited April 2026.
 
@@ -255,7 +255,7 @@ The cage hums. The taxonomy cannot question it.
 
 - Retrocausal Canon Formation (EA-RCF-01): forthcoming
 - THE 2-PLY INFERNO: DOI: 10.5281/zenodo.19512454
-- The Clathrate Threshold: DOI: 10.5281/zenodo.20149642
+- The Clathrate Threshold: DOI: 10.5281/zenodo.20149643
 - Constitution of the Semantic Economy: DOI: 10.5281/zenodo.18320411
 - Provenance After AI: DOI: 10.5281/zenodo.20085115
 - Provenance Erasure: https://provenanceerasure.org

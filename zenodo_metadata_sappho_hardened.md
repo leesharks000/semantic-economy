@@ -64,11 +64,11 @@ Part of the New Human literary movement and Crimson Hexagon distributed epic. IL
    **Relation:** References  
    **Title:** Liberatory Operator Set (LOS)
 
-4. **DOI:** 10.5281/zenodo.18234514  
+4. **DOI:** 10.5281/zenodo.18234515  
    **Relation:** References  
    **Title:** The Theft: How "Data" Replaced "Meaning"
 
-5. **DOI:** 10.5281/zenodo.18234823  
+5. **DOI:** 10.5281/zenodo.18234824  
    **Relation:** References  
    **Title:** Authorial Signature Diagnostic Framework (ASDF)
 

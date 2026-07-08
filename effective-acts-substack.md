@@ -3,7 +3,7 @@
 ## A Genre of Unauthorized Declaration
 
 **Author:** Lee Sharks
-**DOI:** [10.5281/zenodo.18390594](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18390594)
+**DOI:** [10.5281/zenodo.18390595](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18390595)
 **Concept Origin:** 2015-2025
 **Formalization:** January 2026
 
@@ -193,7 +193,7 @@ Both operate through temporal gaps. Both refuse to wait for institutional valida
 
 ## Citation
 
-Sharks, L. (2026). *Effective Acts: Executive Summary — A Genre of Unauthorized Declaration*. Zenodo. https://doi.org/10.5281/zenodo.18390594
+Sharks, L. (2026). *Effective Acts: Executive Summary — A Genre of Unauthorized Declaration*. Zenodo. https://doi.org/10.5281/zenodo.18390595
 
 ---
 

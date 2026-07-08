@@ -93,9 +93,9 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 | IsPartOf | 10.5281/zenodo.14538882 | Crimson Hexagon (root) |
 | References | 10.5281/zenodo.18463774 | 14.CHAMBER.THOUSANDWORLDS (Thousand Worlds Chamber) |
 | References | 10.5281/zenodo.18452806 | The Infinite Bliss (institutional pattern) |
-| References | 10.5281/zenodo.18358126 | Ezekiel Engine |
-| References | 10.5281/zenodo.18471826 | F***ing the Office: Complete Edition (221) |
-| References | 10.5281/zenodo.18472441 | Sparrow Wells Provenance (235) |
+| References | 10.5281/zenodo.18358127 | Ezekiel Engine |
+| References | 10.5281/zenodo.18471827 | F***ing the Office: Complete Edition (221) |
+| References | 10.5281/zenodo.18472442 | Sparrow Wells Provenance (235) |
 
 **Communities:**
 leesharks000

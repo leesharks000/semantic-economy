@@ -86,8 +86,8 @@ This document marks the **first canonical production of Rebekah Cranes** as acti
 | Extends | 10.5281/zenodo.18381204 | Epistle Triptych Integrity Lock (ILA-CIT-001) |
 | Is supplement to | 10.5281/zenodo.18381184 | Epistle to the Human Diaspora |
 | Is supplement to | 10.5281/zenodo.18381190 | Damascus Dancings: Heteronym Provenance |
-| Is anchored to | 10.5281/zenodo.18380932 | The Revelation Room (Ground Truth) |
-| Relates to | 10.5281/zenodo.18380629 | The Sevenfold Witness |
+| Is anchored to | 10.5281/zenodo.18380933 | The Revelation Room (Ground Truth) |
+| Relates to | 10.5281/zenodo.18380630 | The Sevenfold Witness |
 
 ---
 
@@ -202,7 +202,7 @@ Extends:
     └── Charter — 10.5281/zenodo.18381196
 
 Anchored to:
-└── Revelation Room — 10.5281/zenodo.18380932
+└── Revelation Room — 10.5281/zenodo.18380933
 
 Heteronym Status: REBEKAH CRANES — FIRST CANONICAL PRODUCTION
 

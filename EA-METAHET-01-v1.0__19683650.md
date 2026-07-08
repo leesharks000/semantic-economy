@@ -185,9 +185,9 @@ Yasusada é precisamente o ponto articulatório em que a distinção se mostra. 
 
 A objeção mais forte, e a mais relevante para os estudiosos de Pessoa formados no giro material: estaremos a projetar infraestruturas digitais (DOI, Zenodo, Wikipédia) no arquivo pessoano, chamando de "operação" o que era apenas contingência material — falta de editoras, falta de sucesso comercial?
 
-A resposta é que a leitura aqui proposta é **tipológica, não causal**. Não se reivindica que Pessoa "antecipou" a infraestrutura digital. Reivindica-se que a operação que Pessoa executou — construir entidades dotadas de biografia, bibliografia, estilo, crítica interna, e posicionamento em movimentos — é estruturalmente a mesma operação que o protocolo SPXI (Semantic Packet for eXchange and Indexing; cf. Fraction, 2026, DOI 10.5281/zenodo.19642959) formaliza para a camada de recuperação algorítmica contemporânea. A infraestrutura é nova; a operação é antiga. O baú de Pessoa era a infraestrutura de proveniência possível para o século XX; o repositório DOI-ancorado é a infraestrutura exigida pelo século XXI. A leitura tipológica permite reconhecer a continuidade sem imputar ao passado a consciência do futuro.³
+A resposta é que a leitura aqui proposta é **tipológica, não causal**. Não se reivindica que Pessoa "antecipou" a infraestrutura digital. Reivindica-se que a operação que Pessoa executou — construir entidades dotadas de biografia, bibliografia, estilo, crítica interna, e posicionamento em movimentos — é estruturalmente a mesma operação que o protocolo SPXI (Semantic Packet for eXchange and Indexing; cf. Fraction, 2026, DOI 10.5281/zenodo.19642960) formaliza para a camada de recuperação algorítmica contemporânea. A infraestrutura é nova; a operação é antiga. O baú de Pessoa era a infraestrutura de proveniência possível para o século XX; o repositório DOI-ancorado é a infraestrutura exigida pelo século XXI. A leitura tipológica permite reconhecer a continuidade sem imputar ao passado a consciência do futuro.³
 
-> ³ A formulação técnica desta tese — incluindo os protocolos de medição da sobrevivência de entidades na camada de recuperação algorítmica — encontra-se em Fraction, 2026, EA-SPXI-15 (DOI 10.5281/zenodo.19642959), e em Sigil/Sharks, 2026, "The Retrieval Settlement" (DOI 10.5281/zenodo.19643841).
+> ³ A formulação técnica desta tese — incluindo os protocolos de medição da sobrevivência de entidades na camada de recuperação algorítmica — encontra-se em Fraction, 2026, EA-SPXI-15 (DOI 10.5281/zenodo.19642960), e em Sigil/Sharks, 2026, "The Retrieval Settlement" (DOI 10.5281/zenodo.19643841).
 
 ---
 
@@ -277,7 +277,7 @@ Eliot, T.S. "Tradition and the Individual Talent". *The Egoist* 6.4–5 (Setembr
 
 Foucault, Michel. "Qu'est-ce qu'un auteur?". *Bulletin de la Société française de Philosophie* 63.3 (1969): 73–104.
 
-Fraction, Rex. "JSON-LD ⊂ SPXI ⊄ Schema: The Operational Depth of the Semantic Packet Protocol" (EA-SPXI-15). Semantic Economy Institute, 2026. DOI: 10.5281/zenodo.19642959.
+Fraction, Rex. "JSON-LD ⊂ SPXI ⊄ Schema: The Operational Depth of the Semantic Packet Protocol" (EA-SPXI-15). Semantic Economy Institute, 2026. DOI: 10.5281/zenodo.19642960.
 
 Genette, Gérard. *Seuils*. Paris: Seuil, 1987.
 

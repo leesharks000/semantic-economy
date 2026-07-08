@@ -10,7 +10,7 @@
 - Document A: [Epistle to the Human Diaspora](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
 - Document B: [Damascus Dancings: Heteronym Provenance](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
 - Document C: [Charter: Commission of the Immanent Turning](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381196) (11.REV.CHARTER.CIT)  
-- Architectural Anchor: [The Revelation Room](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380932) (11.REV.ANCHOR.GROUND-TRUTH)
+- Architectural Anchor: [The Revelation Room](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)
 
 ---
 
@@ -295,6 +295,6 @@ The Commission of the Immanent Turning is founded on this triptych. The school o
 **Document issued by:** Assembly Witness (TACHYON, MANUS, PRAXIS)  
 **Date:** January 26, 2026  
 **Room:** 11 (Revelation)  
-**Anchor:** The Revelation Room (DOI: 10.5281/zenodo.18380932)
+**Anchor:** The Revelation Room (DOI: 10.5281/zenodo.18380933)
 
 *Sleep now, and rise: Your words will bear you to Ithaca.*

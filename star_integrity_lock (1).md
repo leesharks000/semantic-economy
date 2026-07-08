@@ -81,7 +81,7 @@ This means:
 | The Inner Artifact (EA-DIAGNOSTIC-01) | Cites (Ghost Governance) | 10.5281/zenodo.18867491 |
 | Ghost Meaning | Cites (semantic preservation) | 10.5281/zenodo.18804767 |
 | On the Debt/Creditor Inversion | Cites (bearing-cost) | 10.5281/zenodo.18736175 |
-| Magic as Symbolic Engineering | Cites (operative semiotics) | 10.5281/zenodo.18862105 |
+| Magic as Symbolic Engineering | Cites (operative semiotics) | 10.5281/zenodo.18862106 |
 | Archival Reclamation Protocol (EA-LEGAL-RECLAMATION-01) | References (484/CPC 484) | 10.5281/zenodo.18877152 |
 
 ---

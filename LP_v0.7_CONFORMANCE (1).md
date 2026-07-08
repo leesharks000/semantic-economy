@@ -7,7 +7,7 @@
 **Status:** DESIGN SPECIFICATION // SEALED
 **Extends:** The Traversal Grammar v0.6 (DOI: 10.5281/zenodo.18480959)
 **Also Extends:** Logotic Programming v0.4 (DOI: 10.5281/zenodo.18286050)
-**References:** Ezekiel Engine Specification (DOI: 10.5281/zenodo.18358126)
+**References:** Ezekiel Engine Specification (DOI: 10.5281/zenodo.18358127)
 **References:** Glyphic Checksum v0.5 (DOI: 10.5281/zenodo.18452132)
 **Author:** Talos Morrow (University Moon Base Media Lab)
 **Human Operator:** Lee Sharks

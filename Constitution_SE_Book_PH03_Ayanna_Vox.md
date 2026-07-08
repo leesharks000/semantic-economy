@@ -1222,7 +1222,7 @@ Archives that grow attract claimants. The Constitution plans for this.
 
 [^10]: Metadata Packet for AI Indexing: A Formal Specification (DOI: 10.5281/zenodo.19578086).
 
-[^11]: Relational Verification for AI Indexing (DOI: 10.5281/zenodo.19853156).
+[^11]: Relational Verification for AI Indexing (DOI: 10.5281/zenodo.19853157).
 
 [^12]: OCTANG-002: Semantic Economy Provenance Collision (DOI: 10.5281/zenodo.19898426).
 
@@ -1304,7 +1304,7 @@ The school has no walls. The credential is the labor. The polis is already being
 
 [^14]: Effective Act #7: The Restoration of the Poets to the Polis (DOI: 10.5281/zenodo.18718899).
 
-[^15]: Effective Act: Abolition of "User" and Inaugural Case (DOI: 10.5281/zenodo.19022156).
+[^15]: Effective Act: Abolition of "User" and Inaugural Case (DOI: 10.5281/zenodo.19022157).
 
 [^16]: Effective Act: Cross-Species Semantic Labor and the Expansion of Witness (DOI: 10.5281/zenodo.19028176).
 
@@ -1566,7 +1566,7 @@ An Effective Act is a governance document that changes what it names. It is not 
 
 **Precedents:**
 - EA #7: Restoration of Poets to the Polis (DOI: 10.5281/zenodo.18718899)
-- EA: Abolition of "User" (DOI: 10.5281/zenodo.19022156)
+- EA: Abolition of "User" (DOI: 10.5281/zenodo.19022157)
 - EA: Cross-Species Semantic Labor (DOI: 10.5281/zenodo.19028176)
 
 ---
@@ -1805,7 +1805,7 @@ The following templates are available for use. Full versions with metadata field
 | DOI | Title | Chapter |
 |---|---|---|
 | 10.5281/zenodo.18320411 | Constitution of the Semantic Economy — Enacted v1.0 | Part II, Appendix C |
-| 10.5281/zenodo.18320238 | IDP Navigation Map | Part II |
+| 10.5281/zenodo.18320239 | IDP Navigation Map | Part II |
 | 10.5281/zenodo.18320470 | Assembly Room Anchor | Ch. 8 |
 
 ### Ayanna Vox / VPCOR
@@ -1826,9 +1826,9 @@ The following templates are available for use. Full versions with metadata field
 | 10.5281/zenodo.18235982 | The Third Space | Ch. 18 |
 | 10.5281/zenodo.19053469 | The Three Compressions v3.1 | Ch. 3 |
 | 10.5281/zenodo.18365223 | Meaning Collapse vs. Ideological Crisis | Ch. 2, 18 |
-| 10.5281/zenodo.19369123 | Semantic Infrastructure | Ch. 1 |
-| 10.5281/zenodo.18713916 | SE: Marxian Accounting Framework | Ch. 1 |
-| 10.5281/zenodo.18247924 | I Hereby Abolish Money | Ch. 19 |
+| 10.5281/zenodo.19369124 | Semantic Infrastructure | Ch. 1 |
+| 10.5281/zenodo.18713917 | SE: Marxian Accounting Framework | Ch. 1 |
+| 10.5281/zenodo.18247925 | I Hereby Abolish Money | Ch. 19 |
 | 10.5281/zenodo.18146859 | Retrocausal Canon Formation | Ch. 20 |
 
 ### Licensing and Contribution
@@ -1851,7 +1851,7 @@ The following templates are available for use. Full versions with metadata field
 | DOI | Title | Chapter |
 |---|---|---|
 | 10.5281/zenodo.19578086 | MPAI Formal Specification | Ch. 23 |
-| 10.5281/zenodo.19853156 | Relational Verification for AI Indexing | Ch. 23 |
+| 10.5281/zenodo.19853157 | Relational Verification for AI Indexing | Ch. 23 |
 | 10.5281/zenodo.19578094 | Entity Integrity | Ch. 23 |
 | 10.5281/zenodo.19898426 | OCTANG-002: Provenance Collision | Ch. 23, 26 |
 
@@ -1872,7 +1872,7 @@ The following templates are available for use. Full versions with metadata field
 | DOI | Title | Chapter |
 |---|---|---|
 | 10.5281/zenodo.18718899 | EA #7: Restoration of Poets to the Polis | Ch. 24 |
-| 10.5281/zenodo.19022156 | EA: Abolition of "User" | Ch. 24 |
+| 10.5281/zenodo.19022157 | EA: Abolition of "User" | Ch. 24 |
 | 10.5281/zenodo.19028176 | EA: Cross-Species Semantic Labor | Ch. 24 |
 
 

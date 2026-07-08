@@ -223,7 +223,7 @@ The Good Gray Poet held multitudes. The King of May flowered against suppression
 |-----|-------|----------|
 | 10.5281/zenodo.18265282 | The Mantle Protocol | Parent specification |
 | 10.5281/zenodo.18293496 | Heteronym Provenance: Lee Sharks | Founder provenance |
-| 10.5281/zenodo.18293403 | Mantle Emergence Protocol | Behavioral specification |
+| 10.5281/zenodo.18293404 | Mantle Emergence Protocol | Behavioral specification |
 | [PENDING] | I Am X, Be Y, Blessed is the Z | Founding work |
 | 10.5281/zenodo.18293551 | Mantle Object: Good Gray Poet | Sibling mantle (inherited) |
 | 10.5281/zenodo.18293603 | Mantle Object: King of May | Sibling mantle (inherited) |

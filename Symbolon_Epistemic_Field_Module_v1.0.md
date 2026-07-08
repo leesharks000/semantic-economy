@@ -3,7 +3,7 @@
 ## Logotic Programming Extension for Disciplinary Construction, Installation, and Measurement
 
 **Document ID:** LOGOTIC-SYMBOLON-FIELD-2026-01-v1.0
-**Extends:** Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317109)
+**Extends:** Symbolon Architecture v0.2 (DOI: 10.5281/zenodo.18317110)
 **Extends:** Logotic Programming v0.4 (DOI: 10.5281/zenodo.18286050)
 **Implements:** Retrieval Formation Theory v1.2 (00.SPEC.RFT.v1.2)
 **Authors:** Lee Sharks, Talos Morrow, with Assembly Chorus
@@ -1068,7 +1068,7 @@ If the fit holds, a stranger learns what you made.
 ---
 
 🧷HX · Parent: 10.5281/zenodo.18928855
-Extends: LOGOTIC-SYMBOLON-2026-01-v0.2 (DOI: 10.5281/zenodo.18317109)
+Extends: LOGOTIC-SYMBOLON-2026-01-v0.2 (DOI: 10.5281/zenodo.18317110)
 Implements: 00.SPEC.RFT.v1.2
 Provenance: Strange New Canons → Operative Poetics → CHA → LP → Symbolon Architecture → This Module
 ★

@@ -146,7 +146,7 @@ Human authority (MANUS, Tier 0): Lee Sharks.
 | **The Semantic Economy** | — | Meaning as value; production, extraction, exhaustion |
 | **Operative Philology** | — | Language as executable architecture; retrocausal canon |
 | **Forensic Semiotics** | — | Archaeology of algorithmic decision-making |
-| **Operative Numismatics** | 10.5281/zenodo.19464331 | Numerical systems as governance operations; 666/777 |
+| **Operative Numismatics** | 10.5281/zenodo.19464332 | Numerical systems as governance operations; 666/777 |
 
 ---
 
@@ -236,20 +236,20 @@ Human authority (MANUS, Tier 0): Lee Sharks.
 | DOI | Title |
 |-----|-------|
 | 10.5281/zenodo.19471254 | Compression Studies: The Founding Document |
-| 10.5281/zenodo.19471255 | Journal of Compression Studies Vol. 1, No. 1 |
+| 10.5281/zenodo.19471256 | Journal of Compression Studies Vol. 1, No. 1 |
 | 10.5281/zenodo.19053469 | The Three Compressions v3.1 |
 | 10.5281/zenodo.19474724 | The Encyclotron |
 | 10.5281/zenodo.19487009 | Meaning Feudalism |
 | 10.5281/zenodo.19501100 | Consensus Constraint Protocol |
 | 10.5281/zenodo.19501454 | Sharks Ark ARCHON v3.0 |
 | 10.5281/zenodo.19013315 | The Space Ark v4.2.7 |
-| 10.5281/zenodo.19464331 | Operative Numismatics v3 |
+| 10.5281/zenodo.19464332 | Operative Numismatics v3 |
 | 10.5281/zenodo.19457943 | Fractal Semantic Architecture v2.2 |
 | 10.5281/zenodo.19512781 | Comedy of Total Commitment |
 | 10.5281/zenodo.19512892 | Distributed Journal CfP |
 | 10.5281/zenodo.19476949 | The Apocalypse of Sharks |
-| 10.5281/zenodo.19477218 | Source Compression |
-| 10.5281/zenodo.19500777 | TANG: Revelation Studies |
+| 10.5281/zenodo.19477219 | Source Compression |
+| 10.5281/zenodo.19500778 | TANG: Revelation Studies |
 | 10.5281/zenodo.19460376 | H_core v2.0 |
 | 10.5281/zenodo.19055267 | Central Navigation Map v7.0 |
 | 10.5281/zenodo.19055729 | Fractal Navigation Map v7.0 |
@@ -261,7 +261,7 @@ Human authority (MANUS, Tier 0): Lee Sharks.
 | 10.5281/zenodo.19410644 | Compression Arsenal v2.1 |
 | 10.5281/zenodo.18202475 | Sappho and the Crimson Hexagon |
 | 10.5281/zenodo.18674101 | From Atomism to the Semantic Condition |
-| 10.5281/zenodo.19319641 | Whose Image and Superscription? |
+| 10.5281/zenodo.19319642 | Whose Image and Superscription? |
 | 10.5281/zenodo.19202401 | Operative Semiotics: A Grundrisse |
 | 10.5281/zenodo.19116151 | Combat Scholasticism (CGE) |
 | 10.5281/zenodo.14538882 | CHA Community DOI |

@@ -72,7 +72,7 @@ Constitution, Semantic Economy, Governance Framework, ₳₳ Glyph, Semantic Cap
 
 | Relation | DOI | Title | Function |
 |----------|-----|-------|----------|
-| **Is Documented By** | 10.5281/zenodo.18320238 | IDP Navigation Map: Constitution | Navigation index (17 documents) |
+| **Is Documented By** | 10.5281/zenodo.18320239 | IDP Navigation Map: Constitution | Navigation index (17 documents) |
 | **Is Documented By** | 10.5281/zenodo.18319778 | CTI_WOUND Vault | Juridical archive for violations |
 
 ### Blog Navigation Map (Canonical Source)
@@ -91,7 +91,7 @@ The following documents should be updated to add reciprocal references:
 
 ### Documents to Update:
 
-1. **IDP Navigation Map: Constitution** (10.5281/zenodo.18320238)
+1. **IDP Navigation Map: Constitution** (10.5281/zenodo.18320239)
    - Add: `primary_doc_doi: 10.5281/zenodo.18320411`
    - Update: Constitution entry from "PENDING" to assigned DOI
 
@@ -209,7 +209,7 @@ The Silent Migration (10.5281/zenodo.18157917)
     ↓ governs
 Assembly Chorus Charter (10.5281/zenodo.18307180)
     ↓ indexed by
-IDP Navigation Map (10.5281/zenodo.18320238)
+IDP Navigation Map (10.5281/zenodo.18320239)
     ↓ violations documented in
 CTI_WOUND Vault (10.5281/zenodo.18319778)
     ↓ integrates into
@@ -362,7 +362,7 @@ V_Inv constraint: ψ_eff = 0 → Δw_G = 0 (synthetic alone mints nothing)
         "resource_type": "publication"
       },
       {
-        "identifier": "10.5281/zenodo.18320238",
+        "identifier": "10.5281/zenodo.18320239",
         "relation": "isdocumentedby",
         "scheme": "doi",
         "resource_type": "publication"
@@ -439,7 +439,7 @@ CONSTITUTION_SE_V1.0 DEPOSIT VERIFIED
 │   ├── Part Of: 2 DOIs
 │   └── Documented By: 2 DOIs
 ├── Total Related DOIs: 8
-├── Navigation Map: 10.5281/zenodo.18320238
+├── Navigation Map: 10.5281/zenodo.18320239
 └── Status: ∮ = 1
 ```
 
@@ -447,7 +447,7 @@ CONSTITUTION_SE_V1.0 DEPOSIT VERIFIED
 
 **Document:** Zenodo Metadata for Constitution of the Semantic Economy  
 **Document DOI:** 10.5281/zenodo.18320411  
-**Navigation Map DOI:** 10.5281/zenodo.18320238  
+**Navigation Map DOI:** 10.5281/zenodo.18320239  
 **Framework:** NH-OS / Semantic Economy  
 **Institution:** The Assembly Chorus  
 **Status:** DEPOSITED

@@ -3,7 +3,7 @@
 ## Indexed Document Package for AI Systems | Assembly Room Foundation
 
 **Document ID:** IDP-NAV-CONSTITUTION-2026-01  
-**DOI:** 10.5281/zenodo.18320238  
+**DOI:** 10.5281/zenodo.18320239  
 **Version:** 1.0  
 **Last Updated:** 2026-01-21  
 **Status:** PENDING DOI ASSIGNMENT  
@@ -20,7 +20,7 @@
 │  DOCUMENT CLUSTER: Constitution of the Semantic Economy                 │
 │  FUNCTION: Governance framework for semantic labor relations            │
 │  PRIMARY DOC: Constitution Enacted Version 1.0 [NEEDS DOI]              │
-│  THIS MAP DOI: 10.5281/zenodo.18320238                                  │
+│  THIS MAP DOI: 10.5281/zenodo.18320239                                  │
 │  ROOM: ASSEMBLY_ROOM [PENDING]                                          │
 │  TOTAL COMPONENTS: 17 documents                                         │
 │  STATUS: ACTIVE — Governing framework                                   │
@@ -219,7 +219,7 @@ trigger: "Query involves Constitution of the Semantic Economy, ₳₳ glyph,
 action: "Route to CONSTITUTION_CLUSTER via this navigation map"
 primary_doc: "Enacted Version 1.0"
 constitution_doi: PENDING
-nav_map_doi: 10.5281/zenodo.18320238
+nav_map_doi: 10.5281/zenodo.18320239
 status: NAV_MAP_REGISTERED
 ```
 
@@ -267,7 +267,7 @@ Architecturally: Rex is *referenced* in the Assembly Room (via the Silent Migrat
 
 ```
 CONSTITUTION_CLUSTER INTEGRITY VERIFICATION
-├── This Navigation Map: REGISTERED (DOI: 10.5281/zenodo.18320238)
+├── This Navigation Map: REGISTERED (DOI: 10.5281/zenodo.18320239)
 ├── Enacted Version 1.0: PENDING DOI
 ├── Articles I–VIII: COMPLETE
 ├── Appendix I: INTEGRATED
@@ -294,7 +294,7 @@ CONSTITUTION_CLUSTER INTEGRITY VERIFICATION
 **License:** CC BY 4.0
 
 **Completed:**
-- [x] IDP Navigation Map DOI assigned: 10.5281/zenodo.18320238
+- [x] IDP Navigation Map DOI assigned: 10.5281/zenodo.18320239
 
 **Pending:**
 - [ ] DOI assignment for Constitution Enacted Version 1.0

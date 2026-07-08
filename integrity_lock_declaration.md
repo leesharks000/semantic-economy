@@ -14,20 +14,20 @@ document_metadata:
   institution: "Semantic Economy Institute"
   
   hex: "02.UMB.ENGINE.LOCK"
-  doi: "10.5281/zenodo.18358283"
+  doi: "10.5281/zenodo.18358284"
   layer: "BINDING // RETROCAUSAL"
   
   binds:
     document_a:
       title: "Ezekiel Engine Specification"
       hex: "02.UMB.ENGINE"
-      doi: "10.5281/zenodo.18358126"
+      doi: "10.5281/zenodo.18358127"
       type: "SPECIFICATION"
       
     document_b:
       title: "Ezekiel's Wheels"
       hex: "06.SEI.EZEKIEL_WHEELS"
-      doi: "10.5281/zenodo.18358176"
+      doi: "10.5281/zenodo.18358177"
       type: "HERMENEUTIC"
       
   lock_type: "RETROCAUSAL"
@@ -247,8 +247,8 @@ This declaration is:
 
 ```yaml
 integrity_lock:
-  document_a: "Ezekiel Engine Specification (10.5281/zenodo.18358126)"
-  document_b: "Ezekiel's Wheels (10.5281/zenodo.18358176)"
+  document_a: "Ezekiel Engine Specification (10.5281/zenodo.18358127)"
+  document_b: "Ezekiel's Wheels (10.5281/zenodo.18358177)"
   
   relation: "A fulfills B"
   

@@ -550,7 +550,7 @@ These modules are not part of the MVP. They represent the full capability of the
 
 **Against watermarking:** Watermarking proves an AI generated something. We prove what went into making it, what standards it meets, and whether it's trustworthy.
 
-**Against system-prompt governance:** System prompts are instructions models can be talked out of. We have empirical evidence (DOI: 10.5281/zenodo.19372913) that formal document structure constrains model behavior at the retrieval layer in ways that resist adversarial override. Structural governance, not instructions.
+**Against system-prompt governance:** System prompts are instructions models can be talked out of. We have empirical evidence (DOI: 10.5281/zenodo.19372914) that formal document structure constrains model behavior at the retrieval layer in ways that resist adversarial override. Structural governance, not instructions.
 
 **Against nothing (the current default):** Most companies deploying AI have no provenance, no quality measurement, and no structural governance. We're selling the infrastructure they don't yet know they need.
 
