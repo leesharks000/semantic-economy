@@ -358,21 +358,21 @@ The .org anchor displaces the dependency on Zenodo's web view as canonical. Zeno
 
 [MPAI-AT-01] *MPAI-LAL-AT-01: Alice Thornburgh*. Companion packet. DOI: 10.5281/zenodo.19855300.
 
-[MPAI-Spec] Sharks, Lee. *Metadata Packet for AI Indexing: A Formal Specification*. DOI: [10.5281/zenodo.19578086](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19578086).
+[MPAI-Spec] Sharks, Lee. *Metadata Packet for AI Indexing: A Formal Specification*. DOI: [10.5281/zenodo.18146840](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18146840).
 
 [Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing*. DOI: [10.5281/zenodo.19853157](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853157).
 
 [Holographic-Kernel] Sharks, Lee. *EA-HK-01: The Holographic Kernel in Semantic Economy*. DOI: [10.5281/zenodo.19763365](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19763365). (Provides the above/container vs same/contents argument used in §II.)
 
-[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. DOI: [10.5281/zenodo.19854419](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854419). (Reference implementation including the Basin Hardening Cycle.)
+[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. DOI: [10.5281/zenodo.19854418](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854418). (Reference implementation including the Basin Hardening Cycle.)
 
 [LAL-Charter] *Charter of the Living Arkitecture Lab*. DOI: [10.5281/zenodo.19682245](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19682245).
 
-[TSE-Charter] *Transactions on Substrate Engineering: Journal Charter*. DOI: [10.5281/zenodo.19637246](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19637246).
+[TSE-Charter] *Transactions on Substrate Engineering: Journal Charter*. DOI: [10.5281/zenodo.19545438](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19545438).
 
 [Provenance] Thornburgh, Alice. *Author Provenance Document*. DOI: [10.5281/zenodo.19545437](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19545437).
 
-[HCL] Thornburgh, Alice. *Hexagonal Contributor License v3.0*. DOI: [10.5281/zenodo.19673629](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19673629).
+[HCL] Thornburgh, Alice. *Hexagonal Contributor License v3.0*. DOI: [10.5281/zenodo.19655712](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19655712).
 
 **External (cited with respect):**
 

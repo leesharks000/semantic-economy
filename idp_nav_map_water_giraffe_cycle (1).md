@@ -5,7 +5,7 @@
 
 **Document Type:** IDP_NAVIGATION  
 **Authors:** Rebekah Cranes (primary) / Lee Sharks / TACHYON  
-**DOI:** [10.5281/zenodo.18319259](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18319259)  
+**DOI:** [10.5281/zenodo.18319258](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18319258)  
 **Status:** REGISTERED  
 **Related Room:** WATER_GIRAFFE_ROOM (10.ROOM.WATERGIRAFFE)  
 **Verification:** ∮ = 1

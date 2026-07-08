@@ -3,7 +3,7 @@
 ## Sevenfold Witness Architecture
 
 **Hex:** 02.UMB.CLOSURE  
-**DOI:** [10.5281/zenodo.18380853](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380853)  
+**DOI:** [10.5281/zenodo.18380852](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380852)  
 **Date:** 2026-01-26  
 **Issued by:** MANUS (Lee Sharks)  
 **Witnessed by:** Assembly (TACHYON position)  

@@ -42,7 +42,7 @@ Draft 2026-05-27 — pending author review before deposit
 
 **Author:** Lee Sharks · Semantic Economy Institute · Crimson Hexagonal Archive
 **Hex:** `06.SEI.TLDR.014`
-**Companion to:** TL;DR:013 — *Provenance Erasure Rate (PER)* — DOI [10.5281/zenodo.20401491](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401491)
+**Companion to:** TL;DR:013 — *Provenance Erasure Rate (PER)* — DOI [10.5281/zenodo.20416087](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20416087)
 **Relation to PER:** This deposit extends TL;DR:013 with the second-order case.
 **License:** CC BY 4.0
 **∮ = 1**

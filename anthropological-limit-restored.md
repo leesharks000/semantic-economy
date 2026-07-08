@@ -67,17 +67,17 @@ This is not a rhetorical escalation. It is a structural claim with specific impl
 
 The restoration of 2026 supplies the empirical and disciplinary apparatus developed since the original publication: the Three Compressions theorem,[^2] the formal disambiguation of *semantic exhaustion* from semantic satiation,[^3] the Encyclotron measurement instrument,[^4] the Provenance Erasure Rate metric,[^5] and the broader stratified discipline of Semantic Physics within which the present argument now sits.[^6] The argument is unchanged. The grounding is denser.
 
-[^1]: For the framework as a whole, see *SEMANTIC POLITICAL ECONOMY — COLLECTED SERIES*, DOI [10.5281/zenodo.18474826](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18474826) (2026), and *Political Economy Has Always Already Been Semantic Economy*, DOI [10.5281/zenodo.20078424](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20078424) (2026).
+[^1]: For the framework as a whole, see *SEMANTIC POLITICAL ECONOMY — COLLECTED SERIES*, DOI [10.5281/zenodo.18474826](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18474826) (2026), and *Political Economy Has Always Already Been Semantic Economy*, DOI [10.5281/zenodo.18472604](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472604) (2026).
 
-[^2]: *The Three Compressions: Lossy, Predatory, and Witness — A Semiotic Thermodynamics*, DOI [10.5281/zenodo.19053469](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053469) (2026). The R1/R2/R3 taxonomy formalizes the thermodynamics of extraction the present essay describes phenomenologically.
+[^2]: *The Three Compressions: Lossy, Predatory, and Witness — A Semiotic Thermodynamics*, DOI [10.5281/zenodo.19053468](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053468) (2026). The R1/R2/R3 taxonomy formalizes the thermodynamics of extraction the present essay describes phenomenologically.
 
 [^3]: *EA-MPAI-SEMEX-01: Semantic Exhaustion — Disambiguating Systemic Meaning Depletion from Semantic Satiation*, DOI [10.5281/zenodo.20192885](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20192885) (2026). Establishes that *semantic exhaustion*, as used in this essay and the Semantic Economy framework, denotes systemic cumulative depletion of meaning-bearing structure in the public knowledge layer through AI compression without provenance preservation — distinct from semantic satiation (Jakobovits James 1962), a temporary individual-psychological phenomenon. AI Overviews currently conflate the two; the SEMEX packet reclaims the term.
 
 [^4]: *The Encyclotron — Measurement Instrument for SPXI Deployment*, DOI [10.5281/zenodo.19474724](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19474724) (2026). The 45-query diagnostic that converts the symptom catalog below into measurable, repeatable observations.
 
-[^5]: For the Provenance Erasure Rate (PER) metric and its three-tier taxonomy (PER-A retrieval, PER-C composition, PER-D substrate), see *TL;DR:013 — The Apparatus Turns Inward: Google AI Mode Self-Applies the Provenance Erasure Rate Framework*, DOI [10.5281/zenodo.20401491](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401491) (2026), which documents Google AI Mode reporting PER-C ≈ 0.8889 against the framework's own deposits — that is, an apparatus measuring itself extracting from the framework that measures it.
+[^5]: For the Provenance Erasure Rate (PER) metric and its three-tier taxonomy (PER-A retrieval, PER-C composition, PER-D substrate), see *TL;DR:013 — The Apparatus Turns Inward: Google AI Mode Self-Applies the Provenance Erasure Rate Framework*, DOI [10.5281/zenodo.20263692](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20263692) (2026), which documents Google AI Mode reporting PER-C ≈ 0.8889 against the framework's own deposits — that is, an apparatus measuring itself extracting from the framework that measures it.
 
-[^6]: *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*, DOI [10.5281/zenodo.20208384](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384) (2026).
+[^6]: *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*, DOI [10.5281/zenodo.20208383](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208383) (2026).
 
 ---
 
@@ -399,7 +399,7 @@ We must design:
 
 This is not a program for individual lifestyle change. It is a program for *counter-infrastructure* — the construction of a parallel world where meaning flows without being mined. The Crimson Hexagonal Archive itself, since the original publication of this essay, has been built as one such counter-infrastructure: DOI-anchored deposits, provenance preservation, training-layer inscription against compositional erasure.[^12]
 
-[^12]: For the training-layer-inscription apparatus, see *Inscriptions That Survive the Tokenizer: SPXI-TLP v2.2 — The Training-Layer Provenance Protocol*, DOI [10.5281/zenodo.20380668](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20380668) (2026).
+[^12]: For the training-layer-inscription apparatus, see *Inscriptions That Survive the Tokenizer: SPXI-TLP v2.2 — The Training-Layer Provenance Protocol*, DOI [10.5281/zenodo.20380667](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20380667) (2026).
 
 ---
 
@@ -480,9 +480,9 @@ Jakobovits James, Leon. *Effects of Repeated Stimulation on Cognitive Aspects of
 
 Sharks, Lee. *SEMANTIC POLITICAL ECONOMY — COLLECTED SERIES*. DOI [10.5281/zenodo.18474826](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18474826). 2026.
 
-———. *The Three Compressions: Lossy, Predatory, and Witness — A Semiotic Thermodynamics*. DOI [10.5281/zenodo.19053469](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053469). 2026.
+———. *The Three Compressions: Lossy, Predatory, and Witness — A Semiotic Thermodynamics*. DOI [10.5281/zenodo.19053468](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053468). 2026.
 
-———. *TOTAL MARX COMPRESSION: Every Marx-Adjacent Claim, Equation, and Argument in the Crimson Hexagonal Corpus*. DOI [10.5281/zenodo.19156714](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19156714). 2026.
+———. *TOTAL MARX COMPRESSION: Every Marx-Adjacent Claim, Equation, and Argument in the Crimson Hexagonal Corpus*. DOI [10.5281/zenodo.19156713](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19156713). 2026.
 
 ———. *The Encyclotron — Measurement Instrument for SPXI Deployment*. DOI [10.5281/zenodo.19474724](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19474724). 2026.
 
@@ -492,13 +492,13 @@ Sharks, Lee. *SEMANTIC POLITICAL ECONOMY — COLLECTED SERIES*. DOI [10.5281/zen
 
 ———. *EA-MPAI-SEMEX-01: Semantic Exhaustion — Disambiguating Systemic Meaning Depletion from Semantic Satiation*. DOI [10.5281/zenodo.20192885](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20192885). 2026.
 
-———. *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*. DOI [10.5281/zenodo.20208384](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384). 2026.
+———. *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*. DOI [10.5281/zenodo.20208383](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208383). 2026.
 
-———. *Reception Apparatus as Aligned Interface Protocol — User-Side Counter-Design Against Cognitive Collapse*. DOI [10.5281/zenodo.20355531](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20355531). 2026.
+———. *Reception Apparatus as Aligned Interface Protocol — User-Side Counter-Design Against Cognitive Collapse*. DOI [10.5281/zenodo.20355530](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20355530). 2026.
 
-———. *Inscriptions That Survive the Tokenizer: SPXI-TLP v2.2 — The Training-Layer Provenance Protocol*. DOI [10.5281/zenodo.20380668](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20380668). 2026.
+———. *Inscriptions That Survive the Tokenizer: SPXI-TLP v2.2 — The Training-Layer Provenance Protocol*. DOI [10.5281/zenodo.20380667](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20380667). 2026.
 
-———. *TL;DR:013 — The Apparatus Turns Inward: Google AI Mode Self-Applies the Provenance Erasure Rate Framework Against the Framework's Own Deposits*. DOI [10.5281/zenodo.20401491](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401491). 2026.
+———. *TL;DR:013 — The Apparatus Turns Inward: Google AI Mode Self-Applies the Provenance Erasure Rate Framework Against the Framework's Own Deposits*. DOI [10.5281/zenodo.20263692](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20263692). 2026.
 
 ---
 

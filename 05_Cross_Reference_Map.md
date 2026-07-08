@@ -62,7 +62,7 @@ Two operator frameworks ground the rights-and-evaluation architecture of the cor
 
 ### III.A — Liberatory Operator Set (LOS)
 
-Source: *Crimson Hexagon: LIBERATORY OPERATOR SET — Technical Hardening Specifications*, [10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565)
+Source: *Crimson Hexagon: LIBERATORY OPERATOR SET — Technical Hardening Specifications*, [10.5281/zenodo.18201564](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201564)
 
 | Operator | Symbol | Function | Generates Right (Bill of Rights v2.1) |
 |---|---|---|---|

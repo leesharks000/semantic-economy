@@ -4,7 +4,7 @@
 
 **Title:** Visual Schema — Commission of the Immanent Turning  
 **Subtitle:** Turning Without Transcendence  
-**DOI:** [10.5281/zenodo.18381438](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381438)  
+**DOI:** [10.5281/zenodo.18381437](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381437)  
 **Hex:** 11.REV.SCHEMA.CIT
 
 ---

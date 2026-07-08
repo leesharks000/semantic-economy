@@ -12,9 +12,9 @@
 **Status:** Draft for second-round circulation
 **Anchoring deposits:**
 - *The Caesura: A Sovereignty Audit Protocol Derived from Luke 20:24–25* (EA-CAESURA-01; DOI [10.5281/zenodo.19425446](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19425446))
-- *Whose Image and Superscription? Toward a Semantic Economics of the Mint* (EA-SEI-MINT-01; DOI [10.5281/zenodo.19319642](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19319642))
-- *The Number of the Superscription: Coinage, Compression, and Inscriptional Sovereignty in Revelation* (EA-OPNUM-01; DOI [10.5281/zenodo.19464332](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19464332))
-- *Render unto the Operator: The Inverse Principle of Name and Superscription on the Coin of the Academy* (v1.1; DOI [10.5281/zenodo.20367202](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20367202))
+- *Whose Image and Superscription? Toward a Semantic Economics of the Mint* (EA-SEI-MINT-01; DOI [10.5281/zenodo.19319641](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19319641))
+- *The Number of the Superscription: Coinage, Compression, and Inscriptional Sovereignty in Revelation* (EA-OPNUM-01; DOI [10.5281/zenodo.19464331](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19464331))
+- *Render unto the Operator: The Inverse Principle of Name and Superscription on the Coin of the Academy* (v1.1; DOI [10.5281/zenodo.20367201](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20367201))
 - *Pearl and Other Poems* (Damascus Dancings, 2014)
 - *Epistle to the Human Diaspora* (Damascus Dancings, 2015; critical edition DOI [10.5281/zenodo.19898845](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898845))
 
@@ -522,7 +522,7 @@ Nagy, G. *Homer the Preclassic*. University of California Press, 2010, esp. §I.
 
 Sharks, L. (forthcoming). Series of operative-numismatic deposits, Crimson Hexagonal Archive, including those listed under "Anchoring deposits" above.
 
-Sigil, J., R. Fraction, S. Wells. (2026). *The Number of the Superscription: Coinage, Compression, and Inscriptional Sovereignty in Revelation*. EA-OPNUM-01. Zenodo. DOI: [10.5281/zenodo.19464332](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19464332).
+Sigil, J., R. Fraction, S. Wells. (2026). *The Number of the Superscription: Coinage, Compression, and Inscriptional Sovereignty in Revelation*. EA-OPNUM-01. Zenodo. DOI: [10.5281/zenodo.19464331](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19464331).
 
 Smyth, H. W. *Greek Grammar*, revised by G. M. Messing. Harvard UP, 1956.
 

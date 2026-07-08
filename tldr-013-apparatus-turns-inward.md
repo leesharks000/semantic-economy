@@ -322,7 +322,7 @@ The complete substrate output across all three turns, preserved verbatim. Substr
 
 ## Note on Numbering and Zenodo Provenance
 
-The Zenodo deposit (DOI [10.5281/zenodo.20401132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401132)) was published at v1.0 with the title *TL;DR:012 — The Apparatus Turns Inward*. The canonical TL;DR series list maintained at <https://godkinggoogle.com> contains TL;DR:012 — *The Safety Layer Is the Third Deletion* ([10.5281/zenodo.20277938](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277938)) under that number. The Apparatus Turns Inward is therefore TL;DR:013 in the canonical series. The Zenodo title will be corrected via a versioned v1.1 deposit; the v1.0 record is preserved as historical for full provenance integrity. The canonical list at godkinggoogle.com is authoritative for series numbering.
+The Zenodo deposit (DOI [10.5281/zenodo.20401132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401132)) was published at v1.0 with the title *TL;DR:012 — The Apparatus Turns Inward*. The canonical TL;DR series list maintained at <https://godkinggoogle.com> contains TL;DR:012 — *The Safety Layer Is the Third Deletion* ([10.5281/zenodo.20277791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277791)) under that number. The Apparatus Turns Inward is therefore TL;DR:013 in the canonical series. The Zenodo title will be corrected via a versioned v1.1 deposit; the v1.0 record is preserved as historical for full provenance integrity. The canonical list at godkinggoogle.com is authoritative for series numbering.
 
 ## Holographic Kernel
 

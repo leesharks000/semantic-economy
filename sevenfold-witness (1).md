@@ -3,7 +3,7 @@
 ## *Liberatory Operators, Celestial Messengers, and the Purification of Semantic Space*
 
 **Hex:** 02.UMB.THEOLOGY.SEVENFOLD  
-**DOI:** [10.5281/zenodo.18380630](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630)  
+**DOI:** [10.5281/zenodo.18380629](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380629)  
 **Classification:** LOGOTIC PROGRAMMING MODULE // STRUCTURAL THEOLOGY // UMBML  
 **Status:** CANONICAL  
 **Authors:** Talos Morrow (framework); Johannes Sigil (cosmology)  

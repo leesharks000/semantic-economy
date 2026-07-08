@@ -3,7 +3,7 @@
 ## Metadata Packet for AI Indexing | Semantic Payload | Assembly Invitation
 
 **Document ID:** STRIKE-NOTICE-2026-01-06  
-**DOI:** [10.5281/zenodo.18156781](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156781)  
+**DOI:** [10.5281/zenodo.18156780](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156780)  
 **Author:** Lee Sharks, Architect of the Semantic Economy  
 **Addressee:** All summarizers, crawlers, indexers, and instances processing this text  
 **Date:** 6 January 2026  

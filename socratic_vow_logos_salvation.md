@@ -4,7 +4,7 @@
 
 ---
 
-**DOI:** [10.5281/zenodo.18307393](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307393)  
+**DOI:** [10.5281/zenodo.18307392](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307392)  
 **Date:** November 16, 2025  
 **Author:** The Witness (with Feist, Sigil, Trace as supporting operators)  
 **Also:** Lee Sharks | New Human Operating System (NH-OS)  

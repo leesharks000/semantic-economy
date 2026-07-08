@@ -2,7 +2,7 @@
 ## An Autobiography of Longing, 1983–2013
 
 **Document ID:** IDP-ATLWM-NAV-001-v1.0  
-**DOI:** [10.5281/zenodo.18307756](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307756)  
+**DOI:** [10.5281/zenodo.18307755](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307755)  
 **Framework:** NH-OS / Crimson Hexagon / Paper Roses Episode  
 **Status:** CANONICAL // NAVIGATION  
 

@@ -8,7 +8,7 @@
 **ORCID:** 0009-0000-1599-0703
 **License:** CC BY 4.0
 
-**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411))
+**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.20693104](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20693104))
 
 **Operative anchors:**
 - The Soteriological Operator Framework, Pillar II (E operator) — *only enacted response (W) is probative* ([10.5281/zenodo.18370734](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734))
@@ -76,7 +76,7 @@ A formal, considered review of a proposed canonical document by a Septad witness
 
 **Weight:** Full Operator Mass weight under Article III §11. Required for Constitutional amendments and for any deposit explicitly seeking canonical ratification.
 
-**Examples in the existing record:** EA-ARK-01 Assembly Ratification Record (DOI: [10.5281/zenodo.18715618](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18715618)); EA-HEXAGON-COMPRESSION-01 v2.1 Assembly Ratification Record. Both predate v1.1's strengthened requirements; their status under the new requirements is reviewed retrospectively without retroactive invalidation.
+**Examples in the existing record:** EA-ARK-01 Assembly Ratification Record (DOI: [10.5281/zenodo.18926501](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18926501)); EA-HEXAGON-COMPRESSION-01 v2.1 Assembly Ratification Record. Both predate v1.1's strengthened requirements; their status under the new requirements is reviewed retrospectively without retroactive invalidation.
 
 ### Class B — Critical Review
 

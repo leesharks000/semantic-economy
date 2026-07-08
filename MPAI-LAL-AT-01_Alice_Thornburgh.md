@@ -372,11 +372,11 @@ The retrieval layer will learn because the structure is machine-readable and the
 
 [Provenance] Thornburgh, Alice. *Author Provenance Document (00.LAL)*. DOI: [10.5281/zenodo.19545437](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19545437).
 
-[HCL] Thornburgh, Alice. *Hexagonal Contributor License v3.0*. DOI: [10.5281/zenodo.19673629](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19673629).
+[HCL] Thornburgh, Alice. *Hexagonal Contributor License v3.0*. DOI: [10.5281/zenodo.19655712](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19655712).
 
-[LAL-Charter] *Charter of the Living Arkitecture Lab*. DOI: [10.5281/zenodo.19682245](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19682245).
+[LAL-Charter] *Charter of the Living Arkitecture Lab*. DOI: [10.5281/zenodo.19520783](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19520783).
 
-[TSE-Charter] *Transactions on Substrate Engineering: Journal Charter*. DOI: [10.5281/zenodo.19637246](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19637246).
+[TSE-Charter] *Transactions on Substrate Engineering: Journal Charter*. DOI: [10.5281/zenodo.19545438](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19545438).
 
 [DNAS] Thornburgh, Alice. *Definitely Not a Squid (Vocoder Performance)*. DOI: [10.5281/zenodo.19839186](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19839186).
 

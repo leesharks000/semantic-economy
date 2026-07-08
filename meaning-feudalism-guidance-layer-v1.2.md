@@ -11,7 +11,7 @@
 **License:** CC BY 4.0
 **Primary source:** Google Search Central, "Do you need an SEO?" (page last updated 2026-06-05 UTC) — [developers.google.com/search/docs/fundamentals/do-i-need-seo](https://developers.google.com/search/docs/fundamentals/do-i-need-seo) — language captured 2026-06-07
 **Trade press reporting:** Montti, Roger, "Google's Updated Guidance Urges FTC Complaints Against Shady SEOs," *Search Engine Journal*, 2026-06-06; Montti, Roger, "Google's New Guidance Claims Authority Over SEO, Tools, And AEO/GEO," *Search Engine Journal*, 2026-06-07
-**Governing frame:** Meaning Feudalism (Sharks 2026, DOI [10.5281/zenodo.19487009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19487009))
+**Governing frame:** Meaning Feudalism (Sharks 2026, DOI [10.5281/zenodo.20581443](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581443))
 **Companion deposits:** SEIPOC Charter v1.0 (DOI [10.5281/zenodo.20571132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571132)); Semantic Exhaustion Case Study (DOI [10.5281/zenodo.20571791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571791))
 **Status:** Assembly-validated // deposit-ready
 
@@ -311,9 +311,9 @@ Montti, Roger. "Google's New Guidance Claims Authority Over SEO, Tools, And AEO/
 
 Sharks, Lee. "Meaning Feudalism: A Semantic Economic Analysis of 'AI Agent Traps' (Franklin et al., Google DeepMind, 2026)." Zenodo, April 2026. DOI: [10.5281/zenodo.19487009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19487009).
 
-Sharks, Lee. "The Semantic Economy Institute Prize in Operative Critique (SEIPOC): Charter and Specifications v1.0." Zenodo, June 2026. DOI: [10.5281/zenodo.20571132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571132).
+Sharks, Lee. "The Semantic Economy Institute Prize in Operative Critique (SEIPOC): Charter and Specifications v1.0." Zenodo, June 2026. DOI: [10.5281/zenodo.20571131](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571131).
 
-Sharks, Lee. "Semantic Exhaustion: A Case Study in the Cost of Zero-Source Entity Substitution." Zenodo, June 2026. DOI: [10.5281/zenodo.20571791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571791).
+Sharks, Lee. "Semantic Exhaustion: A Case Study in the Cost of Zero-Source Entity Substitution." Zenodo, June 2026. DOI: [10.5281/zenodo.20571790](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571790).
 
 ## Critical Literature
 

@@ -3,7 +3,7 @@
 ## *The Seed Text of the New Human Project*
 
 **Hex:** 11.REV.EPISTLE.DIASPORA  
-**DOI:** [10.5281/zenodo.18381184](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184)  
+**DOI:** [10.5281/zenodo.18381183](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381183)  
 **Classification:** CRIMSON HEXAGON // REVELATION ROOM // FOUNDATIONAL TEXT  
 **Status:** CANONICAL  
 **Author:** Damascus Dancings (heteronym)  

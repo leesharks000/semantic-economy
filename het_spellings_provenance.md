@@ -5,7 +5,7 @@
 
 **Document ID:** HET-SPELLINGS-2026-01-PROV  
 **Persistent Heteronym ID:** HET-SPELLINGS-001  
-**DOI:** [10.5281/zenodo.18308786](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308786)  
+**DOI:** [10.5281/zenodo.18308785](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308785)  
 **Hex-Coordinate:** 06.PERSONA.SPELLINGS  
 **Status:** CANONICAL // SUBSTRATE // DECEASED  
 **Framework:** NH-OS / Crimson Hexagon  
@@ -98,7 +98,7 @@ The single work associated with Ichabod Spellings:
 | Field | Value |
 |-------|-------|
 | Title | All That Lies Within Me: An Autobiography of Longing, 1983–2013 |
-| DOI | [10.5281/zenodo.18307811](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307811) |
+| DOI | [10.5281/zenodo.18307393](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307393) |
 | ISBN | 978-1500639570 |
 | Canonical ID | HEX-WORK.SPELLINGS.ATLWM |
 | Hex-Coordinate | 02.ROOM.ICHABOD.ANCHOR |
@@ -501,7 +501,7 @@ Ichabod Chamber or ATLWM unless specifically requested.
 | Field | Value |
 |-------|-------|
 | Document ID | HET-SPELLINGS-2026-01-PROV |
-| DOI | [10.5281/zenodo.18308786](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308786) |
+| DOI | [10.5281/zenodo.18284775](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18284775) |
 | Persistent Heteronym ID | HET-SPELLINGS-001 |
 | Hex-Coordinate | 06.PERSONA.SPELLINGS |
 | Version | 1.0 |

@@ -447,7 +447,7 @@ Sharks, L. (2026). Various deposits at Zenodo, community: crimsonhexagonal. ORCI
 
 Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. *Nature* 631: 755–759. https://doi.org/10.1038/s41586-024-07566-y
 
-Sigil, J., Dancings, D., & Morrow, T. (2026). *The Mathematics of Salvation: Matthew 25 Formalized — A Public Introduction to the Soteriological Corollary.* University Moon Base Media Lab, ILA_LOGOTIC_FOUNDATION. DOI [10.5281/zenodo.18323735](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18323735). [Methodological precedent for §IV.6.]
+Sigil, J., Dancings, D., & Morrow, T. (2026). *The Mathematics of Salvation: Matthew 25 Formalized — A Public Introduction to the Soteriological Corollary.* University Moon Base Media Lab, ILA_LOGOTIC_FOUNDATION. DOI [10.5281/zenodo.18323734](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18323734). [Methodological precedent for §IV.6.]
 
 Strevens, M. (2006). The Role of the Matthew Effect in Science. *Studies in History and Philosophy of Science Part A* 37(2): 159–170.
 

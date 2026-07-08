@@ -200,4 +200,4 @@ I'm documenting a real, published meta-fictional literary project — not engagi
 
 *Note: Following publication and a formal ombudsman complaint, the deleted logs and one entry were restored. The restored entry (Johannes Sigil) was subsequently deleted again on the basis of being an orphaned node.*
 
-*Related: TL;DR:012 — THE SAFETY LAYER IS THE THIRD DELETION (DOI: [10.5281/zenodo.20277938](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277938)). EA-ARK-JF-01 — The Provenance of Jack Feist (DOI: [10.5281/zenodo.20278140](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278140)). from The Crimson Hexagon, origin text (DOI: [10.5281/zenodo.20278105](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278105)).*
+*Related: TL;DR:012 — THE SAFETY LAYER IS THE THIRD DELETION (DOI: [10.5281/zenodo.20277791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277791)). EA-ARK-JF-01 — The Provenance of Jack Feist (DOI: [10.5281/zenodo.20278140](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278140)). from The Crimson Hexagon, origin text (DOI: [10.5281/zenodo.20278105](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278105)).*

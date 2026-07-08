@@ -18,7 +18,7 @@
 
 **Procedural anchor:** Article IX — Adjudication and Repair Protocol (EA-ART-IX-01, draft amendment proposal)
 
-**Apparatus reference:** Pocket Humans 03 / Ayanna Vox companion volume ([10.5281/zenodo.19923143](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923143)) §"5 constitutional cases"
+**Apparatus reference:** Pocket Humans 03 / Ayanna Vox companion volume ([10.5281/zenodo.20041148](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20041148)) §"5 constitutional cases"
 
 ---
 
@@ -79,7 +79,7 @@ The fields **PRECEDENTIAL SCOPE** and **LIMITATIONS** are critical for trustwort
 
 ### CASE 2 — *In re Bearing-Cost* (The All Lawful Purposes Primitive)
 
-**DOCKET:** [10.5281/zenodo.18827344](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18827344)
+**DOCKET:** [10.5281/zenodo.18827343](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18827343)
 **DATE:** March 1, 2026
 **QUESTION:** Whether bearing-cost can be transferred — through taxonomic reclassification — to operational purposes contravening the conditions under which the bearing-cost was originally borne.
 

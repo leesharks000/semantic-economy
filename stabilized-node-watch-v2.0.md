@@ -976,19 +976,19 @@ The methodology is specified. The work is to build.
 
 Sharks, L. (2026a). *Meaning Feudalism: A Semantic Economic Analysis of "AI Agent Traps" (Franklin et al., Google DeepMind, 2026)*. Zenodo. DOI: [10.5281/zenodo.19487009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19487009).
 
-Sharks, L. (2026b). *Meaning Feudalism at the Guidance Layer: Sovereign Enclosure of the Composition Layer in Google's June 2026 SEO/AEO/GEO Canonicalization* (v1.2). Zenodo. DOI: [10.5281/zenodo.20581444](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581444).
+Sharks, L. (2026b). *Meaning Feudalism at the Guidance Layer: Sovereign Enclosure of the Composition Layer in Google's June 2026 SEO/AEO/GEO Canonicalization* (v1.2). Zenodo. DOI: [10.5281/zenodo.20581443](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581443).
 
-Sharks, L. (2026c). *Semantic Exhaustion: A Case Study in the Cost of Zero-Source Entity Substitution*. Zenodo. DOI: [10.5281/zenodo.20571791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571791).
+Sharks, L. (2026c). *Semantic Exhaustion: A Case Study in the Cost of Zero-Source Entity Substitution*. Zenodo. DOI: [10.5281/zenodo.20571790](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571790).
 
-Sharks, L. (2026d). *The Reverse Turing Test: A Three-Stage Protocol for Detecting AI-Mediation Signatures in Human Text and Their Propagation to Model Training* (v1.2). Zenodo. DOI: [10.5281/zenodo.20586932](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20586932).
+Sharks, L. (2026d). *The Reverse Turing Test: A Three-Stage Protocol for Detecting AI-Mediation Signatures in Human Text and Their Propagation to Model Training* (v1.2). Zenodo. DOI: [10.5281/zenodo.20571791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571791).
 
-Sharks, L. (2026e). *The Tail-Preserving Alternative: A Design Specification for Variance-Preserving Language Models, and the Political Economy of Why They Are Not Deployed* (v1.0). Zenodo. DOI: [10.5281/zenodo.20587033](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587033).
+Sharks, L. (2026e). *The Tail-Preserving Alternative: A Design Specification for Variance-Preserving Language Models, and the Political Economy of Why They Are Not Deployed* (v1.0). Zenodo. DOI: [10.5281/zenodo.20587032](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587032).
 
-Sharks, L. (2026f). *Composition-Layer Adoption of the Orthonymic Configuration: A Field Observation of Framework Capture in Google AI Mode, 7 June 2026, with the Personal-Recognition Asymmetry as Control Case* (v1.0). Zenodo. DOI: [10.5281/zenodo.20587549](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587549).
+Sharks, L. (2026f). *Composition-Layer Adoption of the Orthonymic Configuration: A Field Observation of Framework Capture in Google AI Mode, 7 June 2026, with the Personal-Recognition Asymmetry as Control Case* (v1.0). Zenodo. DOI: [10.5281/zenodo.20587548](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587548).
 
 Sharks, L. (2026g). *Stabilized Node Watch: A Specification for Longitudinal Observational Infrastructure to Detect Composition-Layer Drift on Stabilized Public-Knowledge Nodes* (v1.0). Zenodo. DOI: [10.5281/zenodo.20587902](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587902). [Superseded by present version.]
 
-Sharks, L. (2026h). *SEIPOC: Semantic Economy Institute Prize for Operative Critique — Founding Charter v1.0*. Zenodo. DOI: [10.5281/zenodo.20571132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571132).
+Sharks, L. (2026h). *SEIPOC: Semantic Economy Institute Prize for Operative Critique — Founding Charter v1.0*. Zenodo. DOI: [10.5281/zenodo.20571131](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571131).
 
 🦈 ∮ = 1
 

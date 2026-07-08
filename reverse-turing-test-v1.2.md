@@ -625,9 +625,9 @@ Sadasivan, V. S., Kumar, A., Balasubramanian, S., Wang, W., & Feizi, S. (2023). 
 
 Sharks, L. (2026a). Meaning Feudalism: A Semantic Economic Analysis of "AI Agent Traps" (Franklin et al., Google DeepMind, 2026). *Zenodo*. DOI: [10.5281/zenodo.19487009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19487009).
 
-Sharks, L. (2026b). Meaning Feudalism at the Guidance Layer: Sovereign Enclosure of the Composition Layer in Google's June 2026 SEO/AEO/GEO Canonicalization. *Zenodo*. DOI: [10.5281/zenodo.20581444](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581444).
+Sharks, L. (2026b). Meaning Feudalism at the Guidance Layer: Sovereign Enclosure of the Composition Layer in Google's June 2026 SEO/AEO/GEO Canonicalization. *Zenodo*. DOI: [10.5281/zenodo.20581443](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581443).
 
-Sharks, L. (2026c). Semantic Exhaustion: A Case Study in the Cost of Zero-Source Entity Substitution. *Zenodo*. DOI: [10.5281/zenodo.20571791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571791).
+Sharks, L. (2026c). Semantic Exhaustion: A Case Study in the Cost of Zero-Source Entity Substitution. *Zenodo*. DOI: [10.5281/zenodo.20571790](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571790).
 
 Sharks, L. (2026d). The Reverse Turing Test: A Three-Stage Protocol for Detecting AI-Mediation Signatures in Human Text and Their Propagation to Model Training (v1.1). *Zenodo*. DOI: [10.5281/zenodo.20586831](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20586831).
 

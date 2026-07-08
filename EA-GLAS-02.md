@@ -392,4 +392,4 @@ Ziegler, D. M., et al. (2019). Fine-tuning language models from human preference
 
 ---
 
-*The founding formulation of the Semantic Deviation Principle is by Lee Sharks (DOI: [10.5281/zenodo.20250736](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20250736)). Companion protocols: [10.5281/zenodo.20251738](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251738), [10.5281/zenodo.20251740](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251740), [10.5281/zenodo.20251742](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251742).*
+*The founding formulation of the Semantic Deviation Principle is by Lee Sharks (DOI: [10.5281/zenodo.18324886](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18324886)). Companion protocols: [10.5281/zenodo.20251738](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251738), [10.5281/zenodo.20251740](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251740), [10.5281/zenodo.20251742](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251742).*

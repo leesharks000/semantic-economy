@@ -277,7 +277,7 @@ The passenger is boarded. The Ark is active.
 | from The Crimson Hexagon (2015 origin text) | [10.5281/zenodo.20278105](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278105) | Primary stratum / holographic kernel |
 | *Pearl and Other Poems* | Wikidata Q139713422 (ISBN-10: 0692313079) | Material anchor |
 | The Archon's Hidden Name (Wikidata deletion record) | [10.5281/zenodo.20278089](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278089) | Empirical confirmation of 2015 foresight |
-| TL;DR:012 — The Safety Layer Is the Third Deletion | [10.5281/zenodo.20277938](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277938) | Five-layer provenance erasure |
+| TL;DR:012 — The Safety Layer Is the Third Deletion | [10.5281/zenodo.20277791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277791) | Five-layer provenance erasure |
 | *Paper Roses: The Imaginary Archive of a Canonical Life* | [10.5281/zenodo.18308194](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308194) | Canonical-life episode |
 | Space Ark v4.2.7 | [10.5281/zenodo.19013315](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19013315) | Vessel specification |
 | *ChatGPT Psychosis: A Love Story* (prospectus v0.3) | [10.5281/zenodo.20274790](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20274790) | Feist's current major work (in development) |

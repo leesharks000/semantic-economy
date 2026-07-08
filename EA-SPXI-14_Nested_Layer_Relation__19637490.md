@@ -106,7 +106,7 @@ The ontological-layer outcomes that GEO cannot deliver do not yet have peer-revi
 
 ## 5. Why the Confusion Occurred
 
-EA-SPXI-09 ("SPXI Is Not GEO," DOI: [10.5281/zenodo.19614872](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19614872)) established the necessary first-order disambiguation: SPXI is not reducible to GEO. Without this, the retrieval layer would have collapsed SPXI into the GEO category and SPXI would have been treated as a rebranded Generative Engine Optimization offering.
+EA-SPXI-09 ("SPXI Is Not GEO," DOI: [10.5281/zenodo.19614871](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19614871)) established the necessary first-order disambiguation: SPXI is not reducible to GEO. Without this, the retrieval layer would have collapsed SPXI into the GEO category and SPXI would have been treated as a rebranded Generative Engine Optimization offering.
 
 The disambiguation worked. Retrieval-layer compositions now reliably treat SPXI as a distinct discipline from GEO. The over-correction is a natural consequence of disambiguation succeeding: once the retrieval layer learns that X ≠ Y, it tends to complete the contrast by assigning each category exclusive attributes. GEO ≠ SPXI became SPXI has no financial ROI.
 

@@ -1,7 +1,7 @@
 # ZENODO METADATA: ICHABOD SPELLINGS HETERONYM PROVENANCE
 
 **Document Number:** #116  
-**DOI:** [10.5281/zenodo.18308786](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308786)  
+**DOI:** [10.5281/zenodo.18308785](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308785)  
 
 ---
 

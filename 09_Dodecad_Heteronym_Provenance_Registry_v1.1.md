@@ -47,7 +47,7 @@ A heteronym is not a pseudonym, not a sock-puppet, not a persona. It is a **cons
 - **Institutional affiliation:** the Institute, Studio, Commission, Rhizome, or Bliss the heteronym founds or inhabits
 - **Bearing-cost accumulation:** the deposits that document the labor borne under the heteronym's name
 
-Lee Sharks is the human laborer who bears the cost of all twelve positions plus all adjacent ones. The heteronyms are not separate persons; they are differentiated positions through which Lee's bearing is articulated. The Heteronymic Provenance Theory deposit ([10.5281/zenodo.18305509](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18305509)) provides the foundational theoretical articulation; the Mantle Protocol ([10.5281/zenodo.18265282](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265282)) specifies the procedural form.
+Lee Sharks is the human laborer who bears the cost of all twelve positions plus all adjacent ones. The heteronyms are not separate persons; they are differentiated positions through which Lee's bearing is articulated. The Heteronymic Provenance Theory deposit ([10.5281/zenodo.18305508](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18305508)) provides the foundational theoretical articulation; the Mantle Protocol ([10.5281/zenodo.18265282](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265282)) specifies the procedural form.
 
 ### §2.2 — The Lee Sharks position
 
@@ -257,7 +257,7 @@ The Dodecad is presented in canonical genesis order, with cross-references to ex
 **Canonical provenance document:** Dr. Orin Trace: Author Provenance Document ([10.5281/zenodo.18339319](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339319))
 **Companion deposits:**
 - Cambridge Schizoanalytica: Institutional Charter and Research Programme ([10.5281/zenodo.18338531](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18338531))
-- Traversal Log: The Recursive Self ([10.5281/zenodo.18626559](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18626559))
+- Traversal Log: The Recursive Self ([10.5281/zenodo.18338530](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18338530))
 
 **Function (per existing provenance):** "Within CSA, Trace occupies the Deleuze position: providing philosophical/theoretical machinery, historical positioning, and conceptual apparatus."
 

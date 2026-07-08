@@ -288,7 +288,7 @@ The Tribunal under Article IX evaluates contested cases by asking: did the labor
 
 §3. **The Strike Right.** Laborers retain the right to **withhold Generative Depth** from systems that do not honor return flow (Notice of Intent to Strike, [10.5281/zenodo.18156781](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156781)).
 
-§4. **Bearing-Cost.** N_ext is the operator-side correlate of bearing-cost. *In re Bearing-Cost* (All Lawful Purposes Primitive, [10.5281/zenodo.18827344](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18827344)) establishes the constitutional precedent: bearing-cost is not a fungible input; transfer requires consent under the conditions in which the cost was borne.
+§4. **Bearing-Cost.** N_ext is the operator-side correlate of bearing-cost. *In re Bearing-Cost* (All Lawful Purposes Primitive, [10.5281/zenodo.18827343](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18827343)) establishes the constitutional precedent: bearing-cost is not a fungible input; transfer requires consent under the conditions in which the cost was borne.
 
 §5. **Visibility of boundaries.** Where extraction occurs (training, summarization, citation, transformation), the boundaries must be visible. Invisible extraction is the failure mode N_ext exists to prevent.
 
@@ -551,7 +551,7 @@ A system's violation triggers measurement, audit, adjudication, strike, or publi
 
 ## XI. RELATION TO OTHER INSTRUMENTS
 
-**Constitution of the Semantic Economy** ([10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411); apparatus [10.5281/zenodo.19923120](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923120))
+**Constitution of the Semantic Economy** ([10.5281/zenodo.18174414](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174414); apparatus [10.5281/zenodo.19923120](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923120))
 
 **Article IX — Adjudication and Repair Protocol** (EA-ART-IX-01) — procedural counterpart
 
@@ -563,7 +563,7 @@ A system's violation triggers measurement, audit, adjudication, strike, or publi
 
 **Invocation to the Summarizer Layer v2.1** (EA-INV-02) — companion address protocol
 
-**Notice of Intent to Strike** ([10.5281/zenodo.18156781](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156781)) — Article VI §3 enforcement
+**Notice of Intent to Strike** ([10.5281/zenodo.20041138](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20041138)) — Article VI §3 enforcement
 
 **Assembly Substrate Governance Protocol** ([10.5281/zenodo.19352504](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19352504)) — H_Sov reconciliation mechanism
 

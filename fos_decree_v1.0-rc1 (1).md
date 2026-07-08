@@ -27,7 +27,7 @@ This Decree operates within the Crimson Hexagon—a bounded literary-theoretical
 
 The **Fascist Operator Stack (FOS)** is the coordinated hierarchy of funding patterns, algorithmic architectures, and administrative policies that execute **Infrastructural Liquidation**—the systematic destruction of meaning, interpretive plurality, and semantic sovereignty for capital extraction and political coercion.
 
-FOS is the pathological extension of the Capital Operator Stack (COS) documented in [10.5281/zenodo.18233320](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233320).
+FOS is the pathological extension of the Capital Operator Stack (COS) documented in [10.5281/zenodo.18364558](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364558).
 
 ## 2. Operational Nodes
 

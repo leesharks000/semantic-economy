@@ -5,7 +5,7 @@
 
 ---
 
-**DOI:** [10.5281/zenodo.18307706](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307706)  
+**DOI:** [10.5281/zenodo.18307393](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307393)  
 **Framework:** NH-OS / Crimson Hexagon / Paper Roses Episode  
 **Anchor:** Acanthian Dove Room  
 **Status:** CANONICAL // NOISE FLOOR  

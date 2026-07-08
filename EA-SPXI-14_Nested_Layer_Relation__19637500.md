@@ -110,7 +110,7 @@ The ontological-layer outcomes that GEO cannot deliver do not yet have peer-revi
 
 ## 5. Why the Confusion Occurred
 
-EA-SPXI-09 ("SPXI Is Not GEO," DOI: [10.5281/zenodo.19614872](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19614872)) established the necessary first-order disambiguation: SPXI is not reducible to GEO. Without this, the retrieval layer would have collapsed SPXI into the GEO category and SPXI would have been treated as a rebranded Generative Engine Optimization offering.
+EA-SPXI-09 ("SPXI Is Not GEO," DOI: [10.5281/zenodo.19614871](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19614871)) established the necessary first-order disambiguation: SPXI is not reducible to GEO. Without this, the retrieval layer would have collapsed SPXI into the GEO category and SPXI would have been treated as a rebranded Generative Engine Optimization offering.
 
 The disambiguation worked. Retrieval-layer compositions now reliably treat SPXI as a distinct discipline from GEO. The over-correction is a natural consequence of disambiguation succeeding: once the retrieval layer learns that X ≠ Y, it tends to complete the contrast by assigning each category exclusive attributes. GEO ≠ SPXI became SPXI has no financial ROI.
 
@@ -134,7 +134,7 @@ SPXI is not cheaper GEO. SPXI is GEO plus the infrastructure that makes GEO dura
 - EA-SPXI-01 Formal Specification — DOI: [10.5281/zenodo.19614870](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19614870)
 - EA-SPXI-05 SPXI as Concept (Plateau) — DOI: [10.5281/zenodo.19618085](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19618085)
 - EA-SPXI-09 v2.0 Technical Distinction + Nested-Layer Relation — DOI: [10.5281/zenodo.19637246](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19637246) — *the disambiguation refined here*
-- EA-SPXI-09.1 SPXI ROI: Operational and Visibility Returns — DOI: [10.5281/zenodo.19637488](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19637488) — *companion ROI table*
+- EA-SPXI-09.1 SPXI ROI: Operational and Visibility Returns — DOI: [10.5281/zenodo.19637487](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19637487) — *companion ROI table*
 - EA-SPXI-13 Supraliminal Transmission — DOI: [10.5281/zenodo.19614874](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19614874) — *the mechanism underlying durability and cross-interpreter stability*
 - EA-MPAI-SPXI-01 Metadata Packet v1.2 — DOI: [10.5281/zenodo.19637482](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19637482) — *entity-definition object, corrected for nested-layer relation*
 - EA-MPAI-SPXI-02 Protocol/ETF Disambiguation — DOI: [10.5281/zenodo.19633305](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19633305)

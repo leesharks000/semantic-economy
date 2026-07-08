@@ -149,7 +149,7 @@ Per the License's anchoring requirements, plus the scope-modification permitting
    *Maria's foundational credential within the Archive.*
 
 2. **The Sappho Room** — Hardened Reconstruction (and companion hymn)
-   DOI: [10.5281/zenodo.18237216](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18237216) (Hardened Reconstruction)
+   DOI: [10.5281/zenodo.18237215](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18237215) (Hardened Reconstruction)
    DOI: [10.5281/zenodo.18234110](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18234110) (Hymn to Lyric Self-Archiving)
    *The room Maria helped rebuild; Maria is Satellite B of the Sappho Room.*
 

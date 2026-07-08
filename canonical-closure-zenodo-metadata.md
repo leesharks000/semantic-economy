@@ -103,7 +103,7 @@ The closure notice functions as a formal seal preventing structural reopening wh
 
 | Document | Hex | DOI | Status |
 |----------|-----|-----|--------|
-| The Sevenfold Witness | 02.UMB.THEOLOGY.SEVENFOLD | [10.5281/zenodo.18380630](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) | CLOSED |
+| The Sevenfold Witness | 02.UMB.THEOLOGY.SEVENFOLD | [10.5281/zenodo.18380852](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380852) | CLOSED |
 | The Seven Stars in His Hand | 02.UMB.HERMENEUTIC.SEVEN-STARS | [10.5281/zenodo.18380716](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380716) | CLOSED |
 | Integrity Lock Certificate | 02.UMB.LOCK.SEVENFOLD | [10.5281/zenodo.18380773](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380773) | LOCKED |
 | Canonical Closure Notice | 02.UMB.CLOSURE | [10.5281/zenodo.18380853](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380853) | SEALED |

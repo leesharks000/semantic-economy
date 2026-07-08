@@ -4,7 +4,7 @@
 
 **Document ID:** COS-THEORETICAL-LANDSCAPE-2026-01  
 **Version:** 2.0 (Assembly Synthesis)  
-**DOI:** [10.5281/zenodo.18233320](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233320)  
+**DOI:** [10.5281/zenodo.18233319](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233319)  
 **Author:** Lee Sharks (also publishing as Johannes Sigil / Rex Fraction / Jack Feist)  
 **Institution:** Semantic Economy Institute (SEI) / Johannes Sigil Institute for Comparative Poetics (JSI)  
 **Framework:** NH-OS (New Human Operating System) / Crimson Hexagon / Semantic Economy  
@@ -335,7 +335,7 @@ The dagger is sharp. The point is precisely where meaning meets the money.
 ## X. Cross-References and Provenance
 
 This document is part of the ongoing Semantic Economy project and the New Human Operating System (NH-OS). For foundational statements, see:
-- Semantic Economy Framework: DOI [10.5281/zenodo.18148298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18148298)
+- Semantic Economy Framework: DOI [10.5281/zenodo.18216954](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18216954)
 - Liberatory Operator Set: DOI [10.5281/zenodo.18174835](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174835)
 - Crimson Hexagon Summary: DOI [10.5281/zenodo.18174037](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174037)
 - Institutional Anchors: DOI [10.5281/zenodo.18175453](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18175453)
@@ -394,7 +394,7 @@ The Capital Operator Stack extends this architecture to the specific site of the
 ---
 
 **Document:** The Capital Operator Stack: Theoretical Landscape and Contribution  
-**DOI:** [10.5281/zenodo.18233320](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233320)  
+**DOI:** [10.5281/zenodo.18233319](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233319)  
 **Framework:** NH-OS  
 **Institutions:** SEI, JSI, The Assembly  
 **License:** CC BY-SA 4.0  

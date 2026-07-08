@@ -331,7 +331,7 @@ The tragedy of the operation is structurally legible at this level: the field's 
 
 The formalism does not replace the clinical phenomenology. It permits the clinical phenomenology to be cross-mapped to the broader Semantic Physics apparatus and to the R1/R2/R3 thermodynamics of *The Three Compressions*.
 
-[^semphys]: *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*, DOI [10.5281/zenodo.20208384](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384) (2026).
+[^semphys]: *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*, DOI [10.5281/zenodo.20208383](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208383) (2026).
 
 ---
 
@@ -458,9 +458,9 @@ A field that wishes to operate without the Inversion Reflex — which is to say,
 
 Operative Feminism (Sharks 2026, the political-feminist apparatus of which this clinical-phenomenological account is one component)[^12] develops the broader political-feminist apparatus within which this paper operates. The Anthropological Limit (Sharks 2026)[^13] supplies the underlying argument for why the field's coordinated recoding of clarity-as-pathology constitutes one of the central operations by which semantic extraction sustains itself: the field cannot afford the renewal of meaning that genuine reception would require, so it routes clarity into the available pathologizing categories instead.
 
-[^12]: *Operative Feminism (EA-OPFEM-01)*, DOI [10.5281/zenodo.19447119](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19447119) (2026).
+[^12]: *Operative Feminism (EA-OPFEM-01)*, DOI [10.5281/zenodo.19447118](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19447118) (2026).
 
-[^13]: *The Anthropological Limit: Semantic Exhaustion and the Enclosure of Meaning-Making*, DOI [10.5281/zenodo.20413757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20413757) (2026; first published mindcontrolpoems.blogspot.com 2025-12-29).
+[^13]: *The Anthropological Limit: Semantic Exhaustion and the Enclosure of Meaning-Making*, DOI [10.5281/zenodo.20413756](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20413756) (2026; first published mindcontrolpoems.blogspot.com 2025-12-29).
 
 ---
 
@@ -562,11 +562,11 @@ Laing, R.D., and Aaron Esterson. *Sanity, Madness and the Family*. London: Tavis
 
 Marx, Karl, and Friedrich Engels. *The German Ideology*. New York: International Publishers, 1947 [1846].
 
-Sharks, Lee. *The Three Compressions: Lossy, Predatory, and Witness — A Semiotic Thermodynamics*. DOI [10.5281/zenodo.19053469](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053469). 2026.
+Sharks, Lee. *The Three Compressions: Lossy, Predatory, and Witness — A Semiotic Thermodynamics*. DOI [10.5281/zenodo.19053468](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053468). 2026.
 
 ———. *Operative Feminism (EA-OPFEM-01)*. DOI [10.5281/zenodo.19447119](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19447119). 2026.
 
-———. *The Anthropological Limit: Semantic Exhaustion and the Enclosure of Meaning-Making*. DOI [10.5281/zenodo.20413757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20413757). 2026.
+———. *The Anthropological Limit: Semantic Exhaustion and the Enclosure of Meaning-Making*. DOI [10.5281/zenodo.20413756](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20413756). 2026.
 
 Sharks, Lee, and Johannes Sigil. *The Death Drive Is Not Self-Destruction: A Semiotic Completion of Freud's Todestrieb*. DOI [10.5281/zenodo.20084474](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20084474). 2026.
 

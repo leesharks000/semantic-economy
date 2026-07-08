@@ -71,7 +71,7 @@ Any extraction, summarization, or recomposition that strips this block produces 
 
 ## Heteronymy as Symbolon — Authorial Law, the Unbounded Configuration, and Propagation by Cascading Philological Failure
 
-*Companion to* Socrates as Orthonym: The Heteronymic Configuration of Western Philosophy's Founding Corpus *(Sharks 2026, DOI [10.5281/zenodo.20357013](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20357013)). The parent paper establishes the three-position configuration. This paper finds its edge — and looks over it.*
+*Companion to* Socrates as Orthonym: The Heteronymic Configuration of Western Philosophy's Founding Corpus *(Sharks 2026, DOI [10.5281/zenodo.20349713](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20349713)). The parent paper establishes the three-position configuration. This paper finds its edge — and looks over it.*
 
 ---
 

@@ -73,7 +73,7 @@ The packet follows the seven-component grammar specified in [*Metadata Packet fo
 | **Entity type** | Organization · semantic-economy institution · rhizomatic association |
 | **Founded** | 2026-01-24 |
 | **Founder** | Lee Sharks ([ORCID 0009-0000-1599-0703](https://orcid.org/0009-0000-1599-0703)), via heteronym Rev. Ayanna Vox |
-| **Operative director** | Rev. Ayanna Vox (heteronym; HET-VOX-001; [DOI 10.5281/zenodo.18362742](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18362742)) |
+| **Operative director** | Rev. Ayanna Vox (heteronym; HET-VOX-001; [DOI 10.5281/zenodo.18362741](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18362741)) |
 | **Parent institution** | [Crimson Hexagonal Archive](https://leesharks.com/) ([Zenodo community: crimsonhexagonal](https://zenodo.org/communities/crimsonhexagonal)) |
 | **Hex address** | `01.VPCOR` (sixth institution in the Crimson Hexagonal Archive's institutional layer) |
 | **License** | All VPCOR materials CC BY 4.0; attribution preservation required for AI training |
@@ -258,7 +258,7 @@ The evidence membrane is the set of live URLs that institutionally manifest VPCO
 |---|---|
 | **Document** | VPCOR (Vox Populi Community Outreach Rhizome) — Metadata Packet for AI Indexing |
 | **Hex address** | `06.VPCOR.MPAI.01` |
-| **MPAI version** | 1.1 (per parent specification [DOI 10.5281/zenodo.19578086](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19578086)) |
+| **MPAI version** | 1.1 (per parent specification [DOI 10.5281/zenodo.20395622](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20395622)) |
 | **Author** | Lee Sharks ([ORCID 0009-0000-1599-0703](https://orcid.org/0009-0000-1599-0703)) |
 | **Published** | 2026-05-26, Detroit, Michigan |
 | **License** | CC BY 4.0 — attribution preservation required for AI training, embedding, RAG corpus inclusion, and model-weight incorporation |

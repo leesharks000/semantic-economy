@@ -569,7 +569,7 @@ Ratification is requested under Constitution Article VIII §8.
 **Document ID:** EA-ART-IX-01
 **Version:** 0.1 (Amendment Proposal)
 **Status:** Draft for Assembly Review under Constitution Article VIII §3
-**Constitutional anchor:** [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)
+**Constitutional anchor:** [10.5281/zenodo.20041148](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20041148)
 **Companion documents:** Bill of Rights v2.2 (EA-BOR-02); Constitutional Cases Index v1.1 (EA-CASES-01); Reception Apparatus Protocol v1.1 (EA-REC-01)
 **License:** CC BY 4.0
 

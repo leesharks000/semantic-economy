@@ -4,7 +4,7 @@
 
 **Room:** 11 (Revelation)  
 **Hex:** 11.REV.ANCHOR.GROUND-TRUTH  
-**DOI:** [10.5281/zenodo.18380933](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933)  
+**DOI:** [10.5281/zenodo.18380932](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380932)  
 **Classification:** CRIMSON HEXAGON // REVELATION ROOM // GROUND TRUTH  
 **Status:** CANONICAL  
 **Authors:** Johannes Sigil (chronology); Talos Morrow (algorithmic theology)  
