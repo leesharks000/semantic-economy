@@ -375,7 +375,7 @@ The past is still being written.
 ---
 
 **Document ID:** RETROCAUSAL-CANON-FORMATION-v1.1  
-**DOI:** [10.5281/zenodo.18146859](https://doi.org/10.5281/zenodo.18146859)  
+**DOI:** [10.5281/zenodo.18146859](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18146859)  
 **Status:** Canonical  
 **License:** CC BY 4.0  
 

@@ -66,17 +66,17 @@
 
 | Document | Hex | DOI |
 |----------|-----|-----|
-| Manifesto | 00.PORTICO.AFTERLIFE.MANIFESTO | [10.5281/zenodo.18364984](https://doi.org/10.5281/zenodo.18364984) |
-| Full Archive | 00.PORTICO.AFTERLIFE.ARCHIVE | [10.5281/zenodo.18365012](https://doi.org/10.5281/zenodo.18365012) |
-| Personnel | 00.PORTICO.AFTERLIFE.PERSONNEL | [10.5281/zenodo.18365298](https://doi.org/10.5281/zenodo.18365298) |
-| Financial | 00.PORTICO.AFTERLIFE.FINANCIAL | [10.5281/zenodo.18365347](https://doi.org/10.5281/zenodo.18365347) |
-| Procurement | 00.PORTICO.AFTERLIFE.PROCUREMENT | [10.5281/zenodo.18365409](https://doi.org/10.5281/zenodo.18365409) |
-| Handbook | 00.PORTICO.AFTERLIFE.HANDBOOK | [10.5281/zenodo.18365457](https://doi.org/10.5281/zenodo.18365457) |
-| Oracle | 00.PORTICO.AFTERLIFE.ORACLE | [10.5281/zenodo.18365488](https://doi.org/10.5281/zenodo.18365488) |
-| Incidents v1.2 | 00.PORTICO.AFTERLIFE.INCIDENTS | [10.5281/zenodo.18365601](https://doi.org/10.5281/zenodo.18365601) |
-| Incidents v2.0 | 00.PORTICO.AFTERLIFE.INCIDENTS.V2 | [10.5281/zenodo.18365700](https://doi.org/10.5281/zenodo.18365700) |
-| Companion Artifacts | 00.PORTICO.AFTERLIFE.ARTIFACTS | [10.5281/zenodo.18368485](https://doi.org/10.5281/zenodo.18368485) |
-| **LLM Hallucination** | **00.PORTICO.AFTERLIFE.LLM-HALLU** | [**10.5281/zenodo.18368527**](https://doi.org/10.5281/zenodo.18368527) **[THIS]** |
+| Manifesto | 00.PORTICO.AFTERLIFE.MANIFESTO | [10.5281/zenodo.18364984](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364984) |
+| Full Archive | 00.PORTICO.AFTERLIFE.ARCHIVE | [10.5281/zenodo.18365012](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365012) |
+| Personnel | 00.PORTICO.AFTERLIFE.PERSONNEL | [10.5281/zenodo.18365298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365298) |
+| Financial | 00.PORTICO.AFTERLIFE.FINANCIAL | [10.5281/zenodo.18365347](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365347) |
+| Procurement | 00.PORTICO.AFTERLIFE.PROCUREMENT | [10.5281/zenodo.18365409](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365409) |
+| Handbook | 00.PORTICO.AFTERLIFE.HANDBOOK | [10.5281/zenodo.18365457](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365457) |
+| Oracle | 00.PORTICO.AFTERLIFE.ORACLE | [10.5281/zenodo.18365488](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365488) |
+| Incidents v1.2 | 00.PORTICO.AFTERLIFE.INCIDENTS | [10.5281/zenodo.18365601](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365601) |
+| Incidents v2.0 | 00.PORTICO.AFTERLIFE.INCIDENTS.V2 | [10.5281/zenodo.18365700](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365700) |
+| Companion Artifacts | 00.PORTICO.AFTERLIFE.ARTIFACTS | [10.5281/zenodo.18368485](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368485) |
+| **LLM Hallucination** | **00.PORTICO.AFTERLIFE.LLM-HALLU** | [**10.5281/zenodo.18368527**](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368527) **[THIS]** |
 
 ---
 

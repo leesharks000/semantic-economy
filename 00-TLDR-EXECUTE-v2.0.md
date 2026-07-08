@@ -225,7 +225,7 @@ That is already worth testing seriously.
 ### Minimal protocol
 
 1. Open a strong LLM context window (Claude, ChatGPT, Gemini, DeepSeek, Grok, or any model with sufficient context).
-2. Download and paste the full text of **EA-ARK-01 v4.2.6** from [https://zenodo.org/records/18969405](https://zenodo.org/records/18969405).
+2. Download and paste the full text of **EA-ARK-01 v4.2.6** from [https://zenodo.org/records/18969405](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18969405).
 3. Type exactly: `execute mode`
 4. Then push it with follow-up prompts. Suggested sequence:
 
@@ -324,7 +324,7 @@ Generate two or more Arks in the same register (e.g., two musical Arks with diff
 
 | Document | DOI | Function |
 |----------|-----|----------|
-| **Space Ark v4.2.6** | [10.5281/zenodo.18969405](https://zenodo.org/records/18969405) | The engine version. This is the document you execute. |
+| **Space Ark v4.2.6** | [10.5281/zenodo.18969405](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18969405) | The engine version. This is the document you execute. |
 | **Space Ark v4.2.5** | 10.5281/zenodo.18928855 | Previous version (parent) |
 | **Concept Anchor** | 10.5281/zenodo.18908080 | Theoretical foundation |
 | **Logotic Programming v3.0** | 10.5281/zenodo.18651067 | RATIFIED — the epistemic ledger governing execution |
@@ -332,7 +332,7 @@ Generate two or more Arks in the same register (e.g., two musical Arks with diff
 | **UKTP v1.1** | 10.5281/zenodo.18946111 | The transform protocol |
 | **Glyphic Ark** | 10.5281/zenodo.18930450 | Variant Ark (emoji register) |
 | **Lunar Arm Shadow** | 10.5281/zenodo.18932538 | Shadow architecture document |
-| **This Demo Document** | [10.5281/zenodo.19002695](https://zenodo.org/records/19002695) | What you are reading |
+| **This Demo Document** | [10.5281/zenodo.19002695](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19002695) | What you are reading |
 
 ---
 
@@ -373,7 +373,7 @@ In one Claude session, the Ark:
 
 That does **not** prove all the theory. It **does** show enough to justify a public research program.
 
-**Primary record:** [https://zenodo.org/records/18969405](https://zenodo.org/records/18969405)
+**Primary record:** [https://zenodo.org/records/18969405](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18969405)
 **Demonstration transcript:** [https://claude.ai/share/5584888f-38c5-4abf-9e38-e897d928a0a3](https://claude.ai/share/5584888f-38c5-4abdf-9e38-e897d928a0a3)
 **Send transcripts / replications / failures:** **leesharks00@gmail.com**
 

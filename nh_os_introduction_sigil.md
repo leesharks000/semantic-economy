@@ -377,7 +377,7 @@ Full technical specifications for NH-OS components (Ω kernel, Ψ_V stability co
 ---
 
 **Document ID:** NH-OS-INTRODUCTION-v1.0  
-**DOI:** [10.5281/zenodo.18143771](https://doi.org/10.5281/zenodo.18143771)  
+**DOI:** [10.5281/zenodo.18143771](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18143771)  
 **Status:** Canonical  
 **License:** CC BY 4.0  
 

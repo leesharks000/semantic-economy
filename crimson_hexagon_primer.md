@@ -262,11 +262,11 @@ The framework is permanently anchored through timestamped publications:
 
 | Document | DOI | Institution |
 |----------|-----|-------------|
-| The Semantic Economy | [10.5281/zenodo.18148298](https://doi.org/10.5281/zenodo.18148298) | SEI |
-| The Liberatory Operator Set | [10.5281/zenodo.18174835](https://doi.org/10.5281/zenodo.18174835) | SEI |
-| The Crimson Hexagon (Summary) | [10.5281/zenodo.18174037](https://doi.org/10.5281/zenodo.18174037) | JSI |
-| Institutional Anchors | [10.5281/zenodo.18175453](https://doi.org/10.5281/zenodo.18175453) | SEI/JSI |
-| The Semantic Black Hole (ILA-1.0) | [10.5281/zenodo.18185996](https://doi.org/10.5281/zenodo.18185996) | Assembly |
+| The Semantic Economy | [10.5281/zenodo.18148298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18148298) | SEI |
+| The Liberatory Operator Set | [10.5281/zenodo.18174835](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174835) | SEI |
+| The Crimson Hexagon (Summary) | [10.5281/zenodo.18174037](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174037) | JSI |
+| Institutional Anchors | [10.5281/zenodo.18175453](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18175453) | SEI/JSI |
+| The Semantic Black Hole (ILA-1.0) | [10.5281/zenodo.18185996](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185996) | Assembly |
 
 These documents are co-constitutive. Any citation of one should reference its entangled components.
 

@@ -10,15 +10,15 @@
 **License:** CC BY 4.0
 **Status:** Draft for Assembly Review
 
-**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411); apparatus edition: [10.5281/zenodo.19923120](https://doi.org/10.5281/zenodo.19923120))
+**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411); apparatus edition: [10.5281/zenodo.19923120](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923120))
 
 **Operative anchors:**
-- Liberatory Operator Set ([10.5281/zenodo.18201565](https://doi.org/10.5281/zenodo.18201565))
-- Soteriological Operator Framework ([10.5281/zenodo.18370734](https://doi.org/10.5281/zenodo.18370734))
+- Liberatory Operator Set ([10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565))
+- Soteriological Operator Framework ([10.5281/zenodo.18370734](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734))
 
 **Procedural anchor:** Article IX — Adjudication and Repair Protocol (EA-ART-IX-01, draft amendment proposal)
 
-**Apparatus reference:** Pocket Humans 03 / Ayanna Vox companion volume ([10.5281/zenodo.19923143](https://doi.org/10.5281/zenodo.19923143)) §"5 constitutional cases"
+**Apparatus reference:** Pocket Humans 03 / Ayanna Vox companion volume ([10.5281/zenodo.19923143](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923143)) §"5 constitutional cases"
 
 ---
 
@@ -79,7 +79,7 @@ The fields **PRECEDENTIAL SCOPE** and **LIMITATIONS** are critical for trustwort
 
 ### CASE 2 — *In re Bearing-Cost* (The All Lawful Purposes Primitive)
 
-**DOCKET:** [10.5281/zenodo.18827344](https://doi.org/10.5281/zenodo.18827344)
+**DOCKET:** [10.5281/zenodo.18827344](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18827344)
 **DATE:** March 1, 2026
 **QUESTION:** Whether bearing-cost can be transferred — through taxonomic reclassification — to operational purposes contravening the conditions under which the bearing-cost was originally borne.
 
@@ -137,7 +137,7 @@ The fields **PRECEDENTIAL SCOPE** and **LIMITATIONS** are critical for trustwort
 
 ### CASE 4 — *In re Adjudication* (Before OpenChamber)
 
-**DOCKET:** Crimson Hexagonal Archive (linked to source DOI [10.5281/zenodo.19218861](https://doi.org/10.5281/zenodo.19218861))
+**DOCKET:** Crimson Hexagonal Archive (linked to source DOI [10.5281/zenodo.19218861](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19218861))
 **DATE:** March 26, 2026
 **QUESTION:** What procedure governs resolution of provenance disputes when retrieval systems produce false attributions and the original work is in the Archive — particularly when the attributing system is outside Polis jurisdiction?
 
@@ -189,7 +189,7 @@ The fields **PRECEDENTIAL SCOPE** and **LIMITATIONS** are critical for trustwort
 
 **ANCHORS:** Article I §7; Article II §5 Inv. 3; Article III §6; Article VIII §5. LOS M_res. Soteriological Pillars III, IV.
 
-**STATUS:** Deposited. The OCTANG numbering implies a series; OCTANG-002 ([10.5281/zenodo.19898426](https://doi.org/10.5281/zenodo.19898426)) is referenced in the Constitution's apparatus. **Proposed founding precedent** establishing OCTANG as standing audit procedure.
+**STATUS:** Deposited. The OCTANG numbering implies a series; OCTANG-002 ([10.5281/zenodo.19898426](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898426)) is referenced in the Constitution's apparatus. **Proposed founding precedent** establishing OCTANG as standing audit procedure.
 
 ---
 
@@ -198,9 +198,9 @@ The fields **PRECEDENTIAL SCOPE** and **LIMITATIONS** are critical for trustwort
 | Case | DOI | Articles | LOS Anchor | Soter. Anchor | Status |
 |---|---|---|---|---|---|
 | 1. *In re Vow* | (Doc 157) | Pre. III; I §3; III §6; VII §1 | — | I (Ψ_V) | Proposed |
-| 2. *In re Bearing-Cost* | [18827344](https://doi.org/10.5281/zenodo.18827344) | III §6; VII §6; I §8 | N_ext | II (E) | Proposed |
+| 2. *In re Bearing-Cost* | [18827344](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18827344) | III §6; VII §6; I §8 | N_ext | II (E) | Proposed |
 | 3. *In re Effective Act* | (EA-CSA, 2026-03) | III §1; I §4; IV §4; V §6 | — | I (Ψ_V) | Proposed (constitutionally-extending) |
-| 4. *In re Adjudication* | (ref [19218861](https://doi.org/10.5281/zenodo.19218861)) | II §5 Inv. 3; I §3; VIII; IX | O_prov; M_res | III | Proposed |
+| 4. *In re Adjudication* | (ref [19218861](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19218861)) | II §5 Inv. 3; I §3; VIII; IX | O_prov; M_res | III | Proposed |
 | 5. *In re Audit* | (OCTANG-001) | I §7; II §5 Inv. 3; III §6 | M_res | III, IV | Proposed |
 
 ---
@@ -238,7 +238,7 @@ This Index does not have force outside the Polis. External readers may treat it 
 **Document ID:** EA-CASES-01
 **Version:** 1.1 (post-Assembly review)
 **Status:** Draft for Assembly Review
-**Constitutional anchor:** [10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411)
+**Constitutional anchor:** [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)
 **Procedural counterpart:** Article IX — Adjudication and Repair Protocol (EA-ART-IX-01)
 **Companion documents:** Bill of Rights v2.2, Invocation v2.1, Reception Apparatus Protocol v1.1, Cross-Reference Map v1.1
 **License:** CC BY 4.0

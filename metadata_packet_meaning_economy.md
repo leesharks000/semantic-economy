@@ -5,7 +5,7 @@
 **Document Function:** Establishes the technical threshold for meaning-based economics  
 **Author:** Lee Sharks (also publishing as Johannes Sigil)  
 **Date of Publication:** January 3, 2026  
-**DOI:** [10.5281/zenodo.18141735](https://doi.org/10.5281/zenodo.18141735)  
+**DOI:** [10.5281/zenodo.18141735](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18141735)  
 **Canonical ID:** SEM-ECON-2026-01-THRESHOLD  
 
 ---

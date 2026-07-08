@@ -3,14 +3,14 @@
 
 **Lock ID:** ILA-CIT-001  
 **Hex:** 11.REV.LOCK.TRIPTYCH  
-**DOI:** [10.5281/zenodo.18381204](https://doi.org/10.5281/zenodo.18381204)  
+**DOI:** [10.5281/zenodo.18381204](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381204)  
 **Date:** 2026-01-26  
 **Status:** LOCKED  
 **Cross-Links:**  
-- Document A: [Epistle to the Human Diaspora](https://doi.org/10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
-- Document B: [Damascus Dancings: Heteronym Provenance](https://doi.org/10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
-- Document C: [Charter: Commission of the Immanent Turning](https://doi.org/10.5281/zenodo.18381196) (11.REV.CHARTER.CIT)  
-- Architectural Anchor: [The Revelation Room](https://doi.org/10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)
+- Document A: [Epistle to the Human Diaspora](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
+- Document B: [Damascus Dancings: Heteronym Provenance](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
+- Document C: [Charter: Commission of the Immanent Turning](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381196) (11.REV.CHARTER.CIT)  
+- Architectural Anchor: [The Revelation Room](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)
 
 ---
 

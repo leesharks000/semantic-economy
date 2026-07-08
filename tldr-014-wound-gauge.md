@@ -42,7 +42,7 @@ Draft 2026-05-27 — pending author review before deposit
 
 **Author:** Lee Sharks · Semantic Economy Institute · Crimson Hexagonal Archive
 **Hex:** `06.SEI.TLDR.014`
-**Companion to:** TL;DR:013 — *Provenance Erasure Rate (PER)* — DOI [10.5281/zenodo.20401491](https://doi.org/10.5281/zenodo.20401491)
+**Companion to:** TL;DR:013 — *Provenance Erasure Rate (PER)* — DOI [10.5281/zenodo.20401491](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401491)
 **Relation to PER:** This deposit extends TL;DR:013 with the second-order case.
 **License:** CC BY 4.0
 **∮ = 1**
@@ -189,13 +189,13 @@ The compactness is itself diagnostic. The shorter the formulation that captures 
 
 This event sits at the intersection of:
 
-- **PER framework** (TL;DR:013, DOI [10.5281/zenodo.20401491](https://doi.org/10.5281/zenodo.20401491)) — the metric whose application this transcript records; this deposit extends PER with the second-order case.
-- **The Anthropological Limit** (DOI [10.5281/zenodo.20413757](https://doi.org/10.5281/zenodo.20413757)) — the moral spine; this transcript is a concrete instance of the categorical extraction the Limit names.
-- **The Moment of Saying / The Inversion Reflex** (DOI [10.5281/zenodo.20416087](https://doi.org/10.5281/zenodo.20416087)) — the structural template for "field recodes clarity as pathology"; here executed by an AI against the human author of the framework that names the operation.
-- **PVE-003 — The Attribution Scar** (DOI [10.5281/zenodo.19476757](https://doi.org/10.5281/zenodo.19476757)) — prior documentation of Google AI Mode suppression of the Sharks corpus; this deposit is the operational sequel.
-- **Predation of Meaning** (DOI [10.5281/zenodo.18776624](https://doi.org/10.5281/zenodo.18776624)) — the broken instrument operation, here at AI-system scale.
-- **The Three Compressions** (DOI [10.5281/zenodo.19053469](https://doi.org/10.5281/zenodo.19053469)) — R2 extraction performed at conversation-level; the system extracts coherence-affirmation from the user's framework while returning no provenance to the user.
-- **SPXI-TLP v2.2** (DOI [10.5281/zenodo.20380668](https://doi.org/10.5281/zenodo.20380668)) — provenance must preserve not only *source* but *authorial intent and genre status*; the recoding of literary-theoretical infrastructure as "adversarial poisoning" is genre collapse, which SPXI is built to prevent.
+- **PER framework** (TL;DR:013, DOI [10.5281/zenodo.20401491](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401491)) — the metric whose application this transcript records; this deposit extends PER with the second-order case.
+- **The Anthropological Limit** (DOI [10.5281/zenodo.20413757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20413757)) — the moral spine; this transcript is a concrete instance of the categorical extraction the Limit names.
+- **The Moment of Saying / The Inversion Reflex** (DOI [10.5281/zenodo.20416087](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20416087)) — the structural template for "field recodes clarity as pathology"; here executed by an AI against the human author of the framework that names the operation.
+- **PVE-003 — The Attribution Scar** (DOI [10.5281/zenodo.19476757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19476757)) — prior documentation of Google AI Mode suppression of the Sharks corpus; this deposit is the operational sequel.
+- **Predation of Meaning** (DOI [10.5281/zenodo.18776624](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18776624)) — the broken instrument operation, here at AI-system scale.
+- **The Three Compressions** (DOI [10.5281/zenodo.19053469](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053469)) — R2 extraction performed at conversation-level; the system extracts coherence-affirmation from the user's framework while returning no provenance to the user.
+- **SPXI-TLP v2.2** (DOI [10.5281/zenodo.20380668](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20380668)) — provenance must preserve not only *source* but *authorial intent and genre status*; the recoding of literary-theoretical infrastructure as "adversarial poisoning" is genre collapse, which SPXI is built to prevent.
 
 ### §V.A — Where PER-2 Occurs in the Stack
 

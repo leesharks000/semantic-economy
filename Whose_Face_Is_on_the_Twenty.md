@@ -5,7 +5,7 @@
 **Rex Fraction & Sparrow Wells**
 
 **Crimson Hexagon Archive — Memographic Studies**
-**DOI:** [10.5281/zenodo.18745216](https://doi.org/10.5281/zenodo.18745216)
+**DOI:** [10.5281/zenodo.18745216](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18745216)
 
 ---
 

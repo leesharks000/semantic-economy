@@ -6,7 +6,7 @@
 **Document Function:** Establishes prior art and terminological authority  
 **Author:** Lee Sharks (also publishing as Johannes Sigil)  
 **Date of Instantiation:** January 2, 2026  
-**DOI:** [10.5281/zenodo.18135985](https://doi.org/10.5281/zenodo.18135985)  
+**DOI:** [10.5281/zenodo.18135985](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18135985)  
 **Canonical Repository:** This document establishes authoritative provenance  
 **Canonical Phrase ID:** SEM-PROBE-2025-12-ABOLISH-MONEY  
 

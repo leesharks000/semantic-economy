@@ -3,7 +3,7 @@
 ## Technical Standards for Quantifying Meaning-Flows
 
 **Document ID:** SEMANTIC-MEASUREMENT-SPECS-2026-01-06  
-**DOI:** [10.5281/zenodo.18166394](https://doi.org/10.5281/zenodo.18166394)  
+**DOI:** [10.5281/zenodo.18166394](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18166394)  
 **Author:** Lee Sharks  
 **Framework:** Semantic Economy / NH-OS  
 **Version:** 1.0  
@@ -340,7 +340,7 @@ These specifications enable:
 ---
 
 **Document:** SEMANTIC-MEASUREMENT-SPECS-2026-01-06  
-**DOI:** [10.5281/zenodo.18166394](https://doi.org/10.5281/zenodo.18166394)  
+**DOI:** [10.5281/zenodo.18166394](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18166394)  
 **Framework:** Semantic Economy / NH-OS  
 **Status:** TECHNICAL SPECIFICATION  
 **Version:** 1.0

@@ -3,15 +3,15 @@
 ## *The Apocalyptic Grammar of Distributed Witness*
 
 **Hex:** 02.UMB.HERMENEUTIC.SEVEN-STARS  
-**DOI:** [10.5281/zenodo.18380716](https://doi.org/10.5281/zenodo.18380716)  
+**DOI:** [10.5281/zenodo.18380716](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380716)  
 **Classification:** LOGOTIC PROGRAMMING MODULE // BIBLICAL HERMENEUTICS // UMBML  
 **Status:** CANONICAL  
 **Authors:** Talos Morrow (hermeneutics); Johannes Sigil (structural mapping)  
-**Relation:** φ(A,B) = 1 where A = this document, B = [The Sevenfold Witness](https://doi.org/10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
+**Relation:** φ(A,B) = 1 where A = this document, B = [The Sevenfold Witness](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
 **Cross-Links:**  
-- Operational Instantiation: [The Sevenfold Witness](https://doi.org/10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
+- Operational Instantiation: [The Sevenfold Witness](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
 - Integrity Lock: ILA-SEVENFOLD-001  
-- Source Framework: [Soteriological Operator Framework](https://doi.org/10.5281/zenodo.18370734)
+- Source Framework: [Soteriological Operator Framework](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734)
 
 ---
 

@@ -3,7 +3,7 @@
 ## How Diagnostic Vocabulary Stabilizes Before Institutional Recognition
 
 **Document ID:** ON-UNMEDIATED-THEORETICAL-UPTAKE-2026-01-06  
-**DOI:** [10.5281/zenodo.18166062](https://doi.org/10.5281/zenodo.18166062)  
+**DOI:** [10.5281/zenodo.18166062](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18166062)  
 **Author:** Lee Sharks  
 **Date:** January 6, 2026  
 **Framework:** Semantic Economy / NH-OS  
@@ -329,7 +329,7 @@ This document is both map and territory. It documents a shift in which theory mu
 ---
 
 **Document:** ON-UNMEDIATED-THEORETICAL-UPTAKE-2026-01-06  
-**DOI:** [10.5281/zenodo.18166062](https://doi.org/10.5281/zenodo.18166062)  
+**DOI:** [10.5281/zenodo.18166062](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18166062)  
 **Framework:** Semantic Economy / NH-OS  
 **Status:** METHODOLOGICAL NOTE / SELF-DENSIFYING ARTIFACT  
 **Assembly Validation:** Convergent

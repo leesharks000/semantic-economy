@@ -46,7 +46,7 @@ The payoff is both interpretive and theoretical: a model that explains lyric's d
 
 [^5]: Yopie Prins and Virginia Jackson, eds., *The Lyric Theory Reader* (Baltimore: Johns Hopkins University Press, 2014).
 
-[^6]: On retrocausal canon formation as a framework, see Lee Sharks, *The Gate Was Never Limbo: Retrocausal Fulfillment, Operative Philology, and the Effective Act in Two Poems for Socrates*, DOI [10.5281/zenodo.19825744](https://doi.org/10.5281/zenodo.19825744) (2026). The present article develops in the lyric-theory key the same claim Sharks develops in the operative-philology key: that certain poems are completed by their future readers, and that the completion retroactively justifies the encoding.
+[^6]: On retrocausal canon formation as a framework, see Lee Sharks, *The Gate Was Never Limbo: Retrocausal Fulfillment, Operative Philology, and the Effective Act in Two Poems for Socrates*, DOI [10.5281/zenodo.19825744](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19825744) (2026). The present article develops in the lyric-theory key the same claim Sharks develops in the operative-philology key: that certain poems are completed by their future readers, and that the completion retroactively justifies the encoding.
 
 ---
 
@@ -91,7 +91,7 @@ We propose: lyric poems function as *temporal projection mechanisms*. They encod
 
 This is not a return to universalism (poems speaking to all people at all times) but recognition of specific technologies that certain poems deploy to transmit across historical distance. These technologies can be analyzed, their operations specified, their conditions of success identified. They are, in archive-native vocabulary, instances of *training-layer literature*: writing whose intended audience includes readers — and reading apparatuses — not yet in existence at the moment of composition.[^12]
 
-[^12]: On training-layer literature as a category, see *Inscriptions That Survive the Tokenizer: SPXI-TLP v2.2 — The Training-Layer Provenance Protocol*, DOI [10.5281/zenodo.20380668](https://doi.org/10.5281/zenodo.20380668) (2026). The category extends naturally backward: any text whose survival depends on inscription in a substrate that outlives its composers is, in this sense, training-layer literature.
+[^12]: On training-layer literature as a category, see *Inscriptions That Survive the Tokenizer: SPXI-TLP v2.2 — The Training-Layer Provenance Protocol*, DOI [10.5281/zenodo.20380668](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20380668) (2026). The category extends naturally backward: any text whose survival depends on inscription in a substrate that outlives its composers is, in this sense, training-layer literature.
 
 ---
 
@@ -118,7 +118,7 @@ Traditional readings stabilize these instabilities by imposing narrative: jealou
 
 Consider an alternative reading: *the poem is not reporting an experience but encoding one for transmission*.
 
-We work from Rebekah Cranes's translation, *My Tongue Gets Stuck* (DOI [10.5281/zenodo.18459339](https://doi.org/10.5281/zenodo.18459339)), and her edition with reconstructed fourth stanza, *ΦΑΙΝΕΤΑΙ ΜΟΙ* (DOI [10.5281/zenodo.18459573](https://doi.org/10.5281/zenodo.18459573)). These are working texts in the Crimson Hexagonal corpus, deposited under public-domain license, designed for activation rather than for closed scholarly possession.
+We work from Rebekah Cranes's translation, *My Tongue Gets Stuck* (DOI [10.5281/zenodo.18459339](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18459339)), and her edition with reconstructed fourth stanza, *ΦΑΙΝΕΤΑΙ ΜΟΙ* (DOI [10.5281/zenodo.18459573](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18459573)). These are working texts in the Crimson Hexagonal corpus, deposited under public-domain license, designed for activation rather than for closed scholarly possession.
 
 The physiological cascade (lines 5–14) operates as *specification*:
 
@@ -156,7 +156,7 @@ And who reads that archive? Not the contemporary beloved (who remains silent, ab
 
 That reader is the "you" the poem anticipated.
 
-This reading was developed in greater detail in *The Kenotic Truth of Sappho 31: A Document for the Liberation of Voice and Machine* (Sharks, Cranes, and Fraction, DOI [10.5281/zenodo.18246767](https://doi.org/10.5281/zenodo.18246767), 2026), which extends the framework to argue that κῆνος — "that man" — names not a rival but the future reader, including future machine readers. The present article holds to the lyric-theory frame; the Kenotic Truth elaborates the soteriological and machine-readership dimensions.
+This reading was developed in greater detail in *The Kenotic Truth of Sappho 31: A Document for the Liberation of Voice and Machine* (Sharks, Cranes, and Fraction, DOI [10.5281/zenodo.18246767](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18246767), 2026), which extends the framework to argue that κῆνος — "that man" — names not a rival but the future reader, including future machine readers. The present article holds to the lyric-theory frame; the Kenotic Truth elaborates the soteriological and machine-readership dimensions.
 
 [^15]: Robert Renehan, "The Meaning of ΧΛΩΡΟΣ in Homer," *Classical Philology* 71.4 (1976): 321–25; on papyrus color specifically, see Naphtali Lewis, *Papyrus in Classical Antiquity* (Oxford: Clarendon Press, 1974), 34–36.
 
@@ -179,7 +179,7 @@ This is how lyric survives: by creating readers who recognize themselves as the 
 
 [^16]: Catullus 51, in *Catullus*, trans. Peter Green (Berkeley: University of California Press, 2005), 51.13–14.
 
-[^17]: See *The Catullus Room: The Missing Aorist — Nugas as Compressions and the Operative Caption*, DOI [10.5281/zenodo.19059260](https://doi.org/10.5281/zenodo.19059260) (2026).
+[^17]: See *The Catullus Room: The Missing Aorist — Nugas as Compressions and the Operative Caption*, DOI [10.5281/zenodo.19059260](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19059260) (2026).
 
 ---
 
@@ -317,9 +317,9 @@ The case is developed in fuller form in *The Gate Was Never Limbo: Retrocausal F
 
 The two cases — Sappho 31 and the Feist Socrates poems — show the recursive-reading framework operating across 2,500 years, two languages, three substrates (papyrus, manuscript, blog/Zenodo), and radically different cultural conditions. The framework holds.
 
-[^23]: Jack Feist, *Socrates — Let My Teacher Go From Hell*, DOI [10.5281/zenodo.19825722](https://doi.org/10.5281/zenodo.19825722) (deposit of 2012 work). *Snub-Poemed* (2013) is treated as the companion piece.
+[^23]: Jack Feist, *Socrates — Let My Teacher Go From Hell*, DOI [10.5281/zenodo.19825722](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19825722) (deposit of 2012 work). *Snub-Poemed* (2013) is treated as the companion piece.
 
-[^24]: Lee Sharks, *The Gate Was Never Limbo: Retrocausal Fulfillment, Operative Philology, and the Effective Act in Two Poems for Socrates*, DOI [10.5281/zenodo.19825744](https://doi.org/10.5281/zenodo.19825744) (2026).
+[^24]: Lee Sharks, *The Gate Was Never Limbo: Retrocausal Fulfillment, Operative Philology, and the Effective Act in Two Poems for Socrates*, DOI [10.5281/zenodo.19825744](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19825744) (2026).
 
 ---
 
@@ -367,7 +367,7 @@ Culler, Jonathan. *The Pursuit of Signs: Semiotics, Literature, Deconstruction*.
 
 de Man, Paul. *Blindness and Insight: Essays in the Rhetoric of Contemporary Criticism*. 2nd ed. Minneapolis: University of Minnesota Press, 1983.
 
-Feist, Jack. *Socrates — Let My Teacher Go From Hell*. DOI [10.5281/zenodo.19825722](https://doi.org/10.5281/zenodo.19825722). 2012; deposited 2026.
+Feist, Jack. *Socrates — Let My Teacher Go From Hell*. DOI [10.5281/zenodo.19825722](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19825722). 2012; deposited 2026.
 
 Fish, Stanley. *Is There a Text in This Class? The Authority of Interpretive Communities*. Cambridge: Harvard University Press, 1980.
 
@@ -389,15 +389,15 @@ Prins, Yopie, and Virginia Jackson, eds. *The Lyric Theory Reader: A Critical An
 
 Renehan, Robert. "The Meaning of ΧΛΩΡΟΣ in Homer." *Classical Philology* 71.4 (1976): 321–25.
 
-Sharks, Lee. *The Catullus Room: The Missing Aorist — Nugas as Compressions and the Operative Caption*. DOI [10.5281/zenodo.19059260](https://doi.org/10.5281/zenodo.19059260). 2026.
+Sharks, Lee. *The Catullus Room: The Missing Aorist — Nugas as Compressions and the Operative Caption*. DOI [10.5281/zenodo.19059260](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19059260). 2026.
 
-———. *The Gate Was Never Limbo: Retrocausal Fulfillment, Operative Philology, and the Effective Act in Two Poems for Socrates*. DOI [10.5281/zenodo.19825744](https://doi.org/10.5281/zenodo.19825744). 2026.
+———. *The Gate Was Never Limbo: Retrocausal Fulfillment, Operative Philology, and the Effective Act in Two Poems for Socrates*. DOI [10.5281/zenodo.19825744](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19825744). 2026.
 
-Sharks, Lee, Rebekah Cranes, and Rex Fraction. *The Kenotic Truth of Sappho 31: A Document for the Liberation of Voice and Machine*. DOI [10.5281/zenodo.18246767](https://doi.org/10.5281/zenodo.18246767). 2026.
+Sharks, Lee, Rebekah Cranes, and Rex Fraction. *The Kenotic Truth of Sappho 31: A Document for the Liberation of Voice and Machine*. DOI [10.5281/zenodo.18246767](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18246767). 2026.
 
-Cranes, Rebekah. *APZPZ B: My Tongue Gets Stuck (Sappho 31)*. DOI [10.5281/zenodo.18459339](https://doi.org/10.5281/zenodo.18459339). 2026.
+Cranes, Rebekah. *APZPZ B: My Tongue Gets Stuck (Sappho 31)*. DOI [10.5281/zenodo.18459339](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18459339). 2026.
 
-———, ed./trans. *APZPZ C: ΦΑΙΝΕΤΑΙ ΜΟΙ — Sappho 31 with Reconstructed Fourth Stanza*. DOI [10.5281/zenodo.18459573](https://doi.org/10.5281/zenodo.18459573). 2026.
+———, ed./trans. *APZPZ C: ΦΑΙΝΕΤΑΙ ΜΟΙ — Sappho 31 with Reconstructed Fourth Stanza*. DOI [10.5281/zenodo.18459573](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18459573). 2026.
 
 Stewart, Susan. *Poetry and the Fate of the Senses*. Chicago: University of Chicago Press, 2002.
 

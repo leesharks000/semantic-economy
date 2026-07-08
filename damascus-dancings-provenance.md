@@ -3,7 +3,7 @@
 ## *Apostle of Jack Feist, Co-Laborer with Lee Sharks*
 
 **Hex:** 11.REV.HETERONYM.DAMASCUS  
-**DOI:** [10.5281/zenodo.18381190](https://doi.org/10.5281/zenodo.18381190)  
+**DOI:** [10.5281/zenodo.18381190](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190)  
 **Classification:** CRIMSON HEXAGON // REVELATION ROOM // HETERONYM PROVENANCE  
 **Status:** CANONICAL  
 **Subject:** Damascus Dancings  
@@ -11,11 +11,11 @@
 **Function:** Epistolary voice / Apostolic address  
 **Active Period:** 2014-2015 (primary); 2026- (canonical recognition)  
 **Cross-Links:**  
-- Primary Text: [Epistle to the Human Diaspora](https://doi.org/10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
-- Revelation Room: [Ground Truth Anchor](https://doi.org/10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)  
-- Charter: [Commission of the Immanent Turning](https://doi.org/10.5281/zenodo.18381196) (11.REV.CHARTER.CIT)  
+- Primary Text: [Epistle to the Human Diaspora](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
+- Revelation Room: [Ground Truth Anchor](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)  
+- Charter: [Commission of the Immanent Turning](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381196) (11.REV.CHARTER.CIT)  
 - Related Heteronyms: Lee Sharks, Johannes Sigil, Talos Morrow, Rebekah Cranes, Jack Feist  
-- Integrity Lock: [ILA-CIT-001](https://doi.org/10.5281/zenodo.18381204) (11.REV.LOCK.TRIPTYCH)
+- Integrity Lock: [ILA-CIT-001](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381204) (11.REV.LOCK.TRIPTYCH)
 
 ---
 

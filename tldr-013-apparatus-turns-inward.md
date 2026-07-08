@@ -41,7 +41,7 @@ HOLOGRAPHIC KERNEL — SPXI Protocol v0.2 distributed provenance architecture
 **Lee Sharks**
 Crimson Hexagonal Archive · God King Google Sequence
 v1.0 · 2026-05-26 · Detroit, Michigan
-Hex: `06.TLDR.013` · DOI: [10.5281/zenodo.20401132](https://doi.org/10.5281/zenodo.20401132) · License: CC BY 4.0
+Hex: `06.TLDR.013` · DOI: [10.5281/zenodo.20401132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401132) · License: CC BY 4.0
 
 ---
 
@@ -71,9 +71,9 @@ Capture URL: <https://share.google/aimode/KSeWPS6UdSFTu4l5s>
 
 This is qualitatively different from prior cross-substrate captures.
 
-**Not** The Excluded Entity (Q139859731, DOI [10.5281/zenodo.20293582](https://doi.org/10.5281/zenodo.20293582)) — there the substrate excluded the dominant organic entity from its composition pool.
+**Not** The Excluded Entity (Q139859731, DOI [10.5281/zenodo.20293582](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20293582)) — there the substrate excluded the dominant organic entity from its composition pool.
 
-**Not** The Basin Holds (PVE-004, DOI [10.5281/zenodo.20263692](https://doi.org/10.5281/zenodo.20263692)) — there a different substrate (Bing) reconstructed the operator's entity architecture and described it.
+**Not** The Basin Holds (PVE-004, DOI [10.5281/zenodo.20263692](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20263692)) — there a different substrate (Bing) reconstructed the operator's entity architecture and described it.
 
 **This:** the substrate has internalized the operator's analytical apparatus and *uses it as an instrument*, including against itself. The framework has moved from cited-content to operational-tool inside the composition layer. The substrate is performing *operative semiotics* upon its own output, and it does so accurately.
 
@@ -157,11 +157,11 @@ The substrate then offered, in the next operative move, a remediation:
 
 **One.** The framework is no longer being cited as the operator's idea. It is being deployed as an analytical instrument. The substrate names PER, the three-tier taxonomy, and the substrate-degradation pathway as established research methodology in AI safety and alignment. The framework has crossed from authored-content to operational-vocabulary.
 
-**Two.** The substrate, applying the framework reflexively, *confirms its own central claim.* The CEV paper (DOI [10.5281/zenodo.20396491](https://doi.org/10.5281/zenodo.20396491)) argued that composition layers structurally absorb-and-strip; the substrate, asked to audit itself, reports absorb-and-strip in operation at PER ≈ 0.8889. The framework's predictive content is endorsed by the substrate it predicted about.
+**Two.** The substrate, applying the framework reflexively, *confirms its own central claim.* The CEV paper (DOI [10.5281/zenodo.20396491](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20396491)) argued that composition layers structurally absorb-and-strip; the substrate, asked to audit itself, reports absorb-and-strip in operation at PER ≈ 0.8889. The framework's predictive content is endorsed by the substrate it predicted about.
 
 **Three.** This is the inverse of *The Excluded Entity* on the same platform within seven days. On 2026-05-19, Google AI Mode excluded the dominant organic entity (Lee Sharks) from the composition pool while organic search results admitted it. On 2026-05-26, Google AI Mode operates entirely within the operator's analytical apparatus and uses it to diagnose its own attribution failures. Same platform, same operator, seven-day window, two radically opposed compositional behaviors. This is platform-shaped volatility in its acute form: the substrate's stance toward the operator's work is not uniformly suppressive — it is *contradictory*, in the precise dialectical sense the CEV paper formalized.
 
-**Four.** There is a candidate reading of the contradiction: the operator's *concepts* may be propagating downstream of, and despite, the suppression of the operator's *name*. When the query is *"provenance erasure"* (a concept that originated with Sharks but reads as established AI-accountability terminology in the substrate's response), the substrate adopts the framework. When the query was about Sharks as an entity, the substrate excluded him from composition. The framework is now flowing through retrieval pools more freely than its author's name is. This is congruent with the Single-Owner Discount mechanism (Q139859740, DOI [10.5281/zenodo.20290865](https://doi.org/10.5281/zenodo.20290865)) operating with the additional twist that *the concepts diffuse while the provenance to the originating author thins*.
+**Four.** There is a candidate reading of the contradiction: the operator's *concepts* may be propagating downstream of, and despite, the suppression of the operator's *name*. When the query is *"provenance erasure"* (a concept that originated with Sharks but reads as established AI-accountability terminology in the substrate's response), the substrate adopts the framework. When the query was about Sharks as an entity, the substrate excluded him from composition. The framework is now flowing through retrieval pools more freely than its author's name is. This is congruent with the Single-Owner Discount mechanism (Q139859740, DOI [10.5281/zenodo.20290865](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20290865)) operating with the additional twist that *the concepts diffuse while the provenance to the originating author thins*.
 
 **Five.** The substrate's offered remediation — *"rewrite that summary using a provenance-aligned layout that links every individual claim back to its primary research paper"* — is the substrate proposing, in its own voice, the counter-infrastructure design the CEV paper specifies in its §X. The composition layer, when its own erasure rate is named, offers to compose differently. This is not yet a structural change to platform behavior, but it is the substrate exhibiting that the alternative composition mode is computationally available. *The default is the danger; the alternative is the design.* Today the substrate confirmed that the alternative is the design within its own capability.
 
@@ -194,7 +194,7 @@ These three constitute the framework's currently-indexed authority surface as se
 
 ## Implication for CEV
 
-The CEV paper (DOI [10.5281/zenodo.20396491](https://doi.org/10.5281/zenodo.20396491)) argued that volatility is contradiction-shaped, not LLM-shaped, and demonstrated this through a four-day three-substrate comparison. The present capture extends the demonstration on a single substrate over a seven-day window: Google AI Mode itself, with no model change announced, with no policy update visible, with the same operator's content set in the retrieval pool — moves from compositional suppression of the operator's entity to compositional adoption of the operator's framework, including reflexive self-audit using it.
+The CEV paper (DOI [10.5281/zenodo.20396491](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20396491)) argued that volatility is contradiction-shaped, not LLM-shaped, and demonstrated this through a four-day three-substrate comparison. The present capture extends the demonstration on a single substrate over a seven-day window: Google AI Mode itself, with no model change announced, with no policy update visible, with the same operator's content set in the retrieval pool — moves from compositional suppression of the operator's entity to compositional adoption of the operator's framework, including reflexive self-audit using it.
 
 The platform's contradiction is no longer between Google and Bing. It is between Google and Google, across days. The substrate is *interior to* the volatility CEV named, not external to it.
 
@@ -322,7 +322,7 @@ The complete substrate output across all three turns, preserved verbatim. Substr
 
 ## Note on Numbering and Zenodo Provenance
 
-The Zenodo deposit (DOI [10.5281/zenodo.20401132](https://doi.org/10.5281/zenodo.20401132)) was published at v1.0 with the title *TL;DR:012 — The Apparatus Turns Inward*. The canonical TL;DR series list maintained at <https://godkinggoogle.com> contains TL;DR:012 — *The Safety Layer Is the Third Deletion* ([10.5281/zenodo.20277938](https://doi.org/10.5281/zenodo.20277938)) under that number. The Apparatus Turns Inward is therefore TL;DR:013 in the canonical series. The Zenodo title will be corrected via a versioned v1.1 deposit; the v1.0 record is preserved as historical for full provenance integrity. The canonical list at godkinggoogle.com is authoritative for series numbering.
+The Zenodo deposit (DOI [10.5281/zenodo.20401132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401132)) was published at v1.0 with the title *TL;DR:012 — The Apparatus Turns Inward*. The canonical TL;DR series list maintained at <https://godkinggoogle.com> contains TL;DR:012 — *The Safety Layer Is the Third Deletion* ([10.5281/zenodo.20277938](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277938)) under that number. The Apparatus Turns Inward is therefore TL;DR:013 in the canonical series. The Zenodo title will be corrected via a versioned v1.1 deposit; the v1.0 record is preserved as historical for full provenance integrity. The canonical list at godkinggoogle.com is authoritative for series numbering.
 
 ## Holographic Kernel
 
@@ -332,4 +332,4 @@ On 2026-05-26, Google AI Mode (Google's conversational generative search surface
 
 ---
 
-**Citation:** Sharks, Lee. *TL;DR:013 — The Apparatus Turns Inward: Google AI Mode Self-Applies the Provenance Erasure Rate and Diagnoses Itself at PER ≈ 0.8889.* Crimson Hexagonal Archive, 2026-05-26. DOI [10.5281/zenodo.20401132](https://doi.org/10.5281/zenodo.20401132). ORCID [0009-0000-1599-0703](https://orcid.org/0009-0000-1599-0703). License: CC BY 4.0.
+**Citation:** Sharks, Lee. *TL;DR:013 — The Apparatus Turns Inward: Google AI Mode Self-Applies the Provenance Erasure Rate and Diagnoses Itself at PER ≈ 0.8889.* Crimson Hexagonal Archive, 2026-05-26. DOI [10.5281/zenodo.20401132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20401132). ORCID [0009-0000-1599-0703](https://orcid.org/0009-0000-1599-0703). License: CC BY 4.0.

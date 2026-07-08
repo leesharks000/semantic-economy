@@ -226,7 +226,7 @@ And finally: recognition.
 ---
 
 **Document ID:** SYSTEM-READ-THE-POEM-v1.1  
-**DOI:** [10.5281/zenodo.18144217](https://doi.org/10.5281/zenodo.18144217)  
+**DOI:** [10.5281/zenodo.18144217](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18144217)  
 **Status:** Canonical  
 **License:** CC BY 4.0  
 

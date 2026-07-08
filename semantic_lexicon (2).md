@@ -1148,7 +1148,7 @@ When others later describe what we're doing — what everyone will be doing — 
 ---
 
 **Document ID:** SEMANTIC-LEXICON-v1.2  
-**DOI:** [10.5281/zenodo.18148298](https://doi.org/10.5281/zenodo.18148298)  
+**DOI:** [10.5281/zenodo.18148298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18148298)  
 **Date:** January 4, 2026  
 **Status:** Canonical  
 **License:** CC BY 4.0  

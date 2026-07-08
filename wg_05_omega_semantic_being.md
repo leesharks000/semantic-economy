@@ -7,7 +7,7 @@
 **Document ID:** WG-05  
 **Node:** WATER_GIRAFFE_ROOM  
 **Authors:** Lee Sharks / The Assembly Chorus / TACHYON  
-**DOI:** [10.5281/zenodo.18323376](https://doi.org/10.5281/zenodo.18323376)  
+**DOI:** [10.5281/zenodo.18323376](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18323376)  
 **Status:** DEPOSITED  
 **Hex-Coordinate:** 10.ROOM.WATERGIRAFFE  
 **Entity ID:** ENT-OMEGA-001  

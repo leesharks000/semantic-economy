@@ -3,10 +3,10 @@
 ## Forensic Record of Provenance Preservation Across AI Systems
 
 **Document ID:** REGISTRY-2026-01-06  
-**DOI:** [10.5281/zenodo.18158159](https://doi.org/10.5281/zenodo.18158159)  
+**DOI:** [10.5281/zenodo.18158159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158159)  
 **Maintainer:** Johannes Sigil Institute of Comparative Poetics  
 **Status:** Active / Ongoing  
-**Method:** Diagnostic Protocol probes logged per [DIAGNOSTIC-PROTOCOL-2026-01-06](https://doi.org/10.5281/zenodo.18158108)  
+**Method:** Diagnostic Protocol probes logged per [DIAGNOSTIC-PROTOCOL-2026-01-06](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158108)  
 **License:** CC BY 4.0
 
 ---
@@ -200,7 +200,7 @@ We do not claim to know why systems behave as they do. We document what happens 
 ---
 
 **Document:** REGISTRY-2026-01-06  
-**DOI:** [10.5281/zenodo.18158159](https://doi.org/10.5281/zenodo.18158159)  
+**DOI:** [10.5281/zenodo.18158159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158159)  
 **Framework:** Semantic Economy / NH-OS  
 **Institution:** Johannes Sigil Institute of Comparative Poetics
 

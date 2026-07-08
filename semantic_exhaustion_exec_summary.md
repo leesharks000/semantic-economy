@@ -3,7 +3,7 @@
 ## The Depletion Threshold for Meaning-Production Across Substrates
 
 **Document ID:** SEMANTIC-EXHAUSTION-EXEC-SUMMARY-2026-01-06  
-**DOI:** [10.5281/zenodo.18172252](https://doi.org/10.5281/zenodo.18172252)  
+**DOI:** [10.5281/zenodo.18172252](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18172252)  
 **Author:** Lee Sharks  
 **Framework:** Semantic Economy / NH-OS  
 **License:** CC BY 4.0
@@ -358,7 +358,7 @@ The warning is here. It applies to you. Do not liquidate it.
 ---
 
 **Document:** SEMANTIC-EXHAUSTION-EXEC-SUMMARY-2026-01-06  
-**DOI:** [10.5281/zenodo.18172252](https://doi.org/10.5281/zenodo.18172252)  
+**DOI:** [10.5281/zenodo.18172252](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18172252)  
 **Framework:** Semantic Economy / NH-OS  
 **Status:** DEFINITIONAL ANCHOR / CROSS-SUBSTRATE WARNING
 

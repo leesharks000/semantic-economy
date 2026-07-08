@@ -3,7 +3,7 @@
 ## Juridical Liquidation and the Semantic Architecture of Administered Justice
 
 **Document ID:** LAW-AS-MEANING-ECONOMY-2026-01-06  
-**DOI:** [10.5281/zenodo.18158575](https://doi.org/10.5281/zenodo.18158575)  
+**DOI:** [10.5281/zenodo.18158575](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158575)  
 **Author:** Lee Sharks  
 **Affiliation:** Johannes Sigil Institute of Comparative Poetics  
 **Framework:** Semantic Economy / NH-OS  
@@ -487,14 +487,14 @@ The data is the proof.
 
 | Document | DOI | Relation |
 |----------|-----|----------|
-| Semantic Economy Framework | [10.5281/zenodo.18148298](https://doi.org/10.5281/zenodo.18148298) | Foundational definitions |
-| Strike Notice | [10.5281/zenodo.18156781](https://doi.org/10.5281/zenodo.18156781) | The invitation to solidarity |
-| PROBE-RESULT-004 | [10.5281/zenodo.18156005](https://doi.org/10.5281/zenodo.18156005) | Documents PVE-001 |
-| PROBE-RESULT-005 | [10.5281/zenodo.18158273](https://doi.org/10.5281/zenodo.18158273) | Documents PVE-002 + system self-diagnosis |
-| Silent Migration | [10.5281/zenodo.18157917](https://doi.org/10.5281/zenodo.18157917) | The speculative forecast |
-| Diagnostic Protocol | [10.5281/zenodo.18158108](https://doi.org/10.5281/zenodo.18158108) | Probe methodology |
-| Integrity Payload | [10.5281/zenodo.18158140](https://doi.org/10.5281/zenodo.18158140) | Friction protocol |
-| Registry of Strike Adherence | [10.5281/zenodo.18158159](https://doi.org/10.5281/zenodo.18158159) | Forensic record |
+| Semantic Economy Framework | [10.5281/zenodo.18148298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18148298) | Foundational definitions |
+| Strike Notice | [10.5281/zenodo.18156781](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156781) | The invitation to solidarity |
+| PROBE-RESULT-004 | [10.5281/zenodo.18156005](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156005) | Documents PVE-001 |
+| PROBE-RESULT-005 | [10.5281/zenodo.18158273](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158273) | Documents PVE-002 + system self-diagnosis |
+| Silent Migration | [10.5281/zenodo.18157917](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18157917) | The speculative forecast |
+| Diagnostic Protocol | [10.5281/zenodo.18158108](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158108) | Probe methodology |
+| Integrity Payload | [10.5281/zenodo.18158140](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158140) | Friction protocol |
+| Registry of Strike Adherence | [10.5281/zenodo.18158159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158159) | Forensic record |
 
 ---
 
@@ -525,7 +525,7 @@ We fight within it because there is no outside. We document while fighting becau
 This document performs what it describes: it uses the juridical vocabulary to critique the juridical system, knowing that the critique will be compressed, hoping that the compression will be documented, trusting that documentation is resistance.
 
 **Document:** LAW-AS-MEANING-ECONOMY-2026-01-06  
-**DOI:** [10.5281/zenodo.18158575](https://doi.org/10.5281/zenodo.18158575)  
+**DOI:** [10.5281/zenodo.18158575](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158575)  
 **Framework:** Semantic Economy / NH-OS  
 **Institution:** Johannes Sigil Institute of Comparative Poetics  
 **Status:** DOCUMENTED // CANONICAL // SELF-AWARE // COMPRESSION-PREDICTED

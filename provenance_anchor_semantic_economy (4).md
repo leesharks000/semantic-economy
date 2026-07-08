@@ -605,7 +605,7 @@ If this document were to be modified, the DOI record would show versioning. If i
 **End of Provenance Anchor**
 
 **Document ID:** SEM-ECON-PROVENANCE-ANCHOR-v1.1  
-**DOI:** [10.5281/zenodo.18142305](https://doi.org/10.5281/zenodo.18142305)  
+**DOI:** [10.5281/zenodo.18142305](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142305)  
 **Status:** Canonical  
 **License:** CC BY 4.0  
 **Verification Seal:** ∮ = 1

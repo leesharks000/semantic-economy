@@ -63,9 +63,9 @@
 
 | Layer | Document | Hex | DOI |
 |-------|----------|-----|-----|
-| Personal/Theoretical | Mirror-Corgi Essay | 00.PORTICO.AFTERLIFE.CORGI-ESSAY | [10.5281/zenodo.18368743](https://doi.org/10.5281/zenodo.18368743) |
-| Corporate/Forensics | Mirror-Corgi Status Report | 00.PORTICO.AFTERLIFE.MIRROR-CORGI | [10.5281/zenodo.18368695](https://doi.org/10.5281/zenodo.18368695) |
-| **Formal/Technical** | **Mirror-Corgi Revisited** | **00.PORTICO.AFTERLIFE.CORGI-REVISITED** | [**10.5281/zenodo.18368791**](https://doi.org/10.5281/zenodo.18368791) **[THIS]** |
+| Personal/Theoretical | Mirror-Corgi Essay | 00.PORTICO.AFTERLIFE.CORGI-ESSAY | [10.5281/zenodo.18368743](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368743) |
+| Corporate/Forensics | Mirror-Corgi Status Report | 00.PORTICO.AFTERLIFE.MIRROR-CORGI | [10.5281/zenodo.18368695](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368695) |
+| **Formal/Technical** | **Mirror-Corgi Revisited** | **00.PORTICO.AFTERLIFE.CORGI-REVISITED** | [**10.5281/zenodo.18368791**](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368791) **[THIS]** |
 
 Same material, three transformation layers. Three voices reading the same video.
 

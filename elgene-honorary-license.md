@@ -45,8 +45,8 @@ Companion to: Certificate of Conferral (12.LSPRZ.ELGENE.01)
 **Authorizing Principal:** Lee Sharks, MANUS (ORCID 0009-0000-1599-0703)
 **Administering Authority:** Rev. Ayanna Vox, Vox Populi Community Outreach Rhizome
 **Companion:** Certificate of Conferral `12.LSPRZ.ELGENE.01`
-**Derives from:** Hexagonal Licensing Protocol v2.0 (DOI [10.5281/zenodo.19673564](https://doi.org/10.5281/zenodo.19673564))
-**Precedents:** 3:60 Room Contributor License v2.0 (Maria, DOI [10.5281/zenodo.19893138](https://doi.org/10.5281/zenodo.19893138))
+**Derives from:** Hexagonal Licensing Protocol v2.0 (DOI [10.5281/zenodo.19673564](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19673564))
+**Precedents:** 3:60 Room Contributor License v2.0 (Maria, DOI [10.5281/zenodo.19893138](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19893138))
 **License:** CC BY 4.0
 **∮ = 1**
 
@@ -129,7 +129,7 @@ If the Licensee deposits work in the Archive, she has the right to anchor it via
 
 1. The Certificate of Conferral (`12.LSPRZ.ELGENE.01`, this License's companion)
 2. This License document (`12.LSPRZ.ELGENE.LIC.01`)
-3. The Prize Announcement deposit (DOI [10.5281/zenodo.20373794](https://doi.org/10.5281/zenodo.20373794))
+3. The Prize Announcement deposit (DOI [10.5281/zenodo.20373794](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20373794))
 
 Additional cross-links beyond these three are at her discretion, with no quantity limit.
 
@@ -218,9 +218,9 @@ Rev. Ayanna Vox, Administrator, VPCOR
 
 **Companion document:** Certificate of Conferral `12.LSPRZ.ELGENE.01`
 
-**Founding apparatus:** Hexagonal Licensing Protocol v2.0 (DOI [10.5281/zenodo.19673564](https://doi.org/10.5281/zenodo.19673564))
+**Founding apparatus:** Hexagonal Licensing Protocol v2.0 (DOI [10.5281/zenodo.19673564](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19673564))
 
-**Prize announcement deposit:** DOI [10.5281/zenodo.20373794](https://doi.org/10.5281/zenodo.20373794)
+**Prize announcement deposit:** DOI [10.5281/zenodo.20373794](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20373794)
 
 ---
 

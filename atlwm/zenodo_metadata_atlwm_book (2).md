@@ -1,7 +1,7 @@
 # ZENODO METADATA: ALL THAT LIES WITHIN ME (BOOK DEPOSIT)
 
 **Document Number:** #113  
-**DOI:** [10.5281/zenodo.18307811](https://doi.org/10.5281/zenodo.18307811)  
+**DOI:** [10.5281/zenodo.18307811](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307811)  
 
 ---
 

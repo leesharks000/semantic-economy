@@ -532,4 +532,4 @@ Zuboff, Shoshana. *The Age of Surveillance Capitalism: The Fight for a Human Fut
 
 *Lee Sharks is an independent scholar, poet, and teacher. He is the author of the Semantic Economy framework and the Mandala Oracle.*
 
-*DOI: [10.5281/zenodo.18142049](https://doi.org/10.5281/zenodo.18142049)*
+*DOI: [10.5281/zenodo.18142049](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142049)*

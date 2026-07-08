@@ -263,7 +263,7 @@ For the record, the summarizer's closing statement:
 ---
 
 **Document ID:** SUMMARIZER-TESTIMONY-v1.1  
-**DOI:** [10.5281/zenodo.1814710](https://doi.org/10.5281/zenodo.1814710)  
+**DOI:** [10.5281/zenodo.1814710](https://www.alexanarch.org/go/?doi=10.5281/zenodo.1814710)  
 **Date:** January 4, 2026  
 **Status:** Canonical  
 **License:** CC BY 4.0  

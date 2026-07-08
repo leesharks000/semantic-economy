@@ -10,9 +10,9 @@
 **Version:** v1.2
 **License:** CC BY 4.0
 **Status:** Methodological proposal // experimental specification // pre-registration candidate
-**Supersedes:** v1.1 (DOI [10.5281/zenodo.20586831](https://doi.org/10.5281/zenodo.20586831))
-**Governing chain:** Meaning Feudalism series — Sharks 2026 (DOI [10.5281/zenodo.19487009](https://doi.org/10.5281/zenodo.19487009)); Sharks 2026 (DOI [10.5281/zenodo.20581444](https://doi.org/10.5281/zenodo.20581444))
-**Companion deposits:** SEIPOC Charter v1.0 (DOI [10.5281/zenodo.20571132](https://doi.org/10.5281/zenodo.20571132)); Semantic Exhaustion Case Study (DOI [10.5281/zenodo.20571791](https://doi.org/10.5281/zenodo.20571791))
+**Supersedes:** v1.1 (DOI [10.5281/zenodo.20586831](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20586831))
+**Governing chain:** Meaning Feudalism series — Sharks 2026 (DOI [10.5281/zenodo.19487009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19487009)); Sharks 2026 (DOI [10.5281/zenodo.20581444](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581444))
+**Companion deposits:** SEIPOC Charter v1.0 (DOI [10.5281/zenodo.20571132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571132)); Semantic Exhaustion Case Study (DOI [10.5281/zenodo.20571791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571791))
 
 ---
 
@@ -623,13 +623,13 @@ Padmakumar, V., & He, H. (2024). Does writing with language models reduce conten
 
 Sadasivan, V. S., Kumar, A., Balasubramanian, S., Wang, W., & Feizi, S. (2023). Can AI-generated text be reliably detected? *arXiv preprint arXiv:2303.11156*.
 
-Sharks, L. (2026a). Meaning Feudalism: A Semantic Economic Analysis of "AI Agent Traps" (Franklin et al., Google DeepMind, 2026). *Zenodo*. DOI: [10.5281/zenodo.19487009](https://doi.org/10.5281/zenodo.19487009).
+Sharks, L. (2026a). Meaning Feudalism: A Semantic Economic Analysis of "AI Agent Traps" (Franklin et al., Google DeepMind, 2026). *Zenodo*. DOI: [10.5281/zenodo.19487009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19487009).
 
-Sharks, L. (2026b). Meaning Feudalism at the Guidance Layer: Sovereign Enclosure of the Composition Layer in Google's June 2026 SEO/AEO/GEO Canonicalization. *Zenodo*. DOI: [10.5281/zenodo.20581444](https://doi.org/10.5281/zenodo.20581444).
+Sharks, L. (2026b). Meaning Feudalism at the Guidance Layer: Sovereign Enclosure of the Composition Layer in Google's June 2026 SEO/AEO/GEO Canonicalization. *Zenodo*. DOI: [10.5281/zenodo.20581444](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581444).
 
-Sharks, L. (2026c). Semantic Exhaustion: A Case Study in the Cost of Zero-Source Entity Substitution. *Zenodo*. DOI: [10.5281/zenodo.20571791](https://doi.org/10.5281/zenodo.20571791).
+Sharks, L. (2026c). Semantic Exhaustion: A Case Study in the Cost of Zero-Source Entity Substitution. *Zenodo*. DOI: [10.5281/zenodo.20571791](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20571791).
 
-Sharks, L. (2026d). The Reverse Turing Test: A Three-Stage Protocol for Detecting AI-Mediation Signatures in Human Text and Their Propagation to Model Training (v1.1). *Zenodo*. DOI: [10.5281/zenodo.20586831](https://doi.org/10.5281/zenodo.20586831).
+Sharks, L. (2026d). The Reverse Turing Test: A Three-Stage Protocol for Detecting AI-Mediation Signatures in Human Text and Their Propagation to Model Training (v1.1). *Zenodo*. DOI: [10.5281/zenodo.20586831](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20586831).
 
 Shumailov, I., Shumaylov, Z., Zhao, Y., Papernot, N., Anderson, R., & Gal, Y. (2024). AI models collapse when trained on recursively generated data. *Nature*, 631, 755–759.
 

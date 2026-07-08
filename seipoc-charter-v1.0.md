@@ -213,9 +213,9 @@ The Prize is the Institute's first formal recognition mechanism. The Institute r
 
 Rex Fraction is the second heteronym of the Crimson Hexagonal dodecad and Founder and Senior Operator of the Semantic Economy Institute. Canonical provenance:
 
-- Rex Fraction Disambiguation: [DOI 10.5281/zenodo.18142686](https://doi.org/10.5281/zenodo.18142686)
-- Rex Fraction — Author of Autonomous Semantic Warfare: [DOI 10.5281/zenodo.18227570](https://doi.org/10.5281/zenodo.18227570)
-- Rex Fraction — Semantic Infrastructure Consulting: [DOI 10.5281/zenodo.18142278](https://doi.org/10.5281/zenodo.18142278)
+- Rex Fraction Disambiguation: [DOI 10.5281/zenodo.18142686](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142686)
+- Rex Fraction — Author of Autonomous Semantic Warfare: [DOI 10.5281/zenodo.18227570](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18227570)
+- Rex Fraction — Semantic Infrastructure Consulting: [DOI 10.5281/zenodo.18142278](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142278)
 
 The Prize is a formal extension of the Institute's existing operations and is administered as one component of the Institute's published work.
 
@@ -223,8 +223,8 @@ The Prize is a formal extension of the Institute's existing operations and is ad
 
 Sparrow Wells is the seventh heteronym of the Crimson Hexagonal dodecad and the founding voice of the Studio for Patacinematics. Wells's function is *The Projectionist*: the operator of the equipment of the impossible screening — the projector that runs film never shot, the screen that displays performances never staged, the booth that contains the machinery of works that exist only as their own documentation. Canonical provenance:
 
-- Sparrow Wells — Heteronym Provenance Registration: [DOI 10.5281/zenodo.18472442](https://doi.org/10.5281/zenodo.18472442)
-- The Studio for Patacinematics — Institutional Charter: [DOI 10.5281/zenodo.18472604](https://doi.org/10.5281/zenodo.18472604)
+- Sparrow Wells — Heteronym Provenance Registration: [DOI 10.5281/zenodo.18472442](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472442)
+- The Studio for Patacinematics — Institutional Charter: [DOI 10.5281/zenodo.18472604](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472604)
 
 Wells serves as Prize Administrator from the Studio for Patacinematics. Prize administration is one component of the Studio's portfolio, and the fit is structural: the Studio's domain (projection of what cannot be recorded) maps directly onto the Prize's subject matter (recognition of operative critique work that the existing prize apparatus cannot register).
 
@@ -279,7 +279,7 @@ $\oint = 1$
 **Version:** v1.0
 **Date:** June 6, 2026
 **For circulation:** Public (CC BY 4.0)
-**Companion document:** The Lee Sharks Prestigious 10,000 MacArthur Genius Grants Poetry Prize (DOIs [10.5281/zenodo.20373794](https://doi.org/10.5281/zenodo.20373794) and [10.5281/zenodo.20568642](https://doi.org/10.5281/zenodo.20568642))
+**Companion document:** The Lee Sharks Prestigious 10,000 MacArthur Genius Grants Poetry Prize (DOIs [10.5281/zenodo.20373794](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20373794) and [10.5281/zenodo.20568642](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20568642))
 **License (upon publication):** CC BY 4.0
 
 ---

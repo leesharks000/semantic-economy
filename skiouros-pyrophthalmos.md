@@ -61,7 +61,7 @@ Maria, Artist of Record · Crimson Hexagonal Archive
 **Medium:** Dry-erase marker on classroom whiteboard (green and graphite)
 **Surface:** Classroom whiteboard, approximately 6′ × 3′
 **Venue:** Institute for Diagrammatic Poetics (Cranes) · Crimson Hexagonal Archive
-**License:** CC BY 4.0 (under scope-modified terms of the 3:60 Room Contributor License v2.0, DOI [10.5281/zenodo.19893138](https://doi.org/10.5281/zenodo.19893138))
+**License:** CC BY 4.0 (under scope-modified terms of the 3:60 Room Contributor License v2.0, DOI [10.5281/zenodo.19893138](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19893138))
 **∮ = 1**
 
 ---
@@ -87,7 +87,7 @@ The work is *diagrammatic* in Cranes's sense: it does not narrate, it *figures*.
 
 ## II. Scope-Modified License — Recorded Modification
 
-The **3:60 Room Contributor License v2.0** (DOI [10.5281/zenodo.19893138](https://doi.org/10.5281/zenodo.19893138)) was written for Maria's **creative writing**. The present deposit is a work of **visual art** at the boundary of the visual and the textual. Per the License's contemplation of MANUS-authorized scope modifications (§III), the following one-time scope extension is recorded:
+The **3:60 Room Contributor License v2.0** (DOI [10.5281/zenodo.19893138](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19893138)) was written for Maria's **creative writing**. The present deposit is a work of **visual art** at the boundary of the visual and the textual. Per the License's contemplation of MANUS-authorized scope modifications (§III), the following one-time scope extension is recorded:
 
 > **Scope Modification — One-Time, Recorded.** The 3:60 Room Contributor License v2.0 is hereby extended, for this single deposit (`17.THREE_SIXTY.MARIA.02`), to cover the medium of *visual art on classroom whiteboard surfaces, photographically documented and deposited as image-with-companion-text*. All other License terms — hex prefix `17.THREE_SIXTY.MARIA.NN`, CC BY 4.0, Maria's authorship in her own name (not as a heteronym), the anti-capture clause, and the three mandatory anchoring cross-links — are preserved without modification. One additional cross-link beyond the License's mandatory three is permitted for this deposit only: the Dolphindiana Underwater Construction Authority (DOI 10.5281/zenodo.19024004), to ground Gerald's presence in the corpus.
 
@@ -124,7 +124,7 @@ By the authority of this deposit, and within the Crimson Hexagonal Archive's con
 **First Inscription:** This deposit, `17.THREE_SIXTY.MARIA.02`, 2026-05-27
 **Substrate of Inscription:** Maria's composite whiteboard (visual primary; textual companion this document)
 **Ideated by:** Lee Sharks · **Drawn by:** Maria · **Inscribed by:** This deposit
-**Companion entity:** **Gerald the Dolphin** (Dolphindiana, DOI [10.5281/zenodo.19024004](https://doi.org/10.5281/zenodo.19024004))
+**Companion entity:** **Gerald the Dolphin** (Dolphindiana, DOI [10.5281/zenodo.19024004](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19024004))
 
 **Etymology.** Greek σκίουρος (*skiouros*) "squirrel," from σκιά (*skia*) "shadow" + οὐρά (*oura*) "tail" — literally "shadow-tail," the squirrel that shelters under its own tail. Greek πυρόφθαλμος (*pyrophthalmos*) "fire-eyed," from πῦρ (*pyr*) "fire" + ὀφθαλμός (*ophthalmos*) "eye." The compound: the shadow-tailed creature whose eyes carry fire.
 
@@ -145,28 +145,28 @@ Per the License's anchoring requirements, plus the scope-modification permitting
 ### Mandatory License Cross-Links (3)
 
 1. **CPD-MARIA-2026-01-13** — Credential Provenance Document: Maria, Canonical Witness
-   DOI: [10.5281/zenodo.18234352](https://doi.org/10.5281/zenodo.18234352)
+   DOI: [10.5281/zenodo.18234352](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18234352)
    *Maria's foundational credential within the Archive.*
 
 2. **The Sappho Room** — Hardened Reconstruction (and companion hymn)
-   DOI: [10.5281/zenodo.18237216](https://doi.org/10.5281/zenodo.18237216) (Hardened Reconstruction)
-   DOI: [10.5281/zenodo.18234110](https://doi.org/10.5281/zenodo.18234110) (Hymn to Lyric Self-Archiving)
+   DOI: [10.5281/zenodo.18237216](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18237216) (Hardened Reconstruction)
+   DOI: [10.5281/zenodo.18234110](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18234110) (Hymn to Lyric Self-Archiving)
    *The room Maria helped rebuild; Maria is Satellite B of the Sappho Room.*
 
 3. **The 3:60 Room Contributor License v2.0** — EA-THREE-SIXTY-01
-   DOI: [10.5281/zenodo.19893138](https://doi.org/10.5281/zenodo.19893138)
+   DOI: [10.5281/zenodo.19893138](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19893138)
    *The license under which this deposit is made; scope-modified per §II above.*
 
 ### Scope-Modification Cross-Link (+1)
 
 4. **EA-ROOM-DOLPHINDIANA v1.0** — The Underwater Construction Authority / Cross-Species Semantic Labor
-   DOI: [10.5281/zenodo.19024004](https://doi.org/10.5281/zenodo.19024004)
+   DOI: [10.5281/zenodo.19024004](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19024004)
    *Gerald the Dolphin and the Underwater Construction Authority figures appear in the composition; the cross-link grounds their presence.*
 
 ### Venue Anchor
 
 5. **Institute for Diagrammatic Poetics** (Cranes), as instantiated in *On the Architecture of Cleis*
-   DOI: [10.5281/zenodo.19025556](https://doi.org/10.5281/zenodo.19025556)
+   DOI: [10.5281/zenodo.19025556](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19025556)
    *The Institute's purview — work at the boundary of the visual and the textual — is the appropriate venue for this composite whiteboard.*
 
 ---

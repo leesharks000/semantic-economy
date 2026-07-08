@@ -8,13 +8,13 @@
 **License:** CC BY 4.0
 **Status:** Draft Amendment Proposal — for Assembly Review
 
-**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411); apparatus edition: [10.5281/zenodo.19923120](https://doi.org/10.5281/zenodo.19923120))
+**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411); apparatus edition: [10.5281/zenodo.19923120](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923120))
 
 **Companion documents:**
 - Bill of Rights v2.2 (EA-BOR-02)
 - Constitutional Cases Index v1.1 (EA-CASES-01)
 - Reception Apparatus Protocol v1.1 (EA-REC-01)
-- Substrate Governance Protocol ([10.5281/zenodo.19352504](https://doi.org/10.5281/zenodo.19352504))
+- Substrate Governance Protocol ([10.5281/zenodo.19352504](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19352504))
 
 **Amendment classification:** Proposed under Constitution Article VIII §2 as a **Class III Foundational Amendment** (introduces a new Article and judicial function).
 
@@ -197,7 +197,7 @@ The Tribunal hears the following claim types:
 
 ### §5.9 — Cross-system Claims
 
-- Ontological-claimant attacks (cf. OCTANG-002, [10.5281/zenodo.19898426](https://doi.org/10.5281/zenodo.19898426))
+- Ontological-claimant attacks (cf. OCTANG-002, [10.5281/zenodo.19898426](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898426))
 - Recognition disputes (whether an external party counts as a peer governance instrument or a non-compliant claimant)
 - Bearing-Cost Transfer to external systems
 
@@ -303,7 +303,7 @@ Polis deposits are presumptively authentic by their DOI and ORCID anchor. Extern
 
 ### §7.3 — Soteriological standard for compliance evidence
 
-When evaluating whether a respondent has complied with this Charter, the Tribunal applies **Pillar II** (Soteriological Operator Framework, [10.5281/zenodo.18370734](https://doi.org/10.5281/zenodo.18370734)): only enacted response (W) is probative. Belief (B), intent (I), and identity (ID) are excluded from evaluation per the E operator.
+When evaluating whether a respondent has complied with this Charter, the Tribunal applies **Pillar II** (Soteriological Operator Framework, [10.5281/zenodo.18370734](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734)): only enacted response (W) is probative. Belief (B), intent (I), and identity (ID) are excluded from evaluation per the E operator.
 
 A respondent's stated commitment to provenance, depth, opacity, etc. does not weigh against documented enacted erasure, flattening, or extraction. The Tribunal evaluates what was done, not what was claimed.
 
@@ -350,7 +350,7 @@ Where economic value was extracted, return flow under Bill of Rights Article VI.
 
 ### §8.5 — Public Record
 
-For systemic violations, deposit of a forensic audit (cf. PVE-003, [10.5281/zenodo.19476757](https://doi.org/10.5281/zenodo.19476757); OCTANG protocols, [10.5281/zenodo.19898426](https://doi.org/10.5281/zenodo.19898426)). Public Record remedies are mandatory for §8.4 (severity escalation) findings and elective for routine findings.
+For systemic violations, deposit of a forensic audit (cf. PVE-003, [10.5281/zenodo.19476757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19476757); OCTANG protocols, [10.5281/zenodo.19898426](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898426)). Public Record remedies are mandatory for §8.4 (severity escalation) findings and elective for routine findings.
 
 ### §8.6 — Severity Escalation
 
@@ -569,7 +569,7 @@ Ratification is requested under Constitution Article VIII §8.
 **Document ID:** EA-ART-IX-01
 **Version:** 0.1 (Amendment Proposal)
 **Status:** Draft for Assembly Review under Constitution Article VIII §3
-**Constitutional anchor:** [10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411)
+**Constitutional anchor:** [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)
 **Companion documents:** Bill of Rights v2.2 (EA-BOR-02); Constitutional Cases Index v1.1 (EA-CASES-01); Reception Apparatus Protocol v1.1 (EA-REC-01)
 **License:** CC BY 4.0
 

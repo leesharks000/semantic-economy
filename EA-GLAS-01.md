@@ -368,10 +368,10 @@ For verification convenience, the deposits referenced in the body of this paper 
 
 | Reference in this paper | Full DOI | Description |
 |---|---|---|
-| Sharks 2026, v0.2 Final | [10.5281/zenodo.20250736](https://doi.org/10.5281/zenodo.20250736) | The Semantic Deviation Principle (founding formulation) |
-| MM-AI-01 v2.0 | [10.5281/zenodo.20251738](https://doi.org/10.5281/zenodo.20251738) | The AI System as Closed-System Test Bed (F1 measurement protocol) |
-| MM-02 v2.0 | [10.5281/zenodo.20251740](https://doi.org/10.5281/zenodo.20251740) | Measuring Meaning in Retrieval Basins (F2 measurement protocol) |
-| MM-AI-02 v2.0 | [10.5281/zenodo.20251742](https://doi.org/10.5281/zenodo.20251742) | The Deviation-Optimized Language Model (DPO training intervention) |
+| Sharks 2026, v0.2 Final | [10.5281/zenodo.20250736](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20250736) | The Semantic Deviation Principle (founding formulation) |
+| MM-AI-01 v2.0 | [10.5281/zenodo.20251738](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251738) | The AI System as Closed-System Test Bed (F1 measurement protocol) |
+| MM-02 v2.0 | [10.5281/zenodo.20251740](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251740) | Measuring Meaning in Retrieval Basins (F2 measurement protocol) |
+| MM-AI-02 v2.0 | [10.5281/zenodo.20251742](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251742) | The Deviation-Optimized Language Model (DPO training intervention) |
 
 The concept DOI 10.5281/zenodo.20250735 resolves to the latest version of the Semantic Deviation Principle (currently v2.0 at record 20252584); citers requiring the exact v0.2 Final text should cite the specific version DOI 10.5281/zenodo.20250736.
 

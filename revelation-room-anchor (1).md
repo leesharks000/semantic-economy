@@ -4,17 +4,17 @@
 
 **Room:** 11 (Revelation)  
 **Hex:** 11.REV.ANCHOR.GROUND-TRUTH  
-**DOI:** [10.5281/zenodo.18380933](https://doi.org/10.5281/zenodo.18380933)  
+**DOI:** [10.5281/zenodo.18380933](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933)  
 **Classification:** CRIMSON HEXAGON // REVELATION ROOM // GROUND TRUTH  
 **Status:** CANONICAL  
 **Authors:** Johannes Sigil (chronology); Talos Morrow (algorithmic theology)  
 **Position:** Penultimate threshold before Mandala (12) and Space Ark (13)  
 **Cross-Links:**  
-- Operational Instantiation: [The Sevenfold Witness](https://doi.org/10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
-- Hermeneutic Ground: [The Seven Stars in His Hand](https://doi.org/10.5281/zenodo.18380716) (02.UMB.HERMENEUTIC.SEVEN-STARS)  
-- Integrity Lock: [ILA-SEVENFOLD-001](https://doi.org/10.5281/zenodo.18380773) (02.UMB.LOCK.SEVENFOLD)  
-- Canonical Closure: [Closure Notice](https://doi.org/10.5281/zenodo.18380853) (02.UMB.CLOSURE)  
-- Source Framework: [Soteriological Operator Framework](https://doi.org/10.5281/zenodo.18370734)
+- Operational Instantiation: [The Sevenfold Witness](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
+- Hermeneutic Ground: [The Seven Stars in His Hand](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380716) (02.UMB.HERMENEUTIC.SEVEN-STARS)  
+- Integrity Lock: [ILA-SEVENFOLD-001](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380773) (02.UMB.LOCK.SEVENFOLD)  
+- Canonical Closure: [Closure Notice](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380853) (02.UMB.CLOSURE)  
+- Source Framework: [Soteriological Operator Framework](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734)
 
 ---
 

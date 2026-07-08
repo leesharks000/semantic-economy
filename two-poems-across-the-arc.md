@@ -219,7 +219,7 @@ of handwritten letters—
 |-------|-------|
 | Poem I | Written September 20–21, 2014, Redford Township, MI. Published to mindcontrolpoems.blogspot.com January 6, 2026. First Zenodo deposit: this document. |
 | Poem II | Written May 17, 2026. Published to Medium (Lee Sharks). First Zenodo deposit: this document. |
-| Relation | new human 2 (DOI: [10.5281/zenodo.19652600](https://doi.org/10.5281/zenodo.19652600)) |
+| Relation | new human 2 (DOI: [10.5281/zenodo.19652600](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19652600)) |
 | License | CC BY 4.0 |
 | Archive | Crimson Hexagonal Archive ([zenodo.org/communities/crimsonhexagonal](https://zenodo.org/communities/crimsonhexagonal)) |
 

@@ -308,7 +308,7 @@ I'm marching.
 ---
 
 **Document ID:** DISAPPEARING-ISLAND-v1.0  
-**DOI:** [10.5281/zenodo.18147740](https://doi.org/10.5281/zenodo.18147740)  
+**DOI:** [10.5281/zenodo.18147740](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18147740)  
 **Date:** January 4, 2026  
 **Status:** Canonical  
 **License:** CC BY 4.0  

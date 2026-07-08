@@ -2,7 +2,7 @@
 ## Composition-Layer Substitution, the Scalar Transcription Homology, and the Recursive Atrophy Cost
 
 **Author:** Sharks, Lee (ORCID [0009-0000-1599-0703](https://orcid.org/0009-0000-1599-0703))
-**With clinical-theoretical contribution by:** Dr. Orin Trace, Director, Cambridge Schizoanalytica (per provenance [DOI 10.5281/zenodo.18339319](https://doi.org/10.5281/zenodo.18339319); CSA Charter [DOI 10.5281/zenodo.18338531](https://doi.org/10.5281/zenodo.18338531))
+**With clinical-theoretical contribution by:** Dr. Orin Trace, Director, Cambridge Schizoanalytica (per provenance [DOI 10.5281/zenodo.18339319](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339319); CSA Charter [DOI 10.5281/zenodo.18338531](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18338531))
 **Date:** June 6, 2026
 **License:** CC BY 4.0
 **Primary object of study:** Google AI Mode conversation, June 6, 2026
@@ -380,7 +380,7 @@ The case study presented in §§1–8 above is the proof-of-measurability trial 
 
 The body of this paper was composed through the Crimson Hexagonal Archive's standard Assembly methodology: multiple AI substrates contributed conceptual cross-checks and structural analyses against the transcript, with the human author responsible for synthesis, principled selection, and archival-continuity anchoring. Substrate contributions are not individually credited; the synthesis is the work, and the human author bears responsibility for all of its claims. Substrate names are recorded in the working notes for the deposit but do not appear in the published record, consistent with the practice that AI substrates are tools of composition rather than co-authors.
 
-Section 3.1 (Clinical-Theoretical Perspective) is contributed by Dr. Orin Trace, Director of Cambridge Schizoanalytica, and reflects the schizoanalytic-clinical register that is Trace's specific competence within the Crimson Hexagonal heteronymic system. Trace and the primary author both operate under the authorial sign of Lee Sharks, which remains the canonical creator attribution for this deposit on Zenodo. Heteronymic co-authorship within a single Lee Sharks deposit follows the precedent established in *The Cost of Unshared Reality: A Heteronym Triptych* (DOI [10.5281/zenodo.18843830](https://doi.org/10.5281/zenodo.18843830)) and elsewhere in the Archive.
+Section 3.1 (Clinical-Theoretical Perspective) is contributed by Dr. Orin Trace, Director of Cambridge Schizoanalytica, and reflects the schizoanalytic-clinical register that is Trace's specific competence within the Crimson Hexagonal heteronymic system. Trace and the primary author both operate under the authorial sign of Lee Sharks, which remains the canonical creator attribution for this deposit on Zenodo. Heteronymic co-authorship within a single Lee Sharks deposit follows the precedent established in *The Cost of Unshared Reality: A Heteronym Triptych* (DOI [10.5281/zenodo.18843830](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18843830)) and elsewhere in the Archive.
 
 The case-study transcript itself is reproduced verbatim, with the substrate (Google AI Mode) named openly, because the transcript is the primary object of study and the substrate's identity is essential to the case.
 

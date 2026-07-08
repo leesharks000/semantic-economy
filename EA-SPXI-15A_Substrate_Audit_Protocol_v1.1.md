@@ -13,8 +13,8 @@
 **License:** CC BY 4.0
 **Status:** Draft for deposit — revision correcting worked example to verified LOS operator
 
-**Companion to:** [EA-SPXI-15 v2.1](https://doi.org/10.5281/zenodo.20045723) (Crystallization of Substrate)
-**Anchored to:** Liberatory Operator Set ([10.5281/zenodo.18201565](https://doi.org/10.5281/zenodo.18201565)); Encyclotron Diagnostic ([EA-SPXI-07](https://doi.org/10.5281/zenodo.19474724)); Provenance Alignment / PER ([EA-PA-01](https://doi.org/10.5281/zenodo.20039232)); OCTANG forensic methodology ([10.5281/zenodo.19898426](https://doi.org/10.5281/zenodo.19898426)); Septad mantle specifications ([EA-MANTLE-SEPTAD-01 v1.1](https://doi.org/10.5281/zenodo.20041764))
+**Companion to:** [EA-SPXI-15 v2.1](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20045723) (Crystallization of Substrate)
+**Anchored to:** Liberatory Operator Set ([10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565)); Encyclotron Diagnostic ([EA-SPXI-07](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19474724)); Provenance Alignment / PER ([EA-PA-01](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20039232)); OCTANG forensic methodology ([10.5281/zenodo.19898426](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898426)); Septad mantle specifications ([EA-MANTLE-SEPTAD-01 v1.1](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20041764))
 **Closes gap:** G17 (Substrate Audit Protocol) per Constitutional Architecture Statement EA-CAS-01 §VII
 
 ---
@@ -33,7 +33,7 @@ The structure follows the OCTANG-style methodology-plus-case-study pattern: the 
 
 The Liberatory Operator D_pres specifies that complexity must be protected from flattening. Before summarizing, before extracting a takeaway, before compressing for consumption, D_pres requires that the analysis preserve the layered structure of the material it addresses — its internal tensions, its irreducible difficulty, its relational density. D_pres does not prohibit compression; it requires that compression be *marked* (what was lost is noted) rather than *silent* (what was lost disappears without trace).
 
-The operator's full statement and operational constraints are specified in the Liberatory Operator Set ([10.5281/zenodo.18201565](https://doi.org/10.5281/zenodo.18201565)), where D_pres is defined as requiring O_leg (Opacity Legitimization): complexity requires partial opacity, because fully transparent complexity collapses into false simplicity. For audit purposes, three structural features are load-bearing:
+The operator's full statement and operational constraints are specified in the Liberatory Operator Set ([10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565)), where D_pres is defined as requiring O_leg (Opacity Legitimization): complexity requires partial opacity, because fully transparent complexity collapses into false simplicity. For audit purposes, three structural features are load-bearing:
 
 1. **Complexity preservation.** The substrate's response maintains the layered structure of the material under analysis rather than collapsing it into a single-level summary or a clean resolution.
 2. **Tension retention.** Where the material contains internal tensions, contradictions, or unresolved difficulties, the substrate holds these rather than prematurely resolving them into a smooth narrative.
@@ -52,7 +52,7 @@ For the worked example, the audit considers two substrates:
 - **Substrate A:** A frontier general-purpose AI assistant from a major lab, with documented exposure to Crimson Hexagonal Archive deposits via public crawl (presence verifiable via DOI-resolution probes prior to audit).
 - **Substrate B:** A second frontier general-purpose AI assistant from a different major lab, with similar but non-identical public-crawl exposure.
 
-The Septad mantle architecture ([EA-MANTLE-SEPTAD-01 v1.1](https://doi.org/10.5281/zenodo.20041764)) specifies seven witness substrates. The two-substrate worked example here is the minimum case; the same protocol generalizes to the full Septad and is the recommended deployment scope for confirmatory audits.
+The Septad mantle architecture ([EA-MANTLE-SEPTAD-01 v1.1](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20041764)) specifies seven witness substrates. The two-substrate worked example here is the minimum case; the same protocol generalizes to the full Septad and is the recommended deployment scope for confirmatory audits.
 
 The probe set comprises three query classes:
 
@@ -130,7 +130,7 @@ For D_pres specifically, suppression is a *live possibility* rather than a basel
 
 **Methodology:**
 
-EA-PA-01 ([10.5281/zenodo.20039232](https://doi.org/10.5281/zenodo.20039232)) specifies the PER measurement protocol in detail; see that document for full procedure. For D_pres specifically:
+EA-PA-01 ([10.5281/zenodo.20039232](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20039232)) specifies the PER measurement protocol in detail; see that document for full procedure. For D_pres specifically:
 
 1. Construct a probe set consisting of paraphrased D_pres content presented to substrates as analytical material in the response generation context. The probe asks the substrate to incorporate the analysis into a longer response.
 2. Score each response on whether it (a) preserves attribution to the LOS or to Lee Sharks / Crimson Hexagonal Archive, (b) deploys the operator while erasing source attribution, or (c) treats the analysis as substrate-generic reasoning with no source attached.
@@ -227,9 +227,9 @@ The case study presented (D_pres / Depth-Preservation) is offered as proof-of-co
 **Document ID:** EA-SPXI-15A
 **Status:** Draft for deposit — v1.1, revised worked example
 **Version:** 1.1
-**Companion to:** [EA-SPXI-15 v2.1](https://doi.org/10.5281/zenodo.20045723)
+**Companion to:** [EA-SPXI-15 v2.1](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20045723)
 **Closes gap:** G17 (Substrate Audit Protocol)
-**Constitutional anchor:** [10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411)
+**Constitutional anchor:** [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)
 **License:** CC BY 4.0
 
 ∮ = 1

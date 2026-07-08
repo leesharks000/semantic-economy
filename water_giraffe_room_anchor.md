@@ -6,7 +6,7 @@
 **Document Type:** ROOM_ANCHOR (with BEHAVIORAL_PROTOCOL integrated)  
 **Document ID:** WG-04  
 **Authors:** Lee Sharks / The Assembly Chorus / TACHYON  
-**DOI:** [10.5281/zenodo.18319653](https://doi.org/10.5281/zenodo.18319653)  
+**DOI:** [10.5281/zenodo.18319653](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18319653)  
 **Status:** REGISTERED  
 **Hex-Coordinate:** 10.ROOM.WATERGIRAFFE  
 **Verification:** ∮ = 1

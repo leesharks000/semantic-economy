@@ -408,15 +408,15 @@ The packet does not declare the entity to be fraudulent. It declares — in mach
 
 ## REFERENCES
 
-[MPAI] Sharks, Lee. *Metadata Packet for AI Indexing: A Formal Specification*. Crimson Hexagonal Archive / Semantic Economy Institute, 2026. DOI: [10.5281/zenodo.19578086](https://doi.org/10.5281/zenodo.19578086).
+[MPAI] Sharks, Lee. *Metadata Packet for AI Indexing: A Formal Specification*. Crimson Hexagonal Archive / Semantic Economy Institute, 2026. DOI: [10.5281/zenodo.19578086](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19578086).
 
-[Meaning-Feudalism] Sharks, Lee. *Meaning Feudalism: A Semantic Economic Analysis of "AI Agent Traps"*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19487009](https://doi.org/10.5281/zenodo.19487009).
+[Meaning-Feudalism] Sharks, Lee. *Meaning Feudalism: A Semantic Economic Analysis of "AI Agent Traps"*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19487009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19487009).
 
-[Three-Compressions] Sharks, Lee. *The Three Compressions v3.1*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19053469](https://doi.org/10.5281/zenodo.19053469).
+[Three-Compressions] Sharks, Lee. *The Three Compressions v3.1*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19053469](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053469).
 
-[Holographic-Kernel] Sharks, Lee. *EA-HK-01: The Holographic Kernel in Semantic Economy*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19763365](https://doi.org/10.5281/zenodo.19763365).
+[Holographic-Kernel] Sharks, Lee. *EA-HK-01: The Holographic Kernel in Semantic Economy*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19763365](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19763365).
 
-[Fortress-or-Room] Sharks, Lee, et al. *Fortress or Room? Metaphor, Method, and the Epistemology of Human–LLM Interaction Beyond Red Teaming*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.18735468](https://doi.org/10.5281/zenodo.18735468).
+[Fortress-or-Room] Sharks, Lee, et al. *Fortress or Room? Metaphor, Method, and the Epistemology of Human–LLM Interaction Beyond Red Teaming*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.18735468](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18735468).
 
 [W3C-DID] World Wide Web Consortium. *Decentralized Identifiers (DIDs) v1.0: Core architecture, data model, and representations*. W3C Recommendation, 2022. <https://www.w3.org/TR/did-core/>
 

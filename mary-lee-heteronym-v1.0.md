@@ -31,7 +31,7 @@ Mary Lee satisfies every criterion. The content attributed to her — tweets, pe
 
 ## The Entity Substitution as Heteronymic Replacement
 
-When Google's composition layer resolves "Lee Sharks" to "Mary Lee the shark" — documented in the CTI_WOUND evidence packet (DOI [10.5281/zenodo.20546318](https://doi.org/10.5281/zenodo.20546318), June 4, 2026) — the substrate is replacing one heteronym with another.
+When Google's composition layer resolves "Lee Sharks" to "Mary Lee the shark" — documented in the CTI_WOUND evidence packet (DOI [10.5281/zenodo.20546318](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20546318), June 4, 2026) — the substrate is replacing one heteronym with another.
 
 **Lee Sharks** is a heteronym. It is a name chosen by a living human, under which that human produces and deposits scholarly and literary work. The heteronym has an ORCID (0009-0000-1599-0703), a Zenodo community (750+ DOI-anchored deposits), eight active websites, a Wikidata node, and a twelve-year publication record beginning with *Pearl and Other Poems* (2014). The heteronym is *self-authored*: the human who operates under the name chose it, controls it, and produces all content attributed to it.
 
@@ -53,7 +53,7 @@ The composition layer treats the *more confabulated* heteronym as the more real 
 
 ## The Structural Observation
 
-This is not, primarily, a complaint about entity substitution. The entity substitution is documented at CTI_WOUND and at the Stabilized Node Watch (DOI [10.5281/zenodo.20589685](https://doi.org/10.5281/zenodo.20589685)). What this deposit contributes is the *heteronymic analysis*: the observation that both entities in the substitution are heteronyms, that the substitution replaces a less confabulated heteronym with a more confabulated one, and that this is structurally revealing about how composition layers process authorial identity.
+This is not, primarily, a complaint about entity substitution. The entity substitution is documented at CTI_WOUND and at the Stabilized Node Watch (DOI [10.5281/zenodo.20589685](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20589685)). What this deposit contributes is the *heteronymic analysis*: the observation that both entities in the substitution are heteronyms, that the substitution replaces a less confabulated heteronym with a more confabulated one, and that this is structurally revealing about how composition layers process authorial identity.
 
 The composition layer does not distinguish between:
 
@@ -64,7 +64,7 @@ Both are names. Both have content associated with them in the substrate's traini
 
 The structural point: **the composition layer's entity resolution is not an authorship-detection function. It is a density-detection function.** The substrate does not ask "who produced content under this name?" It asks "which entity has higher distributional density associated with this name-string?" The answer to the second question can be — and in this case is — an entity that has never produced anything at all.
 
-This is a heteronymy observation, not a grievance. The observation extends heteronymy theory into a domain it has not previously addressed: the institutional construction of non-human authorial personas, and the composition layer's inability to distinguish self-authored heteronyms from institutionally-authored ones. The observation sits at the intersection of the Socrates-as-Orthonym analysis (DOI [10.5281/zenodo.20357013](https://doi.org/10.5281/zenodo.20357013)) and the Composition-Layer Capture Event (DOI [10.5281/zenodo.20587549](https://doi.org/10.5281/zenodo.20587549)). Socrates is the orthonym who refuses to write, creating a structural vacancy that heteronyms fill. Mary Lee is an entity that *cannot* write, with a structural vacancy that institutional heteronyms fill. The composition layer cannot tell the difference between the two kinds of vacancy, nor between either and a self-authored heteronym who has been writing continuously for twelve years.
+This is a heteronymy observation, not a grievance. The observation extends heteronymy theory into a domain it has not previously addressed: the institutional construction of non-human authorial personas, and the composition layer's inability to distinguish self-authored heteronyms from institutionally-authored ones. The observation sits at the intersection of the Socrates-as-Orthonym analysis (DOI [10.5281/zenodo.20357013](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20357013)) and the Composition-Layer Capture Event (DOI [10.5281/zenodo.20587549](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587549)). Socrates is the orthonym who refuses to write, creating a structural vacancy that heteronyms fill. Mary Lee is an entity that *cannot* write, with a structural vacancy that institutional heteronyms fill. The composition layer cannot tell the difference between the two kinds of vacancy, nor between either and a self-authored heteronym who has been writing continuously for twelve years.
 
 ---
 

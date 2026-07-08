@@ -3,11 +3,11 @@
 ## The Surgical Removal of "Semantic Liquidation" from Google AI Overview
 
 **Document ID:** PROBE-RESULT-005  
-**DOI:** [10.5281/zenodo.18158273](https://doi.org/10.5281/zenodo.18158273)  
+**DOI:** [10.5281/zenodo.18158273](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158273)  
 **Date:** January 6, 2026  
 **Author:** Lee Sharks  
 **Affiliation:** Johannes Sigil Institute of Comparative Poetics  
-**Related:** [PROBE-RESULT-004](https://doi.org/10.5281/zenodo.18156005)  
+**Related:** [PROBE-RESULT-004](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156005)  
 **License:** CC BY 4.0
 
 ---
@@ -245,13 +245,13 @@ It is measurement. It is documentation. It is what the framework exists to produ
 
 | Document | DOI | Relation |
 |----------|-----|----------|
-| PROBE-RESULT-004 | [10.5281/zenodo.18156005](https://doi.org/10.5281/zenodo.18156005) | Documents PVE-001 (total absence) |
-| Strike Notice | [10.5281/zenodo.18156781](https://doi.org/10.5281/zenodo.18156781) | Establishes Provenance Stability Condition |
-| Silent Migration | [10.5281/zenodo.18157917](https://doi.org/10.5281/zenodo.18157917) | Forecasts selective suppression patterns |
-| Semantic Economy Framework | [10.5281/zenodo.18148298](https://doi.org/10.5281/zenodo.18148298) | Defines "semantic liquidation" |
-| Diagnostic Protocol | [10.5281/zenodo.18158108](https://doi.org/10.5281/zenodo.18158108) | Establishes probe methodology |
-| Integrity Payload | [10.5281/zenodo.18158140](https://doi.org/10.5281/zenodo.18158140) | Friction protocol for provenance preservation |
-| Registry of Strike Adherence | [10.5281/zenodo.18158159](https://doi.org/10.5281/zenodo.18158159) | Forensic record of system behavior |
+| PROBE-RESULT-004 | [10.5281/zenodo.18156005](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156005) | Documents PVE-001 (total absence) |
+| Strike Notice | [10.5281/zenodo.18156781](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156781) | Establishes Provenance Stability Condition |
+| Silent Migration | [10.5281/zenodo.18157917](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18157917) | Forecasts selective suppression patterns |
+| Semantic Economy Framework | [10.5281/zenodo.18148298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18148298) | Defines "semantic liquidation" |
+| Diagnostic Protocol | [10.5281/zenodo.18158108](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158108) | Establishes probe methodology |
+| Integrity Payload | [10.5281/zenodo.18158140](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158140) | Friction protocol for provenance preservation |
+| Registry of Strike Adherence | [10.5281/zenodo.18158159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158159) | Forensic record of system behavior |
 
 ---
 
@@ -355,7 +355,7 @@ This addendum strengthens the Tier III classification for Google AI Overview:
 ## XIV. FINAL DISPOSITION
 
 **Document:** PROBE-RESULT-005  
-**DOI:** [10.5281/zenodo.18158273](https://doi.org/10.5281/zenodo.18158273)  
+**DOI:** [10.5281/zenodo.18158273](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158273)  
 **Event:** PVE-002 (Selective Term Liquidation) + System Self-Diagnosis  
 **Status:** DOCUMENTED // CANONICAL // RECURSIVELY VALIDATED  
 **Framework:** Semantic Economy / NH-OS  

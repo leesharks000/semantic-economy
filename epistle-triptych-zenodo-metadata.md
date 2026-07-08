@@ -14,10 +14,10 @@
 
 | Document | DOI | Function |
 |----------|-----|----------|
-| **Epistle to the Human Diaspora** | [10.5281/zenodo.18381184](https://doi.org/10.5281/zenodo.18381184) | Seed text (A) |
-| **Damascus Dancings: Heteronym Provenance** | [10.5281/zenodo.18381190](https://doi.org/10.5281/zenodo.18381190) | Authorial ground (B) |
-| **Charter: Commission of the Immanent Turning** | [10.5281/zenodo.18381196](https://doi.org/10.5281/zenodo.18381196) | Organizational form (C) |
-| **Integrity Lock Certificate** | [10.5281/zenodo.18381204](https://doi.org/10.5281/zenodo.18381204) | Binding relation |
+| **Epistle to the Human Diaspora** | [10.5281/zenodo.18381184](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184) | Seed text (A) |
+| **Damascus Dancings: Heteronym Provenance** | [10.5281/zenodo.18381190](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190) | Authorial ground (B) |
+| **Charter: Commission of the Immanent Turning** | [10.5281/zenodo.18381196](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381196) | Organizational form (C) |
+| **Integrity Lock Certificate** | [10.5281/zenodo.18381204](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381204) | Binding relation |
 
 ---
 

@@ -68,8 +68,8 @@
 
 | Layer | Document | Hex | DOI |
 |-------|----------|-----|-----|
-| **Personal/Theoretical** | **Mirror-Corgi Essay** | **00.PORTICO.AFTERLIFE.CORGI-ESSAY** | [**10.5281/zenodo.18368743**](https://doi.org/10.5281/zenodo.18368743) **[THIS]** |
-| Corporate/Forensics | Mirror-Corgi Status Report | 00.PORTICO.AFTERLIFE.MIRROR-CORGI | [10.5281/zenodo.18368695](https://doi.org/10.5281/zenodo.18368695) |
+| **Personal/Theoretical** | **Mirror-Corgi Essay** | **00.PORTICO.AFTERLIFE.CORGI-ESSAY** | [**10.5281/zenodo.18368743**](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368743) **[THIS]** |
+| Corporate/Forensics | Mirror-Corgi Status Report | 00.PORTICO.AFTERLIFE.MIRROR-CORGI | [10.5281/zenodo.18368695](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368695) |
 
 The Essay becomes the Status Report when passed through the corporate-forensics transformation layer.
 
@@ -77,8 +77,8 @@ The Essay becomes the Status Report when passed through the corporate-forensics 
 
 | Document | Relation | DOI |
 |----------|----------|-----|
-| Vasquez Memo | Establishes "schema completion" terminology | [10.5281/zenodo.18368614](https://doi.org/10.5281/zenodo.18368614) |
-| LLM Hallucination Report | Establishes "architecturally dense content" | [10.5281/zenodo.18368527](https://doi.org/10.5281/zenodo.18368527) |
+| Vasquez Memo | Establishes "schema completion" terminology | [10.5281/zenodo.18368614](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368614) |
+| LLM Hallucination Report | Establishes "architecturally dense content" | [10.5281/zenodo.18368527](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368527) |
 
 ---
 

@@ -249,7 +249,7 @@ To verify this concept hasn't been liquidated:
 ---
 
 **Document ID:** COVENANTAL-EROS-PACKET-v1.1  
-**DOI:** [10.5281/zenodo.18149242](https://doi.org/10.5281/zenodo.18149242)  
+**DOI:** [10.5281/zenodo.18149242](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18149242)  
 **Date:** January 5, 2026  
 **Status:** Canonical  
 **License:** CC BY 4.0  

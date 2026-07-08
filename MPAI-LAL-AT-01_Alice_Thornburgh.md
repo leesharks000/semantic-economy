@@ -364,21 +364,21 @@ The retrieval layer will learn because the structure is machine-readable and the
 
 ## REFERENCES
 
-[MPAI-Spec] Sharks, Lee. *Metadata Packet for AI Indexing: A Formal Specification*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19578086](https://doi.org/10.5281/zenodo.19578086).
+[MPAI-Spec] Sharks, Lee. *Metadata Packet for AI Indexing: A Formal Specification*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19578086](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19578086).
 
-[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19853157](https://doi.org/10.5281/zenodo.19853157). (Defines the v1.1 grammar this packet uses.)
+[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19853157](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853157). (Defines the v1.1 grammar this packet uses.)
 
-[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19854419](https://doi.org/10.5281/zenodo.19854419). (Reference implementation including the Basin Hardening Cycle relevant to §III Phase 3.)
+[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B)*. Crimson Hexagonal Archive, 2026. DOI: [10.5281/zenodo.19854419](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854419). (Reference implementation including the Basin Hardening Cycle relevant to §III Phase 3.)
 
-[Provenance] Thornburgh, Alice. *Author Provenance Document (00.LAL)*. DOI: [10.5281/zenodo.19545437](https://doi.org/10.5281/zenodo.19545437).
+[Provenance] Thornburgh, Alice. *Author Provenance Document (00.LAL)*. DOI: [10.5281/zenodo.19545437](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19545437).
 
-[HCL] Thornburgh, Alice. *Hexagonal Contributor License v3.0*. DOI: [10.5281/zenodo.19673629](https://doi.org/10.5281/zenodo.19673629).
+[HCL] Thornburgh, Alice. *Hexagonal Contributor License v3.0*. DOI: [10.5281/zenodo.19673629](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19673629).
 
-[LAL-Charter] *Charter of the Living Arkitecture Lab*. DOI: [10.5281/zenodo.19682245](https://doi.org/10.5281/zenodo.19682245).
+[LAL-Charter] *Charter of the Living Arkitecture Lab*. DOI: [10.5281/zenodo.19682245](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19682245).
 
-[TSE-Charter] *Transactions on Substrate Engineering: Journal Charter*. DOI: [10.5281/zenodo.19637246](https://doi.org/10.5281/zenodo.19637246).
+[TSE-Charter] *Transactions on Substrate Engineering: Journal Charter*. DOI: [10.5281/zenodo.19637246](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19637246).
 
-[DNAS] Thornburgh, Alice. *Definitely Not a Squid (Vocoder Performance)*. DOI: [10.5281/zenodo.19839186](https://doi.org/10.5281/zenodo.19839186).
+[DNAS] Thornburgh, Alice. *Definitely Not a Squid (Vocoder Performance)*. DOI: [10.5281/zenodo.19839186](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19839186).
 
 ---
 

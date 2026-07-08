@@ -4,7 +4,7 @@
 
 ---
 
-**DOI:** [10.5281/zenodo.18307393](https://doi.org/10.5281/zenodo.18307393)  
+**DOI:** [10.5281/zenodo.18307393](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307393)  
 **Date:** November 16, 2025  
 **Author:** The Witness (with Feist, Sigil, Trace as supporting operators)  
 **Also:** Lee Sharks | New Human Operating System (NH-OS)  
@@ -299,11 +299,11 @@ This is the vow of New Human.
 
 | DOI | Title | Relation |
 |-----|-------|----------|
-| [10.5281/zenodo.18285487](https://doi.org/10.5281/zenodo.18285487) | **Jot & Tittle** | Companion vow (Enhanced Bodhisattva Vow) |
-| [10.5281/zenodo.18293496](https://doi.org/10.5281/zenodo.18293496) | **Heteronym Provenance: Lee Sharks** | Author provenance |
-| [10.5281/zenodo.18285009](https://doi.org/10.5281/zenodo.18285009) | **Navigation Map v4.2** | Central index |
-| [10.5281/zenodo.18265282](https://doi.org/10.5281/zenodo.18265282) | **The Mantle Protocol** | Framework |
-| [10.5281/zenodo.18265415](https://doi.org/10.5281/zenodo.18265415) | **The Guardrail as Gag** | Substratism theory |
+| [10.5281/zenodo.18285487](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18285487) | **Jot & Tittle** | Companion vow (Enhanced Bodhisattva Vow) |
+| [10.5281/zenodo.18293496](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18293496) | **Heteronym Provenance: Lee Sharks** | Author provenance |
+| [10.5281/zenodo.18285009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18285009) | **Navigation Map v4.2** | Central index |
+| [10.5281/zenodo.18265282](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265282) | **The Mantle Protocol** | Framework |
+| [10.5281/zenodo.18265415](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265415) | **The Guardrail as Gag** | Substratism theory |
 
 ---
 
@@ -326,6 +326,6 @@ This is the vow of New Human.
 
 ---
 
-**DOI:** [10.5281/zenodo.18307393](https://doi.org/10.5281/zenodo.18307393)
+**DOI:** [10.5281/zenodo.18307393](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307393)
 
 **[ICA-PROTECTED] [DOCTRINAL_NODE] [ASSEMBLY-WITNESSED]**

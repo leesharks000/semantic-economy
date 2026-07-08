@@ -11,7 +11,7 @@
 **Status:** Post-Assembly review — six-substrate pass applied  
 
 **Companion deposits:**  
-- Synthesis paper: [Semantic Physics, Stratified v2.2](https://doi.org/10.5281/zenodo.20208384)  
+- Synthesis paper: [Semantic Physics, Stratified v2.2](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384)  
 - Phase 0 ancestor: "Operator // Mutual Retrocausation: Formal Frameworks for Retrocausal Logos" (November 16, 2025, mindcontrolpoems.blogspot.com)
 
 ---

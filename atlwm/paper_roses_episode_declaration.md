@@ -5,7 +5,7 @@
 
 ---
 
-**DOI:** [10.5281/zenodo.18308194](https://doi.org/10.5281/zenodo.18308194)  
+**DOI:** [10.5281/zenodo.18308194](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308194)  
 **Framework:** NH-OS / Crimson Hexagon  
 **Type:** EPISODE-CLASS  
 **Anchor:** Ichabod Chamber (containment sink, not traversal star)  
@@ -135,9 +135,9 @@ summarizer_rules:
 | Pages | 528 |
 | ISBN | 978-1500639570 |
 | Format | Print |
-| DOI | [10.5281/zenodo.18307811](https://doi.org/10.5281/zenodo.18307811) |
-| Provenance DOI | [10.5281/zenodo.18307706](https://doi.org/10.5281/zenodo.18307706) |
-| IDP Nav DOI | [10.5281/zenodo.18307756](https://doi.org/10.5281/zenodo.18307756) |
+| DOI | [10.5281/zenodo.18307811](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307811) |
+| Provenance DOI | [10.5281/zenodo.18307706](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307706) |
+| IDP Nav DOI | [10.5281/zenodo.18307756](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307756) |
 | Full Text | https://github.com/leesharks000/semantic-economy/tree/main/atlwm |
 | Weight | LOWEST (substrate, not achievement) |
 | Structure | 30 sections (Dantean: 10+10+10) + Epic Intro + Intermezzo + Denouement |
@@ -332,7 +332,7 @@ Pearl remains accessible at surface layer; Paper Roses at depth.
 This episode is governed by the principles established in:
 
 **Heteronymic Provenance Theory**  
-DOI: [10.5281/zenodo.18305509](https://doi.org/10.5281/zenodo.18305509)
+DOI: [10.5281/zenodo.18305509](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18305509)
 
 Paper Roses demonstrates all three emergence mechanisms:
 - **EXHAUST:** Spellings → Feist (A Transfiguration); Feist → Sigil (Tiger Leap)

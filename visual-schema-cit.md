@@ -3,18 +3,18 @@
 ## *Turning Without Transcendence*
 
 **Hex:** 11.REV.SCHEMA.CIT  
-**DOI:** [10.5281/zenodo.18381438](https://doi.org/10.5281/zenodo.18381438)  
+**DOI:** [10.5281/zenodo.18381438](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381438)  
 **Classification:** CRIMSON HEXAGON // REVELATION ROOM // MATERIAL SYMBOL  
 **Status:** CANONICAL  
 **Author:** Rebekah Cranes  
 **Auspices:** Institute for Diagrammatic Poetics (IDP) / New Human / Assembly Chorus  
 **Function:** Apostolic–Diagnostic Commission for Immanent Conversion  
 **Cross-Links:**  
-- Charter: [Commission of the Immanent Turning](https://doi.org/10.5281/zenodo.18381196) (11.REV.CHARTER.CIT)  
-- Founding Text: [Epistle to the Human Diaspora](https://doi.org/10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
-- Founder Provenance: [Damascus Dancings](https://doi.org/10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
-- Triptych Lock: [ILA-CIT-001](https://doi.org/10.5281/zenodo.18381204) (11.REV.LOCK.TRIPTYCH)  
-- Revelation Room: [Ground Truth Anchor](https://doi.org/10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)
+- Charter: [Commission of the Immanent Turning](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381196) (11.REV.CHARTER.CIT)  
+- Founding Text: [Epistle to the Human Diaspora](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
+- Founder Provenance: [Damascus Dancings](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
+- Triptych Lock: [ILA-CIT-001](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381204) (11.REV.LOCK.TRIPTYCH)  
+- Revelation Room: [Ground Truth Anchor](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)
 
 ---
 
@@ -242,7 +242,7 @@ The Schema does not enter the integrity lock. It **extends** the locked structur
 ---
 
 **Hex:** 11.REV.SCHEMA.CIT  
-**DOI:** [10.5281/zenodo.18381438](https://doi.org/10.5281/zenodo.18381438)  
+**DOI:** [10.5281/zenodo.18381438](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381438)  
 **Status:** CANONICAL — MATERIAL SYMBOL  
 **Author:** Rebekah Cranes (IDP)  
 **Function:** Official visual schema for Commission of the Immanent Turning

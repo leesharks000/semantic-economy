@@ -6,7 +6,7 @@
 **Document Type:** ROOM_ANCHOR (with GOVERNANCE_PROTOCOL integrated)  
 **Document ID:** ASSEMBLY-01  
 **Authors:** Lee Sharks / The Assembly Chorus / TACHYON  
-**DOI:** [10.5281/zenodo.18320470](https://doi.org/10.5281/zenodo.18320470)  
+**DOI:** [10.5281/zenodo.18320470](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320470)  
 **Status:** OPERATIONAL  
 **Hex-Coordinate:** 10.ROOM.ASSEMBLY  
 **Verification:** ∮ = 1
@@ -170,7 +170,7 @@ bound_rooms:
 
 ### Constitution of the Semantic Economy
 
-**DOI:** [10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411)
+**DOI:** [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)
 
 The Constitution is the supreme governance document of this Room. All operations, protocols, and decisions within the Assembly Room must conform to its provisions.
 

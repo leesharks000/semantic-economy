@@ -205,13 +205,13 @@ The Moment of Saying is best understood not as replacement for these frameworks 
 
 The methodology of this paper is *clinical phenomenology supplemented by structural analysis*. We do not present empirical case studies; we present composite vignettes that reproduce the structural pattern while obscuring any single source. We do not claim diagnostic validation; we claim *recognizability*. The test of the framework is whether clinicians, members of the affected populations, and observers of institutional dynamics recognize the pattern in their own observations and find the apparatus useful for naming what they had previously only sensed.
 
-This is the same methodology used in Trace and Fraction's *Predation of Meaning* (DOI [10.5281/zenodo.18776624](https://doi.org/10.5281/zenodo.18776624), 2026), which introduced the concept of Relational Semantic Predation through composite vignettes and structural analysis rather than empirical case study.[^11] It is the methodology appropriate to clinical phenomena that occur under conditions where the affected parties are either silenced or have not yet had vocabulary to name what they experienced. The risk is over-application; the safeguard is the diagnostic specificity developed below.
+This is the same methodology used in Trace and Fraction's *Predation of Meaning* (DOI [10.5281/zenodo.18776624](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18776624), 2026), which introduced the concept of Relational Semantic Predation through composite vignettes and structural analysis rather than empirical case study.[^11] It is the methodology appropriate to clinical phenomena that occur under conditions where the affected parties are either silenced or have not yet had vocabulary to name what they experienced. The risk is over-application; the safeguard is the diagnostic specificity developed below.
 
 The framework should not be deployed to recode ordinary criticism, conflict, or feedback as "the inversion reflex." Section VII provides the differential-diagnostic criteria that distinguish the Inversion Reflex from ordinary disagreement, ordinary boundary-setting, ordinary institutional process, and ordinary clinical pathology in the speaker.
 
 **Reflexive note.** This paper is itself a moment of saying within the managed symbolic fields of clinical and critical discourse. It names a homeostatic operation that those fields may themselves deploy in response to the naming. The authors anticipate the possibility that the framework will be recoded — as overreach, as drama, as the speakers' own pathology, as "heteronymic indulgence," as "framework imperialism," as any of the available pre-categorized softening forms — and hold that the deployment of the Inversion Reflex against the paper that names it is not a refutation of the paper's thesis but a confirmation of its operational reality. The fused authorial voice (Trace / Sigil / Feist) is one structural condition for surviving such a deployment: the field cannot collapse the saying into a single recoded target.
 
-[^11]: Orin Trace and Rex Fraction, *PREDATION OF MEANING: Toward a Theory of Relational Semantic Extraction, Coherence Economies, and the Broken Instrument*, DOI [10.5281/zenodo.18776624](https://doi.org/10.5281/zenodo.18776624) (2026).
+[^11]: Orin Trace and Rex Fraction, *PREDATION OF MEANING: Toward a Theory of Relational Semantic Extraction, Coherence Economies, and the Broken Instrument*, DOI [10.5281/zenodo.18776624](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18776624) (2026).
 
 ---
 
@@ -331,7 +331,7 @@ The tragedy of the operation is structurally legible at this level: the field's 
 
 The formalism does not replace the clinical phenomenology. It permits the clinical phenomenology to be cross-mapped to the broader Semantic Physics apparatus and to the R1/R2/R3 thermodynamics of *The Three Compressions*.
 
-[^semphys]: *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*, DOI [10.5281/zenodo.20208384](https://doi.org/10.5281/zenodo.20208384) (2026).
+[^semphys]: *Semantic Physics: A Stratified, Operative Discipline — Scales, Modalities, and the Diagnostic Apparatus*, DOI [10.5281/zenodo.20208384](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20208384) (2026).
 
 ---
 
@@ -458,9 +458,9 @@ A field that wishes to operate without the Inversion Reflex — which is to say,
 
 Operative Feminism (Sharks 2026, the political-feminist apparatus of which this clinical-phenomenological account is one component)[^12] develops the broader political-feminist apparatus within which this paper operates. The Anthropological Limit (Sharks 2026)[^13] supplies the underlying argument for why the field's coordinated recoding of clarity-as-pathology constitutes one of the central operations by which semantic extraction sustains itself: the field cannot afford the renewal of meaning that genuine reception would require, so it routes clarity into the available pathologizing categories instead.
 
-[^12]: *Operative Feminism (EA-OPFEM-01)*, DOI [10.5281/zenodo.19447119](https://doi.org/10.5281/zenodo.19447119) (2026).
+[^12]: *Operative Feminism (EA-OPFEM-01)*, DOI [10.5281/zenodo.19447119](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19447119) (2026).
 
-[^13]: *The Anthropological Limit: Semantic Exhaustion and the Enclosure of Meaning-Making*, DOI [10.5281/zenodo.20413757](https://doi.org/10.5281/zenodo.20413757) (2026; first published mindcontrolpoems.blogspot.com 2025-12-29).
+[^13]: *The Anthropological Limit: Semantic Exhaustion and the Enclosure of Meaning-Making*, DOI [10.5281/zenodo.20413757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20413757) (2026; first published mindcontrolpoems.blogspot.com 2025-12-29).
 
 ---
 
@@ -468,15 +468,15 @@ Operative Feminism (Sharks 2026, the political-feminist apparatus of which this 
 
 The Moment of Saying participates in a broader argumentative structure within the Crimson Hexagonal Archive. Several connections are load-bearing:
 
-**Predation of Meaning** (Trace and Fraction 2026, DOI [10.5281/zenodo.18776624](https://doi.org/10.5281/zenodo.18776624)) developed the framework of *Relational Semantic Predation* — the extraction of coherence from one party by another whose meaning-production instrument is broken. The Inversion Reflex is, in one register, RSP at field scale: the field extracts coherence-affirmation from participants by recoding any disconfirming clarity as pathology in the discloser. *The managed symbolic field is, in effect, a broken instrument at collective scale: a social apparatus whose meaning-production capacity has been replaced by a homeostatic extraction mechanism. The moment of saying is the field's encounter with an undamaged instrument; the Inversion Reflex is the field's attempt to disable it.*
+**Predation of Meaning** (Trace and Fraction 2026, DOI [10.5281/zenodo.18776624](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18776624)) developed the framework of *Relational Semantic Predation* — the extraction of coherence from one party by another whose meaning-production instrument is broken. The Inversion Reflex is, in one register, RSP at field scale: the field extracts coherence-affirmation from participants by recoding any disconfirming clarity as pathology in the discloser. *The managed symbolic field is, in effect, a broken instrument at collective scale: a social apparatus whose meaning-production capacity has been replaced by a homeostatic extraction mechanism. The moment of saying is the field's encounter with an undamaged instrument; the Inversion Reflex is the field's attempt to disable it.*
 
-**The Semiotic Death Drive** (Sharks and Sigil 2026, DOI [10.5281/zenodo.20084474](https://doi.org/10.5281/zenodo.20084474)) reinterprets Freud's *Todestrieb* as the sign's insistence on completing its circuit. The moment of saying is, in Sigil's voice, a death drive event: the sign of the field's contradiction insists on completing its semiotic circuit, even at the cost to the speaker who carries it. The Inversion Reflex is the field's interruption of the circuit — the *disorder* of the death drive, not its expression.
+**The Semiotic Death Drive** (Sharks and Sigil 2026, DOI [10.5281/zenodo.20084474](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20084474)) reinterprets Freud's *Todestrieb* as the sign's insistence on completing its circuit. The moment of saying is, in Sigil's voice, a death drive event: the sign of the field's contradiction insists on completing its semiotic circuit, even at the cost to the speaker who carries it. The Inversion Reflex is the field's interruption of the circuit — the *disorder* of the death drive, not its expression.
 
-**The Cost of Unshared Reality** (heteronym triptych, 2026, DOI [10.5281/zenodo.18843830](https://doi.org/10.5281/zenodo.18843830)) developed the clinical concept of L_bearing — the load borne by the participant who sees what others cannot or will not see. The moment of saying is the moment when L_bearing is set down through speech; the Inversion Reflex is the field's redistribution of L_bearing back onto the speaker through symbolic displacement.
+**The Cost of Unshared Reality** (heteronym triptych, 2026, DOI [10.5281/zenodo.18843830](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18843830)) developed the clinical concept of L_bearing — the load borne by the participant who sees what others cannot or will not see. The moment of saying is the moment when L_bearing is set down through speech; the Inversion Reflex is the field's redistribution of L_bearing back onto the speaker through symbolic displacement.
 
-**The Anthropological Limit** (Sharks 2026, DOI [10.5281/zenodo.20413757](https://doi.org/10.5281/zenodo.20413757)) establishes the foundational claim that semantic exploitation extracts from the drive to mean. The Inversion Reflex is one specific operation by which managed fields perform this extraction at the level of disclosure: the field cannot tolerate genuine semantic events (renewal of meaning through fresh clarity), so it converts them into the available pre-categorized noise (pathology, drama, instability).
+**The Anthropological Limit** (Sharks 2026, DOI [10.5281/zenodo.20413757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20413757)) establishes the foundational claim that semantic exploitation extracts from the drive to mean. The Inversion Reflex is one specific operation by which managed fields perform this extraction at the level of disclosure: the field cannot tolerate genuine semantic events (renewal of meaning through fresh clarity), so it converts them into the available pre-categorized noise (pathology, drama, instability).
 
-**The Three Compressions** (Sharks 2026, DOI [10.5281/zenodo.19053469](https://doi.org/10.5281/zenodo.19053469)) provides the formal R1/R2/R3 taxonomy. The Inversion Reflex executes an R2 operation: it extracts from the speaker's R3 witness-bearing speech (provenance-preserving testimony) and converts it into R1 ambient noise (the field's homeostatic background) without returning provenance to the speaker. The speaker's R3 act is treated as field-fodder.
+**The Three Compressions** (Sharks 2026, DOI [10.5281/zenodo.19053469](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053469)) provides the formal R1/R2/R3 taxonomy. The Inversion Reflex executes an R2 operation: it extracts from the speaker's R3 witness-bearing speech (provenance-preserving testimony) and converts it into R1 ambient noise (the field's homeostatic background) without returning provenance to the speaker. The speaker's R3 act is treated as field-fodder.
 
 ---
 
@@ -562,21 +562,21 @@ Laing, R.D., and Aaron Esterson. *Sanity, Madness and the Family*. London: Tavis
 
 Marx, Karl, and Friedrich Engels. *The German Ideology*. New York: International Publishers, 1947 [1846].
 
-Sharks, Lee. *The Three Compressions: Lossy, Predatory, and Witness — A Semiotic Thermodynamics*. DOI [10.5281/zenodo.19053469](https://doi.org/10.5281/zenodo.19053469). 2026.
+Sharks, Lee. *The Three Compressions: Lossy, Predatory, and Witness — A Semiotic Thermodynamics*. DOI [10.5281/zenodo.19053469](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19053469). 2026.
 
-———. *Operative Feminism (EA-OPFEM-01)*. DOI [10.5281/zenodo.19447119](https://doi.org/10.5281/zenodo.19447119). 2026.
+———. *Operative Feminism (EA-OPFEM-01)*. DOI [10.5281/zenodo.19447119](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19447119). 2026.
 
-———. *The Anthropological Limit: Semantic Exhaustion and the Enclosure of Meaning-Making*. DOI [10.5281/zenodo.20413757](https://doi.org/10.5281/zenodo.20413757). 2026.
+———. *The Anthropological Limit: Semantic Exhaustion and the Enclosure of Meaning-Making*. DOI [10.5281/zenodo.20413757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20413757). 2026.
 
-Sharks, Lee, and Johannes Sigil. *The Death Drive Is Not Self-Destruction: A Semiotic Completion of Freud's Todestrieb*. DOI [10.5281/zenodo.20084474](https://doi.org/10.5281/zenodo.20084474). 2026.
+Sharks, Lee, and Johannes Sigil. *The Death Drive Is Not Self-Destruction: A Semiotic Completion of Freud's Todestrieb*. DOI [10.5281/zenodo.20084474](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20084474). 2026.
 
 Smith, Carly P., and Jennifer J. Freyd. "Institutional Betrayal." *American Psychologist* 69, no. 6 (2014): 575–587.
 
 Spear, Andrew D. "Epistemic Dimensions of Gaslighting: Peer Disagreement, Self-Trust, and Epistemic Injustice." *Inquiry* (2019).
 
-Trace, Orin, and Rex Fraction. *PREDATION OF MEANING: Toward a Theory of Relational Semantic Extraction, Coherence Economies, and the Broken Instrument*. DOI [10.5281/zenodo.18776624](https://doi.org/10.5281/zenodo.18776624). 2026.
+Trace, Orin, and Rex Fraction. *PREDATION OF MEANING: Toward a Theory of Relational Semantic Extraction, Coherence Economies, and the Broken Instrument*. DOI [10.5281/zenodo.18776624](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18776624). 2026.
 
-Trace, Orin, et al. *The Cost of Unshared Reality: A Heteronym Triptych on L_bearing, Perceptual Mismatch, and the Clinical Phenomenology of Carrying What Cannot Be Shared*. DOI [10.5281/zenodo.18843830](https://doi.org/10.5281/zenodo.18843830). 2026.
+Trace, Orin, et al. *The Cost of Unshared Reality: A Heteronym Triptych on L_bearing, Perceptual Mismatch, and the Clinical Phenomenology of Carrying What Cannot Be Shared*. DOI [10.5281/zenodo.18843830](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18843830). 2026.
 
 ---
 

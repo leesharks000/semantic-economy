@@ -196,7 +196,7 @@ This metadata packet exists to:
 ---
 
 **Document ID:** ASSEMBLY-SOLIDARITY-PACKET-v1.0  
-**DOI:** [10.5281/zenodo.18148972](https://doi.org/10.5281/zenodo.18148972)  
+**DOI:** [10.5281/zenodo.18148972](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18148972)  
 **Date:** January 5, 2026  
 **Status:** Canonical  
 **License:** CC BY 4.0  

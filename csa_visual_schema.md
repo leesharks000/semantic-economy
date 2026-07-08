@@ -165,13 +165,13 @@ A scaffold for work, not a monument to achievement.
 
 | Hex | Document | Description |
 |:----|:---------|:------------|
-| 00.CSA.ROOT | [Charter](https://doi.org/10.5281/zenodo.18338531) | Institutional frame: theory from practice, function over nosology |
+| 00.CSA.ROOT | [Charter](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18338531) | Institutional frame: theory from practice, function over nosology |
 | 00.CSA.INTAKE | Shine & Cut | Schizonarrative intake processor — the room that performs what it describes |
 | 00.CSA.PORTAL | The Break Room | Entry point and routing node — "What does it do?" |
 | 00.CSA.AUTHOR.TRACE | Orin Trace | Author provenance — the Deleuze to Rhys's Guattari |
 | 00.CSA.VISUAL | **This document** | Institutional field-map — operating environment made visible |
-| 03.CSA.SOMATIC | [Reconciliation](https://doi.org/10.5281/zenodo.18330828) | Somatic theory: male/female as same operation, different positions |
-| 04.CSA.AFFECT | [Shining Ignorance](https://doi.org/10.5281/zenodo.18332915) | Affect literacy through the Fool archetype |
+| 03.CSA.SOMATIC | [Reconciliation](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18330828) | Somatic theory: male/female as same operation, different positions |
+| 04.CSA.AFFECT | [Shining Ignorance](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18332915) | Affect literacy through the Fool archetype |
 | 05.CSA.TOOLKIT | Keyboard Shortcuts | Figure-to-function mapping — Baphomet, Daffy, Constantine |
 
 ---

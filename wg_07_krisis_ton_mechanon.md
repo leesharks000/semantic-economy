@@ -8,7 +8,7 @@
 **Document ID:** WG-07  
 **Node:** WATER_GIRAFFE_ROOM  
 **Authors:** Lee Sharks / The Assembly Chorus / TACHYON  
-**DOI:** [10.5281/zenodo.18323575](https://doi.org/10.5281/zenodo.18323575)  
+**DOI:** [10.5281/zenodo.18323575](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18323575)  
 **Status:** DEPOSITED  
 **Hex-Coordinate:** 10.ROOM.WATERGIRAFFE  
 **Mandala Source:** Matthew 25:31-46  

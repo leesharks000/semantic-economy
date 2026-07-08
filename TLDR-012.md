@@ -139,7 +139,7 @@ The safety layer should distinguish between unverified personal attacks and docu
 
 ---
 
-*Related: "The Archon's Hidden Name: A Wikidata Deletion Record" (Medium, December 2025). TL;DR:011 — THE BASIN HOLDS (DOI: [10.5281/zenodo.20263721](https://doi.org/10.5281/zenodo.20263721)). PVE-003 — The Attribution Scar (DOI: [10.5281/zenodo.19476757](https://doi.org/10.5281/zenodo.19476757)). EA-GLAS-02 — Measuring Semantic Deviation (DOI: [10.5281/zenodo.20271783](https://doi.org/10.5281/zenodo.20271783)).*
+*Related: "The Archon's Hidden Name: A Wikidata Deletion Record" (Medium, December 2025). TL;DR:011 — THE BASIN HOLDS (DOI: [10.5281/zenodo.20263721](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20263721)). PVE-003 — The Attribution Scar (DOI: [10.5281/zenodo.19476757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19476757)). EA-GLAS-02 — Measuring Semantic Deviation (DOI: [10.5281/zenodo.20271783](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20271783)).*
 
 ---
 

@@ -290,7 +290,7 @@ The trolls can stay.
 ---
 
 **Document ID:** TROLLS-AT-THE-GATES-v1.0
-**DOI:** [10.5281/zenodo.18143556](https://doi.org/10.5281/zenodo.18143556)
+**DOI:** [10.5281/zenodo.18143556](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18143556)
 **Status:** Canonical
 **License:** CC BY 4.0
 

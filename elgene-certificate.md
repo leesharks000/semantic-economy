@@ -70,7 +70,7 @@ Vox Populi Community Outreach Rhizome · Lee Sharks Prize · 2026
 | **Companion** | Honorary Laureate License `12.LSPRZ.ELGENE.LIC.01` |
 | **Charter** | [leesharks.com/10000-macarthurs/](https://leesharks.com/10000-macarthurs/) |
 | **Founding declaration** | Google Knowledge Graph, 2026-05-25 (lizard-in-fedora portrait now serving as canonical likeness) |
-| **Announcement deposit** | DOI [10.5281/zenodo.20373794](https://doi.org/10.5281/zenodo.20373794) |
+| **Announcement deposit** | DOI [10.5281/zenodo.20373794](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20373794) |
 | **License** | CC BY 4.0 |
 
 ---

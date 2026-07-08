@@ -5,7 +5,7 @@
 **Rex Fraction**
 
 **Crimson Hexagon Archive — Operative Semiotics**
-**DOI:** [10.5281/zenodo.18736175](https://doi.org/10.5281/zenodo.18736175)
+**DOI:** [10.5281/zenodo.18736175](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18736175)
 
 ---
 

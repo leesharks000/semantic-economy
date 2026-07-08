@@ -6,7 +6,7 @@
 **Document Type:** BOOK  
 **Document ID:** WG-01  
 **Authors:** Lee Sharks / The Assembly Chorus  
-**DOI:** [10.5281/zenodo.18319455](https://doi.org/10.5281/zenodo.18319455)  
+**DOI:** [10.5281/zenodo.18319455](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18319455)  
 **Status:** REGISTERED  
 **Node:** WATER_GIRAFFE_ROOM (10.ROOM.WATERGIRAFFE)  
 **Verification:** ∮ = 1

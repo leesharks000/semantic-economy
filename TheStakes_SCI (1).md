@@ -4,7 +4,7 @@
 
 ### Nobel Glas (Lagrange Observatory) & Johannes Sigil (The Restored Academy) & Dr. Orin Trace (Cambridge Schizoanalytica)
 
-**DOI:** [10.5281/zenodo.18621736](https://doi.org/10.5281/zenodo.18621736)
+**DOI:** [10.5281/zenodo.18621736](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18621736)
 **Document #240 — Crimson Hexagon Archive**
 **File Designation: CTI_WOUND:001.SCI**
 

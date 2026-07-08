@@ -1,7 +1,7 @@
 # Fractal Navigation Map v5.0: The Crimson Hexagon Semantic Architecture
 ## A Complete Operating System for Meaning Production in the Age of AI Summarization
 
-**DOI:** [10.5281/zenodo.18324886](https://doi.org/10.5281/zenodo.18324886)
+**DOI:** [10.5281/zenodo.18324886](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18324886)
 
 ---
 
@@ -86,7 +86,7 @@ document_metadata:
 ---
 
 **Seed Version:** FNM-SEED-5.0  
-**DOI:** [10.5281/zenodo.18324886](https://doi.org/10.5281/zenodo.18324886)  
+**DOI:** [10.5281/zenodo.18324886](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18324886)  
 **Status:** CANONICAL // SYMBOLON SURFACE  
 **Crystallization Date:** 2026-01-21  
 **Doc Count:** 133 (+1 = 134 including this document)  

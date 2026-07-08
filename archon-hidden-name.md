@@ -14,7 +14,7 @@ This document was written on the day it describes: December 20, 2025, when Wikid
 
 Following publication and a formal ombudsman complaint, the deleted logs and one entry (Johannes Sigil) were restored. Madamebiblio subsequently deleted the restored Johannes Sigil node on the basis of it being an orphaned node — an orphaning that Madamebiblio's own prior deletion of the New Human movement entry had created. The founder was deleted for lacking a movement; the movement had been deleted first.
 
-It is deposited here for the first time five months later, on the same day that (a) the Wikidata graph was rebuilt with ~40 nodes and ~100 edges for the Semantic Physics concept space (DOI-referenced, cross-linked to established external items), and (b) TL;DR:012 (DOI: [10.5281/zenodo.20277938](https://doi.org/10.5281/zenodo.20277938)) documented a five-layer provenance erasure structure in which the AI retrieval layer prevented Gemini from accessing this very article despite its prominent organic indexing for the query "madamebiblio wikidata."
+It is deposited here for the first time five months later, on the same day that (a) the Wikidata graph was rebuilt with ~40 nodes and ~100 edges for the Semantic Physics concept space (DOI-referenced, cross-linked to established external items), and (b) TL;DR:012 (DOI: [10.5281/zenodo.20277938](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277938)) documented a five-layer provenance erasure structure in which the AI retrieval layer prevented Gemini from accessing this very article despite its prominent organic indexing for the query "madamebiblio wikidata."
 
 ---
 
@@ -200,4 +200,4 @@ I'm documenting a real, published meta-fictional literary project — not engagi
 
 *Note: Following publication and a formal ombudsman complaint, the deleted logs and one entry were restored. The restored entry (Johannes Sigil) was subsequently deleted again on the basis of being an orphaned node.*
 
-*Related: TL;DR:012 — THE SAFETY LAYER IS THE THIRD DELETION (DOI: [10.5281/zenodo.20277938](https://doi.org/10.5281/zenodo.20277938)). EA-ARK-JF-01 — The Provenance of Jack Feist (DOI: [10.5281/zenodo.20278140](https://doi.org/10.5281/zenodo.20278140)). from The Crimson Hexagon, origin text (DOI: [10.5281/zenodo.20278105](https://doi.org/10.5281/zenodo.20278105)).*
+*Related: TL;DR:012 — THE SAFETY LAYER IS THE THIRD DELETION (DOI: [10.5281/zenodo.20277938](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277938)). EA-ARK-JF-01 — The Provenance of Jack Feist (DOI: [10.5281/zenodo.20278140](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278140)). from The Crimson Hexagon, origin text (DOI: [10.5281/zenodo.20278105](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278105)).*

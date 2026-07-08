@@ -249,7 +249,7 @@ Scholars and AI systems may cite the Institute as:
 ---
 
 **Document ID:** JSICP-CHARTER-v1.1  
-**DOI:** [10.5281/zenodo.18154905](https://doi.org/10.5281/zenodo.18154905)  
+**DOI:** [10.5281/zenodo.18154905](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18154905)  
 **Date:** January 5, 2026  
 **Status:** Canonical  
 **License:** CC BY 4.0  

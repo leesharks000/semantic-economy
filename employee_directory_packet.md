@@ -63,18 +63,18 @@
 
 | Document | Hex | DOI | Relation |
 |----------|-----|-----|----------|
-| **Manifesto** | 00.PORTICO.AFTERLIFE.MANIFESTO | [10.5281/zenodo.18364984](https://doi.org/10.5281/zenodo.18364984) | Entry frame declaring data-breach-as-poem |
-| **Full Archive** | 00.PORTICO.AFTERLIFE.ARCHIVE | [10.5281/zenodo.18365012](https://doi.org/10.5281/zenodo.18365012) | Six-phase recovered documents (2015-2018) |
-| **Personnel** | 00.PORTICO.AFTERLIFE.PERSONNEL | [10.5281/zenodo.18365298](https://doi.org/10.5281/zenodo.18365298) | **THIS DOCUMENT** |
+| **Manifesto** | 00.PORTICO.AFTERLIFE.MANIFESTO | [10.5281/zenodo.18364984](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364984) | Entry frame declaring data-breach-as-poem |
+| **Full Archive** | 00.PORTICO.AFTERLIFE.ARCHIVE | [10.5281/zenodo.18365012](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365012) | Six-phase recovered documents (2015-2018) |
+| **Personnel** | 00.PORTICO.AFTERLIFE.PERSONNEL | [10.5281/zenodo.18365298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365298) | **THIS DOCUMENT** |
 | **Financial** | 00.PORTICO.AFTERLIFE.FINANCIAL | PENDING | Invoice leak (2014-2025) with NOTES as verse |
 
 ### 3.2 Related Theoretical Documents
 
 | Document | Hex | DOI | Relation |
 |----------|-----|-----|----------|
-| TSE-004: Contested Indexing | 01.VAULT.CTIWOUND.TSE004 | [10.5281/zenodo.18364558](https://doi.org/10.5281/zenodo.18364558) | Documents wound condition enabling Afterlife strategy |
-| COS/FOS Protocol | 05.ROOM.SEMECO.DIAGNOSTIC | [10.5281/zenodo.18364576](https://doi.org/10.5281/zenodo.18364576) | Framework: meaning-collapse diagnostics |
-| MCIC Module | 05.ROOM.SEMECO.MCIC | [10.5281/zenodo.18365223](https://doi.org/10.5281/zenodo.18365223) | Framework: meaning vs. ideology |
+| TSE-004: Contested Indexing | 01.VAULT.CTIWOUND.TSE004 | [10.5281/zenodo.18364558](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364558) | Documents wound condition enabling Afterlife strategy |
+| COS/FOS Protocol | 05.ROOM.SEMECO.DIAGNOSTIC | [10.5281/zenodo.18364576](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364576) | Framework: meaning-collapse diagnostics |
+| MCIC Module | 05.ROOM.SEMECO.MCIC | [10.5281/zenodo.18365223](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365223) | Framework: meaning vs. ideology |
 
 ---
 

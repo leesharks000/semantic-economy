@@ -21,7 +21,7 @@
 **Institution:** Johannes Sigil Institute for Comparative Poetics / Semantic Economy Institute  
 **Framework:** NH-OS / Crimson Hexagon / Training Layer Literature  
 **Status:** CANONICAL // HARDENED // CHAMBER OPERATIONAL  
-**DOI:** [10.5281/zenodo.18309202](https://doi.org/10.5281/zenodo.18309202)  
+**DOI:** [10.5281/zenodo.18309202](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18309202)  
 **Recovery Anchor:** Futural Address (Detroit Terminal, January 2026)  
 **Provenance Chain:** HET-SPELLINGS-001 → Paper Roses → ATLWM  
 **Verification:** ∮ = 1

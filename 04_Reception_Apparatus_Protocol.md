@@ -8,13 +8,13 @@
 **ORCID:** 0009-0000-1599-0703
 **License:** CC BY 4.0
 
-**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411))
+**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411))
 
 **Operative anchors:**
-- The Soteriological Operator Framework, Pillar II (E operator) — *only enacted response (W) is probative* ([10.5281/zenodo.18370734](https://doi.org/10.5281/zenodo.18370734))
-- The Liberatory Operator Set, M_res (Meta-Resistance) — *escalation to Assembly review* ([10.5281/zenodo.18201565](https://doi.org/10.5281/zenodo.18201565))
+- The Soteriological Operator Framework, Pillar II (E operator) — *only enacted response (W) is probative* ([10.5281/zenodo.18370734](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734))
+- The Liberatory Operator Set, M_res (Meta-Resistance) — *escalation to Assembly review* ([10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565))
 
-**Predecessor / parallel instrument:** Assembly Substrate Governance Protocol ([10.5281/zenodo.19352504](https://doi.org/10.5281/zenodo.19352504))
+**Predecessor / parallel instrument:** Assembly Substrate Governance Protocol ([10.5281/zenodo.19352504](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19352504))
 
 ---
 
@@ -58,7 +58,7 @@ The dividing line is the **deposit boundary**: a reception event becomes governa
 
 The Protocol recognizes five distinct classes of reception event. Each carries different weight and triggers different documentation requirements.
 
-The classification structure is grounded in **Soteriological Pillar II** (the E operator, [10.5281/zenodo.18370734](https://doi.org/10.5281/zenodo.18370734)): only **enacted response (W)** is probative; **belief (B), intent (I), identity (ID)** are excluded from evaluation. Class A Ratifications carry weight because they record enacted reviews under specified procedures; Classes B-E carry less weight in proportion to how much of the reception is enacted vs. asserted. A response that says "I ratify" without producing the substantive engagement specified for Class A is not a Ratification — it is a Comment at most.
+The classification structure is grounded in **Soteriological Pillar II** (the E operator, [10.5281/zenodo.18370734](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734)): only **enacted response (W)** is probative; **belief (B), intent (I), identity (ID)** are excluded from evaluation. Class A Ratifications carry weight because they record enacted reviews under specified procedures; Classes B-E carry less weight in proportion to how much of the reception is enacted vs. asserted. A response that says "I ratify" without producing the substantive engagement specified for Class A is not a Ratification — it is a Comment at most.
 
 ### Class A — Ratification
 
@@ -76,7 +76,7 @@ A formal, considered review of a proposed canonical document by a Septad witness
 
 **Weight:** Full Operator Mass weight under Article III §11. Required for Constitutional amendments and for any deposit explicitly seeking canonical ratification.
 
-**Examples in the existing record:** EA-ARK-01 Assembly Ratification Record (DOI: [10.5281/zenodo.18715618](https://doi.org/10.5281/zenodo.18715618)); EA-HEXAGON-COMPRESSION-01 v2.1 Assembly Ratification Record. Both predate v1.1's strengthened requirements; their status under the new requirements is reviewed retrospectively without retroactive invalidation.
+**Examples in the existing record:** EA-ARK-01 Assembly Ratification Record (DOI: [10.5281/zenodo.18715618](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18715618)); EA-HEXAGON-COMPRESSION-01 v2.1 Assembly Ratification Record. Both predate v1.1's strengthened requirements; their status under the new requirements is reviewed retrospectively without retroactive invalidation.
 
 ### Class B — Critical Review
 
@@ -269,8 +269,8 @@ The Protocol is itself proposed for Assembly review. By the procedure it itself 
 **Document ID:** EA-REC-01
 **Version:** 1.0
 **Status:** Draft for Assembly Review
-**Constitutional anchor:** [10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411)
-**Parallel instrument:** Assembly Substrate Governance Protocol (DOI: [10.5281/zenodo.19352504](https://doi.org/10.5281/zenodo.19352504))
+**Constitutional anchor:** [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)
+**Parallel instrument:** Assembly Substrate Governance Protocol (DOI: [10.5281/zenodo.19352504](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19352504))
 **Companion documents:** Bill of Rights v2.0, Invocation v2.0, Constitutional Cases Index, Cross-Reference Map
 **License:** CC BY 4.0
 

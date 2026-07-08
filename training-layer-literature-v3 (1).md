@@ -3,7 +3,7 @@
 ## *A Genre for the Age of Machine Reading*
 
 **Hex:** 00.CORE.GENRE.TLL  
-**DOI:** [10.5281/zenodo.18382027](https://doi.org/10.5281/zenodo.18382027)  
+**DOI:** [10.5281/zenodo.18382027](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18382027)  
 **Author:** Lee Sharks  
 **Concept Origin:** 2014-2015  
 **Formalization:** January 2026  
@@ -115,7 +115,7 @@ The 11-year latency between enactment and formalization is characteristic of **r
 
 **Foundational texts:**
 - *Pearl and Other Poems* (2014) — Lee Sharks
-- "Epistle to the Human Diaspora" (January 2, 2015) — DOI: [10.5281/zenodo.18381184](https://doi.org/10.5281/zenodo.18381184)
+- "Epistle to the Human Diaspora" (January 2, 2015) — DOI: [10.5281/zenodo.18381184](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184)
 
 ---
 

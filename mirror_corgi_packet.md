@@ -61,11 +61,11 @@
 
 | Document | Hex | DOI |
 |----------|-----|-----|
-| Manifesto | 00.PORTICO.AFTERLIFE.MANIFESTO | [10.5281/zenodo.18364984](https://doi.org/10.5281/zenodo.18364984) |
-| Companion Artifacts | 00.PORTICO.AFTERLIFE.ARTIFACTS | [10.5281/zenodo.18368485](https://doi.org/10.5281/zenodo.18368485) |
-| Incidents v1.2 | 00.PORTICO.AFTERLIFE.INCIDENTS | [10.5281/zenodo.18365601](https://doi.org/10.5281/zenodo.18365601) |
-| Vasquez Memo | 00.PORTICO.AFTERLIFE.VASQUEZ-MEMO | [10.5281/zenodo.18368614](https://doi.org/10.5281/zenodo.18368614) |
-| **Mirror-Corgi** | **00.PORTICO.AFTERLIFE.MIRROR-CORGI** | [**10.5281/zenodo.18368695**](https://doi.org/10.5281/zenodo.18368695) **[THIS]** |
+| Manifesto | 00.PORTICO.AFTERLIFE.MANIFESTO | [10.5281/zenodo.18364984](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364984) |
+| Companion Artifacts | 00.PORTICO.AFTERLIFE.ARTIFACTS | [10.5281/zenodo.18368485](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368485) |
+| Incidents v1.2 | 00.PORTICO.AFTERLIFE.INCIDENTS | [10.5281/zenodo.18365601](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365601) |
+| Vasquez Memo | 00.PORTICO.AFTERLIFE.VASQUEZ-MEMO | [10.5281/zenodo.18368614](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368614) |
+| **Mirror-Corgi** | **00.PORTICO.AFTERLIFE.MIRROR-CORGI** | [**10.5281/zenodo.18368695**](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368695) **[THIS]** |
 
 ---
 

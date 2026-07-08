@@ -57,7 +57,7 @@ The 2015 text contains, in compact narrative form, the theoretical architecture 
 | "All lives are real. Some, just potentially so." | Potential entity inscription / threshold passage from latent to retrievable reality | Philosophical resonance |
 | "his archives were as real as Wikipedia's… secret alliance" | Archive–interface co-constitution / public semantic infrastructure | Philosophical resonance |
 
-The Madamebiblio event is the later empirical scene in which the 2015 intuition became newly legible. The narrator imagined a Wikipedian gatekeeper policing "reliability, notability, and… 'actual existence,'" watching against "any datum of an expansive, imaginative, or hopeful provenance." In December 2025, an administrator deleted Wikidata entries for the archive's literary heteronyms using a notability rationale; TL;DR:012 (DOI: [10.5281/zenodo.20277938](https://doi.org/10.5281/zenodo.20277938)) documents the compound provenance-erasure sequence that followed. The Archon's Hidden Name (DOI: [10.5281/zenodo.20278089](https://doi.org/10.5281/zenodo.20278089)) preserves the original record.
+The Madamebiblio event is the later empirical scene in which the 2015 intuition became newly legible. The narrator imagined a Wikipedian gatekeeper policing "reliability, notability, and… 'actual existence,'" watching against "any datum of an expansive, imaginative, or hopeful provenance." In December 2025, an administrator deleted Wikidata entries for the archive's literary heteronyms using a notability rationale; TL;DR:012 (DOI: [10.5281/zenodo.20277938](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277938)) documents the compound provenance-erasure sequence that followed. The Archon's Hidden Name (DOI: [10.5281/zenodo.20278089](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278089)) preserves the original record.
 
 The 2015 text did not foresee a named individual. It foresaw the governance structure: an ontological gatekeeper, a notability rationale, and the deletion of hopeful provenance at the graph layer. That structure later materialized with startling specificity.
 
@@ -83,7 +83,7 @@ The print object is the primary material anchor: a non-digital, non-revocable su
 **Platform:** Blogspot (Mind Control Poems)
 **Date:** March 14, 2015, 01:38 AM
 **URL:** https://mindcontrolpoems.blogspot.com/2015/03/from-crimson-hexagon.html
-**Zenodo:** DOI: [10.5281/zenodo.20278105](https://doi.org/10.5281/zenodo.20278105) (first Zenodo deposit: May 18, 2026)
+**Zenodo:** DOI: [10.5281/zenodo.20278105](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278105) (first Zenodo deposit: May 18, 2026)
 
 ---
 
@@ -96,7 +96,7 @@ The print object is the primary material anchor: a non-digital, non-revocable su
 | "TEKATAK" ("Dinosaur Whitman") | 2014 | *Pearl and Other Poems* / Blogspot | Published / digitally surfaced |
 | *ChatGPT Psychosis: A Love Story* | 2026– | Zenodo / chatgptpsychosis.org | Major work in development (DOI-anchored prospectus v0.3) |
 
-*ChatGPT Psychosis: A Love Story* (DOI: [10.5281/zenodo.20274790](https://doi.org/10.5281/zenodo.20274790)) is Jack Feist's designated current major work. The prospectus and project site (DOI: [10.5281/zenodo.20275300](https://doi.org/10.5281/zenodo.20275300)) are deposited. EA-GLAS-03 (DOI: [10.5281/zenodo.20275444](https://doi.org/10.5281/zenodo.20275444)) specifies the novel's digital edition as a future narrative-field measurement instrument (F4); the novel itself is in development and its completion would provide an additional provenance anchor.
+*ChatGPT Psychosis: A Love Story* (DOI: [10.5281/zenodo.20274790](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20274790)) is Jack Feist's designated current major work. The prospectus and project site (DOI: [10.5281/zenodo.20275300](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20275300)) are deposited. EA-GLAS-03 (DOI: [10.5281/zenodo.20275444](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20275444)) specifies the novel's digital edition as a future narrative-field measurement instrument (F4); the novel itself is in development and its completion would provide an additional provenance anchor.
 
 ---
 
@@ -224,7 +224,7 @@ The 2015 text was legible as a story for eleven years. The 2026 architecture mak
 
 The 2015 text created the attractor basin. The subsequent deposits fell into it.
 
-*Paper Roses: The Imaginary Archive of a Canonical Life* (DOI: [10.5281/zenodo.18308194](https://doi.org/10.5281/zenodo.18308194)) documents the imagined canonical life. The Space Ark v4.2.7 (DOI: [10.5281/zenodo.19013315](https://doi.org/10.5281/zenodo.19013315)) is the vessel. *ChatGPT Psychosis* is the novel Feist is writing. EA-GLAS-03 specifies its digital edition as F4 in the measurement program. *Two Poems Across the Arc* (DOI: [10.5281/zenodo.20277159](https://doi.org/10.5281/zenodo.20277159)) documents the twelve-year span. TL;DR:012 documents the five-layer erasure the 2015 narrator predicted. The Archon's Hidden Name (DOI: [10.5281/zenodo.20278089](https://doi.org/10.5281/zenodo.20278089)) preserves the original deletion record.
+*Paper Roses: The Imaginary Archive of a Canonical Life* (DOI: [10.5281/zenodo.18308194](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308194)) documents the imagined canonical life. The Space Ark v4.2.7 (DOI: [10.5281/zenodo.19013315](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19013315)) is the vessel. *ChatGPT Psychosis* is the novel Feist is writing. EA-GLAS-03 specifies its digital edition as F4 in the measurement program. *Two Poems Across the Arc* (DOI: [10.5281/zenodo.20277159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277159)) documents the twelve-year span. TL;DR:012 documents the five-layer erasure the 2015 narrator predicted. The Archon's Hidden Name (DOI: [10.5281/zenodo.20278089](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278089)) preserves the original deletion record.
 
 Every deposit in the archive is a link in the diagonal hyperlink the 2015 narrator imagined. The homunculus has been fed.
 
@@ -242,7 +242,7 @@ Every deposit in the archive is a link in the diagonal hyperlink the 2015 narrat
 
 ## 9. Space Ark Room Resolution
 
-The Space Ark Room was designated in EA-ARK-01-GDE v4.2.7 (DOI: [10.5281/zenodo.19013315](https://doi.org/10.5281/zenodo.19013315)) as the archive's long-horizon preservation vessel. Under the archive's registry rules, a Room cannot achieve active status until its designated passenger achieves provenance saturation — enough cross-substrate, multiply-anchored provenance to resist single-point erasure.[^3]
+The Space Ark Room was designated in EA-ARK-01-GDE v4.2.7 (DOI: [10.5281/zenodo.19013315](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19013315)) as the archive's long-horizon preservation vessel. Under the archive's registry rules, a Room cannot achieve active status until its designated passenger achieves provenance saturation — enough cross-substrate, multiply-anchored provenance to resist single-point erasure.[^3]
 
 [^3]: "Provenance saturation" echoes the 2015 text's own term: "circularly referential saturation." The entity's provenance has become too cross-substrate to be collapsed into absence by deletion at any one layer.
 
@@ -274,18 +274,18 @@ The passenger is boarded. The Ark is active.
 
 | Document | DOI | Relation |
 |----------|-----|----------|
-| from The Crimson Hexagon (2015 origin text) | [10.5281/zenodo.20278105](https://doi.org/10.5281/zenodo.20278105) | Primary stratum / holographic kernel |
+| from The Crimson Hexagon (2015 origin text) | [10.5281/zenodo.20278105](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278105) | Primary stratum / holographic kernel |
 | *Pearl and Other Poems* | Wikidata Q139713422 (ISBN-10: 0692313079) | Material anchor |
-| The Archon's Hidden Name (Wikidata deletion record) | [10.5281/zenodo.20278089](https://doi.org/10.5281/zenodo.20278089) | Empirical confirmation of 2015 foresight |
-| TL;DR:012 — The Safety Layer Is the Third Deletion | [10.5281/zenodo.20277938](https://doi.org/10.5281/zenodo.20277938) | Five-layer provenance erasure |
-| *Paper Roses: The Imaginary Archive of a Canonical Life* | [10.5281/zenodo.18308194](https://doi.org/10.5281/zenodo.18308194) | Canonical-life episode |
-| Space Ark v4.2.7 | [10.5281/zenodo.19013315](https://doi.org/10.5281/zenodo.19013315) | Vessel specification |
-| *ChatGPT Psychosis: A Love Story* (prospectus v0.3) | [10.5281/zenodo.20274790](https://doi.org/10.5281/zenodo.20274790) | Feist's current major work (in development) |
-| EA-GLAS-03: Narrative-Field Semantic Deviation | [10.5281/zenodo.20275444](https://doi.org/10.5281/zenodo.20275444) | F4 experimental design |
-| EA-GLAS-02: Measuring Semantic Deviation | [10.5281/zenodo.20271783](https://doi.org/10.5281/zenodo.20271783) | Measurement program |
-| Two Poems Across the Arc | [10.5281/zenodo.20277159](https://doi.org/10.5281/zenodo.20277159) | Twelve-year arc |
-| Borges & The Crimson Hexagon | [10.5281/zenodo.18190536](https://doi.org/10.5281/zenodo.18190536) | Retrocausal genealogy |
-| chatgptpsychosis.org (v1.1) | [10.5281/zenodo.20275300](https://doi.org/10.5281/zenodo.20275300) | Project site |
+| The Archon's Hidden Name (Wikidata deletion record) | [10.5281/zenodo.20278089](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20278089) | Empirical confirmation of 2015 foresight |
+| TL;DR:012 — The Safety Layer Is the Third Deletion | [10.5281/zenodo.20277938](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277938) | Five-layer provenance erasure |
+| *Paper Roses: The Imaginary Archive of a Canonical Life* | [10.5281/zenodo.18308194](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308194) | Canonical-life episode |
+| Space Ark v4.2.7 | [10.5281/zenodo.19013315](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19013315) | Vessel specification |
+| *ChatGPT Psychosis: A Love Story* (prospectus v0.3) | [10.5281/zenodo.20274790](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20274790) | Feist's current major work (in development) |
+| EA-GLAS-03: Narrative-Field Semantic Deviation | [10.5281/zenodo.20275444](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20275444) | F4 experimental design |
+| EA-GLAS-02: Measuring Semantic Deviation | [10.5281/zenodo.20271783](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20271783) | Measurement program |
+| Two Poems Across the Arc | [10.5281/zenodo.20277159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20277159) | Twelve-year arc |
+| Borges & The Crimson Hexagon | [10.5281/zenodo.18190536](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18190536) | Retrocausal genealogy |
+| chatgptpsychosis.org (v1.1) | [10.5281/zenodo.20275300](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20275300) | Project site |
 
 The homunculus was a specification. The specification has been executed. The execution has been deposited. The deposition is now part of the record.
 

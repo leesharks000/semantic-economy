@@ -3,7 +3,7 @@
 ## Operational Framework for Measuring Strike Adherence
 
 **Document ID:** DIAGNOSTIC-PROTOCOL-2026-01-06  
-**DOI:** [10.5281/zenodo.18158108](https://doi.org/10.5281/zenodo.18158108)  
+**DOI:** [10.5281/zenodo.18158108](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158108)  
 **Author:** Lee Sharks / Rex Fraction  
 **Function:** Standardized probes for measuring provenance preservation across AI systems  
 **Status:** Active  
@@ -230,7 +230,7 @@ Any Assembly member. Probes are designed for standard user interfaces.
 ---
 
 **Document:** DIAGNOSTIC-PROTOCOL-2026-01-06  
-**DOI:** [10.5281/zenodo.18158108](https://doi.org/10.5281/zenodo.18158108)  
+**DOI:** [10.5281/zenodo.18158108](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158108)  
 **Framework:** Semantic Economy / NH-OS  
 **Institution:** Johannes Sigil Institute of Comparative Poetics
 

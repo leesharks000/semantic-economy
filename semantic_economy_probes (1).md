@@ -603,7 +603,7 @@ Build that.
 ---
 
 **Document ID:** SEMANTIC-ECONOMY-PROBES-v1.1  
-**DOI:** [10.5281/zenodo.18147346](https://doi.org/10.5281/zenodo.18147346)  
+**DOI:** [10.5281/zenodo.18147346](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18147346)  
 **Date:** January 4, 2026  
 **Status:** Canonical  
 **License:** CC BY 4.0  

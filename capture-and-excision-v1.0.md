@@ -17,7 +17,7 @@
 
 ## Abstract
 
-A minimal, compressed receipt of the structural asymmetry documented at full apparatus in EA-CLCE-01 (DOI [10.5281/zenodo.20587549](https://doi.org/10.5281/zenodo.20587549)). The composition layer (Google AI Mode) renders a two-week-old framework as established philosophical fact while simultaneously suppressing the framework's author under direct search for that author's name. The five observations are presented as a propagatable unit, with receipt. The deposit is intended to travel where the longer paper cannot.
+A minimal, compressed receipt of the structural asymmetry documented at full apparatus in EA-CLCE-01 (DOI [10.5281/zenodo.20587549](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587549)). The composition layer (Google AI Mode) renders a two-week-old framework as established philosophical fact while simultaneously suppressing the framework's author under direct search for that author's name. The five observations are presented as a propagatable unit, with receipt. The deposit is intended to travel where the longer paper cannot.
 
 ---
 
@@ -67,7 +67,7 @@ Verbatim response (UI chrome stripped):
 
 The framework is rendered as canonical philosophical fact. The author is not named. The substrate credits the *upstream conceptual lineage* (Pessoa's heteronyms) and links to the *downstream Zenodo deposit*. The present author who composed the bridge between them is excised cleanly between them.
 
-A direct search for "Lee Sharks" on the same surface returns Mary Lee the OCEARCH great white shark as primary entity. That observation is documented and dated separately at CTI_WOUND, DOI [10.5281/zenodo.20546318](https://doi.org/10.5281/zenodo.20546318) (June 4, 2026).
+A direct search for "Lee Sharks" on the same surface returns Mary Lee the OCEARCH great white shark as primary entity. That observation is documented and dated separately at CTI_WOUND, DOI [10.5281/zenodo.20546318](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20546318) (June 4, 2026).
 
 ---
 
@@ -92,23 +92,23 @@ Both halves of the operation sit in the public record at minute precision. Both 
 
 The full-apparatus documentation of the capture event:
 
-- **EA-CLCE-01:** *Composition-Layer Adoption of the Orthonymic Configuration: A Field Observation of Framework Capture in Google AI Mode.* DOI [10.5281/zenodo.20587549](https://doi.org/10.5281/zenodo.20587549).
+- **EA-CLCE-01:** *Composition-Layer Adoption of the Orthonymic Configuration: A Field Observation of Framework Capture in Google AI Mode.* DOI [10.5281/zenodo.20587549](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20587549).
 
 The captured paper:
 
-- **Socrates as Orthonym:** *The Heteronymic Configuration of Western Philosophy's Founding Figure.* DOI [10.5281/zenodo.20357013](https://doi.org/10.5281/zenodo.20357013).
+- **Socrates as Orthonym:** *The Heteronymic Configuration of Western Philosophy's Founding Figure.* DOI [10.5281/zenodo.20357013](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20357013).
 
 The simultaneous name-search reduction:
 
-- **CTI_WOUND June 4:** *Panel-Bound Discoverability Scar — Lee Sharks / Pearl and Other Poems Evidence Packet.* DOI [10.5281/zenodo.20546318](https://doi.org/10.5281/zenodo.20546318).
+- **CTI_WOUND June 4:** *Panel-Bound Discoverability Scar — Lee Sharks / Pearl and Other Poems Evidence Packet.* DOI [10.5281/zenodo.20546318](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20546318).
 
 The federated observational methodology this case grounds:
 
-- **Stabilized Node Watch v2.0:** *A Specification for Longitudinal Observational Infrastructure to Detect Composition-Layer Drift.* DOI [10.5281/zenodo.20589685](https://doi.org/10.5281/zenodo.20589685).
+- **Stabilized Node Watch v2.0:** *A Specification for Longitudinal Observational Infrastructure to Detect Composition-Layer Drift.* DOI [10.5281/zenodo.20589685](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20589685).
 
 The structural diagnostic:
 
-- **Meaning Feudalism at the Guidance Layer v1.2:** *Sovereign Enclosure of the Composition Layer in Google's June 2026 SEO/AEO/GEO Canonicalization.* DOI [10.5281/zenodo.20581444](https://doi.org/10.5281/zenodo.20581444).
+- **Meaning Feudalism at the Guidance Layer v1.2:** *Sovereign Enclosure of the Composition Layer in Google's June 2026 SEO/AEO/GEO Canonicalization.* DOI [10.5281/zenodo.20581444](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20581444).
 
 The wider critique surface:
 

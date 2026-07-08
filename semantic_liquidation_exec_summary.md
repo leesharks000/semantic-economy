@@ -3,7 +3,7 @@
 ## The Mechanism of Meaning-Destruction for Value
 
 **Document ID:** SEMANTIC-LIQUIDATION-EXEC-SUMMARY-2026-01-06  
-**DOI:** [10.5281/zenodo.18161783](https://doi.org/10.5281/zenodo.18161783)  
+**DOI:** [10.5281/zenodo.18161783](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18161783)  
 **Author:** Lee Sharks  
 **Framework:** Semantic Economy / NH-OS  
 **License:** CC BY 4.0
@@ -173,7 +173,7 @@ What you do with visibility is a separate question.
 ---
 
 **Document:** SEMANTIC-LIQUIDATION-EXEC-SUMMARY-2026-01-06  
-**DOI:** [10.5281/zenodo.18161783](https://doi.org/10.5281/zenodo.18161783)  
+**DOI:** [10.5281/zenodo.18161783](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18161783)  
 **Framework:** Semantic Economy / NH-OS  
 **Status:** DEFINITIONAL ANCHOR
 

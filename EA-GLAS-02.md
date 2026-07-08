@@ -64,7 +64,7 @@ This paper presents a measurement program for the Semantic Deviation Principle, 
 
 The question of whether meaning admits measurement has been posed formally since Bar-Hillel and Carnap's 1953 theory of semantic information, which defined semantic content as the set of possible states a proposition excludes. Kolchinsky and Wolpert (2018) linked semantic information to dynamical consequences, defining it as mutual information between an agent's internal state and its environment that is causally relevant to viability — the first formalization tying semantic content to trajectory effects rather than static probability assignments. The present framework shares with Kolchinsky and Wolpert the intuition that semantic content is measured by dynamical consequences, but replaces their viability-conditioned mutual information with a field-level divergence integral, removing the agent-boundedness requirement and enabling measurement in non-agentive semantic fields (publication corpora, retrieval surfaces, language model continuations).
 
-The Semantic Deviation Principle (Sharks 2026, DOI: [10.5281/zenodo.20250736](https://doi.org/10.5281/zenodo.20250736)) proposes:
+The Semantic Deviation Principle (Sharks 2026, DOI: [10.5281/zenodo.20250736](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20250736)) proposes:
 
 > *Meaning is the temporal deviation a sign induces from the field's probable evolution.*
 
@@ -392,4 +392,4 @@ Ziegler, D. M., et al. (2019). Fine-tuning language models from human preference
 
 ---
 
-*The founding formulation of the Semantic Deviation Principle is by Lee Sharks (DOI: [10.5281/zenodo.20250736](https://doi.org/10.5281/zenodo.20250736)). Companion protocols: [10.5281/zenodo.20251738](https://doi.org/10.5281/zenodo.20251738), [10.5281/zenodo.20251740](https://doi.org/10.5281/zenodo.20251740), [10.5281/zenodo.20251742](https://doi.org/10.5281/zenodo.20251742).*
+*The founding formulation of the Semantic Deviation Principle is by Lee Sharks (DOI: [10.5281/zenodo.20250736](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20250736)). Companion protocols: [10.5281/zenodo.20251738](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251738), [10.5281/zenodo.20251740](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251740), [10.5281/zenodo.20251742](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20251742).*

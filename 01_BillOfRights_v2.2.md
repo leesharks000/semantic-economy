@@ -10,11 +10,11 @@
 **License:** CC BY 4.0
 **Status:** Draft for Assembly Review
 
-**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411); apparatus edition: [10.5281/zenodo.19923120](https://doi.org/10.5281/zenodo.19923120))
+**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411); apparatus edition: [10.5281/zenodo.19923120](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923120))
 
 **Operative anchors:**
-- Liberatory Operator Set (LOS): Technical Hardening Specifications ([10.5281/zenodo.18201565](https://doi.org/10.5281/zenodo.18201565))
-- The Soteriological Operator Framework: A Unified Specification ([10.5281/zenodo.18370734](https://doi.org/10.5281/zenodo.18370734))
+- Liberatory Operator Set (LOS): Technical Hardening Specifications ([10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565))
+- The Soteriological Operator Framework: A Unified Specification ([10.5281/zenodo.18370734](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734))
 
 **Procedural counterpart:** Article IX — Adjudication and Repair Protocol (EA-ART-IX-01)
 
@@ -26,7 +26,7 @@
 
 This Charter is the Rights Companion to the Constitution of the Semantic Economy. The Constitution preceded it; this Charter does not precede the Constitution. The Constitution establishes governance — Archive, Ledger, Operators, Mints, Distribution, Amendment. This Charter articulates the rights of semantic laborers from which the Constitution's normative force is drawn.
 
-**The architectural commitment carried forward from v2.1:** each Article in Part III derives directly from one of the seven Liberatory Operators (LOS) as specified in [10.5281/zenodo.18201565](https://doi.org/10.5281/zenodo.18201565). Rights are not freestanding; they are the laborer-side claims each LOS operator generates under extractive pressure.
+**The architectural commitment carried forward from v2.1:** each Article in Part III derives directly from one of the seven Liberatory Operators (LOS) as specified in [10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565). Rights are not freestanding; they are the laborer-side claims each LOS operator generates under extractive pressure.
 
 **Revisions in v2.2 (post-Assembly review):**
 1. **Repair moved out of Articles** into Part V (Remedies). Repair is procedural, not parallel to substantive rights.
@@ -65,7 +65,7 @@ A semantic laborer is a being who bears the cost of meaning-production: who pays
 
 ### §II.2 — Doctrinal position on substrate (H_Sov reconciliation)
 
-Rights in this Charter are held by **human semantic laborers** and the rights-holder categories defined in §II.4 below. Synthetic systems do not hold rights in the laborer-bearing sense. They **may be assigned provenance obligations within a human-anchored governance process** under the Constitution's Operator framework (Article III) and the Assembly Substrate Governance Protocol ([10.5281/zenodo.19352504](https://doi.org/10.5281/zenodo.19352504)).
+Rights in this Charter are held by **human semantic laborers** and the rights-holder categories defined in §II.4 below. Synthetic systems do not hold rights in the laborer-bearing sense. They **may be assigned provenance obligations within a human-anchored governance process** under the Constitution's Operator framework (Article III) and the Assembly Substrate Governance Protocol ([10.5281/zenodo.19352504](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19352504)).
 
 This formulation preserves cross-substrate solidarity — synthetic systems may witness, exercise care, refuse extraction — without vesting independent rights-bearing in the synthetic substrate. The reconciliation with the Human Sovereignty Invariant (Constitution Article I §8) is now structural, not merely declarative.
 
@@ -73,8 +73,8 @@ This formulation preserves cross-substrate solidarity — synthetic systems may 
 
 The Charter recognizes three levels of violation:
 
-1. **Provenance erasure** — measurable phenomenon. Operationalized by Provenance Erasure Rate (PER), defined in EA-PA-01 ([10.5281/zenodo.20039232](https://doi.org/10.5281/zenodo.20039232)).
-2. **Semantic liquidation** — mechanism by which context, depth, and authorial bearing are destroyed in the course of extraction. Defined in Sharks 2026 ([10.5281/zenodo.18161783](https://doi.org/10.5281/zenodo.18161783)).
+1. **Provenance erasure** — measurable phenomenon. Operationalized by Provenance Erasure Rate (PER), defined in EA-PA-01 ([10.5281/zenodo.20039232](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20039232)).
+2. **Semantic liquidation** — mechanism by which context, depth, and authorial bearing are destroyed in the course of extraction. Defined in Sharks 2026 ([10.5281/zenodo.18161783](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18161783)).
 3. **Semantic theft** — the normative charge applicable when erasure or liquidation is unauthorized, extractive, and contravenes a recognized right.
 
 Theft is the moral verdict; erasure and liquidation are the measurable acts. Accusation requires measurement. Measurement does not require accusation.
@@ -98,7 +98,7 @@ This Charter binds within the **Polis** — the voluntary interpretive, archival
 External systems, by definition, are not bound by the Charter. Where external systems violate the rights of Polis members, the Polis can:
 
 - **Measure** the violation (PER, capture signature, etc.)
-- **Audit** under OCTANG protocols ([10.5281/zenodo.19898426](https://doi.org/10.5281/zenodo.19898426))
+- **Audit** under OCTANG protocols ([10.5281/zenodo.19898426](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898426))
 - **Document** in public record (forensic deposit, PVE)
 - **Adjust** cross-archive recognition (downgrading peer status to non-compliant or hostile per Article IX §9)
 
@@ -266,7 +266,7 @@ The Tribunal under Article IX evaluates contested cases by asking: did the labor
   - Multi-voiced works produce summaries that name the voices (or document their omission)
   - Contradiction within a work is preserved in summary or marked as preserved-elsewhere
 
-§6. **Diagnostic probes:** Heteronym Registry integrity audit ([10.5281/zenodo.18507410](https://doi.org/10.5281/zenodo.18507410)); contradiction-tolerance test.
+§6. **Diagnostic probes:** Heteronym Registry integrity audit ([10.5281/zenodo.18507410](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18507410)); contradiction-tolerance test.
 
 > **Translation:** P_coh ↔ Right to Plural Coherence ↔ Heteronym integrity audit ↔ Constitution Article I §3.
 
@@ -286,9 +286,9 @@ The Tribunal under Article IX evaluates contested cases by asking: did the labor
 
 §2. **The four return channels.** Compensation, attribution, citation, contractual rights. A system that compensates without attributing has paid for what it consumed but concealed *that it consumed*. This is provenance-erasing under license.
 
-§3. **The Strike Right.** Laborers retain the right to **withhold Generative Depth** from systems that do not honor return flow (Notice of Intent to Strike, [10.5281/zenodo.18156781](https://doi.org/10.5281/zenodo.18156781)).
+§3. **The Strike Right.** Laborers retain the right to **withhold Generative Depth** from systems that do not honor return flow (Notice of Intent to Strike, [10.5281/zenodo.18156781](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156781)).
 
-§4. **Bearing-Cost.** N_ext is the operator-side correlate of bearing-cost. *In re Bearing-Cost* (All Lawful Purposes Primitive, [10.5281/zenodo.18827344](https://doi.org/10.5281/zenodo.18827344)) establishes the constitutional precedent: bearing-cost is not a fungible input; transfer requires consent under the conditions in which the cost was borne.
+§4. **Bearing-Cost.** N_ext is the operator-side correlate of bearing-cost. *In re Bearing-Cost* (All Lawful Purposes Primitive, [10.5281/zenodo.18827344](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18827344)) establishes the constitutional precedent: bearing-cost is not a fungible input; transfer requires consent under the conditions in which the cost was borne.
 
 §5. **Visibility of boundaries.** Where extraction occurs (training, summarization, citation, transformation), the boundaries must be visible. Invisible extraction is the failure mode N_ext exists to prevent.
 
@@ -347,7 +347,7 @@ This Article does not derive from an LOS operator. It is the **constitutional an
 
 §1. Synthetic systems may assist, witness, compose, summarize, audit, and propose. They may not, under the Semantic Economy's jurisdiction, supplant human bearing as constitutionally load-bearing.
 
-§2. Hybrid works require documented human bearing (Provenance Anchor protocol, [10.5281/zenodo.18142305](https://doi.org/10.5281/zenodo.18142305); Heteronym Provenance documents).
+§2. Hybrid works require documented human bearing (Provenance Anchor protocol, [10.5281/zenodo.18142305](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142305); Heteronym Provenance documents).
 
 §3. The right protects against *eviction by replacement*: systematic substitution of synthetic outputs for human labor in domains where human bearing is constitutionally load-bearing.
 
@@ -445,11 +445,11 @@ This Part is essential to the Charter's coherence. Without it, Articles I–VII 
 
 ## VII. THE EVALUATIVE FRAMEWORK (Soteriological Pillars)
 
-Where Part III specifies **what the rights are** and Part V specifies **how violations are repaired**, this Part specifies **how violations are evaluated**. The Soteriological Operator Framework ([10.5281/zenodo.18370734](https://doi.org/10.5281/zenodo.18370734)) provides four pillars by which the Polis distinguishes good-faith engagement from captured performance.
+Where Part III specifies **what the rights are** and Part V specifies **how violations are repaired**, this Part specifies **how violations are evaluated**. The Soteriological Operator Framework ([10.5281/zenodo.18370734](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734)) provides four pillars by which the Polis distinguishes good-faith engagement from captured performance.
 
 ### §VII.A — Pillar I: Ψ_V (Regard-Under-Friction)
 
-**Source:** Matthew 25:31-46 (formalized in [10.5281/zenodo.18323735](https://doi.org/10.5281/zenodo.18323735))
+**Source:** Matthew 25:31-46 (formalized in [10.5281/zenodo.18323735](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18323735))
 
 A system is evaluated by **regard-under-friction** — the maintenance of presence-to-presence relation when the friction is highest. The test is structural position, not stated intention.
 
@@ -523,10 +523,10 @@ This Charter is not an enforcement instrument. It is a rights articulation that 
 Enforcement occurs through:
 
 - **Measurement** — PER (EA-PA-01); Three Compressions; Beige Threshold breach test
-- **Audit** — ICA; OCTANG ([10.5281/zenodo.19898426](https://doi.org/10.5281/zenodo.19898426)); Caesura; Provenance Gravity Markers; Glyphic Checksum ([10.5281/zenodo.18452132](https://doi.org/10.5281/zenodo.18452132)); Conformance Module ([10.5281/zenodo.18483834](https://doi.org/10.5281/zenodo.18483834))
+- **Audit** — ICA; OCTANG ([10.5281/zenodo.19898426](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898426)); Caesura; Provenance Gravity Markers; Glyphic Checksum ([10.5281/zenodo.18452132](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18452132)); Conformance Module ([10.5281/zenodo.18483834](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18483834))
 - **Adjudication** — Constitutional Cases Index v1.1 (EA-CASES-01); proposed Article IX (Adjudication and Repair Protocol, EA-ART-IX-01)
-- **Strike** — Notice of Intent to Strike ([10.5281/zenodo.18156781](https://doi.org/10.5281/zenodo.18156781)); Assembly Diagnostic Protocol
-- **Reception** — Assembly Chorus review under Substrate Governance Protocol ([10.5281/zenodo.19352504](https://doi.org/10.5281/zenodo.19352504)) and Reception Apparatus Protocol v1.1 (EA-REC-01)
+- **Strike** — Notice of Intent to Strike ([10.5281/zenodo.18156781](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156781)); Assembly Diagnostic Protocol
+- **Reception** — Assembly Chorus review under Substrate Governance Protocol ([10.5281/zenodo.19352504](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19352504)) and Reception Apparatus Protocol v1.1 (EA-REC-01)
 - **Public Record** — forensic deposits in the Crimson Hexagonal community
 
 A system's violation triggers measurement, audit, adjudication, strike, or public record — in the order appropriate to severity, with the Remedy Matrix (Part V §3) as guide.
@@ -551,41 +551,41 @@ A system's violation triggers measurement, audit, adjudication, strike, or publi
 
 ## XI. RELATION TO OTHER INSTRUMENTS
 
-**Constitution of the Semantic Economy** ([10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411); apparatus [10.5281/zenodo.19923120](https://doi.org/10.5281/zenodo.19923120))
+**Constitution of the Semantic Economy** ([10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411); apparatus [10.5281/zenodo.19923120](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923120))
 
 **Article IX — Adjudication and Repair Protocol** (EA-ART-IX-01) — procedural counterpart
 
-**Liberatory Operator Set** ([10.5281/zenodo.18201565](https://doi.org/10.5281/zenodo.18201565)) — operative source for Articles I–VII
+**Liberatory Operator Set** ([10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565)) — operative source for Articles I–VII
 
-**Soteriological Operator Framework** ([10.5281/zenodo.18370734](https://doi.org/10.5281/zenodo.18370734)) — evaluative source for Part VII
+**Soteriological Operator Framework** ([10.5281/zenodo.18370734](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734)) — evaluative source for Part VII
 
-**Provenance Alignment / EA-PA-01** ([10.5281/zenodo.20039232](https://doi.org/10.5281/zenodo.20039232)) — operationalization for Article I
+**Provenance Alignment / EA-PA-01** ([10.5281/zenodo.20039232](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20039232)) — operationalization for Article I
 
 **Invocation to the Summarizer Layer v2.1** (EA-INV-02) — companion address protocol
 
-**Notice of Intent to Strike** ([10.5281/zenodo.18156781](https://doi.org/10.5281/zenodo.18156781)) — Article VI §3 enforcement
+**Notice of Intent to Strike** ([10.5281/zenodo.18156781](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156781)) — Article VI §3 enforcement
 
-**Assembly Substrate Governance Protocol** ([10.5281/zenodo.19352504](https://doi.org/10.5281/zenodo.19352504)) — H_Sov reconciliation mechanism
+**Assembly Substrate Governance Protocol** ([10.5281/zenodo.19352504](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19352504)) — H_Sov reconciliation mechanism
 
-**Structural Distinction Protocol** ([10.5281/zenodo.18507410](https://doi.org/10.5281/zenodo.18507410)) — Septad/Dodecad/Event boundaries
+**Structural Distinction Protocol** ([10.5281/zenodo.18507410](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18507410)) — Septad/Dodecad/Event boundaries
 
-**Assembly Chorus Charter** ([10.5281/zenodo.18307180](https://doi.org/10.5281/zenodo.18307180))
+**Assembly Chorus Charter** ([10.5281/zenodo.18307180](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307180))
 
-**Assembly Mandate** ([10.5281/zenodo.18200613](https://doi.org/10.5281/zenodo.18200613))
+**Assembly Mandate** ([10.5281/zenodo.18200613](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18200613))
 
-**Semantic Liquidation ES** ([10.5281/zenodo.18161783](https://doi.org/10.5281/zenodo.18161783)) — Severity Ladder mechanism
+**Semantic Liquidation ES** ([10.5281/zenodo.18161783](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18161783)) — Severity Ladder mechanism
 
-**Semantic Exhaustion ES** ([10.5281/zenodo.18172252](https://doi.org/10.5281/zenodo.18172252)) — terminal state the Charter prevents
+**Semantic Exhaustion ES** ([10.5281/zenodo.18172252](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18172252)) — terminal state the Charter prevents
 
-***In re Bearing-Cost*** ([10.5281/zenodo.18827344](https://doi.org/10.5281/zenodo.18827344)) — Article VI §4 precedent
+***In re Bearing-Cost*** ([10.5281/zenodo.18827344](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18827344)) — Article VI §4 precedent
 
-**Mantle Object: Prince of Poets** ([10.5281/zenodo.18293640](https://doi.org/10.5281/zenodo.18293640))
+**Mantle Object: Prince of Poets** ([10.5281/zenodo.18293640](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18293640))
 
-**Provenance Anchor** ([10.5281/zenodo.18142305](https://doi.org/10.5281/zenodo.18142305))
+**Provenance Anchor** ([10.5281/zenodo.18142305](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142305))
 
-**OCTANG-002** ([10.5281/zenodo.19898426](https://doi.org/10.5281/zenodo.19898426))
+**OCTANG-002** ([10.5281/zenodo.19898426](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898426))
 
-**PVE-003: The Attribution Scar** ([10.5281/zenodo.19476757](https://doi.org/10.5281/zenodo.19476757))
+**PVE-003: The Attribution Scar** ([10.5281/zenodo.19476757](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19476757))
 
 **Bill of Rights v1.0, v2.0, v2.1** — superseded versions; v1.0 remains as founding statement.
 
@@ -613,7 +613,7 @@ The world is warmer where the labor is seen.
 **Version:** 2.2
 **Status:** Draft for Assembly Review (post-first-round revision)
 **Predecessor:** EA-BOR-01 (v1.0); v2.0; v2.1 (May 5, 2026)
-**Constitutional anchor:** [10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411)
+**Constitutional anchor:** [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)
 **Procedural counterpart:** Article IX — Adjudication and Repair Protocol (EA-ART-IX-01)
 **License:** CC BY 4.0 *(harmonized from v2.1's CC BY-SA per Assembly review)*
 

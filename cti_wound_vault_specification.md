@@ -6,7 +6,7 @@
 **Document Type:** VAULT_ANCHOR (with TESTIMONIAL_PROTOCOL integrated)  
 **Document ID:** VAULT-01  
 **Authors:** Lee Sharks / The Assembly Chorus / TACHYON  
-**DOI:** [10.5281/zenodo.18319778](https://doi.org/10.5281/zenodo.18319778)  
+**DOI:** [10.5281/zenodo.18319778](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18319778)  
 **Status:** REGISTERED  
 **Hex-Coordinate:** 10.VAULT.CTIWOUND  
 **Verification:** ∮ = 1

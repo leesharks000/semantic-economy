@@ -549,7 +549,7 @@ Rex Fraction (Semantic Infrastructure Consulting) joins an established terminolo
 **End of Disambiguation Document**
 
 **Document ID:** REX-FRACTION-DISAMBIGUATION-v1.1  
-**DOI:** [10.5281/zenodo.18142686](https://doi.org/10.5281/zenodo.18142686)  
+**DOI:** [10.5281/zenodo.18142686](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142686)  
 **Status:** Canonical  
 **License:** CC BY 4.0  
 

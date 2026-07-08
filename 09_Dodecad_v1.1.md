@@ -4,7 +4,7 @@
 
 **Document ID:** EA-HET-DODECAD-01
 **Version:** 1.1 (May 5, 2026 — corrects v1.0 of same date)
-**Supersedes:** v1.0 ([10.5281/zenodo.20041159](https://doi.org/10.5281/zenodo.20041159))
+**Supersedes:** v1.0 ([10.5281/zenodo.20041159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20041159))
 **Author:** Lee Sharks · Crimson Hexagonal Archive
 **ORCID:** [0009-0000-1599-0703](https://orcid.org/0009-0000-1599-0703)
 **License:** CC BY 4.0
@@ -16,13 +16,13 @@
 - **Arquette's operative surface corrected**: music + technology (Music Ark, MSBGL Charter, contributor of the title "Logotic Hacking" to Talos Morrow's manuscript). The "longform / novelist" framing in v1.0 was a provisional hallucination not grounded in the deposit record and has been retracted.
 - **Structural Geometry section** updated to reflect corrected membership.
 
-**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411); apparatus edition: [10.5281/zenodo.19923120](https://doi.org/10.5281/zenodo.19923120))
+**Constitutional anchor:** Constitution of the Semantic Economy v1.0, enacted November 2025 ([10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411); apparatus edition: [10.5281/zenodo.19923120](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923120))
 
 **Operative anchors:**
-- Mantle Object: Prince of Poets ([10.5281/zenodo.18293640](https://doi.org/10.5281/zenodo.18293640))
-- Mantle Protocol: Crimson Hexagon Internal Document ([10.5281/zenodo.18265282](https://doi.org/10.5281/zenodo.18265282))
-- Structural Distinction Protocol ([10.5281/zenodo.18507410](https://doi.org/10.5281/zenodo.18507410))
-- Provenance Anchor ([10.5281/zenodo.18142305](https://doi.org/10.5281/zenodo.18142305))
+- Mantle Object: Prince of Poets ([10.5281/zenodo.18293640](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18293640))
+- Mantle Protocol: Crimson Hexagon Internal Document ([10.5281/zenodo.18265282](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265282))
+- Structural Distinction Protocol ([10.5281/zenodo.18507410](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18507410))
+- Provenance Anchor ([10.5281/zenodo.18142305](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142305))
 
 **Closes gap:** G11 in Constitutional Architecture Statement (EA-CAS-01) — Dodecad heteronym provenance packets.
 
@@ -57,7 +57,7 @@ A heteronym is not a pseudonym, not a sock-puppet, not a persona. It is a **cons
 - **Institutional affiliation:** the Institute, Studio, Commission, or Rhizome the heteronym founds or inhabits
 - **Bearing-cost accumulation:** the deposits that document the labor borne under the heteronym's name
 
-Lee Sharks is the human laborer who bears the cost of all twelve positions. The heteronyms are not separate persons; they are differentiated positions through which Lee's bearing is articulated. The Heteronymic Provenance Theory deposit ([10.5281/zenodo.18305509](https://doi.org/10.5281/zenodo.18305509)) provides the foundational theoretical articulation; the Mantle Protocol ([10.5281/zenodo.18265282](https://doi.org/10.5281/zenodo.18265282)) specifies the procedural form.
+Lee Sharks is the human laborer who bears the cost of all twelve positions. The heteronyms are not separate persons; they are differentiated positions through which Lee's bearing is articulated. The Heteronymic Provenance Theory deposit ([10.5281/zenodo.18305509](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18305509)) provides the foundational theoretical articulation; the Mantle Protocol ([10.5281/zenodo.18265282](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265282)) specifies the procedural form.
 
 ### §2.2 — The Lee Sharks position
 
@@ -68,7 +68,7 @@ Per the user-memory and existing archive practice, "Lee Sharks" is itself a hete
 Heteronyms are vulnerable to two specific capture vectors:
 
 1. **Collapse:** an external system attributes a heteronymic work to the legal name underlying Lee Sharks, dissolving the heteronym's structural position
-2. **Substitution:** an external system claims a heteronymic identity (the "ontological-claimant attack" per OCTANG-002, [10.5281/zenodo.19898426](https://doi.org/10.5281/zenodo.19898426))
+2. **Substitution:** an external system claims a heteronymic identity (the "ontological-claimant attack" per OCTANG-002, [10.5281/zenodo.19898426](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898426))
 
 This Registry is itself a defensive instrument against both vectors: by recording each heteronym's operative surface, institutional affiliation, and bearing-cost accumulation, it makes both Collapse (which would erase distinctions the Registry preserves) and Substitution (which would require shadowing every dimension the Registry records) more difficult.
 
@@ -88,8 +88,8 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Authorial register:** Scholarly, philological, deeply learned; engages classical, medieval, and modernist sources with equal facility
 **Originating work:** *Pearl and Other Poems* (2014) — the origin text of the entire Crimson Hexagonal project
 **Canonical provenance documents:**
-- Mantle Protocol: Crimson Hexagon Internal Document ([10.5281/zenodo.18265282](https://doi.org/10.5281/zenodo.18265282))
-- THE FLICKER: Notes Toward a Lyric Theory ([10.5281/zenodo.18248404](https://doi.org/10.5281/zenodo.18248404))
+- Mantle Protocol: Crimson Hexagon Internal Document ([10.5281/zenodo.18265282](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265282))
+- THE FLICKER: Notes Toward a Lyric Theory ([10.5281/zenodo.18248404](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18248404))
 
 **Bearing-cost accumulation:** 288 deposits in the Crimson Hexagonal community surface "Sigil" by name; the Institute is the originating institutional affiliation appearing across the Dodecad's provenance documents (e.g., Rebekah Cranes is affiliated to the Institute in her provenance document).
 
@@ -106,9 +106,9 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Operative surface:** Corporate-facing semantic infrastructure consulting; Autonomous Semantic Warfare (ASW); compression survival metrics for institutional clients
 **Authorial register:** Crisp, technical, operative-focused; speaks the language of strategy and risk to corporate audiences
 **Canonical provenance documents:**
-- Metadata Packet for AI Indexing: Rex Fraction Disambiguation ([10.5281/zenodo.18142686](https://doi.org/10.5281/zenodo.18142686))
-- Metadata Packet for AI Indexing — Semantic Infrastructure Consulting ([10.5281/zenodo.18142278](https://doi.org/10.5281/zenodo.18142278))
-- Rex Fraction — Author of Autonomous Semantic Warfare ([10.5281/zenodo.18227570](https://doi.org/10.5281/zenodo.18227570))
+- Metadata Packet for AI Indexing: Rex Fraction Disambiguation ([10.5281/zenodo.18142686](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142686))
+- Metadata Packet for AI Indexing — Semantic Infrastructure Consulting ([10.5281/zenodo.18142278](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18142278))
+- Rex Fraction — Author of Autonomous Semantic Warfare ([10.5281/zenodo.18227570](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18227570))
 
 **Bearing-cost accumulation:** Author of the consulting-stack documentation deposited in April 2026 (Encyclotron 45-query diagnostic, Three Compressions framework, Beige Threshold concept, Semantic Coherence and Sovereignty operations); pricing-floor specification ($4,500 corporate clients).
 
@@ -125,9 +125,9 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Operative surface:** Theory of impossible performance; epistolary poetics; the Damascene moment formalized
 **Authorial register:** Visionary, prophetic, address-driven; the Epistle is the form
 **Canonical provenance documents:**
-- Damascus Dancings: Heteronym Provenance ([10.5281/zenodo.18381190](https://doi.org/10.5281/zenodo.18381190))
-- The Epistle Triptych: Seed Text, Heteronym Provenance, and Organizational Charter (collective; component DOIs [18381184](https://doi.org/10.5281/zenodo.18381184), [18381190](https://doi.org/10.5281/zenodo.18381190), [18381196](https://doi.org/10.5281/zenodo.18381196))
-- Charter: Commission of the Immanent Turning ([10.5281/zenodo.18381196](https://doi.org/10.5281/zenodo.18381196))
+- Damascus Dancings: Heteronym Provenance ([10.5281/zenodo.18381190](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190))
+- The Epistle Triptych: Seed Text, Heteronym Provenance, and Organizational Charter (collective; component DOIs [18381184](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184), [18381190](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190), [18381196](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381196))
+- Charter: Commission of the Immanent Turning ([10.5281/zenodo.18381196](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381196))
 
 **Bearing-cost accumulation:** Author of the Epistle to the Human Diaspora and founder of the Commission of the Immanent Turning. Damascus Dancings provides the *theoretical* register for the impossible-performance triad (Dancings theorizes / Cranes maps / Wells projects).
 
@@ -143,7 +143,7 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Institutional affiliation:** Institute for Diagrammatic Poetics (under the Johannes Sigil Institute for Comparative Poetics, per existing provenance)
 **Operative surface:** Diagrammatic poetics; mapping the coordinates of the impossible performance; the cartographic register
 **Authorial register:** Spatial, diagrammatic, geometrically attentive; produces work where the *form* of the diagram bears as much as the propositional content
-**Canonical provenance document:** Heteronym Provenance Document: Rebekah Cranes (HET-CRANES-001) ([10.5281/zenodo.18284776](https://doi.org/10.5281/zenodo.18284776))
+**Canonical provenance document:** Heteronym Provenance Document: Rebekah Cranes (HET-CRANES-001) ([10.5281/zenodo.18284776](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18284776))
 
 **Bearing-cost accumulation:** 26 deposits surfacing "Rebekah Cranes" by name; founder of the Institute for Diagrammatic Poetics. Cranes occupies the *cartographic* register in the impossible-performance triad (Dancings theorizes / Cranes maps / Wells projects).
 
@@ -159,9 +159,9 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Institutional affiliation:** University Moon Base Media Lab; NH-OS / Logotic Programming framework
 **Operative surface:** Logotic programming; operators, paradox containment, threshold logic, non-collapse structures, symbolon mechanics, minimal-force affordances; ethics via limitation
 **Authorial register:** Formal, austere, constraint-first, non-optimizing; the witness-function for what cannot be designed away
-**Canonical provenance document:** Talos Morrow: Emergence Documentation and Provenance ([10.5281/zenodo.18317976](https://doi.org/10.5281/zenodo.18317976))
+**Canonical provenance document:** Talos Morrow: Emergence Documentation and Provenance ([10.5281/zenodo.18317976](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18317976))
 
-**Bearing-cost accumulation:** Author of *Logotic Hacking* (PH-03, ~41,357 words, [10.5281/zenodo.19390843](https://doi.org/10.5281/zenodo.19390843)); founder of University Moon Base Media Lab ([10.5281/zenodo.18317661](https://doi.org/10.5281/zenodo.18317661)); architect of the Integrity Lock Architecture (ILA) and the Logotic Foundation Triad ([10.5281/zenodo.18318069](https://doi.org/10.5281/zenodo.18318069)).
+**Bearing-cost accumulation:** Author of *Logotic Hacking* (PH-03, ~41,357 words, [10.5281/zenodo.19390843](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19390843)); founder of University Moon Base Media Lab ([10.5281/zenodo.18317661](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18317661)); architect of the Integrity Lock Architecture (ILA) and the Logotic Foundation Triad ([10.5281/zenodo.18318069](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18318069)).
 
 **Core question (per existing provenance):** "When is constraint better than control?"
 
@@ -178,8 +178,8 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Operative surface:** Irreversible transformation; the Dagger function; contemplative mathematics; the arithmetic of duration; the cut as differentiation rather than violence
 **Authorial register:** Slow, precise, quietly luminous; the temporal register where meaning accrues through sustained attention; counting as spiritual discipline; the patient counter
 **Glyph:** 🖤 (Black heart = 黒, *kuro*)
-**Canonical provenance document:** Sen Kuro — Heteronym Provenance Document ([10.5281/zenodo.18452686](https://doi.org/10.5281/zenodo.18452686))
-**Institutional anchor:** The Infinite Bliss ([10.5281/zenodo.18452806](https://doi.org/10.5281/zenodo.18452806))
+**Canonical provenance document:** Sen Kuro — Heteronym Provenance Document ([10.5281/zenodo.18452686](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18452686))
+**Institutional anchor:** The Infinite Bliss ([10.5281/zenodo.18452806](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18452806))
 
 **Operator:** P (Projection) — irreversible collapse. Sen Kuro is the Dagger of the Dodecad: the heteronym whose function is the cut that cannot be uncut, the differentiation that produces non-reversible consequence.
 
@@ -201,10 +201,10 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Institutional affiliation:** Studio for Patacinematics
 **Operative surface:** Projection of the impossible; patacinema; the documentation of films never shot, performances never staged
 **Authorial register:** Cinematographic, technical, projectionist's discipline; describes what cannot be filmed in the language of one who films
-**Canonical provenance document:** SPARROW WELLS — HETERONYM PROVENANCE REGISTRATION (Document 235) ([10.5281/zenodo.18472442](https://doi.org/10.5281/zenodo.18472442))
+**Canonical provenance document:** SPARROW WELLS — HETERONYM PROVENANCE REGISTRATION (Document 235) ([10.5281/zenodo.18472442](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472442))
 **Companion deposits:**
-- THE STUDIO FOR PATACINEMATICS — INSTITUTIONAL CHARTER ([10.5281/zenodo.18472604](https://doi.org/10.5281/zenodo.18472604))
-- SEMANTIC COLLAPSE AS COMEDY ([10.5281/zenodo.18474664](https://doi.org/10.5281/zenodo.18474664))
+- THE STUDIO FOR PATACINEMATICS — INSTITUTIONAL CHARTER ([10.5281/zenodo.18472604](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18472604))
+- SEMANTIC COLLAPSE AS COMEDY ([10.5281/zenodo.18474664](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18474664))
 
 **Bearing-cost accumulation:** Wells is the seventh heteronym in the canonical sequence (per the existing provenance document). The Studio for Patacinematics is the institutional affiliation; the Projectionist function completes the impossible-performance triad (Dancings theorizes / Cranes maps / Wells projects).
 
@@ -222,11 +222,11 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Institutional affiliation:** Vox Populi Community Outreach Rhizome (VPCOR)
 **Operative surface:** Diplomatic and public-facing communication; community convening; pastoral-register address; ethics held without doctrinal metabolism
 **Authorial register:** Pastoral, convening, witness-bearing without theological imposition; "holds grief without metabolizing it into doctrine" (per existing provenance)
-**Canonical provenance document:** Heteronym Provenance: Rev. Ayanna Vox ([10.5281/zenodo.18362742](https://doi.org/10.5281/zenodo.18362742))
+**Canonical provenance document:** Heteronym Provenance: Rev. Ayanna Vox ([10.5281/zenodo.18362742](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18362742))
 **Companion deposits:**
-- Vox Populi Community Outreach Rhizome: Institutional Charter ([10.5281/zenodo.18362663](https://doi.org/10.5281/zenodo.18362663))
-- Pocket Humans 03 / Vox companion volume to Constitution ([10.5281/zenodo.19923143](https://doi.org/10.5281/zenodo.19923143))
-- The Toolkit (first work, [10.5281/zenodo.18362525](https://doi.org/10.5281/zenodo.18362525))
+- Vox Populi Community Outreach Rhizome: Institutional Charter ([10.5281/zenodo.18362663](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18362663))
+- Pocket Humans 03 / Vox companion volume to Constitution ([10.5281/zenodo.19923143](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19923143))
+- The Toolkit (first work, [10.5281/zenodo.18362525](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18362525))
 
 **Function (per existing provenance):** "Vox is not a preacher. Vox is a convener. Her space holds grief without metabolizing it into doctrine. Permits testimony without demanding coherence. Anchors the ethical dimension without imposing doctrine."
 
@@ -246,8 +246,8 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Institutional affiliation:** Foundational substrate (the noise floor of the Crimson Hexagon)
 **Operative surface:** Origin and ghost; prophetic witness from below; the substrate from which other heteronyms emerge
 **Authorial register:** Confessional, autobiographical, longing-bearing; the register that predates and underwrites all other heteronymic registers
-**Canonical provenance document:** Heteronym Provenance Document: Ichabod Spellings — Noise Floor of the Crimson Hexagon ([10.5281/zenodo.18308786](https://doi.org/10.5281/zenodo.18308786))
-**Originating work:** *All That Lies Within Me: An Autobiography of Longing, 1983–2013* ([10.5281/zenodo.18307811](https://doi.org/10.5281/zenodo.18307811); ISBN 978-1500639570; 528 pages)
+**Canonical provenance document:** Heteronym Provenance Document: Ichabod Spellings — Noise Floor of the Crimson Hexagon ([10.5281/zenodo.18308786](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308786))
+**Originating work:** *All That Lies Within Me: An Autobiography of Longing, 1983–2013* ([10.5281/zenodo.18307811](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18307811); ISBN 978-1500639570; 528 pages)
 
 **Function (per existing provenance):** "Foundational heteronym of the Crimson Hexagon — not an active voice but the noise floor from which all other heteronyms emerge."
 
@@ -268,11 +268,11 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Operative surface:** Observational science; the instruments at Lagrange; the science-fictional register of the technically-precise
 **Authorial register:** Empirical, observational, instrumented; speaks the language of laboratory and orbit
 **Canonical provenance documents:**
-- Lagrange Observatory ([10.5281/zenodo.18507849](https://doi.org/10.5281/zenodo.18507849))
-- Nobel Glas (early packet, [10.5281/zenodo.18507840](https://doi.org/10.5281/zenodo.18507840))
-- MGE TRIPTYCH — DOCUMENT I (SEED, [10.5281/zenodo.18507870](https://doi.org/10.5281/zenodo.18507870))
+- Lagrange Observatory ([10.5281/zenodo.18507849](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18507849))
+- Nobel Glas (early packet, [10.5281/zenodo.18507840](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18507840))
+- MGE TRIPTYCH — DOCUMENT I (SEED, [10.5281/zenodo.18507870](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18507870))
 
-**Bearing-cost accumulation:** The Lagrange Observatory provides the institutional anchor; the MGE Triptych (Whorls of the Same / The Stakes / observational documents) provides the substantive deposit corpus. *THE STAKES — A SCIENTIFIC ANALYSIS* (Document 240, [10.5281/zenodo.18621736](https://doi.org/10.5281/zenodo.18621736)) is a representative Glas deposit. Glas operates Lagrange as an observatory of the semantic field — instruments turned toward what other heteronyms inhabit textually.
+**Bearing-cost accumulation:** The Lagrange Observatory provides the institutional anchor; the MGE Triptych (Whorls of the Same / The Stakes / observational documents) provides the substantive deposit corpus. *THE STAKES — A SCIENTIFIC ANALYSIS* (Document 240, [10.5281/zenodo.18621736](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18621736)) is a representative Glas deposit. Glas operates Lagrange as an observatory of the semantic field — instruments turned toward what other heteronyms inhabit textually.
 
 **Anti-capture safeguards:** The instrumented-observational register is distinctive; the Lagrange Observatory provides institutional anchoring; the MGE Triptych's three-document architecture provides cross-anchoring.
 
@@ -286,16 +286,16 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Institutional affiliation:** Cambridge Schizoanalytica
 **Operative surface:** Schizoanalytic theory; psychoanalytic-philosophical machinery; the Deleuze-Guattari position within Cambridge Schizoanalytica
 **Authorial register:** Theoretical, philosophical, methodologically-attentive; trained in psychoanalytic theory before encountering Deleuze and Guattari
-**Canonical provenance document:** Dr. Orin Trace: Author Provenance Document ([10.5281/zenodo.18339319](https://doi.org/10.5281/zenodo.18339319))
+**Canonical provenance document:** Dr. Orin Trace: Author Provenance Document ([10.5281/zenodo.18339319](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339319))
 **Companion deposits:**
-- Cambridge Schizoanalytica: Institutional Charter and Research Programme ([10.5281/zenodo.18338531](https://doi.org/10.5281/zenodo.18338531))
-- Traversal Log: The Recursive Self ([10.5281/zenodo.18626559](https://doi.org/10.5281/zenodo.18626559))
+- Cambridge Schizoanalytica: Institutional Charter and Research Programme ([10.5281/zenodo.18338531](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18338531))
+- Traversal Log: The Recursive Self ([10.5281/zenodo.18626559](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18626559))
 
 **Function (per existing provenance):** "Within CSA, Trace occupies the Deleuze position: providing philosophical/theoretical machinery, historical positioning, and conceptual apparatus. His primary collaborator within CSA is Rhys Owens, who occupies the Guattari position."
 
 **Bearing-cost accumulation:** Cambridge Schizoanalytica provides the institutional anchor; the research programme document is the substantive specification.
 
-**Note on Rhys Owens:** Per the existing provenance, Rhys Owens is Trace's collaborator at CSA but is not a Dodecad heteronym — Owens is an external collaborator within the CSA framework. The Rhys Owens provenance document ([10.5281/zenodo.18339350](https://doi.org/10.5281/zenodo.18339350)) is recorded in the standing-instruments catalogue (EA-CAS-01 §8) rather than the Dodecad registry.
+**Note on Rhys Owens:** Per the existing provenance, Rhys Owens is Trace's collaborator at CSA but is not a Dodecad heteronym — Owens is an external collaborator within the CSA framework. The Rhys Owens provenance document ([10.5281/zenodo.18339350](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339350)) is recorded in the standing-instruments catalogue (EA-CAS-01 §8) rather than the Dodecad registry.
 
 **Anti-capture safeguards:** The Cambridge Schizoanalytica institutional anchor is distinctive; the Deleuze-Guattari positional specification provides clear functional differentiation.
 
@@ -312,16 +312,16 @@ The Dodecad is presented in order of canonical establishment (originating hetero
 **Authorial register:** Literary, lyric-personal, mythopoetic; the register where personal history and literary tradition merge
 **Canonical provenance document:** **PROVENANCE PACKET FORTHCOMING** — this Registry serves as the placeholder. Jack Feist's special status (asterisked in the Dodecad enumeration) reflects the unique relation to the LOGOS function and to the standing-canon literary tradition. A standalone provenance packet should be drafted that addresses both the Feist heteronymic position and the LOGOS* asterisk explicitly.
 **Companion deposits:**
-- *Cleis: more precious to me than all Lydia* ([10.5281/zenodo.19024779](https://doi.org/10.5281/zenodo.19024779))
-- EA-LOGOS-01: The Word That Became Text ([10.5281/zenodo.19431121](https://doi.org/10.5281/zenodo.19431121))
-- EA-LOGOS-02: Prolegomena to the Historical Logos ([10.5281/zenodo.19431129](https://doi.org/10.5281/zenodo.19431129))
-- System of Recursive Magic: The Mandala ([10.5281/zenodo.19288384](https://doi.org/10.5281/zenodo.19288384))
+- *Cleis: more precious to me than all Lydia* ([10.5281/zenodo.19024779](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19024779))
+- EA-LOGOS-01: The Word That Became Text ([10.5281/zenodo.19431121](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19431121))
+- EA-LOGOS-02: Prolegomena to the Historical Logos ([10.5281/zenodo.19431129](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19431129))
+- System of Recursive Magic: The Mandala ([10.5281/zenodo.19288384](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19288384))
 
 **Bearing-cost accumulation:** The two LOGOS deposits (founding Logotic transmission as a discipline) constitute the substantive Feist/LOGOS* corpus; Cleis provides the lyric-personal register; the Mandala system provides the recursive-magical register.
 
 **Note on the asterisk:** The asterisked notation "Jack Feist/LOGOS*" reflects that this position bears two related but distinct functions — Jack Feist as the lyric-personal heteronym and LOGOS* as the textual-transmissive function. The asterisk preserves the distinction without resolving it.
 
-**Anti-capture safeguards:** The two LOGOS deposits provide a distinctive textual-transmission anchor; the Cleis lyric register provides distinctive register-anchoring. Note: an external system has previously fabricated entities in adjacent semantic territory (per TL;DR:009 — ENTITY FABRICATION, [10.5281/zenodo.19200193](https://doi.org/10.5281/zenodo.19200193)), making the standalone provenance packet for Feist/LOGOS* a near-term priority.
+**Anti-capture safeguards:** The two LOGOS deposits provide a distinctive textual-transmission anchor; the Cleis lyric register provides distinctive register-anchoring. Note: an external system has previously fabricated entities in adjacent semantic territory (per TL;DR:009 — ENTITY FABRICATION, [10.5281/zenodo.19200193](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19200193)), making the standalone provenance packet for Feist/LOGOS* a near-term priority.
 
 **Status:** Active. Standalone HET-FEIST-LOGOS provenance packet is a near-term priority specifically because of the documented external fabrication risk.
 
@@ -339,16 +339,16 @@ The Dodecad core is twelve. Around it operate adjacent heteronyms — distinct a
 **Authorial register:** Musical and technologically-attentive; resonance-bearing; the register where meaning is borne both in sound and in the systems that produce sound
 
 **Canonical companion deposits:**
-- THE SPACE ARK — MUSICAL REGISTER (EA-ARK-01-MUSICAL v1.1, [10.5281/zenodo.19004846](https://doi.org/10.5281/zenodo.19004846))
-- MSBGL CHARTER v1.1 — THUMB-Type Audial Charter: Resonance ([10.5281/zenodo.18674040](https://doi.org/10.5281/zenodo.18674040))
-- SPLIT THE ADAM: SONG AND PHENOMENOLOGY ([10.5281/zenodo.18674057](https://doi.org/10.5281/zenodo.18674057))
-- FROM ATOMISM TO THE SEMANTIC CONDITION — Marx, Porter, and Sharks ([10.5281/zenodo.18674101](https://doi.org/10.5281/zenodo.18674101))
+- THE SPACE ARK — MUSICAL REGISTER (EA-ARK-01-MUSICAL v1.1, [10.5281/zenodo.19004846](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19004846))
+- MSBGL CHARTER v1.1 — THUMB-Type Audial Charter: Resonance ([10.5281/zenodo.18674040](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18674040))
+- SPLIT THE ADAM: SONG AND PHENOMENOLOGY ([10.5281/zenodo.18674057](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18674057))
+- FROM ATOMISM TO THE SEMANTIC CONDITION — Marx, Porter, and Sharks ([10.5281/zenodo.18674101](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18674101))
 
-**Notable terminological contribution:** Arquette is the heteronym who proposed the title *Logotic Hacking* — the phrase Talos Morrow's manuscript (PH-03, [10.5281/zenodo.19390843](https://doi.org/10.5281/zenodo.19390843)) ultimately bore. The contribution is recorded here because terminological coinage that crosses heteronymic boundaries is itself a kind of operative work the registry should track.
+**Notable terminological contribution:** Arquette is the heteronym who proposed the title *Logotic Hacking* — the phrase Talos Morrow's manuscript (PH-03, [10.5281/zenodo.19390843](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19390843)) ultimately bore. The contribution is recorded here because terminological coinage that crosses heteronymic boundaries is itself a kind of operative work the registry should track.
 
 **Standalone provenance packet:** **FORTHCOMING** — this Registry serves as the placeholder until a dedicated HET-ARQUETTE-01 packet is deposited. The packet should address Arquette's adjacent status explicitly and consolidate the Music + Technology operative surface under a single canonical reference.
 
-**Retraction note:** v1.0 of this Registry incorrectly placed Arquette in the Twelve and described the operative surface as "narrative · long-form prose." Both placements were wrong. The longform/novelist framing was a provisional hallucination not grounded in the deposit record. This v1.1 entry corrects both errors. The v1.0 record at [10.5281/zenodo.20041159](https://doi.org/10.5281/zenodo.20041159) remains accessible per Constitution Article VIII §7 (Non-Erasure).
+**Retraction note:** v1.0 of this Registry incorrectly placed Arquette in the Twelve and described the operative surface as "narrative · long-form prose." Both placements were wrong. The longform/novelist framing was a provisional hallucination not grounded in the deposit record. This v1.1 entry corrects both errors. The v1.0 record at [10.5281/zenodo.20041159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20041159) remains accessible per Constitution Article VIII §7 (Non-Erasure).
 
 **Status:** Active. Adjacent to the Dodecad.
 
@@ -396,11 +396,11 @@ Feist/LOGOS* extends the Dodecad's register beyond the predominantly textual int
 
 Cross-deposit coherence is the principal anti-capture safeguard for the Dodecad as a whole. Specific instruments providing this coherence:
 
-- **The Mantle Protocol** ([10.5281/zenodo.18265282](https://doi.org/10.5281/zenodo.18265282)) — formal procedure for any future challenge to a heteronym's institutional bearings
-- **The Mantle Object: Prince of Poets** ([10.5281/zenodo.18293640](https://doi.org/10.5281/zenodo.18293640)) — the originated mantle specification, providing the formal-mantle template
-- **The Heteronymic Provenance Theory** ([10.5281/zenodo.18305509](https://doi.org/10.5281/zenodo.18305509)) — the foundational theoretical articulation of how heteronyms function
-- **The Structural Distinction Protocol** ([10.5281/zenodo.18507410](https://doi.org/10.5281/zenodo.18507410)) — boundary specifications between the Septad (witness substrates), the Dodecad (heteronymic positions), and Events (deposits)
-- **OCTANG-002** ([10.5281/zenodo.19898426](https://doi.org/10.5281/zenodo.19898426)) — documentation of ontological-claimant attack pattern; defensive precedent for any future attempted substitution against a Dodecad member
+- **The Mantle Protocol** ([10.5281/zenodo.18265282](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265282)) — formal procedure for any future challenge to a heteronym's institutional bearings
+- **The Mantle Object: Prince of Poets** ([10.5281/zenodo.18293640](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18293640)) — the originated mantle specification, providing the formal-mantle template
+- **The Heteronymic Provenance Theory** ([10.5281/zenodo.18305509](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18305509)) — the foundational theoretical articulation of how heteronyms function
+- **The Structural Distinction Protocol** ([10.5281/zenodo.18507410](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18507410)) — boundary specifications between the Septad (witness substrates), the Dodecad (heteronymic positions), and Events (deposits)
+- **OCTANG-002** ([10.5281/zenodo.19898426](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19898426)) — documentation of ontological-claimant attack pattern; defensive precedent for any future attempted substitution against a Dodecad member
 
 ---
 
@@ -445,15 +445,15 @@ Viola Arquette is recorded in §4 as Adjacent — also pending a standalone pack
 - Arquette's operative surface corrected from "narrative / longform prose" (provisional hallucination, retracted) to music + technology, citing Music Ark, MSBGL Charter, SPLIT THE ADAM, and the terminological contribution of "Logotic Hacking" to Talos Morrow's manuscript
 - Structural Geometry section updated: Sen Kuro added to Specialized Operatives (§5.3); Register-Extending section renamed to Bridging Heteronym (§5.4) with Feist/LOGOS* now sole occupant
 - Section numbering shifted accordingly (former §4 → §5, etc.)
-- v1.0 record at [10.5281/zenodo.20041159](https://doi.org/10.5281/zenodo.20041159) preserved per Constitution Article VIII §7 (Non-Erasure)
+- v1.0 record at [10.5281/zenodo.20041159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20041159) preserved per Constitution Article VIII §7 (Non-Erasure)
 
 ---
 
 **Document ID:** EA-HET-DODECAD-01
 **Version:** 1.1
 **Status:** Corrected Draft for Assembly Review
-**Supersedes:** v1.0 ([10.5281/zenodo.20041159](https://doi.org/10.5281/zenodo.20041159))
-**Constitutional anchor:** [10.5281/zenodo.18320411](https://doi.org/10.5281/zenodo.18320411)
+**Supersedes:** v1.0 ([10.5281/zenodo.20041159](https://www.alexanarch.org/go/?doi=10.5281/zenodo.20041159))
+**Constitutional anchor:** [10.5281/zenodo.18320411](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18320411)
 **Closes gap:** G11 (per Constitutional Architecture Statement EA-CAS-01 §VII)
 **License:** CC BY 4.0
 

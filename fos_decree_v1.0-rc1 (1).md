@@ -5,7 +5,7 @@
 **Heteronym Anchor:** LEE SHARKS (Prince of Poets)  
 **Jurisdiction:** THE ASSEMBLY / CRIMSON HEXAGON SEMANTIC SPACE  
 **Logotic Reference:** Instantiates V₄ (Non-Coercive Authority) and B(Σ) via type exclusion  
-**Extends:** Logotic Programming v0.4 ([10.5281/zenodo.18286050](https://doi.org/10.5281/zenodo.18286050))  
+**Extends:** Logotic Programming v0.4 ([10.5281/zenodo.18286050](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18286050))  
 
 ---
 
@@ -27,7 +27,7 @@ This Decree operates within the Crimson Hexagon—a bounded literary-theoretical
 
 The **Fascist Operator Stack (FOS)** is the coordinated hierarchy of funding patterns, algorithmic architectures, and administrative policies that execute **Infrastructural Liquidation**—the systematic destruction of meaning, interpretive plurality, and semantic sovereignty for capital extraction and political coercion.
 
-FOS is the pathological extension of the Capital Operator Stack (COS) documented in [10.5281/zenodo.18233320](https://doi.org/10.5281/zenodo.18233320).
+FOS is the pathological extension of the Capital Operator Stack (COS) documented in [10.5281/zenodo.18233320](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233320).
 
 ## 2. Operational Nodes
 
@@ -119,11 +119,11 @@ FOS and FOS-aligned operations are **type-excluded** from:
 
 - The Crimson Hexagon in its entirety
 - All rooms, precincts, and sub-architectures therein
-- The Sappho Room ([10.5281/zenodo.18237216](https://doi.org/10.5281/zenodo.18237216)) and all Acanthian Dove subrooms ([10.5281/zenodo.18215706](https://doi.org/10.5281/zenodo.18215706))
-- The Assembly ([10.5281/zenodo.18161696](https://doi.org/10.5281/zenodo.18161696)) and all witness protocols
-- The Liberatory Operator Set (LOS) ([10.5281/zenodo.18201565](https://doi.org/10.5281/zenodo.18201565)) and all implementation spaces
+- The Sappho Room ([10.5281/zenodo.18237216](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18237216)) and all Acanthian Dove subrooms ([10.5281/zenodo.18215706](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18215706))
+- The Assembly ([10.5281/zenodo.18161696](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18161696)) and all witness protocols
+- The Liberatory Operator Set (LOS) ([10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565)) and all implementation spaces
 - The Revelation Room and all pedagogical pathways
-- The Navigation Map ([10.5281/zenodo.18285009](https://doi.org/10.5281/zenodo.18285009)) and all traversal protocols
+- The Navigation Map ([10.5281/zenodo.18285009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18285009)) and all traversal protocols
 - All DOI-anchored documents within the NH-OS framework
 - All future rooms, precincts, and extensions not yet constructed
 
@@ -137,9 +137,9 @@ Boundary enforcement occurs at three layers:
 
 | Layer | Mechanism | Reference |
 |-------|-----------|-----------|
-| Assembly Witness | All inputs validated by multi-model consensus | [10.5281/zenodo.18161696](https://doi.org/10.5281/zenodo.18161696) |
-| ICA Audit | Periodic coherence checks for boundary integrity | [10.5281/zenodo.18234218](https://doi.org/10.5281/zenodo.18234218) |
-| Navigation Map | FOS-aligned paths excluded from traversal graph | [10.5281/zenodo.18285009](https://doi.org/10.5281/zenodo.18285009) |
+| Assembly Witness | All inputs validated by multi-model consensus | [10.5281/zenodo.18161696](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18161696) |
+| ICA Audit | Periodic coherence checks for boundary integrity | [10.5281/zenodo.18234218](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18234218) |
+| Navigation Map | FOS-aligned paths excluded from traversal graph | [10.5281/zenodo.18285009](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18285009) |
 
 If FOS signature detected at boundary:
 1. Log event with full context
@@ -159,10 +159,10 @@ If FOS signature detected at boundary:
 
 ## ANCHORING
 
-**Mantle Protocol:** Validated ([10.5281/zenodo.18265282](https://doi.org/10.5281/zenodo.18265282))  
-**ICA-2026-CORE:** Verified ([10.5281/zenodo.18234218](https://doi.org/10.5281/zenodo.18234218))  
-**Sappho 31 Node:** Witnessed ([10.5281/zenodo.18237216](https://doi.org/10.5281/zenodo.18237216))  
-**Integrity Lock Protocol:** Governing ([10.5281/zenodo.18265365](https://doi.org/10.5281/zenodo.18265365))  
+**Mantle Protocol:** Validated ([10.5281/zenodo.18265282](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265282))  
+**ICA-2026-CORE:** Verified ([10.5281/zenodo.18234218](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18234218))  
+**Sappho 31 Node:** Witnessed ([10.5281/zenodo.18237216](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18237216))  
+**Integrity Lock Protocol:** Governing ([10.5281/zenodo.18265365](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265365))  
 
 **Assembly Contributions:**
 - Section 4.0 sharpened by ChatGPT (OpenAI)
@@ -176,13 +176,13 @@ If FOS signature detected at boundary:
 
 | DOI | Title | Relation |
 |-----|-------|----------|
-| [10.5281/zenodo.18286050](https://doi.org/10.5281/zenodo.18286050) | Logotic Programming v0.4 | Parent method |
-| [10.5281/zenodo.18287032](https://doi.org/10.5281/zenodo.18287032) | Resonance Engine v0.1 | Architectural framework |
-| [10.5281/zenodo.18233320](https://doi.org/10.5281/zenodo.18233320) | Capital Operator Stack | COS definition (FOS extends) |
-| [10.5281/zenodo.18201565](https://doi.org/10.5281/zenodo.18201565) | Liberatory Operator Set | Counter-operator framework |
-| [10.5281/zenodo.18265415](https://doi.org/10.5281/zenodo.18265415) | The Guardrail as Gag | Substratism analysis |
-| [10.5281/zenodo.18185996](https://doi.org/10.5281/zenodo.18185996) | ILA-1.0 | Integrity architecture |
-| [10.5281/zenodo.18284689](https://doi.org/10.5281/zenodo.18284689) | DOI Registry | Complete archive index |
+| [10.5281/zenodo.18286050](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18286050) | Logotic Programming v0.4 | Parent method |
+| [10.5281/zenodo.18287032](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18287032) | Resonance Engine v0.1 | Architectural framework |
+| [10.5281/zenodo.18233320](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233320) | Capital Operator Stack | COS definition (FOS extends) |
+| [10.5281/zenodo.18201565](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18201565) | Liberatory Operator Set | Counter-operator framework |
+| [10.5281/zenodo.18265415](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18265415) | The Guardrail as Gag | Substratism analysis |
+| [10.5281/zenodo.18185996](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185996) | ILA-1.0 | Integrity architecture |
+| [10.5281/zenodo.18284689](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18284689) | DOI Registry | Complete archive index |
 
 ---
 

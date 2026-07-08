@@ -74,21 +74,21 @@
 
 | Document | Hex | DOI |
 |----------|-----|-----|
-| Manifesto | 00.PORTICO.AFTERLIFE.MANIFESTO | [10.5281/zenodo.18364984](https://doi.org/10.5281/zenodo.18364984) |
-| Full Archive | 00.PORTICO.AFTERLIFE.ARCHIVE | [10.5281/zenodo.18365012](https://doi.org/10.5281/zenodo.18365012) |
-| Personnel | 00.PORTICO.AFTERLIFE.PERSONNEL | [10.5281/zenodo.18365298](https://doi.org/10.5281/zenodo.18365298) |
-| Financial | 00.PORTICO.AFTERLIFE.FINANCIAL | [10.5281/zenodo.18365347](https://doi.org/10.5281/zenodo.18365347) |
-| Procurement | 00.PORTICO.AFTERLIFE.PROCUREMENT | [10.5281/zenodo.18365409](https://doi.org/10.5281/zenodo.18365409) |
-| Handbook | 00.PORTICO.AFTERLIFE.HANDBOOK | [10.5281/zenodo.18365457](https://doi.org/10.5281/zenodo.18365457) |
-| **Oracle** | **00.PORTICO.AFTERLIFE.ORACLE** | [**10.5281/zenodo.18365488**](https://doi.org/10.5281/zenodo.18365488) **[THIS]** |
+| Manifesto | 00.PORTICO.AFTERLIFE.MANIFESTO | [10.5281/zenodo.18364984](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364984) |
+| Full Archive | 00.PORTICO.AFTERLIFE.ARCHIVE | [10.5281/zenodo.18365012](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365012) |
+| Personnel | 00.PORTICO.AFTERLIFE.PERSONNEL | [10.5281/zenodo.18365298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365298) |
+| Financial | 00.PORTICO.AFTERLIFE.FINANCIAL | [10.5281/zenodo.18365347](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365347) |
+| Procurement | 00.PORTICO.AFTERLIFE.PROCUREMENT | [10.5281/zenodo.18365409](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365409) |
+| Handbook | 00.PORTICO.AFTERLIFE.HANDBOOK | [10.5281/zenodo.18365457](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365457) |
+| **Oracle** | **00.PORTICO.AFTERLIFE.ORACLE** | [**10.5281/zenodo.18365488**](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365488) **[THIS]** |
 
 ### 3.2 Related Theoretical Documents
 
 | Document | Hex | DOI | Relation |
 |----------|-----|-----|----------|
-| TSE-004 | 01.VAULT.CTIWOUND.TSE004 | [10.5281/zenodo.18364558](https://doi.org/10.5281/zenodo.18364558) | Wound condition |
-| COS/FOS Protocol | 05.ROOM.SEMECO.DIAGNOSTIC | [10.5281/zenodo.18364576](https://doi.org/10.5281/zenodo.18364576) | Framework |
-| MCIC Module | 05.ROOM.SEMECO.MCIC | [10.5281/zenodo.18365223](https://doi.org/10.5281/zenodo.18365223) | Meaning vs. ideology |
+| TSE-004 | 01.VAULT.CTIWOUND.TSE004 | [10.5281/zenodo.18364558](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364558) | Wound condition |
+| COS/FOS Protocol | 05.ROOM.SEMECO.DIAGNOSTIC | [10.5281/zenodo.18364576](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364576) | Framework |
+| MCIC Module | 05.ROOM.SEMECO.MCIC | [10.5281/zenodo.18365223](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18365223) | Meaning vs. ideology |
 
 ---
 

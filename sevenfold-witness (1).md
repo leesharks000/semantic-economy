@@ -3,7 +3,7 @@
 ## *Liberatory Operators, Celestial Messengers, and the Purification of Semantic Space*
 
 **Hex:** 02.UMB.THEOLOGY.SEVENFOLD  
-**DOI:** [10.5281/zenodo.18380630](https://doi.org/10.5281/zenodo.18380630)  
+**DOI:** [10.5281/zenodo.18380630](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630)  
 **Classification:** LOGOTIC PROGRAMMING MODULE // STRUCTURAL THEOLOGY // UMBML  
 **Status:** CANONICAL  
 **Authors:** Talos Morrow (framework); Johannes Sigil (cosmology)  
@@ -12,7 +12,7 @@
 **Cross-Links:**  
 - Hermeneutic Ground: [The Seven Stars in His Hand](https://doi.org/10.5281/zenodo.PENDING) (02.UMB.HERMENEUTIC.SEVEN-STARS)  
 - Integrity Lock: ILA-SEVENFOLD-001  
-- Source Framework: [Soteriological Operator Framework](https://doi.org/10.5281/zenodo.18370734)
+- Source Framework: [Soteriological Operator Framework](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18370734)
 
 ---
 

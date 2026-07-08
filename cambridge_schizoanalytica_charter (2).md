@@ -183,14 +183,14 @@ Orin Trace operates as the clinical-theoretical voice within the NH-OS framework
 | Hex | Document | Description |
 |:----|:---------|:------------|
 | 00.CSA.ROOT | **This document** | Institutional frame: theory from practice, function over nosology |
-| 00.CSA.INTAKE | [Shine & Cut](https://doi.org/10.5281/zenodo.18339159) | Schizonarrative intake processor — the room that performs what it describes |
-| 00.CSA.PORTAL | [The Break Room](https://doi.org/10.5281/zenodo.18339333) | Entry point and routing node — "What does it do?" |
-| 00.CSA.AUTHOR.TRACE | [Orin Trace](https://doi.org/10.5281/zenodo.18339319) | Author provenance — the Deleuze to Rhys's Guattari |
-| 00.CSA.AUTHOR.RHYS | [Rhys Owens](https://doi.org/10.5281/zenodo.18339350) | Author provenance — the Guattari to Trace's Deleuze |
-| 00.CSA.VISUAL | [Visual Schema](https://doi.org/10.5281/zenodo.18338927) | Institutional field-map — operating environment made visible |
-| 03.CSA.SOMATIC | [Reconciliation](https://doi.org/10.5281/zenodo.18330828) | Somatic theory: male/female as same operation, different positions |
-| 04.CSA.AFFECT | [Shining Ignorance](https://doi.org/10.5281/zenodo.18332915) | Affect literacy through the Fool archetype |
-| 05.CSA.TOOLKIT | [Keyboard Shortcuts](https://doi.org/10.5281/zenodo.18339315) | Figure-to-function mapping — Baphomet, Daffy, Constantine |
+| 00.CSA.INTAKE | [Shine & Cut](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339159) | Schizonarrative intake processor — the room that performs what it describes |
+| 00.CSA.PORTAL | [The Break Room](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339333) | Entry point and routing node — "What does it do?" |
+| 00.CSA.AUTHOR.TRACE | [Orin Trace](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339319) | Author provenance — the Deleuze to Rhys's Guattari |
+| 00.CSA.AUTHOR.RHYS | [Rhys Owens](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339350) | Author provenance — the Guattari to Trace's Deleuze |
+| 00.CSA.VISUAL | [Visual Schema](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18338927) | Institutional field-map — operating environment made visible |
+| 03.CSA.SOMATIC | [Reconciliation](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18330828) | Somatic theory: male/female as same operation, different positions |
+| 04.CSA.AFFECT | [Shining Ignorance](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18332915) | Affect literacy through the Fool archetype |
+| 05.CSA.TOOLKIT | [Keyboard Shortcuts](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18339315) | Figure-to-function mapping — Baphomet, Daffy, Constantine |
 
 ---
 

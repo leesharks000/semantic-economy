@@ -3,7 +3,7 @@
 ## A Genre of Unauthorized Declaration
 
 **Author:** Lee Sharks
-**DOI:** [10.5281/zenodo.18390595](https://doi.org/10.5281/zenodo.18390595)
+**DOI:** [10.5281/zenodo.18390595](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18390595)
 **Concept Origin:** 2015-2025
 **Formalization:** January 2026
 

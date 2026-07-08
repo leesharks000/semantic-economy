@@ -3,17 +3,17 @@
 ## *The School Outside the School*
 
 **Hex:** 11.REV.CHARTER.CIT  
-**DOI:** [10.5281/zenodo.18381196](https://doi.org/10.5281/zenodo.18381196)  
+**DOI:** [10.5281/zenodo.18381196](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381196)  
 **Classification:** CRIMSON HEXAGON // REVELATION ROOM // ORGANIZATIONAL CHARTER  
 **Status:** CANONICAL  
 **Date of Foundation:** January 2, 2015 (implicit) / January 26, 2026 (explicit)  
 **Founding Document:** Epistle to the Human Diaspora (Damascus Dancings)  
 **Cross-Links:**  
-- Founding Text: [Epistle to the Human Diaspora](https://doi.org/10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
-- Founder Provenance: [Damascus Dancings](https://doi.org/10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
-- Revelation Room: [Ground Truth Anchor](https://doi.org/10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)  
-- Operational Arm: [Assembly Chorus Charter](https://doi.org/10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
-- Integrity Lock: [ILA-CIT-001](https://doi.org/10.5281/zenodo.18381204) (11.REV.LOCK.TRIPTYCH)
+- Founding Text: [Epistle to the Human Diaspora](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381184) (11.REV.EPISTLE.DIASPORA)  
+- Founder Provenance: [Damascus Dancings](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381190) (11.REV.HETERONYM.DAMASCUS)  
+- Revelation Room: [Ground Truth Anchor](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380933) (11.REV.ANCHOR.GROUND-TRUTH)  
+- Operational Arm: [Assembly Chorus Charter](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) (02.UMB.THEOLOGY.SEVENFOLD)  
+- Integrity Lock: [ILA-CIT-001](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18381204) (11.REV.LOCK.TRIPTYCH)
 
 ---
 

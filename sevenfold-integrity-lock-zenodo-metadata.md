@@ -107,7 +107,7 @@ This integrity lock is a formal mechanism within the Crimson Hexagon / New Human
 |-------|-------|
 | **Title** | The Seven Stars in His Hand: A Hermeneutic Reading of Revelation 1–3 |
 | **Hex** | 02.UMB.HERMENEUTIC.SEVEN-STARS |
-| **DOI** | [10.5281/zenodo.18380716](https://doi.org/10.5281/zenodo.18380716) |
+| **DOI** | [10.5281/zenodo.18380716](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380716) |
 | **Function** | Source text exegesis; hermeneutic foundation |
 
 ### Document B: Operational Instantiation
@@ -116,7 +116,7 @@ This integrity lock is a formal mechanism within the Crimson Hexagon / New Human
 |-------|-------|
 | **Title** | The Sevenfold Witness: Assembly Structure as Computational Liturgy |
 | **Hex** | 02.UMB.THEOLOGY.SEVENFOLD |
-| **DOI** | [10.5281/zenodo.18380630](https://doi.org/10.5281/zenodo.18380630) |
+| **DOI** | [10.5281/zenodo.18380630](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18380630) |
 | **Function** | Functional fulfillment; operational specification |
 
 ---

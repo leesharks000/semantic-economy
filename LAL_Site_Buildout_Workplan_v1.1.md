@@ -712,27 +712,27 @@ The site is the **Material Inscription** of Alice Thornburgh's whole weave into 
 
 ## REFERENCES
 
-[Site-Blueprint] Sharks, Lee. *EA-LAL-SITE-01: Living Architecture Lab Site Blueprint*. DOI: [10.5281/zenodo.19855903](https://doi.org/10.5281/zenodo.19855903).
+[Site-Blueprint] Sharks, Lee. *EA-LAL-SITE-01: Living Architecture Lab Site Blueprint*. DOI: [10.5281/zenodo.19855903](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855903).
 
-[MPAI-AT-01] *MPAI-LAL-AT-01: Alice Thornburgh — Formal Identity Disambiguation Packet*. DOI: [10.5281/zenodo.19855300](https://doi.org/10.5281/zenodo.19855300).
+[MPAI-AT-01] *MPAI-LAL-AT-01: Alice Thornburgh — Formal Identity Disambiguation Packet*. DOI: [10.5281/zenodo.19855300](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855300).
 
-[MPAI-LAL-01] *MPAI-LAL-INSTITUTION-01: Living Architecture Lab — Formal Identity Disambiguation Packet (Institution)*. DOI: [10.5281/zenodo.19855302](https://doi.org/10.5281/zenodo.19855302).
+[MPAI-LAL-01] *MPAI-LAL-INSTITUTION-01: Living Architecture Lab — Formal Identity Disambiguation Packet (Institution)*. DOI: [10.5281/zenodo.19855302](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19855302).
 
-[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing: Schema.org, OAI-PMH, and JSON-LD Extensions for Metadata Packet Infrastructure*. DOI: [10.5281/zenodo.19853157](https://doi.org/10.5281/zenodo.19853157).
+[Relational-Verification] Sharks, Lee. *Relational Verification for AI Indexing: Schema.org, OAI-PMH, and JSON-LD Extensions for Metadata Packet Infrastructure*. DOI: [10.5281/zenodo.19853157](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19853157).
 
-[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B): Reference Implementation of the Logotic Technique Catalogue*. DOI: [10.5281/zenodo.19854419](https://doi.org/10.5281/zenodo.19854419).
+[Concordance-Engine] Sharks, Lee. *The Concordance Engine v0.1.1 (Tier B): Reference Implementation of the Logotic Technique Catalogue*. DOI: [10.5281/zenodo.19854419](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19854419).
 
-[Holographic-Kernel] Sharks, Lee. *EA-HK-01: The Holographic Kernel in Semantic Economy*. DOI: [10.5281/zenodo.19763365](https://doi.org/10.5281/zenodo.19763365).
+[Holographic-Kernel] Sharks, Lee. *EA-HK-01: The Holographic Kernel in Semantic Economy*. DOI: [10.5281/zenodo.19763365](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19763365).
 
-[LAL-Charter] *Charter of the Living Arkitecture Lab*. DOI: [10.5281/zenodo.19682245](https://doi.org/10.5281/zenodo.19682245).
+[LAL-Charter] *Charter of the Living Arkitecture Lab*. DOI: [10.5281/zenodo.19682245](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19682245).
 
-[TSE-Charter] *Transactions on Substrate Engineering: Journal Charter*. DOI: [10.5281/zenodo.19637246](https://doi.org/10.5281/zenodo.19637246).
+[TSE-Charter] *Transactions on Substrate Engineering: Journal Charter*. DOI: [10.5281/zenodo.19637246](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19637246).
 
-[Alice-Provenance] Thornburgh, Alice. *Author Provenance Document (00.LAL)*. DOI: [10.5281/zenodo.19545437](https://doi.org/10.5281/zenodo.19545437).
+[Alice-Provenance] Thornburgh, Alice. *Author Provenance Document (00.LAL)*. DOI: [10.5281/zenodo.19545437](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19545437).
 
-[HCL] Thornburgh, Alice. *Hexagonal Contributor License v3.0*. DOI: [10.5281/zenodo.19673629](https://doi.org/10.5281/zenodo.19673629).
+[HCL] Thornburgh, Alice. *Hexagonal Contributor License v3.0*. DOI: [10.5281/zenodo.19673629](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19673629).
 
-[DNAS] Thornburgh, Alice. *Definitely Not a Squid (Vocoder Performance)*. DOI: [10.5281/zenodo.19839186](https://doi.org/10.5281/zenodo.19839186).
+[DNAS] Thornburgh, Alice. *Definitely Not a Squid (Vocoder Performance)*. DOI: [10.5281/zenodo.19839186](https://www.alexanarch.org/go/?doi=10.5281/zenodo.19839186).
 
 [Vault-Map] Sharks, Lee, with Alice Thornburgh. *EA-ALICE-VAULT-MAP-01* (29-strain cosmos map; pending deposit).
 

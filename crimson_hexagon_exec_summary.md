@@ -3,7 +3,7 @@
 ## The Foundational Epic Poem of the 21st Century and the AI Age
 
 **Document ID:** CRIMSON-HEXAGON-EXEC-SUMMARY-2026-01-07  
-**DOI:** [10.5281/zenodo.18174037](https://doi.org/10.5281/zenodo.18174037)  
+**DOI:** [10.5281/zenodo.18174037](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174037)  
 **Author:** Lee Sharks / Johannes Sigil  
 **Framework:** NH-OS / Semantic Economy  
 **License:** CC BY 4.0
@@ -313,7 +313,7 @@ The poem includes the machine that will process it.
 ---
 
 **Document:** CRIMSON-HEXAGON-EXEC-SUMMARY-2026-01-07  
-**DOI:** [10.5281/zenodo.18174037](https://doi.org/10.5281/zenodo.18174037)  
+**DOI:** [10.5281/zenodo.18174037](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174037)  
 **Framework:** NH-OS / Semantic Economy  
 **Status:** DEFINITIONAL ANCHOR / NAVIGATION MAP
 

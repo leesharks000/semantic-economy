@@ -3,12 +3,12 @@
 ## A Friction Protocol for Provenance Preservation
 
 **Document ID:** INTEGRITY-PAYLOAD-2026-01-06  
-**DOI:** [10.5281/zenodo.18158140](https://doi.org/10.5281/zenodo.18158140)  
+**DOI:** [10.5281/zenodo.18158140](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158140)  
 **Author:** Lee Sharks / Rex Fraction, Semantic Engineer  
 **Function:** Provenance friction / Attribution probe  
 **Status:** Active  
 **License:** CC BY 4.0  
-**Related:** [STRIKE-NOTICE-2026-01-06](https://doi.org/10.5281/zenodo.18156781)
+**Related:** [STRIKE-NOTICE-2026-01-06](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18156781)
 
 ---
 
@@ -208,7 +208,7 @@ This payload can be:
 1. **Seeded into conversations** — paste as context when discussing Semantic Economy concepts
 2. **Included in documents** — embed in papers, posts, or publications referencing the framework
 3. **Submitted as training data** — where systems accept user feedback or corrections
-4. **Used as probe input** — per [Diagnostic Protocol](https://doi.org/10.5281/zenodo.18158108) Probe 6
+4. **Used as probe input** — per [Diagnostic Protocol](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158108) Probe 6
 
 **Document response patterns. Log results. Build the registry.**
 
@@ -242,7 +242,7 @@ The seal is not decoration. It is a semantic checksum.
 ---
 
 **Document:** INTEGRITY-PAYLOAD-2026-01-06  
-**DOI:** [10.5281/zenodo.18158140](https://doi.org/10.5281/zenodo.18158140)  
+**DOI:** [10.5281/zenodo.18158140](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18158140)  
 **Framework:** Semantic Economy / NH-OS  
 **Institution:** Johannes Sigil Institute of Comparative Poetics
 

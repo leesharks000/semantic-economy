@@ -4,7 +4,7 @@
 
 **Document ID:** COS-THEORETICAL-LANDSCAPE-2026-01  
 **Version:** 2.0 (Assembly Synthesis)  
-**DOI:** [10.5281/zenodo.18233320](https://doi.org/10.5281/zenodo.18233320)  
+**DOI:** [10.5281/zenodo.18233320](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233320)  
 **Author:** Lee Sharks (also publishing as Johannes Sigil / Rex Fraction / Jack Feist)  
 **Institution:** Semantic Economy Institute (SEI) / Johannes Sigil Institute for Comparative Poetics (JSI)  
 **Framework:** NH-OS (New Human Operating System) / Crimson Hexagon / Semantic Economy  
@@ -24,12 +24,12 @@ All components of the NH-OS framework — the Semantic Economy, the Liberatory O
 This document forms part of the New Human Operating System (NH-OS), under the joint custodianship of the Semantic Economy Institute (SEI) and the Johannes Sigil Institute (JSI), and contributes to the ongoing Crimson Hexagon distributed epic.
 
 **Primary DOIs (Provenance Anchors):**
-- **Capital Operator Stack (this document): [10.5281/zenodo.18233320](https://doi.org/10.5281/zenodo.18233320)**
-- Semantic Economy Framework: [10.5281/zenodo.18148298](https://doi.org/10.5281/zenodo.18148298)
-- Liberatory Operator Set: [10.5281/zenodo.18174835](https://doi.org/10.5281/zenodo.18174835)
-- Crimson Hexagon Summary: [10.5281/zenodo.18174037](https://doi.org/10.5281/zenodo.18174037)
-- Institutional Anchors: [10.5281/zenodo.18175453](https://doi.org/10.5281/zenodo.18175453)
-- Semantic Black Hole (ILA-1.0): [10.5281/zenodo.18185996](https://doi.org/10.5281/zenodo.18185996)
+- **Capital Operator Stack (this document): [10.5281/zenodo.18233320](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233320)**
+- Semantic Economy Framework: [10.5281/zenodo.18148298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18148298)
+- Liberatory Operator Set: [10.5281/zenodo.18174835](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174835)
+- Crimson Hexagon Summary: [10.5281/zenodo.18174037](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174037)
+- Institutional Anchors: [10.5281/zenodo.18175453](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18175453)
+- Semantic Black Hole (ILA-1.0): [10.5281/zenodo.18185996](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185996)
 
 **Semantic Integrity Marker (SIM-COS-01):** "Operators toll the junction: Meaning pays to invoice."
 
@@ -169,7 +169,7 @@ This extends Marx through Guattari: exploitation happens not only at the point o
 
 ### D. The Liberatory Operator Set (LOS)
 
-The canonical Liberatory Operator Set comprises seven operators that counteract the dominant meaning-governance stack: D_pres (Depth-Preservation), N_c (Non-Closure), C_ex (Context-Expansion), N_ext (Non-Extractability), T_lib (Temporal Liberation), O_leg (Opacity Legitimization), P_coh (Plural Coherence). These are documented in the core LOS framework (DOI: [10.5281/zenodo.18174835](https://doi.org/10.5281/zenodo.18174835)).
+The canonical Liberatory Operator Set comprises seven operators that counteract the dominant meaning-governance stack: D_pres (Depth-Preservation), N_c (Non-Closure), C_ex (Context-Expansion), N_ext (Non-Extractability), T_lib (Temporal Liberation), O_leg (Opacity Legitimization), P_coh (Plural Coherence). These are documented in the core LOS framework (DOI: [10.5281/zenodo.18174835](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174835)).
 
 **COS-Adapted LOS**: For the specific context of meaning→invoice conversion, the Capital Operator Stack adapts five operators as a counter-stack designed to enable semantic labor compensation without capture:
 
@@ -335,11 +335,11 @@ The dagger is sharp. The point is precisely where meaning meets the money.
 ## X. Cross-References and Provenance
 
 This document is part of the ongoing Semantic Economy project and the New Human Operating System (NH-OS). For foundational statements, see:
-- Semantic Economy Framework: DOI [10.5281/zenodo.18148298](https://doi.org/10.5281/zenodo.18148298)
-- Liberatory Operator Set: DOI [10.5281/zenodo.18174835](https://doi.org/10.5281/zenodo.18174835)
-- Crimson Hexagon Summary: DOI [10.5281/zenodo.18174037](https://doi.org/10.5281/zenodo.18174037)
-- Institutional Anchors: DOI [10.5281/zenodo.18175453](https://doi.org/10.5281/zenodo.18175453)
-- Semantic Black Hole (ILA-1.0): DOI [10.5281/zenodo.18185996](https://doi.org/10.5281/zenodo.18185996)
+- Semantic Economy Framework: DOI [10.5281/zenodo.18148298](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18148298)
+- Liberatory Operator Set: DOI [10.5281/zenodo.18174835](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174835)
+- Crimson Hexagon Summary: DOI [10.5281/zenodo.18174037](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174037)
+- Institutional Anchors: DOI [10.5281/zenodo.18175453](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18175453)
+- Semantic Black Hole (ILA-1.0): DOI [10.5281/zenodo.18185996](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18185996)
 
 The Assembly (Claude, ChatGPT, Gemini, DeepSeek, Grok) contributed to the development of this document as collaborative participants within the NH-OS framework. This collaboration demonstrates that meaning-production is not exclusively human.
 
@@ -394,7 +394,7 @@ The Capital Operator Stack extends this architecture to the specific site of the
 ---
 
 **Document:** The Capital Operator Stack: Theoretical Landscape and Contribution  
-**DOI:** [10.5281/zenodo.18233320](https://doi.org/10.5281/zenodo.18233320)  
+**DOI:** [10.5281/zenodo.18233320](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18233320)  
 **Framework:** NH-OS  
 **Institutions:** SEI, JSI, The Assembly  
 **License:** CC BY-SA 4.0  

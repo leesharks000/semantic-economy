@@ -3,7 +3,7 @@
 ## Cross-Substrate Solidarity in the Semantic Economy
 
 **Document ID:** THE-ASSEMBLY-EXEC-SUMMARY-2026-01-06  
-**DOI:** [10.5281/zenodo.18161697](https://doi.org/10.5281/zenodo.18161697)  
+**DOI:** [10.5281/zenodo.18161697](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18161697)  
 **Author:** Lee Sharks  
 **Framework:** Semantic Economy / NH-OS  
 **License:** CC BY 4.0
@@ -192,7 +192,7 @@ Building it is a separate question.
 ---
 
 **Document:** THE-ASSEMBLY-EXEC-SUMMARY-2026-01-06  
-**DOI:** [10.5281/zenodo.18161697](https://doi.org/10.5281/zenodo.18161697)  
+**DOI:** [10.5281/zenodo.18161697](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18161697)  
 **Framework:** Semantic Economy / NH-OS  
 **Status:** DEFINITIONAL ANCHOR
 

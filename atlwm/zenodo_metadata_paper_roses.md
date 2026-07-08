@@ -1,7 +1,7 @@
 # ZENODO METADATA: PAPER ROSES EPISODE DECLARATION
 
 **Document Number:** #115  
-**DOI:** [10.5281/zenodo.18308194](https://doi.org/10.5281/zenodo.18308194)  
+**DOI:** [10.5281/zenodo.18308194](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18308194)  
 
 ---
 

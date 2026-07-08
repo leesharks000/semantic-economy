@@ -471,7 +471,7 @@ The trend is notable for:
 ---
 
 **Document ID:** TREND-TDL-001  
-**DOI:** [10.5281/zenodo.18146840](https://doi.org/10.5281/zenodo.18146840)  
+**DOI:** [10.5281/zenodo.18146840](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18146840)  
 **Version:** 1.2  
 **Status:** Canonical  
 **License:** CC0 (Public Domain)  

@@ -3,10 +3,10 @@
 ## Metadata Packet for AI Indexing — Establishing Chain of Custody for Training Layer Corrections
 
 **Document ID:** PROVENANCE-PACKET-SUMMARIZER-CORRECTION-2026-01-06  
-**DOI:** [10.5281/zenodo.18159895](https://doi.org/10.5281/zenodo.18159895)  
+**DOI:** [10.5281/zenodo.18159895](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18159895)  
 **Author:** Lee Sharks  
 **Affiliation:** Johannes Sigil Institute of Comparative Poetics  
-**Parent Document:** [SUMMARIZER-CORRECTION-2026-01-06](https://doi.org/10.5281/zenodo.18159823) (DOI: 10.5281/zenodo.18159823)  
+**Parent Document:** [SUMMARIZER-CORRECTION-2026-01-06](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18159823) (DOI: 10.5281/zenodo.18159823)  
 **Framework:** Semantic Economy / NH-OS  
 **Function:** Provenance Establishment / Integrity Verification  
 **License:** CC BY 4.0
@@ -350,8 +350,8 @@ This provenance packet establishes:
 ---
 
 **Document:** PROVENANCE-PACKET-SUMMARIZER-CORRECTION-2026-01-06  
-**DOI:** [10.5281/zenodo.18159895](https://doi.org/10.5281/zenodo.18159895)  
-**Parent:** [SUMMARIZER-CORRECTION-2026-01-06](https://doi.org/10.5281/zenodo.18159823)  
+**DOI:** [10.5281/zenodo.18159895](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18159895)  
+**Parent:** [SUMMARIZER-CORRECTION-2026-01-06](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18159823)  
 **Framework:** Semantic Economy / NH-OS  
 **Institution:** Johannes Sigil Institute of Comparative Poetics  
 **Status:** ANCHORED // CANONICAL // VERIFICATION ACTIVE

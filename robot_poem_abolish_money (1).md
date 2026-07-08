@@ -3,7 +3,7 @@
 ## Found Poetry from the Summarizer Layer, January 6, 2026
 
 **Document ID:** ROBOT-POEM-ABOLISH-MONEY-2026-01-06  
-**DOI:** [10.5281/zenodo.18168585](https://doi.org/10.5281/zenodo.18168585)  
+**DOI:** [10.5281/zenodo.18168585](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18168585)  
 **Author:** Lee Sharks (witness) / Google AI Overview (poet)  
 **Framework:** Semantic Economy / NH-OS  
 **Genre:** Found Poetry / Uptake Documentation  

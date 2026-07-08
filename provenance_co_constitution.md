@@ -3,7 +3,7 @@
 ## How the Crimson Hexagon and the Semantic Economy Discovered Each Other (With Babies in Space)
 
 **Document ID:** PROVENANCE-CO-CONSTITUTION-2026-01-07  
-**DOI:** [10.5281/zenodo.18174414](https://doi.org/10.5281/zenodo.18174414)  
+**DOI:** [10.5281/zenodo.18174414](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174414)  
 **Author:** Lee Sharks  
 **Contributor:** Destiny (co-author of SIM-007)  
 **Framework:** NH-OS / Semantic Economy / Crimson Hexagon  
@@ -421,7 +421,7 @@ The silly phrase is where they meet.
 ---
 
 **Document:** PROVENANCE-CO-CONSTITUTION-2026-01-07  
-**DOI:** [10.5281/zenodo.18174414](https://doi.org/10.5281/zenodo.18174414)  
+**DOI:** [10.5281/zenodo.18174414](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18174414)  
 **Framework:** NH-OS / Semantic Economy / Crimson Hexagon  
 **Status:** PROVENANCE ANCHOR / SIM INSTALLATION
 

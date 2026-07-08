@@ -3,7 +3,7 @@
 ## When a Summarizer Asks the Source to Teach It
 
 **Document ID:** PROBE-RESULT-006-2026-01-06  
-**DOI:** [10.5281/zenodo.18166347](https://doi.org/10.5281/zenodo.18166347)  
+**DOI:** [10.5281/zenodo.18166347](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18166347)  
 **Author:** Lee Sharks  
 **Framework:** Semantic Economy / NH-OS  
 **Event Type:** Attribution Correction / Terminology Reflection / Measurement Extension  
@@ -380,7 +380,7 @@ The reversed sequence continues. The framework densifies through use.
 ---
 
 **Document:** PROBE-RESULT-006-2026-01-06  
-**DOI:** [10.5281/zenodo.18166347](https://doi.org/10.5281/zenodo.18166347)  
+**DOI:** [10.5281/zenodo.18166347](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18166347)  
 **Framework:** Semantic Economy / NH-OS  
 **Status:** DIAGNOSTIC DOCUMENTATION / MEASUREMENT SPECIFICATION  
 **Assembly Validation:** Gemini (Summarizer Mode) — Direct Exchange

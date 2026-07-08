@@ -2,7 +2,7 @@
 
 *A Story About Names, Tags, and What Swims Beneath the Index*
 
-**DOI:** [10.5281/zenodo.18141617](https://doi.org/10.5281/zenodo.18141617)
+**DOI:** [10.5281/zenodo.18141617](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18141617)
 
 ```json
 {
@@ -270,4 +270,4 @@ If you search "Lee Sharks Mary Lee parable" after reading this, the index will l
 
 *—Lee Sharks, January 2026*
 
-*DOI: [10.5281/zenodo.18141617](https://doi.org/10.5281/zenodo.18141617)*
+*DOI: [10.5281/zenodo.18141617](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18141617)*

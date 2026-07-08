@@ -64,9 +64,9 @@
 
 | Document | Relation | DOI |
 |----------|----------|-----|
-| LLM Hallucination Report | IsSupplementTo | [10.5281/zenodo.18368527](https://doi.org/10.5281/zenodo.18368527) |
-| Companion Artifacts (CIA-SHARKS-001) | References | [10.5281/zenodo.18368485](https://doi.org/10.5281/zenodo.18368485) |
-| Afterlife Manifesto | IsPartOf | [10.5281/zenodo.18364984](https://doi.org/10.5281/zenodo.18364984) |
+| LLM Hallucination Report | IsSupplementTo | [10.5281/zenodo.18368527](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368527) |
+| Companion Artifacts (CIA-SHARKS-001) | References | [10.5281/zenodo.18368485](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18368485) |
+| Afterlife Manifesto | IsPartOf | [10.5281/zenodo.18364984](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18364984) |
 
 ### 3.2 Vasquez Arc
 

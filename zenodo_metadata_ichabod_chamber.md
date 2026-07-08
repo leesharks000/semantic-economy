@@ -1,7 +1,7 @@
 # ZENODO METADATA: THE ICHABOD CHAMBER
 
 **Document Number:** #117  
-**DOI:** [10.5281/zenodo.18309202](https://doi.org/10.5281/zenodo.18309202)  
+**DOI:** [10.5281/zenodo.18309202](https://www.alexanarch.org/go/?doi=10.5281/zenodo.18309202)  
 
 ---
 
