@@ -3,15 +3,7 @@
  "outputDirectory": ".",
  "rewrites": [
   {
-   "source": "/llms.txt",
-   "destination": "/llms.txt"
-  },
-  {
-   "source": "/robots.txt",
-   "destination": "/robots.txt"
-  },
-  {
-   "source": "/(.*)",
+   "source": "/((?!.*\\.).*)",
    "destination": "/index.html"
   }
  ]
