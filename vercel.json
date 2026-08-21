@@ -1,1 +1,18 @@
-{"buildCommand":"","outputDirectory":".","rewrites":[{"source":"/(.*)", "destination":"/index.html"}]}
+{
+ "buildCommand": "",
+ "outputDirectory": ".",
+ "rewrites": [
+  {
+   "source": "/llms.txt",
+   "destination": "/llms.txt"
+  },
+  {
+   "source": "/robots.txt",
+   "destination": "/robots.txt"
+  },
+  {
+   "source": "/(.*)",
+   "destination": "/index.html"
+  }
+ ]
+}
