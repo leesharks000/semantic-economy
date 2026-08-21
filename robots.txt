@@ -1,3 +1,4 @@
+# machine-readable orientation: /llms.txt
 User-agent: *
 Allow: /
 
